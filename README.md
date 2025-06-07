@@ -24,7 +24,7 @@ EdgarAI is an **autonomous, self‑improving agent** that converts raw HTML SEC 
 ## 2. High‑Level Architecture
 
 ```
-User ▶ Chat API ─┐
+User (optional) ▶ Chat API ─┐
                  ▼
             Explainer LLM  ◀──── Provenance Ledger & Ontology
                  ▲                          ▲
@@ -108,7 +108,7 @@ Outcome: The system hardens *before* similar language appears in live SEC filing
 
 ---
 
-## 8. Conversational & Programmatic Interfaces
+## 8. Conversational & Programmatic Interfaces *(Optional exposure layer – core loop runs headless)*
 
 ### 8.1 Chat API
 
