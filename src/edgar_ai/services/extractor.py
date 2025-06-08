@@ -16,6 +16,7 @@ from typing import List
 
 from ..config import settings
 from ..interfaces import Document, Prompt, Row
+from ..utils.schema import schema_to_json_schema
 
 
 def _stub_rows(documents: List[Document]) -> List[Row]:
@@ -44,27 +45,39 @@ def _call_gateway(documents: List[Document], prompt: Prompt) -> List[Row]:
     for doc in documents:
         messages = [
             {"role": "system", "content": prompt.text},
-            {"role": "user", "content": doc.html},
+            {"role": "user", "content": doc.text},
         ]
 
         try:
+            tool_schema = {
+                "type": "function",
+                "function": {
+                    "name": "submit_row",
+                    "parameters": schema_to_json_schema(prompt.schema_def),
+                },
+            }
+
             response = llm_gateway.chat_completions(
-                model="gpt-3.5-turbo-0613",
+                model="gpt-4o",
                 messages=messages,
-                tools=None,
+                tools=[tool_schema],
+                tool_choice={"type": "function", "function": {"name": "submit_row"}},
             )
 
-            # naive parsing – for a function call we'd pull from tool_calls; here
-            # we expect assistant content to be JSON.
-            choices = response.get("choices", [])
-            content = choices[0]["message"]["content"] if choices else "{}"
+            tool_calls = response["choices"][0]["message"].get("tool_calls", [])
+            if not tool_calls:
+                raise ValueError("No tool_calls returned")
+
+            args_json = tool_calls[0]["function"]["arguments"]
+
             import json as _json
 
-            data = _json.loads(content)
-        except Exception:  # noqa: BLE001  – fall back to stub on any error
-            return _stub_rows(documents)
+            data_dict = _json.loads(args_json)
+        except Exception as exc:  # pragma: no cover – surface errors
+            # Re-raise with additional context so callers & CLI get visibility.
+            raise RuntimeError("Extractor LLM call failed") from exc
 
-        rows.append(Row(data=data, doc_id=doc.doc_id))
+        rows.append(Row(data=data_dict, doc_id=doc.doc_id))
 
     return rows
 
@@ -72,12 +85,9 @@ def _call_gateway(documents: List[Document], prompt: Prompt) -> List[Row]:
 def run(documents: List[Document], prompt: Prompt) -> List[Row]:  # noqa: D401
     """Extractor that prefers calling the LLM gateway; falls back to stub."""
 
-    if settings.llm_gateway_url:
-        try:
-            return _call_gateway(documents, prompt)
-        except Exception:  # pragma: no cover
-            # gateway misbehaved – use stub
-            return _stub_rows(documents)
+    # Simulation/offline stub path ------------------------------------------------
+    if settings.simulate or not settings.llm_gateway_url:
+        return _stub_rows(documents)
 
-    # default stub path for offline/dev mode
-    return _stub_rows(documents)
+    # Live LLM path --------------------------------------------------------------
+    return _call_gateway(documents, prompt)

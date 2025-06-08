@@ -21,19 +21,28 @@ from typing import List
 
 from rich.console import Console
 
-from .orchestrator import run_once
-
 
 def _parse_args(argv: List[str] | None = None) -> argparse.Namespace:  # noqa: D401
     parser = argparse.ArgumentParser(prog="edgar-ai")
 
     sub = parser.add_subparsers(dest="command", required=True)
 
-    run_cmd = sub.add_parser("run", help="Execute the pipeline on HTML input")
+    run_cmd = sub.add_parser("run", help="Execute the **full** pipeline on pre-processed text input")
     run_cmd.add_argument(
         "source",
-        help="Path to HTML file or '-' to read from stdin.",
+        help="Path to text file or '-' to read from stdin.",
     )
+
+    run_cmd.add_argument(
+        "--simulate",
+        action="store_true",
+        help="Run in offline simulation mode (no LLM calls).",
+    )
+
+    # Goal-Setter only ----------------------------------------------------
+    goal_cmd = sub.add_parser("goal", help="Run only the Goal-Setter persona")
+    goal_cmd.add_argument("source", help="Text file or '-' for stdin")
+    goal_cmd.add_argument("--simulate", action="store_true", help="Offline simulation mode")
 
     return parser.parse_args(argv)
 
@@ -56,9 +65,36 @@ def main(argv: List[str] | None = None) -> None:  # noqa: D401
     console = Console()
 
     if args.command == "run":
-        html_batch = _read_html_source(args.source)
-        rows = run_once(html_batch)
+        if args.simulate:
+            import os
+
+            os.environ["EDGAR_AI_SIMULATE"] = "1"
+
+        # Import orchestrator **after** potentially setting simulation env var
+        from .orchestrator import run_once  # noqa: WPS433 (runtime import)
+
+        text_batch = _read_html_source(args.source)
+        rows = run_once(text_batch)
         console.print_json(json.dumps([row.data for row in rows]))
+
+    elif args.command == "goal":
+        if args.simulate:
+            import os as _os
+
+            _os.environ["EDGAR_AI_SIMULATE"] = "1"
+
+        from edgar_ai.interfaces import Document  # noqa: WPS433 (runtime import)
+        from edgar_ai.services import goal_setter  # noqa: WPS433
+
+        text = _read_html_source(args.source)[0]
+        doc = Document(doc_id="cli", text=text, metadata={})
+        goal = goal_setter.run([doc])
+        if isinstance(goal, dict):
+            import json as _json
+
+            console.print_json(_json.dumps(goal))
+        else:
+            console.print(goal)
 
 
 if __name__ == "__main__":  # pragma: no cover

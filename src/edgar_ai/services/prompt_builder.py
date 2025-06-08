@@ -31,4 +31,4 @@ def run(schema: Schema) -> Prompt:  # noqa: D401
 
     tpl_text = _TEMPLATE_PATH.read_text(encoding="utf-8")
     text = Template(tpl_text).render(fields=schema.fields)
-    return Prompt(text=text, schema=schema)
+    return Prompt(text=text, schema_def=schema)

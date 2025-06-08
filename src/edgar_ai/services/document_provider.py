@@ -53,12 +53,12 @@ def run(filing_dir: str | Path) -> List[Document]:  # noqa: D401
         if path.suffix.lower() not in {".html", ".htm"}:
             continue
 
-        html = path.read_text(encoding="utf-8", errors="ignore")
+        text = path.read_text(encoding="utf-8", errors="ignore")
         exhibit_type = _guess_exhibit_type(path.name)
         documents.append(
             Document(
                 doc_id=path.name,
-                html=html,
+                text=text,
                 metadata={
                     "exhibit_type": exhibit_type,
                     "filing_dir": str(root),

@@ -42,6 +42,11 @@ class Settings(BaseSettings):
     batch_size: int = 8
     database_uri: str = "sqlite:///:memory:"
     llm_gateway_url: Optional[str] = None
+    # Model selections per persona (overridable via .env)
+    model_goal_setter: str = "gpt-4o"
+    model_extractor: str = "gpt-4o"
+    model_critic: str = "gpt-4o-mini"
+    simulate: bool = False  # offline / deterministic mode
 
     model_config = SettingsConfigDict(env_prefix="EDGAR_AI_", env_file=".env")
 

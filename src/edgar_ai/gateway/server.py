@@ -42,31 +42,27 @@ app = FastAPI(title="LLM Gateway", version="0.1.0")
 
 PROVIDER = os.getenv("LLM_PROVIDER", "openai")
 
-if PROVIDER == "openai":
-    api_key = os.getenv("OPENAI_API_KEY")
-    if api_key:
-        openai.api_key = api_key
-else:
+if PROVIDER != "openai":  # pragma: no cover
     raise RuntimeError(f"Unsupported LLM_PROVIDER: {PROVIDER}")
+
+# Instantiate once – thread-safe in FastAPI context
+_openai_client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 
 @app.post("/v1/chat/completions")
 async def chat_completions(req: ChatCompletionRequest):  # noqa: D401
     """Proxy chat completion request to the underlying provider."""
 
-    if PROVIDER == "openai":
-        try:
-            response = openai.ChatCompletion.create(
-                model=req.model,
-                messages=[m.dict() for m in req.messages],
-                temperature=req.temperature or 0.0,
-                tools=req.tools,
-                tool_choice=req.tool_choice,
-            )
-        except openai.error.OpenAIError as exc:  # pragma: no cover
-            raise HTTPException(status_code=502, detail=str(exc)) from exc
+    try:
+        response = _openai_client.chat.completions.create(
+            model=req.model,
+            messages=[m.model_dump() for m in req.messages],
+            temperature=req.temperature or 0.0,
+            tools=req.tools,
+            tool_choice=req.tool_choice,
+        )
+    except openai.OpenAIError as exc:  # pragma: no cover
+        raise HTTPException(status_code=502, detail=str(exc)) from exc
 
-        # openai returns a JSON-like object; convert to dict before returning.
-        return response  # FastAPI will json-serialise
-
-    raise HTTPException(status_code=500, detail="Provider not configured")
+    # Convert OpenAI pydantic response to plain dict for JSON serialisation
+    return response.model_dump(mode="json")

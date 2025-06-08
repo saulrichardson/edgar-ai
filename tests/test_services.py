@@ -20,7 +20,7 @@ from edgar_ai.services import (  # noqa: E402  pylint: disable=wrong-import-posi
 
 
 def test_service_chain():
-    docs = intake.run(["<html>demo</html>"])
+    docs = intake.run(["demo exhibit text"])
     candidates = discoverer.run(docs)
     schema = schema_synth.run(candidates)
     prompt = prompt_builder.run(schema)

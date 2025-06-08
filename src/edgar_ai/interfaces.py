@@ -15,10 +15,10 @@ from pydantic import BaseModel, Field
 
 
 class Document(BaseModel):
-    """A raw or pre-processed document originating from EDGAR or elsewhere."""
+    """Pre-processed exhibit text delivered to the pipeline."""
 
     doc_id: str
-    html: str
+    text: str
     metadata: Dict[str, Any] = Field(default_factory=dict)
 
 
@@ -41,7 +41,7 @@ class Prompt(BaseModel):
     """Prompt that will be sent to an LLM extractor."""
 
     text: str
-    schema: Schema
+    schema_def: Schema  # renamed from `schema` to avoid pydantic shadow warning
 
 
 class Row(BaseModel):

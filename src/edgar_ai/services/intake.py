@@ -19,6 +19,6 @@ def run(html_batch: List[str]) -> List[Document]:  # noqa: D401
 
     documents: List[Document] = []
     for idx, html in enumerate(html_batch, start=1):
-        doc = Document(doc_id=f"DOC-{idx}", html=html)
+        doc = Document(doc_id=f"DOC-{idx}", text=html)
         documents.append(doc)
     return documents

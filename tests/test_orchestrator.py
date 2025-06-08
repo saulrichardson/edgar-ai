@@ -11,7 +11,7 @@ from edgar_ai.orchestrator import run_once  # noqa: E402  pylint: disable=wrong-
 
 
 def test_run_once_returns_rows():
-    html_batch = ["<html>demo</html>"]
+    html_batch = ["demo exhibit text"]
     rows = run_once(html_batch)
     assert rows, "Expected at least one row"
     for row in rows:

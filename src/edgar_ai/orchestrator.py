@@ -38,7 +38,7 @@ def run_once(html_batch: List[str]) -> List[Row]:  # noqa: D401
     documents: List[Document] = intake.run(html_batch)
 
     for doc in documents:
-        raw_lake.put(doc.doc_id, doc.html)
+        raw_lake.put(doc.doc_id, doc.text)
 
     # 2. Goal setting (not used further but completes DAG)
     _ = goal_setter.run(documents)
@@ -92,7 +92,7 @@ def run_for_filing(filing_dir: str) -> List[Row]:  # noqa: D401
 
     rows: List[Row] = []
     for exhibit_doc in exhibits:
-        rows.extend(run_once([exhibit_doc.html]))
+        rows.extend(run_once([exhibit_doc.text]))
 
     return rows
 

@@ -20,7 +20,4 @@ _HARDCODED_FIELDS = [
 def run(documents: List[Document]) -> List[FieldCandidate]:  # noqa: D401
     """Return deterministic field candidates regardless of input."""
 
-    candidates: List[FieldCandidate] = []
-    for name, value in _HARDCODED_FIELDS:
-        candidates.append(FieldCandidate(field_name=name, raw_value=value))
-    return candidates
+    return [FieldCandidate(field_name=n, raw_value=v) for n, v in _HARDCODED_FIELDS]
