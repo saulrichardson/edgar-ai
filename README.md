@@ -1,30 +1,44 @@
 # EdgarAI – North‑Star Specification (AI‑Maximal Version)
 
-## 0. Context & Vision
+## 0. Fly‑Wheel First
 
-EdgarAI is an **autonomous, self‑improving agent** that converts raw HTML SEC filings into fully structured, analysis‑ready tables—without a single hard‑coded rule.  The system invents its own objectives, discovers the schemas that best satisfy those objectives, extracts data using whole‑document reasoning, judges its own work, trains itself on failures (including synthetic adversaries), and explains every decision to end‑users in natural language.
+EdgarAI is a **closed‑loop, self‑reinforcing fly‑wheel** that turns raw HTML SEC filings into perfectly structured tables—all with zero human rules.
 
-> **North‑Star Outcome**: A user drags any filing into EdgarAI and, in one call, receives a perfect JSON/Parquet dataset plus a clickable lineage map—backed by a fly‑wheel that gets better every day with zero human tuning.
+**Core cycle (one pass)**
+
+1. **Intake**  → raw HTML arrives.
+2. **Goal‑Setter**  → agent infers the most valuable objective.
+3. **Schema Synthesizer**  → drafts/updates a JSON schema.
+4. **Prompt Builder**  → generates extraction instructions.
+5. **Extractor**  → whole‑document reasoning fills the schema.
+6. **Critic w/ Memory**  → scores output, recalls past errors.
+7. **Tutor / RLHF**  → rewrites prompt, tweaks LoRA weights.
+8. **Fork‑and‑Vote loop**  → best schema becomes the new champion.
+9. Back to **Intake**  with a stronger model—spinning faster with each filing and synthetic adversary.
+
+The fly‑wheel autonomously **discovers goals, invents schemas, extracts, evaluates, and self‑improves**—hardening itself via synthetic edge cases and memory‑augmented critique.
+
+> **North‑Star Outcome**: When any filing is fed into EdgarAI, it returns a perfect JSON/Parquet dataset plus a clickable lineage map—backed by a fly‑wheel that gets better every day with zero human tuning.
 
 ---
 
 ## 1. Core Principles
 
-| #      | Principle                                  | Impact                                                                                                         |
-| ------ | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| **P1** | **Objective‑First Autonomy**               | The agent chooses *what* to extract before it decides *how*, based on corpus patterns and user queries.        |
-| **P2** | **Full‑Stack Learning**                    | Prompts, schemas **and model weights** evolve from feedback (LoRA adapters fine‑tuned via RLHF).               |
-| **P3** | **Synthetic Edge‑Case Generation**         | A "Breaker" agent fabricates adversarial clauses so the system hardens itself before real docs change.         |
-| **P4** | **Hierarchical Memory & Ontology**         | Vector memories roll up into a global knowledge graph that unifies concepts across domains.                    |
-| **P5** | **Self‑Budgeting Compute**                 | A meta‑controller decides model size per doc; cost is not a constraint but *risk awareness* is.                |
-| **P6** | **End‑to‑End Provenance & Explainability** | Every cell can be traced back to the exact HTML span, model SHA, prompt hash, critic score, and ontology node. |
+| #      | Principle                                  | Impact                                                                                                                        |
+| ------ | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| **P1** | **Objective‑First Autonomy**               | The agent chooses *what* to extract before it decides *how*, based purely on corpus patterns and its own observed objectives. |
+| **P2** | **Full‑Stack Learning**                    | Prompts, schemas **and model weights** evolve from feedback (LoRA adapters fine‑tuned via RLHF).                              |
+| **P3** | **Synthetic Edge‑Case Generation**         | A "Breaker" agent fabricates adversarial clauses so the system hardens itself before real docs change.                        |
+| **P4** | **Hierarchical Memory & Ontology**         | Vector memories roll up into a global knowledge graph that unifies concepts across domains.                                   |
+| **P5** | **Self‑Budgeting Compute**                 | A meta‑controller decides model size per doc; cost is not a constraint but *risk awareness* is.                               |
+| **P6** | **End‑to‑End Provenance & Explainability** | Every cell can be traced back to the exact HTML span, model SHA, prompt hash, critic score, and ontology node.                |
 
 ---
 
 ## 2. High‑Level Architecture
 
 ```
-User (optional) ▶ Chat API ─┐
+External API (optional) ─┐
                  ▼
             Explainer LLM  ◀──── Provenance Ledger & Ontology
                  ▲                          ▲
@@ -39,14 +53,14 @@ User (optional) ▶ Chat API ─┐
 
 ## 3. Data & Memory Fabric
 
-| Layer                   | Stored Items                                                                        | Update Cadence | Technology (initial)  |
-| ----------------------- | ----------------------------------------------------------------------------------- | -------------- | --------------------- |
-| **Raw HTML Lake**       | Exact filing HTML                                                                   | Streaming      | Object store (S3/GCS) |
-| **Vector Memory (L0)**  | Embeddings of *all* field‑values, critic notes, breaker samples                     | Streaming      | pgvector / FAISS      |
-| **Memory Digest (L1)**  | Nightly LLM summaries of L0 shards                                                  | Nightly        | DocDB (Elastic)       |
-| **Ontology Graph (L2)** | Nodes = canonical concepts; edges = same‑as / broader‑than / causal                 | On promotion   | Neo4j                 |
-| **Schema Registry**     | Immutable JSON schemas + signed release docs                                        | On promotion   | Git repo              |
-| **Provenance Ledger**   | Row‑level links: (doc id, span, model SHA, prompt SHA, critic score, ontology node) | Streaming      | Append‑only DB        |
+| Layer                   | Stored Items                                                                                                                                                                 | Update Cadence | Technology (initial)  |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------------------- |
+| **Raw HTML Lake**       | Exact filing HTML                                                                                                                                                            | Streaming      | Object store (S3/GCS) |
+| **Vector Memory (L0)**  | Embeddings of *all* field‑values, critic notes, breaker samples                                                                                                              | Streaming      | pgvector / FAISS      |
+| **Memory Digest (L1)**  | Nightly LLM summaries of L0 shards                                                                                                                                           | Nightly        | DocDB (Elastic)       |
+| **Ontology Graph (L2)** | Nodes = canonical concepts; edges = same‑as / broader‑than / causal                                                                                                          | On promotion   | Neo4j                 |
+| **Schema Registry**     | Immutable JSON schemas with **LLM‑generated names & alias pointers** (`champion`, `latest`, objective slugs); signed release docs; deprecated branches archived yet callable | On promotion   | Git repo              |
+| **Provenance Ledger**   | Row‑level links: (doc id, span, model SHA, prompt SHA, critic score, ontology node)                                                                                          | Streaming      | Append‑only DB        |
 
 ---
 
@@ -68,20 +82,39 @@ All personas run on the same frontier model (e.g., GPT‑4o‑128k) with role‑
 
 ---
 
-## 5. Control Loop (Champion–Challenger)
+## 5. Control Loop (Champion–Challenger, Fork‑and‑Vote)
 
 ```python
+# simplified pseudocode for fork‑and‑vote
+schemas = {"champion": SchemaChampion}
 while True:
-    rows = Extractor(filing_html, schema_champion)
-    score, notes = Critic(filing_html, rows)
-    persist(rows, score, notes)
+    batch_rows = {}
+    batch_scores = {}
 
-    if rolling_mean(score) < DRIFT_THRESHOLD or BreakerGap() > EPSILON:
-        challenger_schema, challenger_prompt, lora_diff = Tutor(notes)
-        challenger_rows   = Extractor(filing_html, challenger_schema)
-        challenger_score, _ = Critic(filing_html, challenger_rows)
-        if challenger_score > score + DELTA:
-            promote(challenger_schema, challenger_prompt, lora_diff)
+    # 1. run every active schema on the batch
+    for name, schema in schemas.items():
+        rows = Extractor(html_batch, schema)
+        score, notes = Critic(html_batch, rows)
+        batch_rows[name]   = rows
+        batch_scores[name] = score
+        persist(rows, score, notes)
+
+    # 2. spawn a challenger fork if any score < DRIFT
+    worst = min(batch_scores, key=batch_scores.get)
+    if batch_scores[worst] < DRIFT_THRESHOLD:
+        fork_schema, fork_prompt, lora = Tutor(low_score_notes[worst])
+        schemas[f"fork_{uuid4()}"] = fork_schema
+
+    # 3. voting: keep top‑K highest mean scores, prune the rest
+    if len(schemas) > MAX_BRANCHES:
+        top_k = sorted(batch_scores, key=batch_scores.get, reverse=True)[:MAX_BRANCHES]
+        schemas = {name: schemas[name] for name in top_k}
+
+    # 4. optional merge: if two schemas differ < epsilon, merge via Synthesizer
+    similar_pairs = find_semantic_overlap(schemas.values())
+    for a, b in similar_pairs:
+        merged = SchemaSynthesizer.merge(a, b)
+        schemas[f"merged_{uuid4()}"] = merged
 ```
 
 *Promotion* writes Schema vX+1, model SHA, and release notes to the Registry and Ontology.
@@ -108,7 +141,7 @@ Outcome: The system hardens *before* similar language appears in live SEC filing
 
 ---
 
-## 8. Conversational & Programmatic Interfaces *(Optional exposure layer – core loop runs headless)*
+## 8. External Interfaces *(Optional – core loop runs headless)*
 
 ### 8.1 Chat API
 
@@ -137,7 +170,7 @@ Returns zipped Parquet + provenance ledger.
 | **Quality**        | Mean critic score (7‑day)         | ≥ 0.93 |
 |                    | Breaker‑Real gap                  | < 3 pp |
 | **Learning Speed** | Schema promotions w/out human     | ≥ 90 % |
-| **Explainability** | User follow‑up clarification rate | < 15 % |
+| **Explainability** | External‑query clarification rate | < 15 % |
 | **Reliability**    | Provenance trace success          | 100 %  |
 
 ---
