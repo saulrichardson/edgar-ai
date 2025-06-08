@@ -58,7 +58,7 @@ def _call_gateway(documents: List[Document], prompt: Prompt) -> List[Row]:
             }
 
             response = llm_gateway.chat_completions(
-                model="gpt-4o",
+                model=settings.model_extractor,
                 messages=messages,
                 tools=[tool_schema],
                 tool_choice={"type": "function", "function": {"name": "submit_row"}},

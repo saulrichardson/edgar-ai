@@ -43,12 +43,16 @@ class Settings(BaseSettings):
     database_uri: str = "sqlite:///:memory:"
     llm_gateway_url: Optional[str] = None
     # Model selections per persona (overridable via .env)
-    model_goal_setter: str = "gpt-4o"
-    model_extractor: str = "gpt-4o"
-    model_critic: str = "gpt-4o-mini"
+    model_goal_setter: str = "o4-mini-high"
+    model_extractor: str = "gpt-4.1"
+    model_critic: str = "o4-mini-high"
     simulate: bool = False  # offline / deterministic mode
 
-    model_config = SettingsConfigDict(env_prefix="EDGAR_AI_", env_file=".env")
+    model_config = SettingsConfigDict(
+        env_prefix="EDGAR_AI_",
+        env_file=".env",
+        protected_namespaces=(),
+    )
 
 
 # Singleton used across the codebase
