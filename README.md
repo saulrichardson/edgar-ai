@@ -30,15 +30,13 @@ The fly‑wheel autonomously **discovers goals, invents schemas, extracts, evalu
 
 ## 1. Core Principles
 
-| #      | Principle                                                                                                                     | Impact                                                                                                                        |                                                                                                  |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **P1** | **Objective‑First Autonomy**                                                                                                  | The agent chooses *what* to extract before it decides *how*, based purely on corpus patterns and its own observed objectives. |                                                                                                  |
-| **P2** | **Prompt-Only Improvement**  |  Prompts and schemas evolve purely via LLM-driven adjustments—no model weight updates or adapters.                                                                                                      
-| **P3** | **Synthetic Edge‑Case Generation**                                                                                            | A "Breaker" agent fabricates adversarial clauses so the system hardens itself before real docs change.                        |                                                                                                  |
-| **P4** | **Hierarchical Memory & Ontology**                                                                                            | Vector memories roll up into a global knowledge graph that unifies concepts across domains.                                   |                                                                                                  |
-                  |
-| **P6** | **End‑to‑End Provenance & Explainability**                                                                                    | Every cell can be traced back to the exact HTML span, model SHA, prompt hash, critic score, and ontology node.                |                                                                                                  
-
+| #      | Principle                                                     | Impact                                                                                                                      |
+| ------ | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **P1** | **Objective-First Autonomy**                                  | The agent chooses *what* to extract before it decides *how*, based purely on corpus patterns and its own observed objectives. |
+| **P2** | **Prompt-Only Improvement**                                   | Prompts and schemas evolve purely via LLM-driven adjustments—no model weight updates or adapters.                            |
+| **P3** | **Synthetic Edge-Case Generation**                            | A “Breaker” agent fabricates adversarial clauses so the system hardens itself before real docs change.                      |
+| **P4** | **Hierarchical Memory & Ontology**                            | Vector memories roll up into a global knowledge graph that unifies concepts across domains.                                 |
+| **P5** | **End-to-End Provenance & Explainability**                    | Every cell can be traced back to the exact HTML span, model SHA, prompt hash, critic score, and ontology node.             |
 ---
 
 ## 2. High‑Level Architecture
