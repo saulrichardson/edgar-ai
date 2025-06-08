@@ -53,14 +53,14 @@ External API (optional) ─┐
 
 ## 3. Data & Memory Fabric
 
-| Layer                   | Stored Items                                                                                                                                                                 | Update Cadence | Technology (initial)  |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------------------- |
-| **Raw HTML Lake**       | Exact filing HTML                                                                                                                                                            | Streaming      | Object store (S3/GCS) |
-| **Vector Memory (L0)**  | Embeddings of *all* field‑values, critic notes, breaker samples                                                                                                              | Streaming      | pgvector / FAISS      |
-| **Memory Digest (L1)**  | Nightly LLM summaries of L0 shards                                                                                                                                           | Nightly        | DocDB (Elastic)       |
-| **Ontology Graph (L2)** | Nodes = canonical concepts; edges = same‑as / broader‑than / causal                                                                                                          | On promotion   | Neo4j                 |
-| **Schema Registry**     | Immutable JSON schemas with **LLM‑generated names & alias pointers** (`champion`, `latest`, objective slugs); signed release docs; deprecated branches archived yet callable | On promotion   | Git repo              |
-| **Provenance Ledger**   | Row‑level links: (doc id, span, model SHA, prompt SHA, critic score, ontology node)                                                                                          | Streaming      | Append‑only DB        |
+| Layer                   | Stored Items                                                                                                                                                                 | Update Cadence | Technology (initial)                      |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------------------------------------- |
+| **Raw HTML Lake**       | Exact filing HTML                                                                                                                                                            | Streaming      | Object store (S3/GCS)                     |
+| **Vector Memory (L0)**  | LLM‑addressable JSON shards of field‑values, critic notes, breaker samples                                                                                                   | Streaming      | Document store (Postgres JSONB / Elastic) |
+| **Memory Digest (L1)**  | Nightly LLM summaries of L0 shards                                                                                                                                           | Nightly        | DocDB (Elastic)                           |
+| **Ontology Graph (L2)** | Nodes = canonical concepts; edges = same‑as / broader‑than / causal                                                                                                          | On promotion   | Neo4j                                     |
+| **Schema Registry**     | Immutable JSON schemas with **LLM‑generated names & alias pointers** (`champion`, `latest`, objective slugs); signed release docs; deprecated branches archived yet callable | On promotion   | Git repo                                  |
+| **Provenance Ledger**   | Row‑level links: (doc id, span, model SHA, prompt SHA, critic score, ontology node)                                                                                          | Streaming      | Append‑only DB                            |
 
 ---
 
@@ -146,13 +146,70 @@ All Issue‑Critic entries are logged in the Provenance Ledger, so future lineag
 
 ---
 
-## 7. Ontology Alignment Across Objectives Ontology Alignment Across Objectives
+## 6B. LLM‑Only Similarity & Governor‑Driven Decisions
 
-1. After each promotion, embed new field names + definitions.
-2. Pairwise cosine > τ ➜ candidate match.
-3. LLM confirm‑prompt: "Are ‘Interest Margin’ and ‘Penalty Rate’ semantically equivalent?"
-4. If yes, create **same‑as** edge; else new node.
-5. Explainer uses graph to answer cross‑domain queries (“show all `CoreRate` fields regardless of schema”).
+*All decision gates previously described with numeric thresholds are now resolved by dedicated LLM agents—no hard‑coded τ, Δ, K, or M exist in the code base.*
+
+### 6B.1 Field Equivalence (Ontology)
+
+```text
+System: “Are <Field A> and <Field B> semantically the same credit‑economics fact? Answer yes/no and one‑line why.”
+```
+
+* A **Yes** answer creates an alias edge in the ontology; answer is cached so the question is never re‑asked.
+
+### 6B.2 Promotion, Pruning, Merging (Governor Agent)
+
+The **Governor LLM** receives a JSON bundle every evaluation window:
+
+```json
+{
+  "champion_score": 0.912,
+  "challenger_score": 0.927,
+  "critic_summary": "Challenger fixes margin‑floor parsing edge case…",
+  "active_forks": ["vintage97", "ratchet_fix", "champion"]
+}
+```
+
+It answers with:
+
+```json
+{
+  "promote": true,
+  "prune": ["vintage97"],
+  "merge_candidates": [["ratchet_fix", "champion"]],
+  "rationale": "Challenger materially improves… vintage97 now redundant…"
+}
+```
+
+* **promote** → Fork‑Manager elevates the challenger to champion.
+* **prune** → specified forks archived.
+* **merge\_candidates** → passed to Schema‑Synthesizer to create a merged branch via LLM reasoning.
+
+### 6B.3 Self‑Correction
+
+Governor decisions and post‑decision critic scores are logged.  Tutor reviews missteps and fine‑tunes the Governor prompt/LoRA—fully autonomous policy improvement, still devoid of manual thresholds.
+
+Outcome: every gate—field merge, fork creation, champion promotion, fork pruning, schema merge—relies on qualitative LLM judgement plus historical feedback, eliminating the need for any hand‑tuned numeric hyper‑parameters.
+
+\---------------------|----------|-----------------|
+
+The meta‑controller treats each parameter tuple as an **arm** in a contextual bandit; after every evaluation window it keeps the arm that maximises adjusted critic score.  No human ever sets or updates a number.
+
+**Result**: Fork creation, voting, merging, and champion promotion are entirely LLM‑ and RL‑driven, with zero embeddings and zero hand‑tuned thresholds—yet still deliver provably higher critic scores over time.
+
+---
+
+## 7. Ontology Alignment Across Objectives
+
+1. For every new field name the Schema‑Synthesizer proposes, the Ontology Manager queries the LLM:
+
+   ```text
+   System: "Are <Field A> and <Field B> semantically identical in context? Answer yes/no and one‑line why."
+   ```
+2. A **yes** answer creates a **same‑as** edge; a **no** answer spawns a new concept node.
+3. The link is cached, so identical questions are never re‑asked.
+4. Explainer uses the graph to answer cross‑domain queries ("show all `CoreRate` fields regardless of schema").
 
 ---
 
@@ -198,7 +255,7 @@ Returns zipped Parquet + provenance ledger.
 | LoRA fine‑tune          | PEFT + bitsandbytes 4‑bit            |
 | RL loop                 | trlX PPO / DPO                       |
 | Streaming orchestration | Ray Serve (async DAG)                |
-| Vector DB               | pgvector (Postgres 16)               |
+| Memory Store            | Postgres JSONB (or any document DB)  |
 | Ontology store          | Neo4j 5                              |
 | UI                      | Next.js + Dagre lineage viewer       |
 | Monitoring              | Prometheus + Grafana + OpenTelemetry |
