@@ -37,7 +37,7 @@ The fly‑wheel autonomously **discovers goals, invents schemas, extracts, evalu
 | **P3** | **Synthetic Edge‑Case Generation**                                                                                            | A "Breaker" agent fabricates adversarial clauses so the system hardens itself before real docs change.                        |                                                                                                  |
 | **P4** | **Hierarchical Memory & Ontology**                                                                                            | Vector memories roll up into a global knowledge graph that unifies concepts across domains.                                   |                                                                                                  |
                   |
-| **P6** | **End‑to‑End Provenance & Explainability**                                                                                    | Every cell can be traced back to the exact HTML span, model SHA, prompt hash, critic score, and ontology node.                |                                                                                                  |
+| **P6** | **End‑to‑End Provenance & Explainability**                                                                                    | Every cell can be traced back to the exact HTML span, model SHA, prompt hash, critic score, and ontology node.                |                                                                                                  
 
 ---
 
