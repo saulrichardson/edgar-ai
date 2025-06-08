@@ -1,0 +1,30 @@
+[build-system]
+requires = [
+    "hatchling>=1.18.0"
+]
+build-backend = "hatchling.build"
+
+[project]
+name = "edgar-ai"
+version = "0.1.0"
+description = "Stub scaffold for EDGAR AI pipeline"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{name = "Saul", email = "saul@example.com"}]
+license = {text = "MIT"}
+dependencies = [
+    "openai",
+    "pydantic",
+    "rich",
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/edgar_ai"]
+
+[tool.hatch.build.targets.sdist]
+packages = ["src/edgar_ai"]

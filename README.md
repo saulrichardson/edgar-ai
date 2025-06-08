@@ -7,14 +7,20 @@ EdgarAI is a **closed‑loop, self‑reinforcing fly‑wheel** that turns raw HT
 **Core cycle (one pass)**
 
 1. **Intake**  → raw HTML arrives.
+
 2. **Goal‑Setter**  → agent infers the most valuable objective.
+
 3. **Schema Synthesizer**  → drafts/updates a JSON schema.
+
 4. **Prompt Builder**  → generates extraction instructions.
+
 5. **Extractor**  → whole‑document reasoning fills the schema.
+
 6. **Critic w/ Memory**  → scores output, recalls past errors.
-7. **Tutor / RLHF**  → rewrites prompt, tweaks LoRA weights.
-8. **Fork‑and‑Vote loop**  → best schema becomes the new champion.
-9. Back to **Intake**  with a stronger model—spinning faster with each filing and synthetic adversary.
+
+7. **Tutor**  → rewrites prompt.
+
+8. Back to **Intake**  with a stronger model—spinning faster with each filing and synthetic adversary.
 
 The fly‑wheel autonomously **discovers goals, invents schemas, extracts, evaluates, and self‑improves**—hardening itself via synthetic edge cases and memory‑augmented critique.
 
@@ -24,14 +30,14 @@ The fly‑wheel autonomously **discovers goals, invents schemas, extracts, evalu
 
 ## 1. Core Principles
 
-| #      | Principle                                  | Impact                                                                                                                        |
-| ------ | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| **P1** | **Objective‑First Autonomy**               | The agent chooses *what* to extract before it decides *how*, based purely on corpus patterns and its own observed objectives. |
-| **P2** | **Full‑Stack Learning**                    | Prompts, schemas **and model weights** evolve from feedback (LoRA adapters fine‑tuned via RLHF).                              |
-| **P3** | **Synthetic Edge‑Case Generation**         | A "Breaker" agent fabricates adversarial clauses so the system hardens itself before real docs change.                        |
-| **P4** | **Hierarchical Memory & Ontology**         | Vector memories roll up into a global knowledge graph that unifies concepts across domains.                                   |
-| **P5** | **Self‑Budgeting Compute**                 | A meta‑controller decides model size per doc; cost is not a constraint but *risk awareness* is.                               |
-| **P6** | **End‑to‑End Provenance & Explainability** | Every cell can be traced back to the exact HTML span, model SHA, prompt hash, critic score, and ontology node.                |
+| #      | Principle                                                                                                                     | Impact                                                                                                                        |                                                                                                  |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **P1** | **Objective‑First Autonomy**                                                                                                  | The agent chooses *what* to extract before it decides *how*, based purely on corpus patterns and its own observed objectives. |                                                                                                  |
+| **P2** | **Prompt-Only Improvement** Prompts and schemas evolve purely via LLM-driven adjustments—no model weight updates or adapters. | **Full‑Stack Learning**                                                                                                       | Prompts, schemas **and model weights** evolve from feedback (LoRA adapters fine‑tuned via RLHF). |
+| **P3** | **Synthetic Edge‑Case Generation**                                                                                            | A "Breaker" agent fabricates adversarial clauses so the system hardens itself before real docs change.                        |                                                                                                  |
+| **P4** | **Hierarchical Memory & Ontology**                                                                                            | Vector memories roll up into a global knowledge graph that unifies concepts across domains.                                   |                                                                                                  |
+| **P5** | **Self‑Budgeting Compute**                                                                                                    | A meta‑controller decides model size per doc; cost is not a constraint but *risk awareness* is.                               |                                                                                                  |
+| **P6** | **End‑to‑End Provenance & Explainability**                                                                                    | Every cell can be traced back to the exact HTML span, model SHA, prompt hash, critic score, and ontology node.                |                                                                                                  |
 
 ---
 
@@ -66,17 +72,17 @@ External API (optional) ─┐
 
 ## 4. LLM Personas (System Prompts)
 
-| Role                     | Purpose                                                         | Key Prompt Directives                                                           |
-| ------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| **Goal‑Setter**          | Invent or refine extraction objectives from filings + user logs | "Propose the *single most valuable analytical goal* for these docs…"            |
-| **Field‑Discoverer**     | List atomic facts in a passage                                  | "Return an array of {candidate\_field, snippet}."                               |
-| **Schema‑Synthesizer**   | Cluster candidates → canonical JSON schema                      | "Group synonyms, assign types, minimise field count while maximising coverage." |
-| **Prompt‑Writer**        | Turn schema → extraction template                               | "Produce a deterministic JSON spec."                                            |
-| **Extractor**            | Pull data from full HTML using template                         | "Fill every field; output one JSON row per logical entity."                     |
-| **Critic (with Memory)** | Score rows, citing prior errors                                 | "Grade 0–1; retrieve past failures with similar wording; comment succinctly."   |
-| **Tutor / RLHF**         | Revise schema & prompt or fine‑tune weights                     | "Using critic notes, output improved schema & prompt OR LoRA diff."             |
-| **Breaker**              | Generate adversarial HTML that fools current extractor          | "Craft plausible credit clauses that exploit extraction weaknesses…"            |
-| **Explainer**            | Answer any user question, referencing ontology & provenance     | "Respond conversationally; surface lineage, accuracy stats, caveats."           |
+| Role                     | Purpose                                                                                                 | Key Prompt Directives                                                                                                     |                                                        |                                                                      |
+| ------------------------ | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------- |
+| **Goal‑Setter**          | Invent or refine extraction objectives from filings + user logs                                         | "Propose the *single most valuable analytical goal* for these docs…"                                                      |                                                        |                                                                      |
+| **Field‑Discoverer**     | List atomic facts in a passage                                                                          | "Return an array of {candidate\_field, snippet}."                                                                         |                                                        |                                                                      |
+| **Schema‑Synthesizer**   | Cluster candidates → canonical JSON schema                                                              | "Group synonyms, assign types, minimise field count while maximising coverage."                                           |                                                        |                                                                      |
+| **Prompt‑Writer**        | Turn schema → extraction template                                                                       | "Produce a deterministic JSON spec."                                                                                      |                                                        |                                                                      |
+| **Extractor**            | Pull data from full HTML using template                                                                 | "Fill every field; output one JSON row per logical entity."                                                               |                                                        |                                                                      |
+| **Critic (with Memory)** | Score rows, citing prior errors                                                                         | "Grade 0–1; retrieve past failures with similar wording; comment succinctly."                                             |                                                        |                                                                      |
+| **Tutor**                | Reads critic comments and failed examples; outputs a revised JSON schema and updated extraction prompt. | "Using critic notes and failed examples, rewrite the JSON schema and extraction prompt to improve coverage and accuracy." |                                                        |                                                                      |
+| **Breaker**              |                                                                                                         | **Breaker**                                                                                                               | Generate adversarial HTML that fools current extractor | "Craft plausible credit clauses that exploit extraction weaknesses…" |
+| **Explainer**            | Answer any user question, referencing ontology & provenance                                             | "Respond conversationally; surface lineage, accuracy stats, caveats."                                                     |                                                        |                                                                      |
 
 All personas run on the same frontier model (e.g., GPT‑4o‑128k) with role‑specific system messages.
 
@@ -213,28 +219,6 @@ The meta‑controller treats each parameter tuple as an **arm** in a contextual 
 
 ---
 
-## 8. External Interfaces *(Optional – core loop runs headless)*
-
-### 8.1 Chat API
-
-```http
-POST /chat
-{ "schema_version": "latest", "messages": [ … ] }
-```
-
-* Explainer references ontology + provenance to justify answers.
-
-### 8.2 Batch Extraction API
-
-```http
-POST /extract
-{ "filing_urls": [ … ], "objective": "auto" }
-```
-
-Returns zipped Parquet + provenance ledger.
-
----
-
 ## 9. Success Metrics
 
 | Theme              | Metric                            | Target |
@@ -252,8 +236,6 @@ Returns zipped Parquet + provenance ledger.
 | Layer                   | Choice (swappable)                   |
 | ----------------------- | ------------------------------------ |
 | LLM                     | GPT‑4o‑128k (OpenAI tenant)          |
-| LoRA fine‑tune          | PEFT + bitsandbytes 4‑bit            |
-| RL loop                 | trlX PPO / DPO                       |
 | Streaming orchestration | Ray Serve (async DAG)                |
 | Memory Store            | Postgres JSONB (or any document DB)  |
 | Ontology store          | Neo4j 5                              |
@@ -277,7 +259,6 @@ Returns zipped Parquet + provenance ledger.
 
 ## 12. Extensibility & Future Work
 
-* **Multimodal Inputs**: add scanned PDF via vision encoder.
 * **Meta‑Controller**: RL agent that selects model sizes & temperatures.
 * **Fine‑Grained User Feedback**: thumbs‑up/down directly updates critic memories.
 * **Differential Privacy**: optional redaction layer for sensitive clauses before storage.
