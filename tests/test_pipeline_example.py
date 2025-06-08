@@ -20,8 +20,24 @@ from edgar_ai.orchestrator import run_once  # noqa: E402
 
 def test_pipeline_on_credit_agreement():
     # Enable simulation mode for deterministic offline behaviour.
-    os.environ["EDGAR_AI_SIMULATE"] = "1"
-    settings.simulate = True  # type: ignore[attr-defined]
+    from edgar_ai.clients import llm_gateway
+
+def _fake_chat(**kwargs):
+    return {
+        "choices": [
+            {
+                "message": {
+                    "content": "{\"overview\":\"demo\",\"topics\":[],\"fields\":[]}",
+                    "tool_calls": [
+                        {"function": {"arguments": "{\"company_name\": \"ACME\"}"}}
+                    ],
+                }
+            }
+        ]
+    }
+
+    llm_gateway.chat_completions = _fake_chat  # type: ignore
+    settings.llm_gateway_url = "http://dummy"  # type: ignore
 
     sample = project_root / "tests" / "fixtures" / "credit_agreement.txt"
     assert sample.exists(), "Sample credit agreement file missing"

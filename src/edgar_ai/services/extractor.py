@@ -19,22 +19,6 @@ from ..interfaces import Document, Prompt, Row
 from ..utils.schema import schema_to_json_schema
 
 
-def _stub_rows(documents: List[Document]) -> List[Row]:
-    """Deterministic stub for environments without LLM connectivity."""
-
-    return [
-        Row(
-            data={
-                "company_name": "Example Corp",
-                "report_type": "10-K",
-                "fiscal_year": "2023",
-            },
-            doc_id=doc.doc_id,
-        )
-        for doc in documents
-    ]
-
-
 def _call_gateway(documents: List[Document], prompt: Prompt) -> List[Row]:
     """Call the external LLM gateway to perform extraction via function-calling."""
 
@@ -74,7 +58,6 @@ def _call_gateway(documents: List[Document], prompt: Prompt) -> List[Row]:
 
             data_dict = _json.loads(args_json)
         except Exception as exc:  # pragma: no cover – surface errors
-            # Re-raise with additional context so callers & CLI get visibility.
             raise RuntimeError("Extractor LLM call failed") from exc
 
         rows.append(Row(data=data_dict, doc_id=doc.doc_id))
@@ -85,9 +68,7 @@ def _call_gateway(documents: List[Document], prompt: Prompt) -> List[Row]:
 def run(documents: List[Document], prompt: Prompt) -> List[Row]:  # noqa: D401
     """Extractor that prefers calling the LLM gateway; falls back to stub."""
 
-    # Simulation/offline stub path ------------------------------------------------
-    if settings.simulate or not settings.llm_gateway_url:
-        return _stub_rows(documents)
+    if not settings.llm_gateway_url:
+        raise RuntimeError("LLM gateway URL not configured; cannot run Extractor")
 
-    # Live LLM path --------------------------------------------------------------
     return _call_gateway(documents, prompt)

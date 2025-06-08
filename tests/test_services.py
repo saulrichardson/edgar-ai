@@ -24,7 +24,31 @@ def test_service_chain():
     candidates = discoverer.run(docs)
     schema = schema_synth.run(candidates)
     prompt = prompt_builder.run(schema)
-    rows = extractor.run(docs, prompt)
 
-    assert docs and candidates and rows
-    assert rows[0].data["company_name"] == "Example Corp"
+    # Mock LLM gateway call
+    from edgar_ai.clients import llm_gateway
+
+    def _fake_chat(**kwargs):
+        return {
+            "choices": [
+                {
+                    "message": {
+                        "content": "{\"overview\":\"demo\",\"topics\":[],\"fields\":[]}",
+                        "tool_calls": [
+                            {
+                                "function": {
+                                    "arguments": "{\"company_name\": \"ACME\"}"
+                                }
+                            }
+                        ],
+                    }
+                }
+            ]
+        }
+
+    llm_gateway.chat_completions = _fake_chat  # type: ignore
+    extractor_settings = __import__("importlib").import_module("edgar_ai.config").settings
+    extractor_settings.llm_gateway_url = "http://dummy"
+
+    rows = extractor.run(docs, prompt)
+    assert rows and rows[0].data["company_name"] == "ACME"

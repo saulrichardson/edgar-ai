@@ -33,16 +33,10 @@ def _parse_args(argv: List[str] | None = None) -> argparse.Namespace:  # noqa: D
         help="Path to text file or '-' to read from stdin.",
     )
 
-    run_cmd.add_argument(
-        "--simulate",
-        action="store_true",
-        help="Run in offline simulation mode (no LLM calls).",
-    )
 
     # Goal-Setter only ----------------------------------------------------
     goal_cmd = sub.add_parser("goal", help="Run only the Goal-Setter persona")
     goal_cmd.add_argument("source", help="Text file or '-' for stdin")
-    goal_cmd.add_argument("--simulate", action="store_true", help="Offline simulation mode")
 
     return parser.parse_args(argv)
 
@@ -65,11 +59,6 @@ def main(argv: List[str] | None = None) -> None:  # noqa: D401
     console = Console()
 
     if args.command == "run":
-        if args.simulate:
-            import os
-
-            os.environ["EDGAR_AI_SIMULATE"] = "1"
-
         # Import orchestrator **after** potentially setting simulation env var
         from .orchestrator import run_once  # noqa: WPS433 (runtime import)
 
@@ -78,11 +67,6 @@ def main(argv: List[str] | None = None) -> None:  # noqa: D401
         console.print_json(json.dumps([row.data for row in rows]))
 
     elif args.command == "goal":
-        if args.simulate:
-            import os as _os
-
-            _os.environ["EDGAR_AI_SIMULATE"] = "1"
-
         from edgar_ai.interfaces import Document  # noqa: WPS433 (runtime import)
         from edgar_ai.services import goal_setter  # noqa: WPS433
 

@@ -283,7 +283,7 @@ The table below describes **every service module currently in `src/edgar_ai/serv
 | Service | Current State | LLM Responsibility | Human-in-loop? |
 |---------|---------------|--------------------|----------------|
 | `intake.run(html_batch)` | Parses raw HTML ⟶ `Document` objects. | *None* (pure plumbing). | No |
-| `goal_setter.run(documents)` | **STUB:** returns hard-coded sentence. | Read sample exhibits and draft / evolve a high-level *objective*. | **Seed text provided once**; LLM self-updates later. |
+| `goal_setter.run(documents)` | Calls gateway (requires `EDGAR_AI_LLM_GATEWAY_URL`) | Read sample exhibits and draft / evolve a high-level *objective*. | **Seed text provided once**; LLM self-updates later. |
 | `discoverer.run(documents)` | **STUB:** returns 3 sample field candidates. | Identify every atomic fact worth extracting. | No |
 | `schema_synth.run(candidates)` | **STUB:** copies field names. | Cluster synonyms, assign types, output minimal JSON Schema. | No |
 | `prompt_builder.run(schema, goal)` | **STUB:** renders simple Jinja template.  **TODO:** call LLM *Prompt-Engineer* to emit OpenAI function-calling prompt. | Craft optimal extraction prompt + function schema. | No |

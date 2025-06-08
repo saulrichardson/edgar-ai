@@ -28,13 +28,7 @@ leakage.
 3. **Generalisation**  International filings or PDFs may have no EDGAR-style
    exhibit code—content inference still works.
 
-## 3  Simulation mode exception (dev only)
-
-The offline simulation stub uses `exhibit_type` to return deterministic goals
-without calling the LLM.  This is purely for unit tests and **not** used in
-production.
-
-## 4  Tables keyed by goal_id, not exhibit_type
+## 3  Tables keyed by goal_id, not exhibit_type
 
 | Table               | Key column(s)          |
 |---------------------|------------------------|
@@ -46,7 +40,7 @@ production.
 `exhibit_type` is kept as a *non-index* metadata column for audit and
 dashboard filtering only.
 
-## 5  Optional future hinting
+## 4  Optional future hinting
 
 If we ever decide to bias the LLM with the EDGAR code, we can append a single
 line to the Goal-Setter system prompt:
