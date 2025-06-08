@@ -17,6 +17,7 @@ _service_names = [
     "breaker",
     "governor",
     "explainer",
+    "document_provider",
 ]
 
 for _name in _service_names:

@@ -1,0 +1,20 @@
+{
+  "name": "edgar-ai-dev",
+  "image": "",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".devcontainer"
+  },
+  "workspaceFolder": "/workspace",  
+  "runArgs": ["--init"],
+  "settings": {
+    "python.defaultInterpreterPath": "/usr/local/bin/python",
+    "terminal.integrated.defaultProfile.linux": "bash"
+  },
+  "postCreateCommand": "pip install -e .[test]",
+  "postStartCommand": "pytest -q || true",
+  "extensions": [
+    "ms-python.python",
+    "ms-vscode.makefile-tools"
+  ]
+}

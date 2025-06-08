@@ -1,26 +1,28 @@
-"""Typed dataclasses that define the I/O contracts between services.
+"""Typed Pydantic models that define the I/O contracts between services.
 
-These classes are intentionally minimal for the scaffold stage. Fields can be
-extended later as the pipeline becomes more sophisticated.
+Replacing the previous `dataclass` versions with `pydantic.BaseModel` adds:
+
+• Runtime validation & type coercion.
+• `.model_dump()` / `.model_dump_json()` helpers for persistence & logging.
+• Identical attribute access so existing service code remains unchanged.
 """
 
 from __future__ import annotations
 
-from dataclasses import dataclass, field
 from typing import Any, Dict, List, Optional
 
+from pydantic import BaseModel, Field
 
-@dataclass
-class Document:
+
+class Document(BaseModel):
     """A raw or pre-processed document originating from EDGAR or elsewhere."""
 
     doc_id: str
     html: str
-    metadata: Dict[str, Any] = field(default_factory=dict)
+    metadata: Dict[str, Any] = Field(default_factory=dict)
 
 
-@dataclass
-class FieldCandidate:
+class FieldCandidate(BaseModel):
     """Represents a potential (key, value) pair discovered in a document."""
 
     field_name: str
@@ -28,40 +30,35 @@ class FieldCandidate:
     confidence: float = 1.0
 
 
-@dataclass
-class Schema:
+class Schema(BaseModel):
     """Describes the structured schema expected for extraction."""
 
     name: str
     fields: List[str]
 
 
-@dataclass
-class Prompt:
+class Prompt(BaseModel):
     """Prompt that will be sent to an LLM extractor."""
 
     text: str
     schema: Schema
 
 
-@dataclass
-class Row:
+class Row(BaseModel):
     """A structured row of extracted data which matches *Schema* definition."""
 
     data: Dict[str, Any]
     doc_id: Optional[str] = None
 
 
-@dataclass
-class CriticNote:
+class CriticNote(BaseModel):
     """Feedback from the critic persona on extracted rows."""
 
     message: str
     severity: str = "info"
 
 
-@dataclass
-class GovernorDecision:
+class GovernorDecision(BaseModel):
     """Final adjudication of the pipeline outcome for a given document batch."""
 
     approved: bool

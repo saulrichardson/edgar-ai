@@ -11,6 +11,8 @@ from typing import List
 from .interfaces import CriticNote, Document, GovernorDecision, Row
 
 # Service imports
+# Service imports
+
 from .services import (
     breaker,
     critic,
@@ -22,6 +24,7 @@ from .services import (
     prompt_builder,
     schema_synth,
     tutor,
+    document_provider,
 )
 
 # Storage helpers (not strictly required for scaffold but demonstrate use)
@@ -72,6 +75,27 @@ def run_once(html_batch: List[str]) -> List[Row]:  # noqa: D401
     _ = _publish_explanation(decision)
 
     return rows
+
+
+# Convenience wrapper -----------------------------------------------------
+
+
+def run_for_filing(filing_dir: str) -> List[Row]:  # noqa: D401
+    """Fetch exhibits for *filing_dir* and run the pipeline on each exhibit.
+
+    The *filing_dir* corresponds to a folder on disk containing HTML / HTM
+    files (e.g., output of *sec-edgar-downloader*).  The function returns the
+    concatenated list of *Row*s produced for all exhibits.
+    """
+
+    exhibits = document_provider.run(filing_dir)
+
+    rows: List[Row] = []
+    for exhibit_doc in exhibits:
+        rows.extend(run_once([exhibit_doc.html]))
+
+    return rows
+
 
 
 def _publish_explanation(decision: GovernorDecision) -> str:

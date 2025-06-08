@@ -1,20 +1,24 @@
-"""Prompt builder service.
+"""Prompt builder service using Jinja2 templates.
 
-Crafts the message that will be fed to the extractor persona / LLM.
+The template lives in *src/edgar_ai/prompts/extractor.jinja* so non-developers
+can iterate on prompt wording without touching Python code.
 """
 
 from __future__ import annotations
 
+from importlib import resources
+
+from jinja2 import Template
+
 from ..interfaces import Prompt, Schema
 
 
-def run(schema: Schema) -> Prompt:  # noqa: D401
-    """Return a deterministic prompt embedding the supplied schema."""
+_TEMPLATE_PATH = resources.files("edgar_ai.prompts").joinpath("extractor.jinja")
 
-    template = (
-        "You are an information extraction agent. "
-        "Return JSON objects with the following fields: {fields}. "
-        "Respond with an array of objects."
-    )
-    prompt_text = template.format(fields=", ".join(schema.fields))
-    return Prompt(text=prompt_text, schema=schema)
+
+def run(schema: Schema) -> Prompt:  # noqa: D401
+    """Render the extraction prompt for the provided *schema*."""
+
+    tpl_text = _TEMPLATE_PATH.read_text(encoding="utf-8")
+    text = Template(tpl_text).render(fields=schema.fields)
+    return Prompt(text=text, schema=schema)

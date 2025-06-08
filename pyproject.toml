@@ -14,8 +14,10 @@ authors = [{name = "Saul", email = "saul@example.com"}]
 license = {text = "MIT"}
 dependencies = [
     "openai",
-    "pydantic",
+    "pydantic>=2",
     "rich",
+    "jinja2",
+    "pydantic-settings",
 ]
 
 [project.optional-dependencies]
