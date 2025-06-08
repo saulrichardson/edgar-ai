@@ -48,9 +48,9 @@ External API (optional) ─┐
                  ▲                          ▲
                  │                          │
  SEC HTML ▶ Intake ▶ Goal‑Setter ▶ Schema Synthesizer ▶ Prompt Builder ▶ Extractor ▶ Critic w/ Memory ▶ Tutor/RLHF ─┐
-                 ▲                          ▲                                                             │        │
+                 ▲                          ▲                                                              │        │
                  │                          └──────────── Vector Memory ◀──────── Breaker (Synthetic Docs) ┘        │
-                 └──────────────────────────────────── Champion–Challenger Loop ─────────────────────────────────────┘
+                 └──────────────────────────────────── Champion–Challenger Loop ────────────────────────────────────┘
 ```
 
 ---
