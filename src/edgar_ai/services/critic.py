@@ -1,6 +1,15 @@
-"""Critic service.
+"""Critic persona.
 
-Reviews extracted rows and emits feedback notes.
+Current implementation: *stub* that emits an “info/looks good” note for every
+row.
+
+Target behaviour (LLM-powered):
+
+1. Retrieve recent error memory for the same `schema` & `exhibit_type`.
+2. Grade each row on a 0–1 scale, citing specific cell-level issues.
+3. Optionally ingest human-filed issues as high-severity notes.
+
+The output (`CriticNote`) feeds Tutor, Governor, and long-term Memory.
 """
 
 from __future__ import annotations

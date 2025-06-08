@@ -1,7 +1,17 @@
-"""Prompt builder service using Jinja2 templates.
+"""Prompt-Builder persona.
 
-The template lives in *src/edgar_ai/prompts/extractor.jinja* so non-developers
-can iterate on prompt wording without touching Python code.
+Current state: **deterministic Jinja2 template**.
+
+Road-map: replace with an LLM call so the model itself writes the extraction
+prompt.  The future implementation will:
+
+1. Receive a *high-level goal* string from Goal-Setter and a `Schema`.
+2. Ask the LLM (via gateway) to craft the *best* function-calling prompt that
+   fulfils that goal and schema.
+3. Return that generated prompt.
+
+Until the Critic/Tutor loop is online we keep the static template so the rest
+of the pipeline remains runnable.
 """
 
 from __future__ import annotations

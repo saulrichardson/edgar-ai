@@ -18,6 +18,10 @@ dependencies = [
     "rich",
     "jinja2",
     "pydantic-settings",
+    "fastapi",
+    "uvicorn[standard]",
+    "requests",
+    "tenacity",
 ]
 
 [project.optional-dependencies]

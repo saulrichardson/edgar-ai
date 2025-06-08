@@ -276,3 +276,30 @@ EdgarAI’s north‑star system:
 
 With cost and latency de‑prioritised, every design choice maximises *accuracy, autonomy, and transparency*.  This document is the blueprint anyone can follow to build and extend the most AI‑forward EDGAR extraction engine imaginable.
 
+## 14. Component Reference (LLM-first view)
+
+The table below describes **every service module currently in `src/edgar_ai/services/`** and states what the eventual LLM-powered implementation will do.  Where the code is still a deterministic stub, you’ll find a `TODO:` marker inside the module reminding future contributors to replace the dummy logic with a real gateway call.
+
+| Service | Current State | LLM Responsibility | Human-in-loop? |
+|---------|---------------|--------------------|----------------|
+| `intake.run(html_batch)` | Parses raw HTML ⟶ `Document` objects. | *None* (pure plumbing). | No |
+| `goal_setter.run(documents)` | **STUB:** returns hard-coded sentence. | Read sample exhibits and draft / evolve a high-level *objective*. | **Seed text provided once**; LLM self-updates later. |
+| `discoverer.run(documents)` | **STUB:** returns 3 sample field candidates. | Identify every atomic fact worth extracting. | No |
+| `schema_synth.run(candidates)` | **STUB:** copies field names. | Cluster synonyms, assign types, output minimal JSON Schema. | No |
+| `prompt_builder.run(schema, goal)` | **STUB:** renders simple Jinja template.  **TODO:** call LLM *Prompt-Engineer* to emit OpenAI function-calling prompt. | Craft optimal extraction prompt + function schema. | No |
+| `extractor.run(docs, prompt)` | Calls gateway **if** `EDGAR_AI_LLM_GATEWAY_URL` set, else stub row. | Use function-calling to emit JSON rows. | No |
+| `critic.run(rows)` | **STUB:** “Looks good”.  **TODO:** call LLM Critic to grade rows, pull past mistakes from memory. | Score rows 0-1 + feedback. | **Optional human escalation path.** |
+| `tutor.run(notes)` | No-op.  **TODO:** LLM rewrites prompt based on critic notes. | Rewrite challenger prompt. | No |
+| `breaker.run(rows)` | Always returns `False`.  **TODO:** LLM crafts adversarial filings targeting weak spots. | Generate synthetic docs. | No |
+| `governor.run(rows, notes)` | Always approves.  **TODO:** LLM promotes challenger prompt if average score improves. | No |
+| `explainer.run(decision)` | Returns friendly string. | Summarise governor’s reasoning for humans. | No |
+
+> **Single source of truth for LLM calls:** all services must **only** interact with models via the [LLM Gateway](#llm-gateway), never with vendor SDKs directly.  Swap OpenAI → Claude by re-configuring the gateway—no service code changes required.
+
+### Human-touch points
+
+1. **Initial Goal Seed** – a product owner writes the first objective (one sentence). After that, Goal-Setter iteratively refines it.
+2. **Issue Critic** – a human may file an issue against an extracted row; the Critic incorporates that feedback as a *high-severity* note and the Governor can force-retrain or roll-back.
+
+Everything else is designed to be fully autonomous and self-improving.
+

@@ -3,7 +3,7 @@
   "image": "",
   "build": {
     "dockerfile": "Dockerfile",
-    "context": ".devcontainer"
+    "context": "../.."
   },
   "workspaceFolder": "/workspace",  
   "runArgs": ["--init"],
