@@ -131,7 +131,22 @@ Outcome: The system hardens *before* similar language appears in live SEC filing
 
 ---
 
-## 7. Ontology Alignment Across Objectives
+## 6A. Issue‑Critic (Optional Human Feedback)
+
+*Purpose*: let domain experts supply structured error reports without directly editing schemas.
+
+**Workflow**
+
+1. **Submit** – via `/issue` endpoint or UI form: HTML snippet, current JSON, free‑text comment.
+2. **Classify** *(LLM)* – tags as *missed field*, *incorrect value*, *new field proposal*, etc.
+3. **Route** – stored in Vector Memory with `source="human"`; critic score weight × 2.
+4. **Tutor Impact** – human‑flagged notes feed the same Tutor pipeline, accelerating schema/prompt or weight updates.
+
+All Issue‑Critic entries are logged in the Provenance Ledger, so future lineage can show: “field fixed in v1.3 due to Issue‑Critic #42.”
+
+---
+
+## 7. Ontology Alignment Across Objectives Ontology Alignment Across Objectives
 
 1. After each promotion, embed new field names + definitions.
 2. Pairwise cosine > τ ➜ candidate match.
