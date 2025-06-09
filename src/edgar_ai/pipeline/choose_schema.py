@@ -8,7 +8,8 @@ from typing import List
 from ..clients import llm_gateway
 from ..config import settings
 from ..interfaces import Document
-from ..memory import MemoryStore, SchemaRecord
+# Updated storage import – we now use the concrete FileMemoryStore.
+from ..memory import FileMemoryStore, SchemaRecord
 from ..services import goal_setter
 
 
@@ -23,7 +24,7 @@ CHOICE_PROMPT = (
 )
 
 
-def choose_schema(doc: Document, memory: MemoryStore) -> dict:
+def choose_schema(doc: Document, memory: FileMemoryStore) -> dict:
     """Select an existing schema or create a new one via the LLM and persist it."""
 
     records: List[SchemaRecord] = memory.list_schema_records()

@@ -28,6 +28,9 @@ dependencies = [
 test = [
     "pytest",
 ]
+memory = [
+    "filelock",
+]
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/edgar_ai"]
