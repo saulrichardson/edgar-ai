@@ -1,0 +1,162 @@
+"""Goal-Setter v2 – generate multiple schema variants and let an LLM referee.
+
+The module exposes two public helpers used by the pipeline:
+
+* generate_variants(doc: Document, minimal_only: bool = False) -> list[dict]
+    – Calls the LLM 2–3 times with different prompts (maximalist, minimalist,
+      balanced).
+    – Returns a list of **schema objects** (`dict`) each containing:
+
+        {
+          "overview": str,
+          "topics": [str],
+          "fields": {
+              field_name: {
+                  "description": str,
+                  "rationale": str
+              }, ...
+          }
+        }
+
+* referee(candidates: list[dict], doc: Document) -> tuple[int, str]
+    – Calls the LLM once with all candidate schemas + exhibit text, asking for
+      a JSON response `{ "winner_index": n, "reason": "..." }` (0-based).
+
+Both helpers raise *RuntimeError* if the LLM gateway URL is missing so that
+callers fail fast in misconfigured environments.
+"""
+
+from __future__ import annotations
+
+import json
+from typing import List, Tuple
+
+from ..clients import llm_gateway
+from ..config import settings
+from ..interfaces import Document
+
+# ---------------------------------------------------------------------------
+# Variant generation
+# ---------------------------------------------------------------------------
+
+
+_VARIANT_SYSTEM_TEMPLATE = """You are an expert legal data architect. Your task is to propose an **extraction schema** for a single SEC exhibit. IMPORTANT: Do NOT include your reasoning in the response – return ONLY valid JSON. The JSON must have these keys:
+  1. overview   – 1-10 sentence purpose of the extraction.
+  2. topics     – array of short thematic strings.
+  3. fields     – an *object* mapping each snake_case field name to another object with:
+        • description – one sentence business meaning.
+        • rationale   – why this field is valuable downstream.
+"""
+
+# Mode-specific instructions appended to the system prompt.
+_MODE_INSTRUCTIONS = {
+    "maximalist": "Return the **most exhaustive** list of fields you reasonably expect to find across any similar exhibit (err on the side of too many).",
+    "minimalist": "Return **only the absolute essentials** – the smallest set without which the exhibit is meaningless.",
+    "balanced": "Return a **balanced** schema – comprehensive but without speculative edge-case fields.",
+}
+
+
+def _call_llm(system_prompt: str, exhibit: str) -> dict:  # noqa: D401 – helper
+    if not settings.llm_gateway_url:
+        raise RuntimeError("LLM gateway URL not configured; cannot generate schema variants")
+
+    rsp = llm_gateway.chat_completions(
+        model=settings.model_goal_setter,
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": exhibit},
+        ],
+        temperature=settings.goal_setter_temperature,
+    )
+    raw = rsp["choices"][0]["message"]["content"].strip()
+
+    try:
+        return json.loads(raw)
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f"Variant LLM returned non-JSON: {raw!r}") from exc
+
+
+def generate_variants(doc: Document, *, minimal_only: bool = False) -> List[dict]:  # noqa: D401
+    """Return 2–3 schema variants for *doc* via separate LLM calls.
+
+    If *minimal_only* is true we generate just the **balanced** proposal so the
+    referee has a fresh challenger when there are already stored schemas.
+    """
+
+    modes = ["balanced"] if minimal_only else ["maximalist", "minimalist", "balanced"]
+    variants: List[dict] = []
+    for mode in modes:
+        system_prompt = _VARIANT_SYSTEM_TEMPLATE + "\n\n" + _MODE_INSTRUCTIONS[mode]
+        schema_obj = _call_llm(system_prompt, doc.text)
+
+        # Basic sanity checks – ensure mandatory keys are present
+        for key in ("overview", "topics", "fields"):
+            if key not in schema_obj:
+                raise RuntimeError(f"Schema variant missing required key '{key}' for mode {mode}")
+
+        # Validate that fields is a mapping with description & rationale
+        fields_obj = schema_obj["fields"]
+        if not isinstance(fields_obj, dict) or not fields_obj:
+            raise RuntimeError(f"'fields' must be a non-empty object (mode={mode})")
+
+        for fname, meta in fields_obj.items():
+            if not isinstance(meta, dict) or {
+                "description",
+                "rationale",
+            } - meta.keys():
+                raise RuntimeError(
+                    f"Field '{fname}' in mode {mode} lacks description or rationale"
+                )
+
+        variants.append(schema_obj)
+
+    return variants
+
+
+# ---------------------------------------------------------------------------
+# Referee – pick the winning schema
+# ---------------------------------------------------------------------------
+
+_REFEREE_PROMPT = """You are a meticulous reviewer. Choose the BEST extraction schema for the exhibit. Return ONLY valid JSON:
+{
+  "winner_index": <integer 0-based index of the best schema>,
+  "reason": "single sentence rationale"
+}
+If two schemas are equally valid, prefer the one with **fewer** fields.
+"""
+
+
+def referee(candidates: List[dict], doc: Document) -> Tuple[int, str]:  # noqa: D401
+    """Return `(winner_index, reason)` using an LLM judge."""
+
+    if not settings.llm_gateway_url:
+        raise RuntimeError("LLM gateway URL not configured; cannot run schema referee")
+
+    numbered = [f"Schema {i}:\n```json\n{json.dumps(c, ensure_ascii=False, indent=2)}\n```" for i, c in enumerate(candidates)]
+    user_msg = (
+        "Here are the candidate schemas:\n\n"
+        + "\n\n".join(numbered)
+        + "\n\nEXHIBIT:\n\n\"\"\"\n"
+        + doc.text[:4000]  # pass at most 4k chars to fit context
+        + "\n\"\"\""
+    )
+
+    rsp = llm_gateway.chat_completions(
+        model=settings.model_goal_setter,
+        messages=[
+            {"role": "system", "content": _REFEREE_PROMPT},
+            {"role": "user", "content": user_msg},
+        ],
+        temperature=0,  # deterministic vote
+    )
+    raw = rsp["choices"][0]["message"]["content"].strip()
+
+    try:
+        payload = json.loads(raw)
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f"Referee returned invalid JSON: {raw!r}") from exc
+
+    if "winner_index" not in payload:
+        raise RuntimeError("Referee JSON missing 'winner_index'")
+
+    return int(payload["winner_index"]), str(payload.get("reason", ""))

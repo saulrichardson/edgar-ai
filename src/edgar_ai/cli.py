@@ -161,19 +161,26 @@ def main(argv: List[str] | None = None) -> None:  # noqa: D401
             # Create stable hash for snapshot naming
             schema_hash = hashlib.sha256(_json.dumps(schema_dict, sort_keys=True).encode()).hexdigest()[:12]
 
-            fields_mapping = schema_dict["fields"]
+            raw_fields = schema_dict["fields"]
 
-            # Render extraction prompt (template in services.extractor)
+            # Support both the legacy list[str] format and the new
+            # dict[name -> meta] format.
+            if isinstance(raw_fields, dict):
+                field_names = list(raw_fields.keys())
+            else:  # assume list/tuple
+                field_names = list(raw_fields)
+
+            # Render extraction prompt (template in prompts/extractor.jinja)
             from jinja2 import Environment, FileSystemLoader
 
             env = Environment(loader=FileSystemLoader("src/edgar_ai/prompts"))
-            prompt_text = env.get_template("extractor.jinja").render(fields=fields_mapping)
+            prompt_text = env.get_template("extractor.jinja").render(fields=field_names)
 
             if verbose:
                 _log("  → Extractor system prompt ⬇")
                 _log(prompt_text.replace("\n", "\n      "))
 
-            prompt_obj = Prompt(text=prompt_text, schema_def=Schema(name=f"schema_{schema_hash}", fields=fields_mapping))
+            prompt_obj = Prompt(text=prompt_text, schema_def=Schema(name=f"schema_{schema_hash}", fields=field_names))
 
             _log("  → Extracting rows via LLM…")
             rows_objs = _svc_extractor.run([doc], prompt_obj)
