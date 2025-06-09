@@ -15,62 +15,41 @@ the data, critiques itself, and learns from every document it touches.
 
 ## 1.  The Data Fly-Wheel
 
-```
-           ┌────────────── Intake ───────────────┐
-           │   Raw EX-10 / EX-99 HTML Filing      │
-           └────────────────┬────────────────────┘
-                            │ text only
-                            ▼
-┌─────────── Goal-Setter ───────────┐
-│ LLM decides *what* is worth       │  ← no hard-coded routes
-│ extracting (creates `goal_id`)    │
-└───────────┬───────────────────────┘
-            │ objective JSON
-            ▼
-        (Memory lookup) ──┐  schema found? ────────────────┐
-                          │                               │
-                          ▼                               │
-┌────────── Prompt-Builder ──────────┐                    │
-│  (warm-start): reuse stored schema │                    │
-└───────────┬────────────────────────┘                    │
-            │                                             │
-            │ no schema                                   │
-            ▼                                             │
-┌──────── Schema Variants ─────────┐        ┌── Breaker (adversarial drafts)
-│ 3 candidate schemas (max/mini/bal)│       │   keep system on its toes
-└───────────┬───────────────────────┘        └─────────────────────────────┐
-            │                                synthetic docs                 │
-            ▼                                                             ▼
-┌───────────── Referee ─────────────┐
-│ Picks best schema (or triggers     │
-│ merge) – stored in Memory          │
-└───────────┬───────────────────────┘
-            │ winning schema
-            ▼
-┌───────── Prompt-Builder ──────────┐
-│ Renders extraction prompt from     │
-│ schema (incl. nested json_schema) │
-└───────────┬───────────────────────┘
-            │
-            ▼
-┌────────── Extractor ──────────────┐
-│ LLM fills every field, returns     │
-│ JSON rows                         │
-└───────────┬───────────────────────┘
-            │ rows + lineage meta
-            ▼
-┌──────────── Critic ───────────────┐
-│ Scores accuracy, cites failures,   │
-│ writes to Memory                   │
-└───────────┬───────────────────────┘
-            │ critic notes
-            ▼
-┌──────────── Tutor ────────────────┐
-│ Uses critic feedback to propose    │  ← learning loop
-│ prompt / schema improvements       │
-└───────────┬───────────────────────┘
-            │ updated artefacts
-            └─────► back to Intake (next doc)
+```text
+                Raw HTML Filing
+                         │
+                         ▼
+                    Intake
+                         │
+                         ▼
+                 Goal-Setter (LLM)
+                         │   determines `goal_id`
+                         ▼
+              ┌── Memory: schema? ──┐
+              │                     │
+        yes ──┘                     └── no
+          │                           │
+          ▼                           ▼
+  Prompt-Builder (warm)        Schema Variants  (max / mini / bal)
+          │                           │
+          │                    Referee picks best
+          │                           ▼
+          └───────────── winning schema ────────────┐
+                                                    ▼
+                                           Prompt-Builder
+                                                    │
+                                                    ▼
+                                              Extractor
+                                                    │  JSON rows + lineage
+                                                    ▼
+                                                Critic
+                                                    │  feedback
+                                                    ▼
+                                                Tutor
+                                                    │  improved prompt / schema
+                                                    └──► Memory   (learning loop)
+
+        Breaker (adversarial docs) feeds synthetic edge cases into Intake →
 ```
 
 Every pass through the fly-wheel makes the extractor **faster, broader, and
