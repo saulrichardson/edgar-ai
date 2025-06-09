@@ -55,6 +55,9 @@ class Settings(BaseSettings):
     prompt_builder_temperature: float = 0.3
     simulate: bool = False  # offline / deterministic mode
 
+    # Toggle to inject additional guiding principles into Goal-Setter prompts
+    extra_principles: bool = True  # EDGAR_AI_EXTRA_PRINCIPLES
+
     model_config = SettingsConfigDict(
         env_prefix="EDGAR_AI_",
         env_file=".env",

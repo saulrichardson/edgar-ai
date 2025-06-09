@@ -30,11 +30,22 @@ class FieldCandidate(BaseModel):
     confidence: float = 1.0
 
 
+
+
+class FieldMeta(BaseModel):
+    """Rich metadata for a schema field."""
+
+    name: str
+    description: str = ""
+    rationale: str = ""
+    required: bool = True
+
+
 class Schema(BaseModel):
     """Describes the structured schema expected for extraction."""
 
     name: str
-    fields: List[str]
+    fields: List[FieldMeta]
 
 
 class Prompt(BaseModel):

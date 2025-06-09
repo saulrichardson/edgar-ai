@@ -16,7 +16,14 @@ template = env.get_template("extractor.jinja")
 
 def extract(doc: Document, schema: dict) -> list[dict]:
     """Extract rows matching the schema from the given document via the LLM."""
-    system_prompt = template.render(fields=schema.get("fields", []))
+    # Accept either rich meta objects or plain strings
+    raw_fields = schema.get("fields", [])
+    if raw_fields and isinstance(raw_fields[0], dict) and "name" in raw_fields[0]:
+        fields = raw_fields  # already list[dict]
+    else:
+        fields = [{"name": str(f), "description": ""} for f in raw_fields]
+
+    system_prompt = template.render(fields=fields)
     messages = [
         {"role": "system", "content": system_prompt},
         {"role": "user", "content": doc.text},

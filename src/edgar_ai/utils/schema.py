@@ -4,18 +4,28 @@ from __future__ import annotations
 
 from typing import Dict
 
-from ..interfaces import Schema
+from ..interfaces import Schema, FieldMeta
 
 
-def schema_to_json_schema(schema: Schema) -> Dict:
+def schema_to_json_schema(schema: Schema) -> Dict:  # noqa: D401
     """Convert an internal *Schema* into JSON-Schema for OpenAI function calling."""
 
-    properties = {name: {"type": "string"} for name in schema.fields}
+    properties: Dict[str, Dict] = {}
+    required: list[str] = []
+
+    for field in schema.fields:
+        if isinstance(field, FieldMeta):
+            properties[field.name] = {"type": "string", "description": field.description}
+            if field.required:
+                required.append(field.name)
+        else:  # pragma: no cover – fallback for legacy list[str]
+            properties[str(field)] = {"type": "string"}
+            required.append(str(field))
 
     return {
         "type": "object",
         "properties": properties,
-        "required": list(properties.keys()),
+        "required": required,
     }
 
 

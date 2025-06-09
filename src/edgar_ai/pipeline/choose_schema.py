@@ -51,7 +51,7 @@ def choose_schema(doc: Document, memory: FileMemoryStore) -> dict:  # noqa: D401
     #    the referee so it can decide whether to keep using one of the former
     #    or switch to a fresh schema.
     # -------------------------------------------------------------------
-    stored_schemas = [r.schema for r in existing_records]
+    stored_schemas = [r.schema_def for r in existing_records]
 
     # We ask Variant-Generator for *at most* one balanced proposal so the
     # referee has a challenger if the stored ones are stale.

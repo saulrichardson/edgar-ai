@@ -40,7 +40,18 @@ from ..interfaces import Document
 # ---------------------------------------------------------------------------
 
 
-_VARIANT_SYSTEM_TEMPLATE = """You are an expert legal data architect. Your task is to propose an **extraction schema** for a single SEC exhibit. IMPORTANT: Do NOT include your reasoning in the response – return ONLY valid JSON. The JSON must have these keys:
+_VARIANT_SYSTEM_TEMPLATE = """You are an expert legal data architect. Your task is to propose an **extraction schema** for a single SEC exhibit.
+
+General principles to apply in EVERY schema you design
+• Purpose-first – include only fields an analyst needs to answer the exhibit’s key question.
+• Observability – prefer values stated verbatim; avoid speculative / inferred data.
+• Normal-form – avoid compound blob fields; normalise repeating sub-structures.
+• Stability – choose names that stay valid even if new, similar items appear.
+• Compression – when multiple labelled items share identical attributes, group them in one object/array rather than one flat field per label-attribute.
+
+IMPORTANT: Do NOT include your reasoning in the response – return ONLY valid JSON.
+
+The JSON must have these keys:
   1. overview   – 1-10 sentence purpose of the extraction.
   2. topics     – array of short thematic strings.
   3. fields     – an *object* mapping each snake_case field name to another object with:
@@ -94,11 +105,13 @@ def generate_variants(doc: Document, *, minimal_only: bool = False) -> List[dict
             if key not in schema_obj:
                 raise RuntimeError(f"Schema variant missing required key '{key}' for mode {mode}")
 
-        # Validate that fields is a mapping with description & rationale
+        # Validate that fields is a mapping with description & rationale, then
+        # convert to the canonical list[dict] shape for storage.
         fields_obj = schema_obj["fields"]
         if not isinstance(fields_obj, dict) or not fields_obj:
             raise RuntimeError(f"'fields' must be a non-empty object (mode={mode})")
 
+        new_fields: list[dict] = []
         for fname, meta in fields_obj.items():
             if not isinstance(meta, dict) or {
                 "description",
@@ -108,6 +121,16 @@ def generate_variants(doc: Document, *, minimal_only: bool = False) -> List[dict
                     f"Field '{fname}' in mode {mode} lacks description or rationale"
                 )
 
+            new_fields.append(
+                {
+                    "name": fname,
+                    "description": meta["description"],
+                    "rationale": meta["rationale"],
+                    "required": True,
+                }
+            )
+
+        schema_obj["fields"] = new_fields
         variants.append(schema_obj)
 
     return variants

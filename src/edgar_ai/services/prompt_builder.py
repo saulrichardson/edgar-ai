@@ -29,7 +29,7 @@ def run(schema: Schema, goal: dict) -> Prompt:  # noqa: D401
 
     input_content = _SYSTEM_PROMPT.format(
         goal=json.dumps(goal, ensure_ascii=False),
-        schema=json.dumps({"fields": schema.fields}, ensure_ascii=False),
+        schema=json.dumps({"fields": [f.model_dump() for f in schema.fields]}, ensure_ascii=False),
     )
     response = llm_gateway.chat_completions(
         model=settings.model_prompt_builder,

@@ -161,26 +161,32 @@ def main(argv: List[str] | None = None) -> None:  # noqa: D401
             # Create stable hash for snapshot naming
             schema_hash = hashlib.sha256(_json.dumps(schema_dict, sort_keys=True).encode()).hexdigest()[:12]
 
+            from edgar_ai.interfaces import FieldMeta  # local import to avoid circular
+
             raw_fields = schema_dict["fields"]
 
-            # Support both the legacy list[str] format and the new
-            # dict[name -> meta] format.
-            if isinstance(raw_fields, dict):
-                field_names = list(raw_fields.keys())
-            else:  # assume list/tuple
-                field_names = list(raw_fields)
+            # Convert various legacy shapes into List[FieldMeta]
+            if isinstance(raw_fields, list):
+                if raw_fields and isinstance(raw_fields[0], dict):
+                    field_meta = [FieldMeta(**f) for f in raw_fields]  # type: ignore[arg-type]
+                else:
+                    field_meta = [FieldMeta(name=str(f)) for f in raw_fields]
+            elif isinstance(raw_fields, dict):
+                field_meta = [FieldMeta(name=k, **v) for k, v in raw_fields.items()]
+            else:
+                raise RuntimeError("Unsupported 'fields' format in schema JSON")
 
-            # Render extraction prompt (template in prompts/extractor.jinja)
+            # Render extraction prompt
             from jinja2 import Environment, FileSystemLoader
 
             env = Environment(loader=FileSystemLoader("src/edgar_ai/prompts"))
-            prompt_text = env.get_template("extractor.jinja").render(fields=field_names)
+            prompt_text = env.get_template("extractor.jinja").render(fields=field_meta)
 
             if verbose:
                 _log("  → Extractor system prompt ⬇")
                 _log(prompt_text.replace("\n", "\n      "))
 
-            prompt_obj = Prompt(text=prompt_text, schema_def=Schema(name=f"schema_{schema_hash}", fields=field_names))
+            prompt_obj = Prompt(text=prompt_text, schema_def=Schema(name=f"schema_{schema_hash}", fields=field_meta))
 
             _log("  → Extracting rows via LLM…")
             rows_objs = _svc_extractor.run([doc], prompt_obj)

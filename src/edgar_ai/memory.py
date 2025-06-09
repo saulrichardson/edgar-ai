@@ -24,14 +24,14 @@ class SchemaRecord(BaseModel):
     """A stored extraction schema with per-field metadata."""
 
     schema_id: str
-    schema: dict  # full object containing overview, topics, fields mapping
+    schema_def: dict = Field(alias="schema")
     rationale: str
     created_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
-    schema_version: int = 4  # bump for rich field objects
+    schema_version: int = 5  # bump for FieldMeta list
 
     model_config = {
         "populate_by_name": True,
-        "extra": "ignore",  # ignore unknown keys from older versions
+        "extra": "ignore",
     }
 
 
@@ -84,7 +84,7 @@ class FileMemoryStore:  # noqa: D101 – simple persistence helper
             # v4  : fields is mapping name -> {description, rationale}
 
             schema_obj = obj.get("schema") or obj.get("schema_def")
-            if version < 4 and isinstance(schema_obj, dict):
+            if version < 5 and isinstance(schema_obj, dict):
                 fields = schema_obj.get("fields")
                 if isinstance(fields, list):
                     schema_obj["fields"] = {
@@ -96,7 +96,7 @@ class FileMemoryStore:  # noqa: D101 – simple persistence helper
                     }
                 obj["schema"] = schema_obj
                 obj.pop("schema_def", None)
-                obj["schema_version"] = 4
+                obj["schema_version"] = 5
 
             upgraded.append(obj)
 
@@ -120,7 +120,7 @@ class FileMemoryStore:  # noqa: D101 – simple persistence helper
         with self._lock:
             records = self._load()
             records = [r for r in records if r.schema_id != schema_id]
-            records.append(SchemaRecord(schema_id=schema_id, schema=schema, rationale=rationale))
+            records.append(SchemaRecord(schema_id=schema_id, schema_def=schema, rationale=rationale))
             self._save(records)
 
     def list_schema_records(self) -> List[SchemaRecord]:  # noqa: D401
