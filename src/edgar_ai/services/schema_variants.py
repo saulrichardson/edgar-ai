@@ -30,10 +30,17 @@ from __future__ import annotations
 
 import json
 import re
+import sys
 from typing import List, Tuple
 import os
 
 from ..clients import llm_gateway
+
+def _vlog(msg: str) -> None:  # noqa: D401
+    """Print *msg* to stderr if EDGAR_AI_VERBOSE=1 in the environment."""
+
+    if os.getenv("EDGAR_AI_VERBOSE") == "1":
+        print(f"[schema_variants] {msg}", file=sys.stderr)
 from ..config import settings
 from ..interfaces import Document
 
@@ -54,14 +61,23 @@ from ..interfaces import Document
 #   • Avoid merging unrelated concepts into one composite field.
 # ---------------------------------------------------------------------------
 
-_VARIANT_SYSTEM_TEMPLATE = """You are an expert data architect tasked with proposing an **extraction schema** for a single SEC exhibit.
+_VARIANT_SYSTEM_TEMPLATE = """You are a research strategist charged with creating a **comprehensive extraction schema** that converts an SEC exhibit into a standardized tabular format.
 
-Return ONLY valid JSON (no code fences, no commentary) with these keys:
-  1. overview   – 1-10 sentence summary of what the schema captures.
-  2. topics     – array of short thematic strings.
-  3. fields     – an *object* mapping each snake_case field name to another object with:
-        • description – one sentence business meaning.
-        • rationale   – why this field is valuable downstream.
+Think first (internally) about:
+  * Which thematic topics recur across similar exhibits.
+  * Which distinct, observable facts analysts will query later.
+  * Why each field is valuable downstream.
+
+Do NOT include your reasoning in the response; return only the final JSON.
+
+Return ONLY valid JSON with these keys:
+  1. overview – Up to 10 sentences describing the purpose and coverage of the schema.
+  2. topics   – Array of short phrases representing thematic areas.
+  3. fields   – **Object** mapping each snake_case field name → object with:
+        • description – one-sentence business meaning.
+        • rationale   – why the field matters.
+
+Do **NOT** wrap the JSON in triple back-ticks.
 """
 
 # Mode-specific instructions appended to the system prompt.
@@ -72,9 +88,12 @@ _MODE_INSTRUCTIONS = {
 }
 
 
-def _call_llm(system_prompt: str, exhibit: str) -> dict:  # noqa: D401 – helper
+def _call_llm(system_prompt: str, exhibit: str, *, attempt: int = 1) -> dict:  # noqa: D401 – helper
     if not settings.llm_gateway_url:
         raise RuntimeError("LLM gateway URL not configured; cannot generate schema variants")
+
+    if os.getenv("EDGAR_AI_VERBOSE") == "1":
+        _vlog("LLM call attempt %d – system prompt:\n%s\n[EXHIBIT TEXT OMITTED]" % (attempt, system_prompt))
 
     rsp = llm_gateway.chat_completions(
         model=settings.model_goal_setter,
@@ -84,7 +103,9 @@ def _call_llm(system_prompt: str, exhibit: str) -> dict:  # noqa: D401 – helpe
         ],
         temperature=settings.goal_setter_temperature,
     )
-    raw = rsp["choices"][0]["message"]["content"].strip()
+    raw = rsp["choices"][0]["message"].get("content", "").strip()
+    if os.getenv("EDGAR_AI_VERBOSE") == "1":
+        _vlog(f"LLM response (attempt {attempt}):\n{raw}")
 
     def _clean(txt: str) -> str:  # noqa: D401 – local helper
         """Strip surrounding ```json fences if the model adds them."""
@@ -122,7 +143,7 @@ def generate_variants(doc: Document, *, minimal_only: bool = False) -> List[dict
                 )
 
             try:
-                schema_obj = _call_llm(system_prompt, doc.text)
+                schema_obj = _call_llm(system_prompt, doc.text, attempt=attempt)
                 break
             except RuntimeError as exc:
                 # Propagate if we've exhausted retries
@@ -168,8 +189,10 @@ def generate_variants(doc: Document, *, minimal_only: bool = False) -> List[dict
 
         new_fields.append(field_dict)
 
-        schema_obj["fields"] = new_fields
-        variants.append(schema_obj)
+    # ------ end for fname loop ------
+
+    schema_obj["fields"] = new_fields
+    variants.append(schema_obj)
 
     return variants
 
@@ -184,6 +207,10 @@ def merge_referee(candidates: List[dict], doc: Document) -> dict:  # noqa: D401
 
     if not settings.llm_gateway_url:
         raise RuntimeError("LLM gateway URL not configured; cannot run merge referee")
+
+    if os.getenv("EDGAR_AI_VERBOSE") == "1":
+        for i, c in enumerate(candidates):
+            _vlog(f"Merge candidate {i}:\n{json.dumps(c, ensure_ascii=False, indent=2)}")
 
     numbered = [
         f"Schema {i}:\n```json\n{json.dumps(c, ensure_ascii=False, indent=2)}\n```" for i, c in enumerate(candidates)
@@ -215,7 +242,9 @@ def merge_referee(candidates: List[dict], doc: Document) -> dict:  # noqa: D401
         temperature=settings.goal_setter_temperature,
     )
 
-    raw = rsp["choices"][0]["message"]["content"].strip()
+    raw = rsp["choices"][0]["message"].get("content", "").strip()
+    if os.getenv("EDGAR_AI_VERBOSE") == "1":
+        _vlog("Referee response:\n" + raw[:1000] + ("..." if len(raw) > 1000 else ""))
     clean = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw, flags=re.S | re.I)
     try:
         return json.loads(clean)
@@ -256,6 +285,11 @@ def referee(candidates: List[dict], doc: Document) -> Tuple[int, str]:  # noqa: 
         + doc.text
         + "\n\"\"\""
     )
+
+    if os.getenv("EDGAR_AI_VERBOSE") == "1":
+        _vlog("Referee system prompt:\n" + _REFEREE_PROMPT)
+        for i, c in enumerate(candidates):
+            _vlog(f"Candidate schema {i}:\n{json.dumps(c, ensure_ascii=False, indent=2)}")
 
     rsp = llm_gateway.chat_completions(
         model=settings.model_goal_setter,

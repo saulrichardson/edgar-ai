@@ -17,6 +17,7 @@ import argparse
 import json
 import sys
 from pathlib import Path
+import os
 from typing import List
 
 from rich.console import Console
@@ -126,6 +127,8 @@ def main(argv: List[str] | None = None) -> None:  # noqa: D401
         run_id = f"{datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')}-{uuid.uuid4().hex[:8]}"
 
         verbose: bool = getattr(args, "verbose", False)
+        if verbose:
+            os.environ["EDGAR_AI_VERBOSE"] = "1"
 
         def _log(msg: str):  # noqa: D401
             if verbose:

@@ -44,8 +44,8 @@ class Settings(BaseSettings):
     llm_gateway_url: Optional[str] = None
     # Model selections per persona (overridable via .env)
     model_goal_setter: str = "o4-mini"
-    # Goal-Setter LLM temperature (applicable when calling the gateway)
-    goal_setter_temperature: float = 0.3
+    # Goal-Setter / Variant-Generator LLM temperature
+    goal_setter_temperature: float = 0.8
     # Goal-Setter JSON parse retry attempts (configurable via env var)
     goal_setter_max_retries: int = 3
     model_extractor: str = "gpt-4.1"

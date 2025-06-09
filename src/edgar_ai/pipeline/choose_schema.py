@@ -45,6 +45,9 @@ def choose_schema(doc: Document, memory: FileMemoryStore, *, verbose: bool = Fal
         if verbose:
             print(f"[choose_schema] {msg}", file=sys.stderr)
 
+    if verbose:
+        os.environ["EDGAR_AI_VERBOSE"] = "1"
+
     # -------------------------------------------------------------------
     # 1. If no existing schema -> generate fresh variants & referee
     # -------------------------------------------------------------------
