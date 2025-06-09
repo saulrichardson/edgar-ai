@@ -2,7 +2,7 @@
 
 **Automated, self-improving data extraction for SEC exhibits.**
 
-Edgar-AI reads raw HTML filings straight from EDGAR and turns them into clean,
+Edgar-AI reads raw exhibits straight from EDGAR and turns them into clean,
 query-ready tables—*without* hand-written regexes, templates, or routing rules.
 An ensemble of LLM personas invents the goals, designs the schemas, extracts
 the data, critiques itself, and learns from every document it touches.
