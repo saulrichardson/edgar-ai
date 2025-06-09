@@ -4,3 +4,9 @@ archive/
 # Local run snapshots (prompts, rows) created by edgar_ai CLI
 tmp*/
 pytest-of-*/
+.pytest_cache/
+
+.env
+
+# VSCode dev container cache
+.devcontainer/
