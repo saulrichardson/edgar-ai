@@ -3,3 +3,4 @@ archive/
 .env
 # Local run snapshots (prompts, rows) created by edgar_ai CLI
 tmp*/
+pytest-of-*/
