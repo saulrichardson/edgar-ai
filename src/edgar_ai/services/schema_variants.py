@@ -41,6 +41,17 @@ def _vlog(msg: str) -> None:  # noqa: D401
 
     if os.getenv("EDGAR_AI_VERBOSE") == "1":
         print(f"[schema_variants] {msg}", file=sys.stderr)
+
+
+def _pretty_json(raw: str) -> tuple[str, bool]:  # noqa: D401
+    """Return pretty-printed JSON if *raw* parses, else raw. Bool indicates changed."""
+
+    try:
+        parsed = json.loads(raw)
+        pretty = json.dumps(parsed, ensure_ascii=False, indent=2)
+        return pretty, pretty != raw
+    except Exception:
+        return raw, False
 from ..config import settings
 from ..interfaces import Document
 
@@ -78,6 +89,19 @@ Return ONLY valid JSON with these keys:
         • rationale   – why the field matters.
 
 Do **NOT** wrap the JSON in triple back-ticks.
+
+⚠️  Exclude generic EDGAR filing metadata (e.g., CIK, file number, exhibit number) or any information that can be reliably obtained from the filing header outside the exhibit text. Focus on facts that are observable **within the exhibit itself**.
+
+Normal-form modelling:
+If any concept in the exhibit can appear more than once, represent it as a repeating structure.
+  • Define the field as an *array of objects*.
+  • Attach a *json_schema* that describes the object’s keys and primitive types.
+This rule applies universally; do not enumerate concrete instances.
+
+Additional guiding principles:
+• Observability – every field must be able to capture a value that is **verbatim** present in the exhibit text.  Omit fields that rely on external filing metadata or speculative information.
+• Granularity – prefer the smallest unit of information that is still meaningful; for example, separate interest margin for different benchmarks instead of merging them into one generic field.
+• Value–density – prioritise fields that deliver high analytical value per token.  Avoid very large arrays whose elements differ only in label (e.g., boiler-plate “Form of …” exhibit lists); use a concise summary field instead unless each element affects economics or legal obligations.
 """
 
 # Mode-specific instructions appended to the system prompt.
@@ -105,7 +129,11 @@ def _call_llm(system_prompt: str, exhibit: str, *, attempt: int = 1) -> dict:  #
     )
     raw = rsp["choices"][0]["message"].get("content", "").strip()
     if os.getenv("EDGAR_AI_VERBOSE") == "1":
-        _vlog(f"LLM response (attempt {attempt}):\n{raw}")
+        pretty, changed = _pretty_json(raw)
+        _vlog(
+            f"LLM response (attempt {attempt}):\n{pretty}\n"
+            + ("(pretty-printed)" if changed else "(verbatim)")
+        )
 
     def _clean(txt: str) -> str:  # noqa: D401 – local helper
         """Strip surrounding ```json fences if the model adds them."""
@@ -165,34 +193,32 @@ def generate_variants(doc: Document, *, minimal_only: bool = False) -> List[dict
 
         new_fields: list[dict] = []
         for fname, meta in fields_obj.items():
-            if not isinstance(meta, dict) or {
-                "description",
-                "rationale",
-            } - meta.keys():
+            if not isinstance(meta, dict) or {"description", "rationale"} - meta.keys():
                 raise RuntimeError(
                     f"Field '{fname}' in mode {mode} lacks description or rationale"
                 )
 
-        field_dict = {
-            "name": fname,
-            "description": meta["description"],
-            "rationale": meta["rationale"],
-            "required": True,
-        }
+            field_dict = {
+                "name": fname,
+                "description": meta["description"],
+                "rationale": meta["rationale"],
+                "required": True,
+            }
 
-        # If LLM provided nested structure under a key 'structure' or
-        # 'json_schema', capture it.
-        if "structure" in meta and isinstance(meta["structure"], dict):
-            field_dict["json_schema"] = meta["structure"]
-        elif "json_schema" in meta and isinstance(meta["json_schema"], dict):
-            field_dict["json_schema"] = meta["json_schema"]
+            # Preserve nested schema details if provided.
+            if "structure" in meta and isinstance(meta["structure"], dict):
+                field_dict["json_schema"] = meta["structure"]
+            elif "json_schema" in meta and isinstance(meta["json_schema"], dict):
+                field_dict["json_schema"] = meta["json_schema"]
 
-        new_fields.append(field_dict)
+            new_fields.append(field_dict)
 
-    # ------ end for fname loop ------
+        # ------ end for fname loop ------
 
-    schema_obj["fields"] = new_fields
-    variants.append(schema_obj)
+        schema_obj["fields"] = new_fields
+        variants.append(schema_obj)
+
+    # ------ end for mode loop ------
 
     return variants
 
@@ -244,8 +270,14 @@ def merge_referee(candidates: List[dict], doc: Document) -> dict:  # noqa: D401
 
     raw = rsp["choices"][0]["message"].get("content", "").strip()
     if os.getenv("EDGAR_AI_VERBOSE") == "1":
-        _vlog("Referee response:\n" + raw[:1000] + ("..." if len(raw) > 1000 else ""))
+        pretty, changed = _pretty_json(raw)
+        _vlog("Referee response:\n" + pretty + ("\n(pretty-printed)" if changed else " (verbatim)"))
     clean = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw, flags=re.S | re.I)
+
+    if os.getenv("EDGAR_AI_VERBOSE") == "1":
+        pretty, changed = _pretty_json(clean)
+        _vlog("Merge referee response:\n" + pretty + ("\n(pretty-printed)" if changed else " (verbatim)"))
+
     try:
         return json.loads(clean)
     except json.JSONDecodeError as exc:  # pragma: no cover
@@ -259,9 +291,9 @@ def merge_referee(candidates: List[dict], doc: Document) -> dict:  # noqa: D401
 _REFEREE_PROMPT = (
     "You are a meticulous reviewer. Choose the BEST extraction schema for the exhibit.\n\n"
     "Judge each candidate using these criteria (in order of importance):\n"
-    "• Information-Completeness – captures every distinct observable fact in the exhibit.\n"
-    "• Observability – values appear verbatim; avoid speculation.\n"
-    "• Normal-form – avoid redundant or duplicate fields.\n"
+    "• Observability – every field should have a value that can be found verbatim in the exhibit text. Penalise reliance on external metadata.\n"
+    "• Normal-form – avoid redundant or duplicate fields; prefer proper use of repeating structures.\n"
+    "• Information-Completeness – capture as many distinct observable facts as possible *after* satisfying the above two criteria.\n"
     "• Stability – field names remain valid if future exhibits add more items.\n"
     "• Granularity – represent each logically independent concept as its own field.\n\n"
     "Return ONLY valid JSON:\n"

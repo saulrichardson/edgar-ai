@@ -6,7 +6,8 @@ Before you begin, keep in mind:
 - If a field is missing or its value cannot be determined, use an empty string.
 
 Fields to extract:
-{% for f in fields %}- {{ f.name }}{% if f.description %} – {{ f.description }}{% endif %}
+{% for f in fields %}
+- {{ f.name }}{% if f.json_schema and f.json_schema.type == "array" %} – Return {{ f.name }} as a JSON array of objects matching this schema: {{ f.json_schema | tojson }}{% elif f.description %} – {{ f.description }}{% endif %}
 {% endfor %}
 
 The exhibit text will be provided in the next message. After reviewing it, extract all matching rows and return a JSON array of objects containing only the specified fields. Do not include any additional text or commentary.
