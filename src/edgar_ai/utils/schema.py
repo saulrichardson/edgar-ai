@@ -15,10 +15,14 @@ def schema_to_json_schema(schema: Schema) -> Dict:  # noqa: D401
 
     for field in schema.fields:
         if isinstance(field, FieldMeta):
-            properties[field.name] = {"type": "string", "description": field.description}
+            if field.json_schema:
+                properties[field.name] = field.json_schema
+            else:
+                properties[field.name] = {"type": "string", "description": field.description}
+
             if field.required:
                 required.append(field.name)
-        else:  # pragma: no cover – fallback for legacy list[str]
+        else:  # pragma: no cover – legacy string
             properties[str(field)] = {"type": "string"}
             required.append(str(field))
 

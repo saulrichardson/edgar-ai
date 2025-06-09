@@ -148,14 +148,21 @@ def generate_variants(doc: Document, *, minimal_only: bool = False) -> List[dict
                     f"Field '{fname}' in mode {mode} lacks description or rationale"
                 )
 
-            new_fields.append(
-                {
-                    "name": fname,
-                    "description": meta["description"],
-                    "rationale": meta["rationale"],
-                    "required": True,
-                }
-            )
+        field_dict = {
+            "name": fname,
+            "description": meta["description"],
+            "rationale": meta["rationale"],
+            "required": True,
+        }
+
+        # If LLM provided nested structure under a key 'structure' or
+        # 'json_schema', capture it.
+        if "structure" in meta and isinstance(meta["structure"], dict):
+            field_dict["json_schema"] = meta["structure"]
+        elif "json_schema" in meta and isinstance(meta["json_schema"], dict):
+            field_dict["json_schema"] = meta["json_schema"]
+
+        new_fields.append(field_dict)
 
         schema_obj["fields"] = new_fields
         variants.append(schema_obj)
@@ -167,13 +174,18 @@ def generate_variants(doc: Document, *, minimal_only: bool = False) -> List[dict
 # Referee – pick the winning schema
 # ---------------------------------------------------------------------------
 
-_REFEREE_PROMPT = """You are a meticulous reviewer. Choose the BEST extraction schema for the exhibit. Return ONLY valid JSON:
-{
-  "winner_index": <integer 0-based index of the best schema>,
-  "reason": "single sentence rationale"
-}
-If two schemas are equally valid, prefer the one with **fewer** fields.
-"""
+_REFEREE_PROMPT = (
+    "You are a meticulous reviewer. Choose the BEST extraction schema for the exhibit.\n\n"
+    "Judge each candidate using these criteria (in order of importance):\n"
+    "• Coverage – captures all *distinct* observable concepts present in the exhibit.\n"
+    "• Purpose-first – every field supports key analytical questions.\n"
+    "• Observability – values appear verbatim; avoid speculation.\n"
+    "• Normal-form & Compression – compact, non-redundant structure.\n"
+    "• Stability – field names remain valid if future exhibits add more items.\n\n"
+    "Return ONLY valid JSON:\n"
+    "{\n  \"winner_index\": <integer 0-based index of the best schema>,\n  \"reason\": \"single sentence rationale\"\n}\n"
+    "If two schemas are equally valid, prefer the one with **fewer** fields.\n"
+)
 
 
 def referee(candidates: List[dict], doc: Document) -> Tuple[int, str]:  # noqa: D401

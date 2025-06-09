@@ -33,12 +33,14 @@ class FieldCandidate(BaseModel):
 
 
 class FieldMeta(BaseModel):
-    """Rich metadata for a schema field."""
+    """Rich metadata for a schema field (domain-agnostic)."""
 
     name: str
     description: str = ""
     rationale: str = ""
     required: bool = True
+    # Optional JSON-Schema fragment defining nested structure / data type.
+    json_schema: Dict[str, Any] | None = None
 
 
 class Schema(BaseModel):
