@@ -156,11 +156,12 @@ def referee(candidates: List[dict], doc: Document) -> Tuple[int, str]:  # noqa: 
         raise RuntimeError("LLM gateway URL not configured; cannot run schema referee")
 
     numbered = [f"Schema {i}:\n```json\n{json.dumps(c, ensure_ascii=False, indent=2)}\n```" for i, c in enumerate(candidates)]
+
     user_msg = (
-        "Here are the candidate schemas:\n\n"
+        "Here are the candidate schemas. Read the full exhibit before choosing the best fit.\n\n"
         + "\n\n".join(numbered)
-        + "\n\nEXHIBIT:\n\n\"\"\"\n"
-        + doc.text[:4000]  # pass at most 4k chars to fit context
+        + "\n\nEXHIBIT (full text):\n\n\"\"\"\n"
+        + doc.text
         + "\n\"\"\""
     )
 
