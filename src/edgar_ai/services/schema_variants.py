@@ -29,6 +29,7 @@ callers fail fast in misconfigured environments.
 from __future__ import annotations
 
 import json
+import re
 from typing import List, Tuple
 
 from ..clients import llm_gateway
@@ -49,7 +50,7 @@ General principles to apply in EVERY schema you design
 • Stability – choose names that stay valid even if new, similar items appear.
 • Compression – when multiple labelled items share identical attributes, group them in one object/array rather than one flat field per label-attribute.
 
-IMPORTANT: Do NOT include your reasoning in the response – return ONLY valid JSON.
+IMPORTANT: Do **NOT** include your reasoning **or** wrap the JSON in triple back-ticks. Return ONLY valid JSON.
 
 The JSON must have these keys:
   1. overview   – 1-10 sentence purpose of the extraction.
@@ -81,8 +82,16 @@ def _call_llm(system_prompt: str, exhibit: str) -> dict:  # noqa: D401 – helpe
     )
     raw = rsp["choices"][0]["message"]["content"].strip()
 
+    def _clean(txt: str) -> str:  # noqa: D401 – local helper
+        """Strip surrounding ```json fences if the model adds them."""
+
+        m = re.match(r"```(?:json)?\s*(.*)\s*```", txt, flags=re.S | re.I)
+        return m.group(1) if m else txt
+
+    clean = _clean(raw)
+
     try:
-        return json.loads(raw)
+        return json.loads(clean)
     except json.JSONDecodeError as exc:
         raise RuntimeError(f"Variant LLM returned non-JSON: {raw!r}") from exc
 
@@ -97,8 +106,26 @@ def generate_variants(doc: Document, *, minimal_only: bool = False) -> List[dict
     modes = ["balanced"] if minimal_only else ["maximalist", "minimalist", "balanced"]
     variants: List[dict] = []
     for mode in modes:
-        system_prompt = _VARIANT_SYSTEM_TEMPLATE + "\n\n" + _MODE_INSTRUCTIONS[mode]
-        schema_obj = _call_llm(system_prompt, doc.text)
+        base_prompt = _VARIANT_SYSTEM_TEMPLATE + "\n\n" + _MODE_INSTRUCTIONS[mode]
+
+        schema_obj = None
+        for attempt in range(1, settings.goal_setter_max_retries + 1):
+            system_prompt = base_prompt
+            if attempt > 1:
+                system_prompt += (
+                    "\n\n⚠️ Your last response was not valid JSON. "
+                    "Return ONLY the JSON object in the format requested."
+                )
+
+            try:
+                schema_obj = _call_llm(system_prompt, doc.text)
+                break
+            except RuntimeError as exc:
+                # Propagate if we've exhausted retries
+                if attempt == settings.goal_setter_max_retries:
+                    raise
+
+        assert schema_obj is not None  # for mypy
 
         # Basic sanity checks – ensure mandatory keys are present
         for key in ("overview", "topics", "fields"):

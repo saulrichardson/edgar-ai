@@ -55,6 +55,9 @@ class Settings(BaseSettings):
     prompt_builder_temperature: float = 0.3
     simulate: bool = False  # offline / deterministic mode
 
+    # HTTP timeout (seconds) for calls to the LLM gateway – default 5 minutes
+    gateway_timeout: int = 300
+
     # Toggle to inject additional guiding principles into Goal-Setter prompts
     extra_principles: bool = True  # EDGAR_AI_EXTRA_PRINCIPLES
 

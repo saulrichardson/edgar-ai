@@ -36,6 +36,6 @@ def chat_completions(model: str, messages: List[Dict[str, str]], **kwargs: Any) 
         **kwargs,
     }
 
-    resp = requests.post(url, json=payload, timeout=30)
+    resp = requests.post(url, json=payload, timeout=settings.gateway_timeout)
     resp.raise_for_status()
     return resp.json()
