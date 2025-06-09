@@ -31,6 +31,7 @@ from __future__ import annotations
 import json
 import re
 from typing import List, Tuple
+import os
 
 from ..clients import llm_gateway
 from ..config import settings
@@ -41,21 +42,22 @@ from ..interfaces import Document
 # ---------------------------------------------------------------------------
 
 
-_VARIANT_SYSTEM_TEMPLATE = """You are an expert legal data architect. Your task is to propose an **extraction schema** for a single SEC exhibit.
+# ---------------------------------------------------------------------------
+# NOTE: The following design principles used to be injected directly into the
+# LLM system prompt but have been removed to allow the model more freedom in
+# enumerating fields.  They are preserved here for documentation/reference:
+#   • Information-Completeness – capture every distinct observable fact.
+#   • Observability – prefer verbatim values.
+#   • Normal-form – avoid redundant fields; normalise repeating sub-structures.
+#   • Stability – field names should remain valid as exhibits evolve.
+#   • Granularity – one field per independent concept.
+#   • Avoid merging unrelated concepts into one composite field.
+# ---------------------------------------------------------------------------
 
-General principles to apply in EVERY schema you design
-• Information-Completeness – capture every objectively distinct, observable fact as its own field.
-• Observability – prefer values stated verbatim; avoid speculative / inferred data.
-• Normal-form – avoid compound blob fields; normalise repeating sub-structures.
-• Stability – choose names that stay valid even if new, similar items appear.
-• Granularity – represent each logically independent concept as its own field.
-• Do NOT merge unrelated concepts into a single composite field; distinct concepts deserve distinct fields.
-• Compression – when multiple labelled items share identical attributes, group them in one object/array rather than one flat field per label-attribute.
+_VARIANT_SYSTEM_TEMPLATE = """You are an expert data architect tasked with proposing an **extraction schema** for a single SEC exhibit.
 
-IMPORTANT: Do **NOT** include your reasoning **or** wrap the JSON in triple back-ticks. Return ONLY valid JSON.
-
-The JSON must have these keys:
-  1. overview   – 1-10 sentence purpose of the extraction.
+Return ONLY valid JSON (no code fences, no commentary) with these keys:
+  1. overview   – 1-10 sentence summary of what the schema captures.
   2. topics     – array of short thematic strings.
   3. fields     – an *object* mapping each snake_case field name to another object with:
         • description – one sentence business meaning.
@@ -173,21 +175,69 @@ def generate_variants(doc: Document, *, minimal_only: bool = False) -> List[dict
 
 
 # ---------------------------------------------------------------------------
+# Merge-Referee – synthesise a new schema from all candidates
+# ---------------------------------------------------------------------------
+
+
+def merge_referee(candidates: List[dict], doc: Document) -> dict:  # noqa: D401
+    """Return a **merged** schema created by the LLM from *candidates*."""
+
+    if not settings.llm_gateway_url:
+        raise RuntimeError("LLM gateway URL not configured; cannot run merge referee")
+
+    numbered = [
+        f"Schema {i}:\n```json\n{json.dumps(c, ensure_ascii=False, indent=2)}\n```" for i, c in enumerate(candidates)
+    ]
+
+    user_msg = (
+        "Here are multiple candidate schemas. Merge them into a single BEST schema following the rules.\n\n"
+        + "\n\n".join(numbered)
+        + "\n\nEXHIBIT (full text):\n```text\n"
+        + doc.text
+        + "\n```"
+    )
+
+    system_msg = (
+        "You are a senior data-architect. Merge the candidate schemas. Rules:\n"
+        "• Keep every distinct field that is observable in the exhibit.\n"
+        "• If two fields are duplicates, keep the clearer name.\n"
+        "• Preserve descriptions and rationales; you may edit wording for clarity.\n"
+        "• If fields naturally repeat, group them using an array/object and set json_schema accordingly.\n"
+        "Return ONLY valid JSON with keys overview, topics and fields (list of objects). Do NOT wrap the JSON in triple back-ticks."
+    )
+
+    rsp = llm_gateway.chat_completions(
+        model=settings.model_goal_setter,
+        messages=[
+            {"role": "system", "content": system_msg},
+            {"role": "user", "content": user_msg},
+        ],
+        temperature=settings.goal_setter_temperature,
+    )
+
+    raw = rsp["choices"][0]["message"]["content"].strip()
+    clean = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw, flags=re.S | re.I)
+    try:
+        return json.loads(clean)
+    except json.JSONDecodeError as exc:  # pragma: no cover
+        raise RuntimeError("Merge-Referee returned invalid JSON") from exc
+
+
+# ---------------------------------------------------------------------------
 # Referee – pick the winning schema
 # ---------------------------------------------------------------------------
 
 _REFEREE_PROMPT = (
     "You are a meticulous reviewer. Choose the BEST extraction schema for the exhibit.\n\n"
     "Judge each candidate using these criteria (in order of importance):\n"
-    "• Coverage – captures all *distinct* observable concepts present in the exhibit.\n"
+    "• Information-Completeness – captures every distinct observable fact in the exhibit.\n"
     "• Observability – values appear verbatim; avoid speculation.\n"
-    "• Normal-form & Compression – compact, non-redundant structure.\n"
+    "• Normal-form – avoid redundant or duplicate fields.\n"
     "• Stability – field names remain valid if future exhibits add more items.\n"
-    "• Granularity – represent each logically independent concept as its own field.\n"
-    "• Avoid over-compression – do NOT combine unrelated concepts into one composite field.\n\n"
+    "• Granularity – represent each logically independent concept as its own field.\n\n"
     "Return ONLY valid JSON:\n"
     "{\n  \"winner_index\": <integer 0-based index of the best schema>,\n  \"reason\": \"single sentence rationale\"\n}\n"
-    "If two schemas are equally strong on coverage and observability, then prefer the one with fewer redundant fields.\n"
+    "If two schemas are equally strong on the above criteria, prefer the one with clearer naming.\n"
 )
 
 
