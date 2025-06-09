@@ -44,7 +44,7 @@ from ..interfaces import Document
 _VARIANT_SYSTEM_TEMPLATE = """You are an expert legal data architect. Your task is to propose an **extraction schema** for a single SEC exhibit.
 
 General principles to apply in EVERY schema you design
-• Purpose-first – include only fields an analyst needs to answer the exhibit’s key question.
+• Information-Completeness – capture every objectively distinct, observable fact as its own field.
 • Observability – prefer values stated verbatim; avoid speculative / inferred data.
 • Normal-form – avoid compound blob fields; normalise repeating sub-structures.
 • Stability – choose names that stay valid even if new, similar items appear.
@@ -180,7 +180,6 @@ _REFEREE_PROMPT = (
     "You are a meticulous reviewer. Choose the BEST extraction schema for the exhibit.\n\n"
     "Judge each candidate using these criteria (in order of importance):\n"
     "• Coverage – captures all *distinct* observable concepts present in the exhibit.\n"
-    "• Purpose-first – every field supports key analytical questions.\n"
     "• Observability – values appear verbatim; avoid speculation.\n"
     "• Normal-form & Compression – compact, non-redundant structure.\n"
     "• Stability – field names remain valid if future exhibits add more items.\n"
