@@ -102,6 +102,7 @@ Additional guiding principles:
 • Observability – every field must be able to capture a value that is **verbatim** present in the exhibit text.  Omit fields that rely on external filing metadata or speculative information.
 • Granularity – prefer the smallest unit of information that is still meaningful; for example, separate interest margin for different benchmarks instead of merging them into one generic field.
 • Value–density – prioritise fields that deliver high analytical value per token.  Avoid very large arrays whose elements differ only in label (e.g., boiler-plate “Form of …” exhibit lists); use a concise summary field instead unless each element affects economics or legal obligations.
+• Operative parameters – when a field represents a constraint, obligation, or threshold, capture the key parameters (amounts, ratios, dates, grace periods) that determine compliance—avoid fields that carry only a label without the underlying value.
 """
 
 # Mode-specific instructions appended to the system prompt.
