@@ -15,6 +15,10 @@ from __future__ import annotations
 import json
 from typing import List
 
+# stdlib
+import sys
+
+# third-party / internal
 from ..interfaces import Document
 from ..memory import FileMemoryStore, SchemaRecord
 from ..services import schema_variants
@@ -24,7 +28,7 @@ from ..services import schema_variants
 # ---------------------------------------------------------------------------
 
 
-def choose_schema(doc: Document, memory: FileMemoryStore) -> dict:  # noqa: D401
+def choose_schema(doc: Document, memory: FileMemoryStore, *, verbose: bool = False) -> dict:  # noqa: D401
     """Return a schema dict appropriate for *doc*.
 
     If the local memory store already contains a schema that should apply, we
@@ -34,12 +38,21 @@ def choose_schema(doc: Document, memory: FileMemoryStore) -> dict:  # noqa: D401
 
     existing_records: List[SchemaRecord] = memory.list_schema_records()
 
+    def _log(msg: str) -> None:  # local helper respecting verbose flag
+        if verbose:
+            print(f"[choose_schema] {msg}", file=sys.stderr)
+
     # -------------------------------------------------------------------
     # 1. If no existing schema -> generate fresh variants & referee
     # -------------------------------------------------------------------
     if not existing_records:
+        _log("No stored schema – generating variants (maximalist/minimalist/balanced)…")
         variants = schema_variants.generate_variants(doc)
-        winner_idx, _reason = schema_variants.referee(variants, doc)
+        for i, v in enumerate(variants):
+            _log(f"Variant {i}: {len(v['fields'])} fields – overview: {v.get('overview','')[:80]}…")
+
+        winner_idx, reason = schema_variants.referee(variants, doc)
+        _log(f"Referee selected variant {winner_idx} → {reason}")
         winning_schema = variants[winner_idx]
 
         schema_id = f"schema_{len(existing_records) + 1}"
@@ -55,11 +68,14 @@ def choose_schema(doc: Document, memory: FileMemoryStore) -> dict:  # noqa: D401
 
     # We ask Variant-Generator for *at most* one balanced proposal so the
     # referee has a challenger if the stored ones are stale.
+    _log(f"{len(existing_records)} stored schema(s) found – generating one challenger variant…")
     challenger_variants = schema_variants.generate_variants(doc, minimal_only=True)
+    _log("Challenger variant created.")
 
     all_candidates = stored_schemas + challenger_variants
 
-    winner_idx, _reason = schema_variants.referee(all_candidates, doc)
+    winner_idx, reason = schema_variants.referee(all_candidates, doc)
+    _log(f"Referee chose schema index {winner_idx} (new: {winner_idx >= len(stored_schemas)}) – {reason}")
 
     winning_schema = all_candidates[winner_idx]
 

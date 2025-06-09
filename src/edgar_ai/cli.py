@@ -156,7 +156,7 @@ def main(argv: List[str] | None = None) -> None:  # noqa: D401
         for idx, doc in enumerate(documents, start=1):
             _log(f"[{idx}/{len(documents)}] Processing {doc.doc_id}")
 
-            schema_dict = _choose_schema(doc, memory)
+            schema_dict = _choose_schema(doc, memory, verbose=verbose)
 
             # Create stable hash for snapshot naming
             schema_hash = hashlib.sha256(_json.dumps(schema_dict, sort_keys=True).encode()).hexdigest()[:12]
