@@ -20,13 +20,9 @@ from edgar_ai.services import (  # noqa: E402  pylint: disable=wrong-import-posi
 
 
 def test_service_chain():
-    docs = intake.run(["demo exhibit text"])
-    candidates = discoverer.run(docs)
-    schema = schema_synth.run(candidates)
-    prompt = prompt_builder.run(schema)
-
-    # Mock LLM gateway call
+    # Mock LLM gateway call for both prompt_builder and extractor
     from edgar_ai.clients import llm_gateway
+    from edgar_ai.config import settings as config_settings
 
     def _fake_chat(**kwargs):
         return {
@@ -47,8 +43,14 @@ def test_service_chain():
         }
 
     llm_gateway.chat_completions = _fake_chat  # type: ignore
-    extractor_settings = __import__("importlib").import_module("edgar_ai.config").settings
-    extractor_settings.llm_gateway_url = "http://dummy"
+    config_settings.llm_gateway_url = "http://dummy"
+
+    docs = intake.run(["demo exhibit text"])
+    candidates = discoverer.run(docs)
+    schema = schema_synth.run(candidates)
+    # Use a dummy goal matching the stubbed content
+    goal = {"overview": "demo", "topics": [], "fields": []}
+    prompt = prompt_builder.run(schema, goal)
 
     rows = extractor.run(docs, prompt)
     assert rows and rows[0].data["company_name"] == "ACME"

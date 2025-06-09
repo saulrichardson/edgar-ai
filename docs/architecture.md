@@ -105,7 +105,7 @@ changes.
 | Goal-Setter        | STUB   | Replace with LLM call via gateway |
 | Field-Discoverer   | STUB   | LLM lists `{field, snippet}`     |
 | Schema-Synthesizer | STUB   | LLM clusters & types fields      |
-| Prompt-Writer      | STATIC | Ask LLM to generate function-calling prompt |
+| Prompt-Writer      | LLM    | Generate extraction prompt via LLM based on goal and schema |
 | Extractor          | PARTIAL| Parse real tool_calls JSON       |
 | Critic             | STUB   | LLM grades rows, pulls memory    |
 | Tutor              | NOP    | LLM rewrites challenger prompt   |

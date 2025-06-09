@@ -286,7 +286,7 @@ The table below describes **every service module currently in `src/edgar_ai/serv
 | `goal_setter.run(documents)` | Calls gateway (requires `EDGAR_AI_LLM_GATEWAY_URL`) | Read sample exhibits and draft / evolve a high-level *objective*. | **Seed text provided once**; LLM self-updates later. |
 | `discoverer.run(documents)` | **STUB:** returns 3 sample field candidates. | Identify every atomic fact worth extracting. | No |
 | `schema_synth.run(candidates)` | **STUB:** copies field names. | Cluster synonyms, assign types, output minimal JSON Schema. | No |
-| `prompt_builder.run(schema, goal)` | **STUB:** renders simple Jinja template.  **TODO:** call LLM *Prompt-Engineer* to emit OpenAI function-calling prompt. | Craft optimal extraction prompt + function schema. | No |
+| `prompt_builder.run(schema, goal)` | **LLM:** calls gateway to author function-calling prompt based on goal and schema. | Craft optimal extraction prompt + function schema. | No |
 | `extractor.run(docs, prompt)` | Calls gateway **if** `EDGAR_AI_LLM_GATEWAY_URL` set, else stub row. | Use function-calling to emit JSON rows. | No |
 | `critic.run(rows)` | **STUB:** “Looks good”.  **TODO:** call LLM Critic to grade rows, pull past mistakes from memory. | Score rows 0-1 + feedback. | **Optional human escalation path.** |
 | `tutor.run(notes)` | No-op.  **TODO:** LLM rewrites prompt based on critic notes. | Rewrite challenger prompt. | No |

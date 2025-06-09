@@ -50,6 +50,9 @@ class Settings(BaseSettings):
     goal_setter_max_retries: int = 3
     model_extractor: str = "gpt-4.1"
     model_critic: str = "o4-mini"
+    # Prompt-Builder LLM model & temperature for dynamic prompt engineering
+    model_prompt_builder: str = "o4-mini"
+    prompt_builder_temperature: float = 0.3
     simulate: bool = False  # offline / deterministic mode
 
     model_config = SettingsConfigDict(

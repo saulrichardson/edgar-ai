@@ -1,34 +1,40 @@
 """Prompt-Builder persona.
 
-Current state: **deterministic Jinja2 template**.
-
-Road-map: replace with an LLM call so the model itself writes the extraction
-prompt.  The future implementation will:
-
-1. Receive a *high-level goal* string from Goal-Setter and a `Schema`.
-2. Ask the LLM (via gateway) to craft the *best* function-calling prompt that
-   fulfils that goal and schema.
-3. Return that generated prompt.
-
-Until the Critic/Tutor loop is online we keep the static template so the rest
-of the pipeline remains runnable.
+Given a high-level extraction goal and schema, generate the optimal
+function-calling prompt for the extractor LLM via the gateway.
 """
 
 from __future__ import annotations
 
-from importlib import resources
+import json
 
-from jinja2 import Template
-
+from ..clients import llm_gateway
+from ..config import settings
 from ..interfaces import Prompt, Schema
 
+_SYSTEM_PROMPT = """You are a prompt engineering assistant. Given a high-level extraction goal and a JSON schema that defines the fields to extract, generate a system prompt to instruct an LLM to extract the specified fields from a document using OpenAI function-calling.
+Return ONLY the final prompt text (no commentary).
 
-_TEMPLATE_PATH = resources.files("edgar_ai.prompts").joinpath("extractor.jinja")
+GOAL:
+{goal}
 
+SCHEMA:
+{schema}
+"""
 
-def run(schema: Schema) -> Prompt:  # noqa: D401
-    """Render the extraction prompt for the provided *schema*."""
+def run(schema: Schema, goal: dict) -> Prompt:  # noqa: D401
+    """Generate an extraction prompt for the provided goal and schema via LLM."""
+    if not settings.llm_gateway_url:
+        raise RuntimeError("LLM gateway URL not configured; cannot run Prompt-Builder")
 
-    tpl_text = _TEMPLATE_PATH.read_text(encoding="utf-8")
-    text = Template(tpl_text).render(fields=schema.fields)
-    return Prompt(text=text, schema_def=schema)
+    input_content = _SYSTEM_PROMPT.format(
+        goal=json.dumps(goal, ensure_ascii=False),
+        schema=json.dumps({"fields": schema.fields}, ensure_ascii=False),
+    )
+    response = llm_gateway.chat_completions(
+        model=settings.model_prompt_builder,
+        messages=[{"role": "user", "content": input_content}],
+        temperature=settings.prompt_builder_temperature,
+    )
+    content = response["choices"][0]["message"]["content"].strip()
+    return Prompt(text=content, schema_def=schema)

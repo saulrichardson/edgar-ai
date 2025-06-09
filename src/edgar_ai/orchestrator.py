@@ -40,8 +40,8 @@ def run_once(html_batch: List[str]) -> List[Row]:  # noqa: D401
     for doc in documents:
         raw_lake.put(doc.doc_id, doc.text)
 
-    # 2. Goal setting (not used further but completes DAG)
-    _ = goal_setter.run(documents)
+    # 2. Goal setting: determine the extraction objective for downstream prompts
+    goal = goal_setter.run(documents)
 
     # 3. Discover field candidates
     candidates = discoverer.run(documents)
@@ -50,7 +50,7 @@ def run_once(html_batch: List[str]) -> List[Row]:  # noqa: D401
     schema = schema_synth.run(candidates)
 
     # 5. Build prompt
-    prompt = prompt_builder.run(schema)
+    prompt = prompt_builder.run(schema, goal)
 
     # 6. Extract rows
     rows: List[Row] = extractor.run(documents, prompt)
