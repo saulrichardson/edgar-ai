@@ -27,6 +27,15 @@ the data, critiques itself, and learns from every document it touches.
 └───────────┬───────────────────────┘
             │ objective JSON
             ▼
+        (Memory lookup) ──┐  schema found? ────────────────┐
+                          │                               │
+                          ▼                               │
+┌────────── Prompt-Builder ──────────┐                    │
+│  (warm-start): reuse stored schema │                    │
+└───────────┬────────────────────────┘                    │
+            │                                             │
+            │ no schema                                   │
+            ▼                                             │
 ┌──────── Schema Variants ─────────┐        ┌── Breaker (adversarial drafts)
 │ 3 candidate schemas (max/mini/bal)│       │   keep system on its toes
 └───────────┬───────────────────────┘        └─────────────────────────────┐
