@@ -74,8 +74,13 @@ more accurate**—all by prompt evolution, never by re-training model weights.
 1. **Goal-Setter** – Reads only the exhibit text, decides the single most
    valuable analytical objective, and outputs a concise JSON goal.
 
-2. **Schema Variants** – With the new prompt rules (observability, granularity,
-   normal-form arrays), three schemas are proposed.
+2. **Schema lookup (warm-start)** – If Memory already holds a schema whose
+   goal_id matches the current document, we reuse it and jump **directly to
+   extraction** – saving three LLM calls.  Otherwise we enter the cold-start
+   path:
+
+   **Schema Variants** – With the new prompt rules (observability, granularity,
+   normal-form arrays), three candidate schemas are generated.
 
 3. **Referee** – Judges the variants against explicit criteria and saves the
    winner in a file-backed Memory store.  If none is adequate a merge path can
