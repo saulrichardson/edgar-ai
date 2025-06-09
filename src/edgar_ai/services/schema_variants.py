@@ -48,6 +48,8 @@ General principles to apply in EVERY schema you design
 • Observability – prefer values stated verbatim; avoid speculative / inferred data.
 • Normal-form – avoid compound blob fields; normalise repeating sub-structures.
 • Stability – choose names that stay valid even if new, similar items appear.
+• Granularity – represent each logically independent concept as its own field.
+• Do NOT merge unrelated concepts into a single composite field; distinct concepts deserve distinct fields.
 • Compression – when multiple labelled items share identical attributes, group them in one object/array rather than one flat field per label-attribute.
 
 IMPORTANT: Do **NOT** include your reasoning **or** wrap the JSON in triple back-ticks. Return ONLY valid JSON.
@@ -181,10 +183,12 @@ _REFEREE_PROMPT = (
     "• Purpose-first – every field supports key analytical questions.\n"
     "• Observability – values appear verbatim; avoid speculation.\n"
     "• Normal-form & Compression – compact, non-redundant structure.\n"
-    "• Stability – field names remain valid if future exhibits add more items.\n\n"
+    "• Stability – field names remain valid if future exhibits add more items.\n"
+    "• Granularity – represent each logically independent concept as its own field.\n"
+    "• Avoid over-compression – do NOT combine unrelated concepts into one composite field.\n\n"
     "Return ONLY valid JSON:\n"
     "{\n  \"winner_index\": <integer 0-based index of the best schema>,\n  \"reason\": \"single sentence rationale\"\n}\n"
-    "If two schemas are equally valid, prefer the one with **fewer** fields.\n"
+    "If two schemas are equally strong on coverage and observability, then prefer the one with fewer redundant fields.\n"
 )
 
 
