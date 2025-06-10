@@ -102,11 +102,11 @@ changes.
 
 | Component          | Status | Next step |
 |--------------------|--------|-----------|
-| Goal-Setter        | STUB   | Replace with LLM call via gateway |
-| Field-Discoverer   | STUB   | LLM lists `{field, snippet}`     |
-| Schema-Synthesizer | STUB   | LLM clusters & types fields      |
+| Goal-Setter        | LLM    | Generate JSON goal via LLM based on exhibit text |
+| Field-Discoverer   | LLM    | Generate field candidates (`name`, `description`, `rationale`) via LLM (schema_variants) |
+| Schema-Synthesizer | LLM    | Refine and merge candidates into JSON schema via LLM (schema_variants referee/merge_referee) |
 | Prompt-Writer      | LLM    | Generate extraction prompt via LLM based on goal and schema |
-| Extractor          | PARTIAL| Parse real tool_calls JSON       |
+| Extractor          | LLM    | Extract via function-calling and parse real `tool_calls` JSON into rows |
 | Critic             | STUB   | LLM grades rows, pulls memory    |
 | Tutor              | NOP    | LLM rewrites challenger prompt   |
 | Governor           | STUB   | LLM promotes based on critic avg |
