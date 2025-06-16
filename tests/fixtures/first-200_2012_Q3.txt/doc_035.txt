@@ -1,0 +1,1577 @@
+
+loan and security agreement exhibit 10.1 loan and security agreement this loan and security agreement (this
+“agreement”), dated as of september 5, 2012 (the “closing date”) by and among midcap financial sbic, lp, a delaware
+limited partnership (“midcap”), as administrative agent (“agent”), the lenders listed on schedule 1 hereto and otherwise
+party hereto from time to time (each a “lender”, and collectively the “lenders”), and kalobios pharmaceuticals, inc., a
+delaware corporation (“borrower”), provides the terms on which lenders agree to lend to borrower and borrower shall
+repay lenders. the parties agree as follows: 1. accounting and other terms accounting terms not defined in this
+agreement shall be construed in accordance with gaap. calculations and determinations must be made in accordance with
+gaap. capitalized terms not otherwise defined in this agreement shall have the meanings set forth in section 14. all
+other terms contained in this agreement, unless otherwise indicated, shall have the meaning provided by the code to the
+extent such terms are defined therein. 2. loan and terms of payment 2.1 promise to pay. borrower hereby unconditionally
+promises to pay to agent, for payment to each lender in accordance with its respective pro rata share, the outstanding
+principal amount of all credit extensions made by the lenders, and accrued and unpaid interest thereon, and any other
+amounts due hereunder as and when due in accordance with this agreement. 2.2 term loans. (a) availability. subject to
+the terms and conditions of this agreement, during the draw period, the lenders agree, severally and not jointly, to
+make one or more term loans to borrower in an aggregate amount up to fifteen million dollars ($15,000,000) according to
+each lender’s term loan commitment as set forth on schedule 1 hereto (such term loans are hereinafter referred to singly
+as a “term loan”, and collectively as the “term loans”). after repayment, no term loan may be re-borrowed. the term
+loans shall be available in three (3) tranches. the first tranche (“tranche one”) shall be in an amount not less than
+five million dollars ($5,000,000), but not to exceed ten million dollars ($10,000,000), and shall be advanced on the
+closing date. the second tranche (“tranche two”) shall be in an amount equal to ten million dollars ($10,000,000) less
+the amount advanced under tranche one, and shall be available to be advanced in a single advance during the draw period.
+the third tranche (“tranche three”) shall be in amount equal to five million dollars ($5,000,000) and shall be available
+in a single advance during the draw period. notwithstanding anything set forth herein to the contrary, it is understood
+and agreed that borrower is required to draw not less than ten million dollar ($10,000,000) on or prior to the draw
+period termination date. subject to the terms and conditions set forth in section 12.1, borrower may not assign its
+right to request the term loans. (b) interest payments and repayment. commencing on the first (1st) payment date
+following the funding date of tranche one, of tranche two and tranche three, respectively, and continuing on the payment
+date of each successive month thereafter through and including the maturity date, borrower shall make monthly payments
+of interest to agent, for payment to each lender in accordance with its respective pro rata share, in arrears, and
+calculated as set forth in section 2.3. commencing on the amortization date, and continuing on the payment date of each
+successive month thereafter through and including the maturity date, borrower shall make consecutive monthly payments of
+principal to agent, for payment to each lender in accordance with its respective pro rata share, as calculated by agent
+based upon: (i) the amount of such lender’s term loans, (ii) the effective rate of interest, as determined in section
+2.3, and (iii) a straight-line amortization schedule for each credit extension beginning on the amortization date and
+ending on the maturity date. all unpaid principal and accrued interest with respect to the term loans is due and payable
+in full on the maturity date. the term loans may be prepaid only in accordance with sections 2.2(c) and 2.2(d). (c)
+mandatory prepayments. if the term loans are accelerated following the occurrence of an event of default, borrower shall
+immediately pay to agent, for payment to each lender in accordance with its respective pro rata share, an amount equal
+to the sum of: (i) all outstanding principal of the term loans and all other obligations, and all accrued and unpaid
+interest thereon, plus (ii) the final payment, plus (iii) the prepayment fee, plus (iv) all other sums that shall have
+become due and payable, including lenders’ expenses. (d) permitted prepayment of loans. borrower shall have the option
+to prepay all or a portion of the term loans advanced by the lenders under this agreement; provided, however, that
+borrower (i) provides written notice to agent of its election to prepay the term loans at least thirty (30) days prior
+to such prepayment, and (ii) pays to agent, for payment to each lender in accordance with its respective pro rata share,
+on the date of such prepayment, an amount equal to the sum of: (a) all amount of the term loan and obligations (plus
+accrued and unpaid interest thereon) being prepaid, plus (b) the final payment applicable to the amount being prepaid,
+plus (c) the prepayment fee applicable to the amount being prepaid, plus (d) all other sums that shall have become due
+and payable, including lenders’ expenses. 2.3 payment of interest on the credit extensions. (a) computation of interest.
+interest on the credit extensions and all fees payable hereunder shall be computed on the basis of a 360-day year and
+the actual number of days elapsed in the period during which such interest accrues. in computing interest on any credit
+extension, the date of the making of such credit extension shall be included and the date of payment shall be excluded;
+provided, however, that if any credit extension is repaid on the same day on which it is made, such day shall be
+included in computing interest on such credit extension. (b) interest rate determination. subject to the provisions of
+section 2.3(c) below, each term loan shall bear interest on the outstanding principal amount thereof from the date when
+made until paid in full at a rate per annum equal to the sum of (i) the greater of (a) the libor rate in effect for the
+applicable interest period and (b) three percent (3.00%), plus (ii) the libor rate margin adjusted on the first (1st)
+day of each interest period and fixed for the duration of each such interest period. as of each interest rate
+determination date, agent shall determine (which determination shall, absent manifest error in calculation, be final,
+conclusive and binding upon all parties) the interest rate that shall apply to the term loan for which an interest rate
+is then being determined for the applicable interest period. in the event that agent shall have determined (which
+determination shall be final and conclusive and binding upon all parties hereto), as of any interest rate determination
+date with respect to any term loan, that adequate and fair means do not exist for ascertaining the interest rate
+applicable to such term loan on the basis provided for in the definition of base libor rate, then agent may select a
+comparable replacement index and corresponding margin. (c) default rate. immediately upon the occurrence and during the
+continuance of an event of default, obligations shall bear interest at a rate per annum that is five percent (5.0%)
+above the rate that is otherwise applicable thereto (the “default rate”). payment or acceptance of the increased
+interest rate provided in this section 2.3(c) is not a permitted alternative to timely payment and shall not constitute
+a waiver of any event of default or otherwise prejudice or limit any rights or remedies of agent or lenders. (d) debit
+of accounts. agent may debit any of borrower’s deposit accounts, including the designated deposit account, for principal
+and interest payments when due or any other amounts borrower owes the lenders under the loan documents when due, for
+payment to each lender in accordance with its respective pro rata share. these debits shall not constitute a set-off.
+(e) payments. payments of principal and/or interest received after 12:00 noon eastern time are considered received at
+the opening of business on the next business day. when a payment is due on a day that is not a business day, the payment
+is due the next business day and additional fees or interest, as applicable, shall continue to accrue until paid. all
+payments to be made by borrower hereunder or under any other loan document, including payments of principal and interest
+made hereunder and pursuant to any other loan document, and all fees, expenses, indemnities and reimbursements, shall be
+made without set-off, recoupment or counterclaim, in lawful money of the united states and in immediately available
+funds. all payments required under this agreement are to be made directly to agent unless otherwise directed by agent in
+writing. 2 (f) maximum lawful rate. in no event shall the interest charged hereunder, with respect to the notes (if any)
+or any other obligations of borrower under any of the loan documents exceed the maximum amount permitted under the laws
+of the state of maryland. notwithstanding anything to the contrary herein or elsewhere, if at any time the rate of
+interest payable hereunder or under any note or other loan document (the “stated rate”) would exceed the highest rate of
+interest permitted under any applicable law to be charged (the “maximum lawful rate”), then for so long as the maximum
+lawful rate would be so exceeded, the rate of interest payable shall be equal to the maximum lawful rate; provided,
+however, that if at any time thereafter the stated rate is less than the maximum lawful rate, borrower shall, to the
+extent permitted by law, continue to pay interest at the maximum lawful rate until such time as the total interest
+received is equal to the total interest which would have been received had the stated rate been (but for the operation
+of this provision) the interest rate payable. thereafter, the interest rate payable shall be the stated rate unless and
+until the stated rate again would exceed the maximum lawful rate, in which event this provision shall again apply. in no
+event shall the total interest received by any lender exceed the amount which it could lawfully have received, had the
+interest been calculated for the full term hereof at the maximum lawful rate. if, notwithstanding the prior sentence,
+any lender has received interest hereunder in excess of the maximum lawful rate, then such excess amount shall be
+applied to the reduction of the principal balance of such lender’s term loan or to other amounts (other than interest)
+payable hereunder, and if no such principal or other amounts are then outstanding, such excess or part thereof remaining
+shall be paid to borrower. in computing interest payable with reference to the maximum lawful rate applicable to any
+lender, such interest shall be calculated at a daily rate equal to the maximum lawful rate divided by the number of days
+in the year in which such calculation is made. 2.4 fees and expenses. borrower shall pay to agent, for payment to each
+lender: (a) closing fee. a non refundable closing fee to each lender, in accordance with its respective pro rata share,
+equal to the product of (i) one half of one percent (0.50%) multiplied by (ii) the aggregate term loan commitment on the
+closing date, which shall be due and payable on the funding date of tranche one; (b) final payment. the final payment,
+when due under section 2.2(c) or 2.2(d), or otherwise on the maturity date, to each lender, in accordance with its
+respective pro rata share; (c) prepayment fee. the prepayment fee, when due under section 2.2(c) or 2.2(d), to each
+lender, in accordance with its respective pro rata share immediately prior to application of the corresponding
+prepayment; (d) good faith deposit. borrower has paid to agent, for payment to each lender, a deposit of seventy five
+thousand dollars ($75,000) (the “good faith deposit”) to initiate agent’s due diligence review process. on the closing
+date, such good faith deposit will be applied to the closing fee; and (e) lenders’ expenses. all of lenders’ expenses
+(including reasonable attorneys’ fees and expenses for documentation and negotiation of this agreement) incurred through
+and after the closing date, when due (and in the absence of any other due date specified herein, such lenders’ expenses
+shall be due upon demand). 2.5 additional costs. if any new law or regulation increases a lender’s costs or reduces its
+income for any term loan, borrower shall pay the increase in cost or reduction in income or additional expense;
+provided, however, that borrower shall not be liable for any amount attributable to any period before one hundred eighty
+(180) days prior to the date such lender notifies borrower of such increased costs. each lender agrees that it shall
+allocate any increased costs among its customers similarly affected in good faith and in a manner consistent with such
+lender’s customary practice. 2.6 payments and taxes. any and all payments made by borrower under this agreement or any
+other loan document shall be made free and clear of and without deduction for any and all present or future taxes,
+levies, imposts, duties, deductions, withholdings, assessments, fees or other charges imposed by any governmental
+authority (including any interest, additions to tax or penalties applicable thereto) other than any taxes imposed on or
+measured by any lender’s overall net income and franchise taxes imposed on it (in lieu of net income taxes), by a
+jurisdiction (or any political subdivision thereof) as a result of any lender being organized or resident, conducting
+business (other than a business deemed to arise from such lender having executed, delivered or performed its 3
+obligations or received a payment under, or enforced, or otherwise with respect to, this agreement or any other loan
+document) or having its principal office in such jurisdiction (“indemnified taxes”). if any indemnified taxes shall be
+required by law to be withheld or deducted from or in respect of any sum payable under this agreement or any other loan
+document to any lender, (a) an additional amount shall be payable as may be necessary so that, after making all required
+withholdings or deductions (including withholdings or deductions applicable to additional sums payable under this
+section) such lender receives an amount equal to the sum it would have received had no such withholdings or deductions
+been made, (b) borrower shall make such withholdings or deductions, (c) borrower shall pay the full amount withheld or
+deducted to the relevant taxing authority or other authority in accordance with applicable law, and (d) borrower shall
+deliver to such lender evidence of such payment. borrower’s obligation hereunder shall survive the termination of this
+agreement. 2.7 secured promissory notes. each term loan shall be evidenced by a secured promissory note in the form
+attached as exhibit d hereto (each a “secured promissory note”), and shall be repayable as set forth herein. borrower
+irrevocably authorizes each lender to make or cause to be made, on or about the funding date of any term loan or at the
+time of receipt of any payment of principal on such lender’s secured promissory note, an appropriate notation on such
+lender’s secured promissory note record reflecting the making of such term loan or (as the case may be) the receipt of
+such payment. the outstanding amount of each term loan set forth on such lender’s secured promissory note record shall
+be prima facie evidence of the principal amount thereof owing and unpaid to such lender, but the failure to record, or
+any error in so recording, any such amount on such lender’s secured promissory note record shall not limit or otherwise
+affect the obligations of borrower hereunder or under any secured promissory note to make payments of principal of or
+interest on any secured promissory note when due. upon receipt of an affidavit of an officer of a lender as to the loss,
+theft, destruction, or mutilation of its secured promissory note, borrower shall issue, in lieu thereof, a replacement
+secured promissory note in the same principal amount thereof and of like tenor. 2.8 issuance of warrants to lenders.
+borrower has duly authorized and issued to lenders warrants, the form of which is attached hereto as exhibit e
+(collectively, the “warrants”), evidencing lenders’ (or their respective affiliates or designees) right to acquire their
+respective pro rata share of the class of stock of borrower, on the terms and conditions set forth in the warrants, as
+necessary to comply with the requirements of the loan documents. 2.9 sbic acknowledgement. borrower acknowledges that
+agent is a federal licensee under the small business investment act of 1958, as amended. 3. conditions of loans 3.1
+conditions precedent to initial credit extension. each lender’s obligation to make a term loan is subject to the
+condition precedent that agent shall consent to or shall have received, in form and substance satisfactory to agent and
+lenders, such documents, and completion of such other matters, as agent may reasonably deem necessary or appropriate,
+including, without limitation: (a) duly executed signatures to this agreement, the perfection certificate and the other
+loan documents to which borrower is a party; (b) duly executed original secured promissory notes in favor of each lender
+with an aggregate face amount equal to the term loan commitments; (c) duly executed signatures to the control agreements
+with comerica bank and state street bank; (d) the operating documents of borrower certified by the secretary of state of
+the state of organization of borrower as of a date no earlier than thirty (30) days prior to the closing date; 4 (e)
+good standing certificates dated as of a date no earlier than thirty (30) days prior to the closing date to the effect
+that borrower is qualified to transact business in all states in which the nature of borrower’s business so requires;
+(f) a duly executed signatures to the completed borrowing resolutions for borrower; (g) certified copies, dated as of a
+recent date, of financing statement searches, as agent shall request, accompanied by written evidence (including any ucc
+termination statements) that the liens indicated in any such financing statements either constitute permitted liens or
+have been or, in connection with the initial credit extension, will be terminated or released; (h) a registration rights
+agreement/investors’ rights agreement and any amendments thereto; (i) completed sba forms 480, 652 and 1031 and the sbic
+side letter; and (j) payment of the closing fee described in section 2.4(a) and the lenders’ expenses described in
+section 2.4(e). 3.2 conditions precedent to all credit extensions. the obligation of each lender to make each credit
+extension, including the initial credit extension, is subject to the following conditions precedent: (a) timely receipt
+by the agent of an executed payment/advance form in the form of exhibit b attached hereto; (b) the operating documents
+of each loan party certified by the secretary of such loan party (or if such operating documents have been previously
+certified and delivered and there have been no changes thereto, a certificate certifying no change since such previous
+delivery); (c) good standing certificates dated as of a date no earlier than thirty (30) days prior to the closing date
+to the effect that each loan party is qualified to transact business in all states in which the nature of such loan
+party’s business so requires; (d) certified copies, dated as of a recent date, of financing statement searches, state
+and federal tax lien, fixture filings, judgment lien, litigation and bankruptcy searches, as agent shall request,
+accompanied by written evidence (including any ucc termination statements) that the liens indicated in any such
+financing statements or other searches either constitute permitted liens or have been or will be terminated or released
+prior to or simultaneously with the funding of the applicable term loan; (e) the representations and warranties in
+section 5 shall be true, correct and complete in all material respects on the date of the payment/advance form and on
+the funding date of each credit extension; provided, however, that such materiality qualifier shall not be applicable to
+any representations and warranties that already are qualified or modified by materiality in the text thereof; and
+provided, further that those representations and warranties expressly referring to a specific date shall be true,
+accurate and complete in all material respects as of such date, and no default or event of default shall have occurred
+and be continuing or result from the credit extension. each credit extension is borrower’s representation and warranty
+on that date that the representations and warranties in section 5 remain true, accurate and complete in all material
+respects; provided, however, that such materiality qualifier shall not be applicable to any representations and
+warranties that already are qualified or modified by materiality in the text thereof; and provided, further that those
+representations and warranties expressly referring to a specific date shall be true, accurate and complete in all
+material respects as of such date; and (f) in such lender’s sole discretion, there has not been any material adverse
+change. 3.3 covenant to deliver. borrower agrees to deliver to agent each item required to be delivered to agent under
+this agreement as a condition precedent to any credit extension. borrower expressly agrees that a 5 credit extension
+made prior to the receipt by agent of any such item shall not constitute a waiver by the lenders of borrower’s
+obligation to deliver such item, and any such credit extension in the absence of a required item shall be made in
+agent’s sole discretion. 3.4 procedures for borrowing. subject to the prior satisfaction of all other applicable
+conditions to the making of a term loan set forth in this agreement, to obtain a term loan, borrower shall notify agent
+(which notice shall be irrevocable) by electronic mail, facsimile, or telephone by 12:00 noon eastern time fifteen (15)
+business days prior to the date the term loan is to be made. together with any such electronic or facsimile
+notification, borrower shall deliver to agent by electronic mail or facsimile a completed payment/advance form executed
+by a responsible officer or his or her designee. upon receipt of a payment/advance form, agent shall promptly provide a
+copy of the same to each lender. agent may rely on any telephone notice given by a person whom agent reasonably believes
+is a responsible officer or designee. 4. creation of security interest 4.1 grant of security interest. borrower hereby
+grants to agent, for the ratable benefit of the lenders, to secure the payment and performance in full of all of the
+obligations, a continuing security interest in, and pledges to agent, for the ratable benefit of the lenders, the
+collateral, wherever located, whether now owned or hereafter acquired or arising, and all proceeds and products thereof.
+borrower represents, warrants, and covenants that the security interest granted herein is and shall at all times
+continue to be a first priority perfected security interest in the collateral, subject only to permitted liens that may
+have priority by operation of applicable law. if borrower shall acquire a commercial tort claim (as defined in the
+code), borrower shall promptly notify agent in a writing signed by borrower of the general details thereof (and further
+details as may be required by agent) and grant to agent, for the ratable benefit of the lenders, in such writing a
+security interest therein and in the proceeds thereof, all upon the terms of this agreement, with such writing to be in
+form and substance reasonably satisfactory to agent. 4.2 authorization to file financing statements. borrower hereby
+authorizes agent to file financing statements, without notice to borrower, with all appropriate jurisdictions to perfect
+or protect agent’s and each lender’s interest or rights hereunder, including a notice that any disposition of the
+collateral, by either borrower or any other person, shall be deemed to violate the rights of agent and the lenders under
+the code. such financing statements may indicate the collateral as “all assets of debtor now owned or hereafter
+acquired” or words of similar effect, or as being of an equal or lesser scope, or with greater detail, all in agent’s
+sole discretion. 5. representations and warranties borrower represents and warrants as follows at all times unless
+expressly provided below: 5.1 due organization, authorization: power and authority. (a) borrower and each of its
+subsidiaries (if any) are duly existing and in good standing, as registered organizations in their respective
+jurisdictions of formation and are qualified and licensed to do business and are in good standing in any jurisdiction in
+which the conduct of their business or their ownership of property requires that they be qualified except where the
+failure to do so could not reasonably be expected to have a material adverse change. borrower represents and warrants
+that(i) borrower’s exact legal name is that indicated on schedule 5.1(a) and on the signature page hereof; (ii) borrower
+is an organization of the type and is organized in the jurisdiction set forth on schedule 5.1(a); (iii) schedule 5.1(a)
+accurately sets forth borrower’s organizational identification number or accurately states that borrower has none; (iv)
+schedule 5.1(a) accurately sets forth borrower’s place of business, or, if more than one, its chief executive office as
+well as borrower’s mailing address (if different than its chief executive office); and (v) borrower (and each of its
+predecessors) has not, in the past five (5) years, changed its jurisdiction of formation, organizational structure or
+type, or any organizational number assigned by its jurisdiction. further, in connection with this agreement, borrower
+has delivered to agent a completed perfection certificate signed by borrower (the “perfection certificate”). all other
+information set forth on the perfection certificate pertaining to borrower and each of its subsidiaries is accurate and
+complete (it being understood and agreed that borrower may from time to time update certain information in the
+perfection certificate after the closing date, to the extent permitted by one or more specific provisions in this
+agreement). if borrower is not now a registered organization but later becomes one, borrower shall promptly notify agent
+of such occurrence and provide agent with borrower’s organizational identification number. 6 (b) the execution, delivery
+and performance by borrower of the loan documents to which it is a party have been duly authorized, and do not (i)
+conflict with any of borrower’s organizational documents; (ii) contravene, conflict with, constitute a default under or
+violate any material requirement of law; (iii) contravene, conflict or violate any applicable order, writ, judgment,
+injunction, decree, determination or award of any governmental authority by which borrower or any of its subsidiaries or
+any of their property or assets may be bound or affected; (iv) require any action by, filing, registration, or
+qualification with, or governmental approval from, any governmental authority (except such governmental approvals (x)
+which have already been obtained and are in full force and effect or (y) as may be required by applicable securities
+laws which such governmental approvals will be obtained by borrower on a timely basis); or (v) constitute an event of
+default under any material agreement by which borrower or any of its subsidiaries or their respective properties is
+bound, each of which is set forth on schedule 5.2(b) hereto. borrower is not in default under any agreement to which it
+is a party or by which it is bound in which the default could reasonably be expected to have a material adverse change.
+5.2 collateral. (a) collateral accounts. borrower has good title to, has rights in, and has the power to transfer each
+item of the collateral upon which it purports to grant a lien hereunder, free and clear of any and all liens, except
+permitted liens. borrower has no deposit accounts, securities accounts, commodity accounts or other investment accounts
+other than the collateral accounts with the banks and/or financial institutions listed on schedule 5.2(a), for which
+borrower has given agent notice and taken such actions as are necessary to grant to agent, for the ratable benefit of
+lenders, a perfected security interest therein. (b) accounts. the accounts are bona fide, existing obligations of the
+account debtors. (c) [reserved]. (d) intellectual property and license agreements. a list of all of borrower’s material
+intellectual property and all material license agreements, sublicenses, or other rights of any loan party to use
+intellectual property (including all material in-bound license agreements, but excluding over-the-counter software that
+is commercially available to the public) is set forth on schedule 5.2(d). except as noted on schedule 5.2(d), borrower
+is the sole owner of its intellectual property, except for non-exclusive licenses granted to its customers in the
+ordinary course of business as identified on schedule 5.2(d). each material patent is valid and enforceable and no part
+of the intellectual property has been judged invalid or unenforceable, in whole or in part, and to the best of
+borrower’s knowledge, no claim has been made that any part of the intellectual property violates the rights of any third
+party, except to the extent such claim could not reasonably be expected to have a material adverse change. (e) location
+of collateral. on the closing date, the collateral is located at the address(es) identified on schedule 5.2(e), and are
+not in the possession of any third party bailee (such as a warehouse) except as disclosed schedule 5.2(e), and as of the
+closing date, no such third party bailee possesses components of the collateral in excess of twenty-five thousand
+dollars ($25,000) or which constitutes borrower’s books. none of the components of the collateral shall be maintained at
+locations other than as disclosed schedule 5.2(e) on the closing date or as permitted pursuant to section 7.2. subject
+to the provisions in section 7.2, in the event that borrower, after the closing date, intends to store or otherwise
+deliver any portion of the collateral to a bailee in excess of twenty-five thousand dollars ($25,000) or which
+constitutes borrower’s books, then borrower will first receive the written consent of agent and such bailee must execute
+and deliver a bailee agreement in form and substance satisfactory to agent in its sole discretion. 5.3 litigation.
+except as disclosed on schedule 5.3 hereto, there are no actions or proceedings pending or, to the knowledge of the
+responsible officers, threatened in writing by or against borrower or any of its subsidiaries involving more than three
+hundred thousand dollars ($300,000). 7 5.4 no material deterioration in financial condition; financial statements. all
+consolidated financial statements for borrower and any of its subsidiaries delivered to agent fairly present, in
+conformity with gaap, in all material respects borrower’s consolidated financial condition and borrower’s consolidated
+results of operations as of the date of such financial statements. there has not been any material deterioration in
+borrower’s consolidated financial condition since the date of the most recent financial statements and projections
+submitted to agent. 5.5 solvency. the fair salable value of borrower’s assets (including goodwill minus disposition
+costs) exceeds the fair value of its liabilities. after giving effect to the transactions described in this agreement,
+(a) borrower is not left with unreasonably small capital in relation to its business as presently conducted, and (b)
+borrower is able to pay its debts (including trade debts) as they mature. 5.6 regulatory compliance. (a) borrower is not
+an “investment company” or a company “controlled” by an “investment company” under the investment company act of 1940,
+as amended. borrower is not engaged in the business of purchasing or selling margin stock and/or extending credit for
+the purpose of purchasing margin stock (under regulations x, t and u of the federal reserve board of governors). as of
+the closing date, except as set forth on schedule b, no loan party and no subsidiary of any loan party owns any margin
+stock. borrower has complied in all material respects with the federal fair labor standards act. neither borrower nor
+any of its subsidiaries is a “holding company” or an “affiliate” of a “holding company” or a “subsidiary company” of a
+“holding company”, as each term is defined and used in the public utility holding company act of 2005. borrower has not
+violated any laws, ordinances or rules, the violation of which could reasonably be expected to have a material adverse
+change. none of borrower’s or any of its subsidiaries’ properties or assets has been used by borrower or any subsidiary
+or, to borrower’s knowledge, by previous persons, in disposing, producing, storing, treating, or transporting any
+hazardous substance other than in material compliance with applicable laws. borrower has obtained all required permits,
+or has contracted with third parties holding required permits, necessary for compliance in all material respects with
+all laws and all such required permits are current. borrower and each of its subsidiaries have obtained all material
+consents, approvals and authorizations of, made all declarations or filings with, and given all notices to, all
+governmental authorities that are necessary to continue their respective businesses as currently conducted. (b) none of
+the borrower, its affiliates or any of their respective agents acting or benefiting in any capacity in connection with
+the transactions contemplated by this agreement is (i) in violation of any anti-terrorism law, (ii) engages in or
+conspires to engage in any transaction that evades or avoids, or has the purpose of evading or avoiding or attempts to
+violate, any of the prohibitions set forth in any anti-terrorism law, or (iii) is a blocked person. neither borrower
+nor, to the knowledge of borrower, any of its affiliates or agents acting or benefiting in any capacity in connection
+with the transactions contemplated by this agreement, (x) conducts any business or engages in making or receiving any
+contribution of funds, goods or services to or for the benefit of any blocked person, or (y) deals in, or otherwise
+engages in any transaction relating to, any property or interest in property blocked pursuant to executive order no.
+13224, any similar executive order or other anti-terrorism law. 5.7 subsidiaries; investments. borrower does not own any
+stock, partnership interest or other equity securities, except for permitted investments. 5.8 tax returns and payments;
+pension contributions. borrower has timely filed all required tax returns or tax extensions and reports (except where
+the failure to file any such tax return, extension or report does not result in penalties or other liabilities to
+borrower in excess of, individually or in the aggregate at any time, twenty thousand dollars ($20,000), and there are no
+liens on any of the collateral in favor of a governmental authority resulting from the failure to file any such tax
+return, extension or report except for “permitted liens”), and borrower and its subsidiaries have timely paid all
+foreign, federal, state and local taxes, assessments, deposits and contributions owed by borrower, except for such
+taxes, assessments, deposits and contributions that do not at any time exceed an amount of, individually or in the
+aggregate, twenty thousand dollars ($20,000) and there are no liens on any of the collateral in favor of a governmental
+authority resulting from such unpaid taxes, assessments, deposits and contributions except for “permitted liens”.
+borrower may defer payment of any contested taxes, provided, however, that borrower (a) in good faith contests its
+obligation to pay the taxes by appropriate 8 proceedings promptly and diligently instituted and conducted, (b) notifies
+agent in writing of the commencement of, and any material development in, the proceedings, and (c) posts bonds or takes
+any other steps required to prevent the governmental authority levying such contested taxes from obtaining a lien upon
+any of the collateral that is other than a “permitted lien”. borrower is unaware of any claims or adjustments proposed
+for any of borrower’s prior tax years which could result in additional taxes becoming due and payable by borrower.
+borrower has paid all amounts necessary to fund all present pension, profit sharing and deferred compensation plans in
+accordance with their terms, and borrower has not withdrawn from participation in, and has not permitted partial or
+complete termination of, or permitted the occurrence of any other event with respect to, any such plan which could
+reasonably be expected to result in any liability of borrower, including any liability to the pension benefit guaranty
+corporation or its successors or any other governmental agency. 5.9 use of proceeds. borrower shall use the proceeds of
+the credit extensions solely as working capital and to fund its general business requirements, and not for personal,
+family, household or agricultural purposes. 5.10 full disclosure. no written representation, warranty or other statement
+of borrower in any certificate or written statement given to agent or any lender, as of the date such representation,
+warranty, or other statement was made, taken together with all such written certificates and written statements given to
+agent or any lender, contains any untrue statement of a material fact or omits to state a material fact necessary to
+make the statements contained in the certificates or statements not misleading (it being recognized that the projections
+and forecasts provided by borrower in good faith and based upon reasonable assumptions are not viewed as facts and that
+actual results during the period or periods covered by such projections and forecasts may differ from the projected or
+forecasted results). 5.11 regulatory developments. (a) all products and all material required permits are listed on
+schedule 5.11 (as updated from time to time pursuant to section 6.2(e)), and borrower has delivered to agent a copy of
+all material required permits as of the date hereof and to the extent requested by agent pursuant to section 6.2(e). (b)
+without limiting the generality of section 5.6 above, except as disclosed in writing to agent from time to time, with
+respect to any product being tested or manufactured by borrower, borrower has received, and such product is the subject
+of, all required permits needed in connection with the testing or manufacture of such product as such testing is
+currently being conducted by or on behalf of borrower, and borrower has not received any notice from any applicable
+governmental authority, specifically including the fda, that such governmental authority is conducting an investigation
+or review of (i) borrower’s manufacturing facilities and processes for such product which have disclosed any material
+deficiencies or violations of laws and/or the required permits related to the manufacture of such product, or (ii) any
+such required permit or that any such required permit has been revoked or withdrawn, nor has any such governmental
+authority issued any order or recommendation stating that the development, testing and/or manufacturing of such product
+by borrower should cease. (c) without limiting the generality of section 5.6 above, except as disclosed in writing to
+agent from time to time, with respect to any product marketed or sold by borrower, borrower has received, and such
+product is the subject of, all required permits needed in connection with the marketing and sales of such product as
+currently being marketed or sold by borrower, and borrower has not received any notice from any applicable governmental
+authority, specifically including the fda, that such governmental authority is conducting an investigation or review of
+any such required permit or approval or that any such required permit has been revoked or withdrawn, nor has any such
+governmental authority issued any order or recommendation stating that such marketing or sales of such product cease or
+that such product be withdrawn from the marketplace. (d) without limiting the generality of section 5.6 above, (i) there
+have been no adverse clinical test results which have or could reasonably be expected to cause a material adverse
+change, and (ii) except as disclosed in writing to agent from time to time, there have been no product recalls or
+voluntary product withdrawals from any market. 9 6. affirmative covenants borrower covenants and agrees to do all of the
+following: 6.1 organization and existence; government compliance. (a) maintain its and all its subsidiaries’ legal
+existence and good standing in their respective jurisdictions of formation and maintain qualification in each
+jurisdiction in which the failure to so qualify could reasonably be expected to have a material adverse change. borrower
+shall comply, and have each subsidiary comply, with all laws, ordinances and regulations to which it is subject, the
+noncompliance with which could reasonably be expected to have a material adverse change. (b) obtain and keep in full
+force and effect, all of the governmental approvals necessary for the performance by borrower of its obligations under
+the loan documents to which it is a party and the grant of a security interest to agent for the ratable benefit of the
+lenders, in all of the collateral. borrower shall promptly provide copies of any such obtained governmental approvals to
+agent. (c) in connection with the development, testing, manufacture, marketing or sale of each and any product by
+borrower, borrower shall comply fully and completely in all respects with all required permits at all times issued by
+any governmental authority the noncompliance with which could reasonably be expected to have a material adverse change,
+specifically including the fda, with respect to such development, testing, manufacture, marketing or sales of such
+product by borrower as such activities are at any such time being conducted by borrower. 6.2 financial statements,
+reports, certificates. (a) deliver to agent: (i) as soon as available, but no later than forty-five (45) days after the
+last day of each month, a company prepared consolidated balance sheet, income statement and cash flow statement covering
+borrower’s consolidated operations for such month certified by a responsible officer and in a form acceptable to agent;
+(ii) as soon as available, but no later than one hundred twenty (120) days after the last day of borrower’s fiscal year,
+audited consolidated financial statements prepared under gaap, consistently applied, together with an unqualified
+opinion on the financial statements from an independent certified public accounting firm acceptable to agent in its
+reasonable discretion; (iii) as soon as available after approval thereof by borrower’s board of directors, but no later
+than thirty (30) days after the last day of borrower’s fiscal year, borrower’s financial projections for current fiscal
+year as approved by borrower’s board of directors; (iv) within five (5) days of delivery, copies of all statements,
+reports and notices made available to all of borrower’s security holders or to any holders of subordinated debt; (v) in
+the event that borrower becomes subject to the reporting requirements under the securities exchange act of 1934, as
+amended, within five (5) days of filing, all reports on form 10-k, 10-q and 8 k filed with the securities and exchange
+commission or a link thereto on borrower’s or another website on the internet; (vi) a prompt report of any legal actions
+pending or threatened against borrower or any of its subsidiaries that could result in damages or costs to borrower or
+any of its subsidiaries of three hundred thousand dollars ($300,000) or more or could result in a material adverse
+change; and (vii) budgets, sales projections, operating plans and other financial information reasonably requested by
+agent. (b) within forty-five (45) days after the last day of each month, deliver to agent with the monthly financial
+statements described above, a duly completed compliance certificate signed by a responsible officer. (c) keep proper
+books of record and account in accordance with gaap in which full, true and correct entries shall be made of all
+dealings and transactions in relation to its business and activities. borrower shall allow, at the sole cost of
+borrower, agent and lenders to visit and inspect any of its properties, to examine and make abstracts or copies from any
+of borrower’s books, to conduct a collateral audit and analysis of its operations and the collateral to verify the
+amount and age of the accounts, the identity and credit of the respective account debtors, to review the billing
+practices of borrower and to discuss its respective affairs, finances and accounts with their respective officers,
+employees and independent public accountants as often as may reasonably be desired. notwithstanding the foregoing, such
+audits shall be conducted at borrower’s expense no more often than once every six (6) months unless a default or event
+of default has occurred and is continuing. 10 (d) within ten (10) days of (i) acquiring and/or developing any new
+material intellectual property, or (ii) entering or becoming bound by any additional material license or sublicense
+agreement or other material agreement with respect to rights in intellectual property (other than over-the-counter
+software that is commercially available to the public), deliver to agent an updated schedule 5.2(d) reflecting same, and
+upon any other material change in borrower’s material intellectual property from that listed on schedule 5.2(d).
+borrower shall take such steps as agent reasonably requests to obtain the consent of, or waiver by, any person whose
+consent or waiver is necessary for (x) all licenses or agreements to be deemed “collateral” and for agent to have a
+security interest in it that might otherwise be restricted or prohibited by law or by the terms of any such license or
+agreement, whether now existing or entered into in the future, and (y) agent to have the ability in the event of a
+liquidation of any collateral to dispose of such collateral in accordance with agent’s rights and remedies under this
+agreement and the other loan documents. (e) if, after the closing date, borrower determines to manufacture, sell,
+develop, test or market any new product, borrower shall give prior written notice to agent of such determination (which
+shall include a brief description of such product, plus a list of all material required permits relating to such new
+product (and a copy of such material required permits if requested by agent) and/or borrower’s manufacture, sale,
+development, testing or marketing thereof issued or outstanding as of the date of such notice), along with a copy of an
+updated schedule 5.11; provided, however, that if borrower shall at any time obtain any new or additional material
+required permits from the fda, dea, or parallel state or local authorities, or foreign counterparts of the fda, dea, or
+parallel state or local authorities, with respect to any product which has previously been disclosed to agent, borrower
+shall promptly give written notice to agent of such new or additional required permits (along with a copy thereof if
+requested by agent). (f) within ninety (90) days after the end of each fiscal year of borrower, and at such other times
+as agent may reasonably request to the extent related to sba regulations, borrower shall provide to agent such forms and
+financial and other information with respect to any business or financial condition of borrower or any of its
+subsidiaries required by the sba, including, but not limited to (i) forms and information with respect to agent’s or any
+lender’s reporting requirements under sba form 468, (ii) information regarding the full-time equivalent jobs created or
+retained in connection with any lender’s investment in borrower, the impact of the financing on borrower’s business in
+terms of revenues and profits and on taxes paid by borrower and its employees, and (iii) a list of holders of the loans.
+(g) upon request of agent, the borrower shall use commercially reasonable efforts to promptly (and in any event within
+twenty (20) days of such request) furnish to agent all information reasonably requested, to the extent reasonably
+available to the borrower in order for agent or any lender to comply with the requirements of 13 c.f.r. section 107.620
+or to prepare or file sba form 468 and any other information requested or required by the sba. (h) promptly, upon
+approval by borrower’s board of directors, furnish to agent all amendments and modifications to the investment policy.
+6.3 [reserved]. 6.4 taxes; pensions. timely file and require each of its subsidiaries to timely file, all required tax
+returns or tax extensions and reports (except where the failure to file any such tax return, extension or report does
+not result in penalties or other liabilities to borrower in excess of, individually or in the aggregate at any time,
+twenty thousand dollars ($20,000), and there are no liens on any of the collateral in favor of a governmental authority
+resulting from the failure to file any such tax return, extension or report, except for “permitted liens”) and timely
+pay, and require each of its subsidiaries to timely pay all foreign, federal, state, and local taxes, assessments,
+deposits and contributions owed by such borrower and each of its subsidiaries, except for (i) taxes, assessments,
+deposits and contributions that do not at any time exceed an amount of, individually or in the aggregate, twenty
+thousand dollars ($20,000) and there are no liens on any of the collateral in favor of a governmental authority
+resulting from such unpaid taxes, assessments, deposits and contributions except for “permitted liens”, and (ii) 11
+deferred payment of any taxes contested pursuant to the terms of section 5.8 hereof, and shall deliver to agent, on
+demand, appropriate certificates attesting to such payments, and pay all amounts necessary to fund all present pension,
+profit sharing and deferred compensation plans in accordance with their terms. 6.5 insurance. keep its business and the
+collateral insured for risks and in amounts standard for companies in borrower’s industry and location and as agent may
+reasonably request. insurance policies shall be in a form, with companies, and in amounts that are satisfactory to
+agent. all property policies shall have a lender’s loss payable endorsement showing agent as lender loss payee and waive
+subrogation against agent, and all liability policies shall show, or have endorsements showing, agent, as an additional
+insured. all policies (or the loss payable and additional insured endorsements) shall provide that the insurer shall
+endeavor to give agent at least thirty (30) days notice before canceling, amending, or declining to renew its policy. at
+agent’s request, borrower shall deliver certified copies of policies and evidence of all premium payments. proceeds
+payable under any policy shall, at agent’s option, be payable to agent on behalf of the lenders on account of the
+obligations, unless at the time of such payment, no default or event of default has occurred and is continuing and such
+proceeds are less than three hundred thousand dollars ($300,000), in which case, borrower may use such proceeds to
+replace or repair the property which is the subject of such casualty within ninety (90) days after borrower’s receipt of
+such proceeds. if borrower fails to obtain insurance as required under this section 6.5 or to pay any amount or furnish
+any required proof of payment to third persons and agent, agent may make all or part of such payment or obtain such
+insurance policies required in this section 6.5, and take any action under the policies agent deems prudent. 6.6
+operating accounts. provide agent five (5) days prior written notice before establishing any collateral account at or
+with any bank or financial institution. in addition, for each collateral account that borrower at any time maintains,
+borrower shall cause the applicable bank or financial institution at or with which any collateral account is maintained
+to execute and deliver a control agreement or other appropriate instrument with respect to such collateral account to
+perfect agent’s lien in such collateral account in accordance with the terms hereunder, which control agreement may not
+be terminated without prior written consent of agent. the provisions of the previous sentence shall not apply to deposit
+accounts exclusively used for payroll, payroll taxes and other employee wage and benefit payments to or for the benefit
+of borrower’s employees and identified to agent by borrower as such. 6.7 protection of intellectual property rights.
+borrower shall own, or be licensed to use or otherwise have the right to use, all material intellectual property. all
+intellectual property of borrower is and shall be fully protected and/or duly and properly registered, filed or issued
+in the appropriate office and jurisdictions for such registrations, filings or issuances, except where the failure to do
+so would not reasonably be expected to result in a material adverse change. borrower shall at all times use commercially
+reasonable efforts to not become a party to, nor become bound by, any material license or other agreement with respect
+to which borrower is the licensee that prohibits or otherwise restricts borrower from granting a security interest in
+borrower’s interest in such license or agreement or other property. borrower shall at all times conduct its business
+without infringement or claim of infringement of any intellectual property rights of others. borrower shall do the
+following, to the extent it determines, in the exercise of its reasonable business judgment, that it is prudent to do
+so: (a) protect, defend and maintain the validity and enforceability of its intellectual property; (b) promptly advise
+agent in writing of material infringements of any material intellectual property; and (c) not allow any material
+intellectual property to be abandoned, forfeited or dedicated to the public without agent’s prior written consent. 6.8
+litigation cooperation. from the date hereof and continuing through the termination of this agreement, make available to
+agent, without expense to agent, borrower and its officers, employees and agents and borrower’s books, to the extent
+that agent may deem them reasonably necessary to prosecute or defend any third-party suit or proceeding instituted by or
+against agent with respect to any collateral or relating to borrower. 6.9 notices of litigation, material agreement
+matters and default. borrower will give prompt written notice to agent of any litigation or governmental proceedings
+pending or threatened (in writing) against borrower which would reasonably be expected to have a material adverse
+change. without limiting or contradicting any other more specific provision of this agreement, promptly (and in any
+event within three (3) business days), (i) upon borrower becoming aware of the existence of any event of default or
+event which, with the giving of notice or passage of time, or both, would constitute an event of default or (ii) upon
+the execution and delivery of each amendment to, and copies of all statements, reports and notices delivered to or by a
+loan party in 12 connection with, any material agreement, borrower shall give written notice to agent of such
+occurrence, which such notice shall include a reasonably detailed description of such event of default or event which,
+with the giving of notice or passage of time, or both, would constitute an event of default. 6.10 creation/acquisition
+of subsidiaries. in the event borrower or any subsidiary creates or, to the extent permitted hereunder, acquires any
+subsidiary, borrower and such subsidiary shall promptly (and in any event within five (5) business days of such creation
+or acquisition) notify agent of the creation or acquisition of such new subsidiary and take all such action as may be
+reasonably required by agent to cause each such domestic subsidiary to become a co-borrower hereunder or to guarantee
+the obligations of borrower under the loan documents and, in each case, grant a continuing pledge and security interest
+in and to the assets of such subsidiary (substantially as described on exhibit a hereto); and borrower shall grant and
+pledge to agent, for the ratable benefit of the lenders, a perfected security interest in the stock, units or other
+evidence of ownership of each subsidiary (provided that in no event shall more than sixty-five percent (65%) of the
+total outstanding voting capital stock of any foreign subsidiary be required to be so pledged if the pledge of a greater
+amount would cause borrower adverse tax consequences under internal revenue code section 956, or any successor statute)
+(the foregoing collectively, the “joinder requirements”); provided, that borrower shall not be permitted to make any
+investment in such subsidiary until such time as borrower has satisfied the joinder requirements. 6.11 further
+assurances. (a) execute any further instruments and take further action as agent reasonably requests to perfect or
+continue agent’s lien in the collateral or to effect the purposes of this agreement. (b) deliver to agent, within five
+(5) business days after the same are sent or received, copies of all material correspondence, reports, documents and
+other filings with any governmental authority that could reasonably be expected to have a material effect on any of the
+governmental approvals material to borrower’s business or otherwise on the operations of borrower or any of its
+subsidiaries. 6.12 post-closing obligations. borrower shall complete each of the post closing obligations and/or deliver
+to agent each of the documents, instruments, agreements and information listed on schedule 6.12 attached hereto, on or
+before the date set forth for each such item thereon, each of which shall be completed or provided in form and substance
+satisfactory to agent and lenders. 7. negative covenants borrower shall not do any of the following without the prior
+written consent of agent: 7.1 dispositions. convey, sell, lease, transfer, assign, grant a security in or otherwise
+dispose of (collectively, “transfer”), or permit any of its subsidiaries to transfer, all or any part of its business or
+property, except for (a) transfers of inventory in the ordinary course of business; (b) transfers of worn-out or
+obsolete equipment; (c) transfers in connection with permitted liens; (d) of non-exclusive licenses for the use of the
+property of borrower or its subsidiaries in the ordinary course of business and licenses that could not result in a
+legal transfer of title of the licensed property, but that may be exclusive in respects other than territory and that
+may be exclusive as to territory only as to discrete geographical areas outside of the united states. without limiting
+the foregoing, borrower agrees that it shall not grant a security interest or otherwise encumber any of its intellectual
+property without agent’s and required lenders’ prior written consent. 7.2 changes in business, ownership or business
+locations. (a) engage in or permit any of its subsidiaries to engage in any business other than the businesses currently
+engaged in by borrower and such subsidiary, as applicable, or reasonably related thereto; (b) liquidate or dissolve; (c)
+enter into any transaction or series of related transactions which would result in a change in control, other than after
+a qualifying initial public offering, so long as at such time borrower’s shares continue to be sold on the nyse, nasdaq
+or other comparable registered public exchange, (d) change its organizational structure or type; (e) change its legal
+name; or (f) change any organizational number (if any) assigned by its jurisdiction of organization. notwithstanding
+anything to the contrary herein or elsewhere, borrower hereby agrees that agent may, at any time, in its sole but
+reasonable 13 discretion, request that borrower promptly deliver to agent a fully-executed access agreement in respect
+of (i) borrower’s facilities at 260 east grand avenue, south san francisco, california 94080, (ii) catalent pharma
+solutions, llc’s facilities at 3001 red lion road, philadelphia, pennsylvania 19114, (iii) cook pharmica llc’s
+facilities at 1300 south patterson drive, bloomington, indiana 47403, (iv) and/or any other facility, office or business
+location of borrower, including any warehouse. 7.3 mergers or acquisitions. merge or consolidate, or permit any of its
+subsidiaries to merge or consolidate, with any other person, or acquire, or permit any of its subsidiaries to acquire,
+all or substantially all of the capital stock or property of another person; provided, however, that a subsidiary of
+borrower may merge or consolidate into another subsidiary that is a loan party or into borrower, so long as (a) borrower
+has provided agent with prior written notice of such transaction, (b) borrower shall be the surviving legal entity, (c)
+borrower’s tangible net worth is not thereby reduced, and (d) as long as no event of default is occurring prior thereto
+or arises as a result therefrom. 7.4 indebtedness. create, incur, assume, or be liable for any indebtedness, or permit
+any subsidiary to do so, other than permitted indebtedness. 7.5 encumbrance. (a) create, incur, allow, or suffer any
+lien on any of its property, or assign or convey any right to receive income, including the sale of any accounts, or
+permit any of its subsidiaries to do so, except for permitted liens, (b) permit any collateral not to be subject to the
+first priority security interest granted herein, (c) enter into any agreement, document, instrument or other arrangement
+(except with or in favor of agent) with any person which directly or indirectly prohibits or has the effect of
+prohibiting borrower or any subsidiary from assigning, mortgaging, pledging, granting a security interest in or upon, or
+(d) encumbering any of borrower’s or any subsidiary’s intellectual property, except as is otherwise permitted in section
+7.1 hereof and the definition of “permitted liens” herein. 7.6 maintenance of collateral accounts. maintain any
+collateral account, except pursuant to the terms of section 6.6 hereof. 7.7 distributions; investments. (a) pay any
+dividends (other than dividends payable solely in common stock) or make any distribution or payment on or redeem, retire
+or purchase any capital stock (other than repurchases pursuant to the terms of employee stock purchase plans, employee
+restricted stock agreements or similar plans, and dividends required to be paid under the borrower’s amended and
+restated certificate of incorporation dated as of may 2, 2012 so long as a default or an event of default does not exist
+at the time of such dividend payment and would not exist after giving effect to such dividend payment), or (b) directly
+or indirectly make any investment other than permitted investments, or permit any of its subsidiaries to do so. 7.8
+transactions with affiliates. directly or indirectly enter into or permit to exist any material transaction with any
+affiliate of borrower, except for transactions that are in the ordinary course of business, upon fair and reasonable
+terms that are no less favorable to borrower than would be obtained in an arm’s length transaction with a non-affiliated
+person. 7.9 subordinated debt. (a) make or permit any payment on any subordinated debt, except under the terms of the
+subordination, intercreditor, or other similar agreement to which such subordinated debt is subject, or (b) amend any
+provision in any document relating to the subordinated debt which would increase the amount thereof or adversely affect
+the subordination thereof to obligations owed to the lenders. 7.10 compliance. become an “investment company” or a
+company controlled by an “investment company”, under the investment company act of 1940, as amended or undertake as one
+of its important activities extending credit to purchase or carry margin stock (as defined in regulation u of the board
+of governors of the federal reserve system), or use the proceeds of any credit extension for that purpose; fail to meet
+the minimum funding requirements of erisa, permit a reportable event or prohibited transaction, as defined in erisa, to
+occur; fail to comply with the federal fair labor standards act or violate any other law or regulation, if the violation
+could reasonably be expected to have a material adverse change, or permit any of its subsidiaries to do so; withdraw or
+permit any subsidiary to withdraw from participation in, permit partial or complete termination of, or permit the
+occurrence of any other event with respect to, any present pension, profit sharing and deferred compensation plan which
+could reasonably be expected to result in any liability of borrower, including any liability to the pension benefit
+guaranty corporation or its successors or any other governmental agency. 14 7.11 amendments to other agreements. no loan
+party shall amend, modify or waive any provision of (a) any material agreement, or (b) any of such loan party’s
+organizational documents, in each case, without the prior written consent of agent, unless, in each case, the net effect
+of such amendment, modification or waiver could not reasonably be expected to cause a material adverse change. 7.12
+compliance with anti-terrorism laws. agent hereby notifies borrower that pursuant to the requirements of anti-terrorism
+laws, and agent’s policies and practices, agent is required to obtain, verify and record certain information and
+documentation that identifies borrower and its principals, which information includes the name and address of borrower
+and its principals and such other information that will allow agent to identify such party in accordance with
+anti-terrorism laws. borrower will not, nor will borrower permit any subsidiary or affiliate to, directly or indirectly,
+knowingly enter into any documents, instruments, agreements or contracts with any person listed on the ofac lists.
+borrower shall immediately notify agent if borrower has knowledge that borrower or any subsidiary or affiliate is listed
+on the ofac lists or (a) is convicted on, (b) pleads nolo contendere to, (c) is indicted on, or (d) is arraigned and
+held over on charges involving money laundering or predicate crimes to money laundering. borrower will not, nor will
+borrower permit any subsidiary or affiliate to, directly or indirectly, (i) conduct any business or engage in any
+transaction or dealing with any blocked person, including, without limitation, the making or receiving of any
+contribution of funds, goods or services to or for the benefit of any blocked person, (ii) deal in, or otherwise engage
+in any transaction relating to, any property or interests in property blocked pursuant to executive order no. 13224, any
+similar executive order or other anti-terrorism law, or (iii) engage in or conspire to engage in any transaction that
+evades or avoids, or has the purpose of evading or avoiding, or attempts to violate, any of the prohibitions set forth
+in executive order no. 13224 or other anti-terrorism law. 7.13 excluded comerica bank account. maintain an aggregate
+balance in excess of five hundred thousand dollars ($500,000) at any time in the excluded comerica bank account. 8.
+events of default any one of the following shall constitute an event of default (an “event of default”) under this
+agreement: 8.1 payment default. borrower fails to (a) make any payment of principal or interest on any credit extension
+on its due date, or (b) pay any other obligations within three (3) business days after such obligations are due and
+payable (which three (3) business day grace period shall not apply to payments due on the maturity date or the date of
+acceleration pursuant to section 9.1 hereof). during the cure period, the failure to cure the payment default is not an
+event of default (but no credit extension will be made during the cure period); 8.2 covenant default. (a) borrower fails
+or neglects to perform any obligation in sections 6.1(c), 6.2, 6.4, 6.5, 6.6, 6.7, 6.10, or 6.11 or violates any
+covenant in section 7; or (b) borrower or any of its subsidiaries fails or neglects to perform, keep, or observe any
+other term, provision, condition, covenant or agreement contained in this agreement or any loan documents, and as to any
+default (other than those specified in this section 8) under such other term, provision, condition, covenant or
+agreement that can be cured, has failed to cure the default within ten (10) days after the occurrence thereof; provided,
+however, that if the default cannot by its nature be cured within the ten (10) day period or cannot after diligent
+attempts by borrower be cured within such ten (10) day period, and such default is likely to be cured within a
+reasonable time, then borrower shall have an additional period (which shall not in any case exceed thirty (30) days) to
+attempt to cure such default, and within such reasonable time period the failure to cure the default shall not be deemed
+an event of default (but no credit extensions shall be made during such cure period). grace periods provided under this
+section shall not apply, among other things, to financial covenants or any other covenants set forth in subsection (a)
+above; 15 8.3 material adverse change. a material adverse change occurs; provided, however, the failure of any phase 2
+clinical trial to demonstrate the desired safety or efficacy of any one biologic or drug or the denial, delay or
+limitation of approval of, or taking of any other regulatory action by, the fda or any other governmental authority with
+respect to any one biologic or drug shall not, in and of itself, constitute a material adverse change; 8.4 attachment;
+levy; restraint on business. (a)(i) the service of process seeking to attach, by trustee or similar process, any funds
+of borrower or of any entity under control of borrower (including a subsidiary) on deposit with the lenders or any
+lender affiliate, or (ii) a notice of lien, levy, or assessment is filed against any of borrower’s assets by any
+government agency, and the same under subclauses (i) and (ii) hereof are not, within ten (10) days after the occurrence
+thereof, discharged or stayed (whether through the posting of a bond or otherwise); provided, however, no credit
+extensions shall be made during any ten (10) day cure period; and (b)(i) any material portion of borrower’s assets is
+attached, seized, levied on, or comes into possession of a trustee or receiver, or (ii) any court order enjoins,
+restrains, or prevents borrower from conducting any part of its business; 8.5 insolvency. (a) borrower is unable to pay
+its debts (including trade debts) as they become due or otherwise becomes insolvent; (b) borrower begins an insolvency
+proceeding; or (c) an insolvency proceeding is begun against borrower and not dismissed or stayed within thirty (30)
+days (but no credit extensions shall be made while any of the conditions described in clause (a) exist and/or until any
+insolvency proceeding is dismissed); 8.6 other agreements. (a) there is a default in any agreement to which any loan
+party or its subsidiaries is a party with a third party or parties (i) resulting in a right by such third party or
+parties, whether or not exercised, to accelerate the maturity of any indebtedness in an amount in excess of three
+hundred thousand dollars ($300,000) or (ii) that could result in a material adverse change; or (b)(i) a default or event
+of default is declared under any material agreement by a third party or parties party thereto (after any applicable
+grace period contained therein), (ii) a material agreement shall be terminated by a third party or parties party thereto
+prior to the expiration thereof, or (iii) there is a loss of a material right of the loan party or its subsidiary under
+any material agreement to which it is a party. 8.7 judgments. one or more judgments, orders, or decrees for the payment
+of money in an amount, individually or in the aggregate, of at least three hundred thousand dollars ($300,000) (not
+covered by independent third-party insurance as to which liability has been accepted by such insurance carrier) shall be
+rendered against borrower and shall remain unsatisfied, unvacated, or unstayed for a period of ten (10) days after the
+entry thereof, provided, however, that no credit extensions will be made prior to the satisfaction, vacation, or stay of
+such judgment, order or decree; 8.8 misrepresentations. borrower or any person acting for borrower makes any
+representation, warranty, or other statement now or later in this agreement, any loan document or in any writing
+delivered to agent and/or the lenders or to induce agent and/or the lenders to enter this agreement or any loan
+document, and such representation, warranty, or other statement is incorrect in any material respect when made; 8.9
+subordinated debt. a default or breach occurs under any agreement between borrower and any creditor of borrower that
+signed a subordination, intercreditor, or other similar agreement with agent or the lenders, or any creditor that has
+signed such an agreement with agent or the lenders breaches any terms of such agreement; 16 8.10 governmental approvals.
+any material governmental approval shall have been revoked, rescinded, suspended, modified in an adverse manner or not
+renewed in the ordinary course of business for a full term, and such revocation, rescission, suspension, modification or
+non-renewal (i) has, or could reasonably be expected to have, a material adverse change, or (ii) adversely affects the
+legal qualifications of borrower or any of its subsidiaries to hold such governmental approval in any applicable
+jurisdiction and such revocation, rescission, suspension, modification or non-renewal could reasonably be expected to
+affect the status of or legal qualifications of borrower or any of its subsidiaries to hold any governmental approval in
+any other jurisdiction; 8.11 criminal proceeding. the institution by any governmental authority of criminal proceedings
+against borrower; 8.12 lien priority. except as permitted by agent, any lien created hereunder or by any other loan
+document shall at any time fail to constitute a valid and perfected lien on all of the collateral purported to be
+secured thereby, subject to no prior or equal lien; 8.13 change in control. a change in control shall have occurred; or
+8.14 withdrawals, recalls, adverse test results and other matters. (a) the institution of any proceeding by fda or
+similar governmental authority to order the withdrawal of any product or product category from the market or to enjoin
+borrower or any representative of borrower from manufacturing, marketing, selling or distributing any product or product
+category, which, in each case, could cause a material adverse change, (b) the institution of any action or proceeding by
+any dea, fda, or any other governmental authority to revoke, suspend, reject, withdraw, limit, or restrict any required
+permit held by borrower or any representative of borrower, which, in each case, could cause a material adverse change,
+(c) the commencement of any enforcement action against borrower by dea, fda, or any other governmental authority, which,
+in each case, could cause a material adverse change, (d) the recall of any products from the market, the voluntary
+withdrawal of any products from the market, or actions to discontinue the sale of any products, or (e) the occurrence of
+adverse test results in connection with a product which could reasonably be expected to cause a material adverse change.
+9. rights and remedies 9.1 rights and remedies. (a) upon the occurrence and during the continuance of an event of
+default, agent may, without notice or demand, do any or all of the following: (i) deliver notice of the event of default
+to borrower, (ii) by notice to borrower declare all obligations immediately due and payable (but if an event of default
+described in section 8.5 occurs all obligations shall be immediately due and payable without any action by agent or the
+lenders), or (iii) by notice to borrower suspend or terminate the obligations, if any, of the lenders to advance money
+or extend credit for borrower’s benefit under this agreement or under any other agreement between borrower and agent
+and/or the lenders (but if an event of default described in section 8.5 occurs all obligations, if any, of the lenders
+to advance money or extend credit for borrower’s benefit under this agreement or under any other agreement between
+borrower and agent and/or the lenders shall be immediately terminated without any action by agent or the lenders). (b)
+without limiting the rights of agent and lenders set forth in section 9.1(a) above, upon the occurrence and during the
+continuance of an event of default, agent shall have the right, at the written direction of the required lenders,
+without notice or demand, to do any or all of the following: (i) foreclose upon and/or sell or otherwise liquidate, the
+collateral; (ii) apply to the obligations any (a) balances and deposits of borrower that agent or any lender holds or
+controls, or (b) any amount held or controlled by agent or any lender owing to or for the credit or the account of
+borrower; and/or 17 (iii) commence and prosecute an insolvency proceeding or consent to borrower commencing any
+insolvency proceeding. (c) without limiting the rights of agent and lenders set forth in sections 9.1(a) and ((b))
+above, upon the occurrence and during the continuance of an event of default agent shall have the right, without notice
+or demand, to do any or all of the following: (i) settle or adjust disputes and claims directly with account debtors for
+amounts on terms and in any order that agent considers advisable, notify any person owing borrower money of agent’s
+security interest in such funds, and verify the amount of such account; (ii) make any payments and do any acts it
+considers necessary or reasonable to protect the collateral and/or its security interest in the collateral. borrower
+shall assemble the collateral if agent requests and make it available as agent designates. agent may enter premises
+where the collateral is located, take and maintain possession of any part of the collateral, and pay, purchase, contest,
+or compromise any lien which appears to be prior or superior to its security interest and pay all expenses incurred.
+borrower grants agent a license to enter and occupy any of its premises, without charge, to exercise any of agent’s
+rights or remedies; (iii) ship, reclaim, recover, store, finish, maintain, repair, prepare for sale, and/or advertise
+for sale, the collateral. agent is hereby granted a non-exclusive, royalty-free license or other right to use, without
+charge, borrower’s labels, patents, copyrights, mask works, rights of use of any name, trade secrets, trade names,
+trademarks, service marks, and advertising matter, or any similar property as it pertains to the collateral, in
+completing production of, advertising for sale, and selling any collateral and, in connection with agent’s exercise of
+its rights under this section 9.1, borrower’s rights under all licenses and all franchise agreements inure to agent for
+the benefit of the lenders; (iv) place a “hold” on any account maintained with agent or the lenders and/or deliver a
+notice of exclusive control, any entitlement order, or other directions or instructions pursuant to any control
+agreement or similar agreements providing control of any collateral; (v) demand and receive possession of borrower’s
+books; and (vi) subject to clauses 9.1(a)and (b), exercise all rights and remedies available to agent under the loan
+documents or at law or equity, including all remedies provided under the code (including disposal of the collateral
+pursuant to the terms thereof). notwithstanding any provision of this section 9.1 to the contrary, upon the occurrence
+of any event of default, agent shall have the right to exercise any and all remedies referenced in this section 9.1
+without the written consent of required lenders following the occurrence of an exigent circumstance. as used in the
+immediately preceding sentence, “exigent circumstance” means any event or circumstance that, in the reasonable judgment
+of agent, imminently threatens the ability of agent to realize upon all or any material portion of the collateral, such
+as, without limitation, fraudulent removal, concealment, or abscondment thereof, destruction or material waste thereof,
+or failure of borrower after reasonable demand to maintain or reinstate adequate casualty insurance coverage, or which,
+in the judgment of agent, could result in a material diminution in value of the collateral. 9.2 power of attorney.
+borrower hereby irrevocably appoints agent as its lawful attorney-in-fact, exercisable upon the occurrence and during
+the continuance of an event of default, to: (a) endorse borrower’s name on any checks or other forms of payment or
+security; (b) sign borrower’s name on any invoice or bill of lading for any account or drafts against account debtors;
+(c) settle and adjust disputes and claims about the accounts directly with account debtors, for amounts and on terms
+agent determines reasonable; (d) make, settle, and adjust all claims under borrower’s insurance policies; (e) pay,
+contest or settle any lien, charge, encumbrance, security interest, and adverse claim in or to the collateral, or any
+judgment based thereon, or otherwise take any action to terminate or discharge the same; and (f) transfer the collateral
+into the name of agent or a third party as the code permits. borrower hereby appoints agent as its lawful
+attorney-in-fact to sign borrower’s name on any documents necessary to perfect or continue the perfection of agent’s
+security interest in the collateral regardless of whether an 18 event of default has occurred until all obligations have
+been satisfied in full and agent and the lenders are under no further obligation to make credit extensions hereunder.
+agent’s foregoing appointment as borrower’s attorney in fact, and all of agent’s rights and powers, coupled with an
+interest, are irrevocable until all obligations have been fully repaid and performed and agent’s and the lenders’
+obligation to provide credit extensions terminates. 9.3 protective payments. if borrower fails to obtain the insurance
+called for by section 6.5 or fails to pay any premium thereon or fails to pay any other amount which borrower is
+obligated to pay under this agreement or any other loan document, agent may obtain such insurance or make such payment,
+and all amounts so paid by agent are lenders’ expenses and immediately due and payable, bearing interest at the then
+highest applicable rate, and secured by the collateral. agent will make reasonable efforts to provide borrower with
+notice of agent obtaining such insurance at the time it is obtained or within a reasonable time thereafter. no such
+payments by agent are deemed an agreement to make similar payments in the future or agent’s waiver of any event of
+default. 9.4 application of payments and proceeds. (a) notwithstanding anything to the contrary contained in this
+agreement, upon the occurrence and during the continuance of an event of default, (i) borrower irrevocably waives the
+right to direct the application of any and all payments at any time or times thereafter received by agent from or on
+behalf of borrower of all or any part of the obligations, and, as between borrower on the one hand and agent and lenders
+on the other, agent shall have the continuing and exclusive right to apply and to reapply any and all payments received
+against the obligations in such manner as agent may deem advisable notwithstanding any previous application by agent,
+and (ii) the proceeds of any sale of, or other realization upon all or any part of the collateral shall be applied:
+first, to the lenders expenses; second, to accrued and unpaid interest on the obligations (including any interest which,
+but for the provisions of the united states bankruptcy code, would have accrued on such amounts); third, to the
+principal amount of the obligations outstanding; and fourth, to any other indebtedness or obligations of borrower owing
+to agent or any lender under the loan documents. any balance remaining shall be delivered to borrower or to whoever may
+be lawfully entitled to receive such balance or as a court of competent jurisdiction may direct. in carrying out the
+foregoing, (x) amounts received shall be applied in the numerical order provided until exhausted prior to the
+application to the next succeeding category, and (y) each of the persons entitled to receive a payment in any particular
+category shall receive an amount equal to its pro rata share of amounts available to be applied pursuant thereto for
+such category. (b) agent, or if applicable, each lender, shall promptly remit to the other lenders such sums as may be
+necessary to ensure the ratable repayment of each lender’s portion of any term loan and the ratable distribution of
+interest, fees and reimbursements paid or made by borrower. notwithstanding the foregoing, a lender receiving a
+scheduled payment shall not be responsible for determining whether the other lenders also received their scheduled
+payment on such date; provided, however, if it is determined that a lender received more than its ratable share of
+scheduled payments made on any date or dates, then such lender shall remit to the agent such sums as may be necessary to
+ensure the ratable payment of such scheduled payments, as instructed by agent. if any payment or distribution of any
+kind or character, whether in cash, properties or securities and whether voluntary, involuntary, through the exercise of
+any right of set-off, or otherwise, shall be received by a lender in excess of its ratable share, then (i) the portion
+of such payment or distribution in excess of such lender’s ratable share shall be received by such lender in trust for
+application to the payments of amounts due on the other lender’s claims, or, in the case of collateral, shall hold such
+collateral for itself and as agent and bailee for the agent and other lenders and (ii) such lender shall promptly advise
+the agent of the receipt of such payment, and, within five (5) business days of such receipt and, in the case of
+payments and distributions, such lender shall purchase (for cash at face value) from the other lenders (through the
+agent), without recourse, such participations in the term loan made by the other lenders as shall be necessary to cause
+such purchasing lender to share the excess payment ratably with each of them in accordance with the respective pro rata
+shares of the lenders; provided, however, that if all or any portion of such excess payment is thereafter recovered by
+or on behalf of borrower from such purchasing lender, the purchase shall be rescinded and the purchase price restored to
+the extent of such recovery, but without interest; provided, further, that the provisions of this section 9.4(b) shall
+not be construed to apply to (x) any payment made by borrower pursuant to and in accordance with the express terms of
+this agreement, or (y) any payment obtained by a lender as consideration for the assignment of or sale of a
+participation in any of its term loan pursuant to section 12.1. borrower agrees that any lender so purchasing a
+participation from another lender pursuant to this section 9.4(b) may exercise all its rights of payment (including the
+right of set-off) with 19 respect to such participation as fully as if such lender were the direct creditor of borrower
+in the amount of such participation. no documentation other than notices and the like shall be required to implement the
+terms of this section 9.4(b). the agent shall keep records (which shall be conclusive and binding in the absence of
+manifest error) of participations purchased pursuant to this section 9.4(b) and shall in each case notify the lenders
+following any such purchases. (c) notwithstanding anything to the contrary herein, any warrants issued to the lenders by
+borrower, the stock issuable thereunder, any equity securities purchased by lenders, any amounts paid thereunder, any
+dividends, and any other rights in connection therewith shall not be subject to the terms and conditions of this
+agreement. nothing herein shall affect any lender’s rights under any such warrants, stock, or other equity securities to
+administer, manage, transfer, assign, or exercise such warrants, stock, or other equity securities for its own account.
+(d) any reference in this agreement to an allocation between or sharing by the lenders of any right, interest or
+obligation “ratably,” “proportionally” or in similar terms shall refer to pro rata share unless expressly provided
+otherwise. 9.5 liability for collateral. so long as agent and the lenders comply with reasonable banking practices
+regarding the safekeeping of the collateral in the possession or under the control of agent and the lenders, agent and
+the lenders shall not be liable or responsible for: (a) the safekeeping of the collateral; (b) any loss or damage to the
+collateral; (c) any diminution in the value of the collateral; or (d) any act or default of any carrier, warehouseman,
+bailee, or other person. borrower bears all risk of loss, damage or destruction of the collateral. 9.6 no waiver;
+remedies cumulative. agent’s failure, at any time or times, to require strict performance by borrower of any provision
+of this agreement or any other loan document shall not waive, affect, or diminish any right of agent thereafter to
+demand strict performance and compliance herewith or therewith. no waiver hereunder shall be effective unless signed by
+agent and then is only effective for the specific instance and purpose for which it is given. agent’s rights and
+remedies under this agreement and the other loan documents are cumulative. agent has all rights and remedies provided
+under the code, by law, or in equity. agent’s exercise of one right or remedy is not an election, and agent’s waiver of
+any event of default is not a continuing waiver. agent’s delay in exercising any remedy is not a waiver, election, or
+acquiescence. 9.7 demand waiver. borrower waives demand, notice of default or dishonor, notice of payment and
+nonpayment, notice of any default, nonpayment at maturity, release, compromise, settlement, extension, or renewal of
+accounts, documents, instruments, chattel paper, and guarantees held by agent on which borrower is liable. 10. notices
+all notices, consents, requests, approvals, demands, or other communication (collectively, “communication”) by any party
+to this agreement or any other loan document must be in writing and shall be deemed to have been validly served, given,
+or delivered: (a) upon the earlier of actual receipt and three (3) business days after deposit in the u.s. mail, first
+class, registered or certified mail return receipt requested, with proper postage prepaid; (b) upon transmission, when
+sent by electronic mail (if an email address is specified herein) or facsimile transmission; (c) one (1) business day
+after deposit with a reputable overnight courier with all charges prepaid; or (d) when delivered, if hand-delivered by
+messenger, all of which shall be addressed to the party to be notified and sent to the address, facsimile number, or
+email address indicated below. any of agent, lender or borrower may change its mailing or electronic mail address or
+facsimile number by giving the other party written notice thereof in accordance with the terms of this section 10. if to
+borrower: kalobios pharmaceuticals, inc. 260 east grand avenue south san francisco, ca 94080 attention: jeff cooper fax:
+(650) 243-3261 e-mail: jcooper@kalobios.com 20 if to agent or lenders: midcap financial sbic, lp 7255 woodmont avenue,
+suite 200 bethesda, maryland 20814 attention: portfolio management- life sciences fax: (301) 941-1450 e-mail:
+lviera@midcapfinancial.com with a copy to: midcap financial, llc 7255 woodmont avenue, suite 200 bethesda, maryland
+20814 attention: general counsel fax: (301) 941-1450 e-mail: rgoodridge@midcapfinancial.com 11. choice of law, venue and
+jury trial waiver this agreement, each secured promissory note and each other loan document, and the rights, remedies
+and obligations of the parties hereto and thereto, and any claim, controversy or dispute arising under or related to
+this agreement or such loan document, the relationship of the parties, and/or the interpretation and enforcement of the
+rights and duties of the parties and all other matters relating hereto, thereto or arising therefrom (whether sounding
+in contract law, tort law or otherwise), shall be governed by, and construed and interpreted in accordance with, the
+laws of the state of maryland, without reference to its conflict of law provisions. notwithstanding the foregoing, agent
+and lenders shall have the right to bring any action or proceeding against borrower or its property in the courts of any
+other jurisdiction which agent and lenders (in accordance with the provisions of section 9.1) deem necessary or
+appropriate to realize on the collateral or to otherwise enforce agent’s and lenders’ rights against borrower or its
+property. borrower expressly submits and consents in advance to such jurisdiction in any action or suit commenced in any
+such court, and borrower hereby waives any objection that it may have based upon lack of personal jurisdiction, improper
+venue, or forum non conveniens and hereby consents to the granting of such legal or equitable relief as is deemed
+appropriate by such court. borrower hereby waives personal service of the summons, complaints, and other process issued
+in such action or suit and agrees that service of such summons, complaints, and other process may be made by registered
+or certified mail addressed to borrower at the address set forth in section 10 of this agreement and that service so
+made shall be deemed completed upon the earlier to occur of borrower’s actual receipt thereof or three (3) days after
+deposit in the u.s. mails, proper postage prepaid. to the fullest extent permitted by applicable law, borrower, agent
+and lenders each waive their right to a jury trial of any claim or cause of action arising out of or based upon this
+agreement, the loan documents or any contemplated transaction, including contract, tort, breach of duty and all other
+claims. this waiver is a material inducement for both parties to enter into this agreement. each party has reviewed this
+waiver with its counsel. 21 borrower, agent and each lender agree that each term loan (including those made on the
+closing date) shall be deemed to be made in, and the transactions contemplated hereunder and in any other loan document
+shall be deemed to have been performed in, the state of maryland. 12. general provisions 12.1 successors and assigns;
+additional lenders; participations. this agreement binds and is for the benefit of the successors and permitted assigns
+of each party. borrower may not assign this agreement or any rights or obligations under it without agent’s prior
+written consent (which may be granted or withheld in agent’s discretion). subject to the terms and conditions set forth
+herein, any lender may at any time assign to one or more eligible assignees all or any portion of such lender’s term
+loan, together with all related obligations of such lender hereunder, with the prior written consent of borrower (which
+such consent shall not be unreasonably withheld); provided, however, that no such consent shall be required if the
+eligible assignee is an approved fund or an affiliate of such lender or if an event of default has occurred and is
+continuing at such time. borrower and agent shall be entitled to continue to deal solely and directly with such lender
+in connection with the interests so assigned until agent shall have received and accepted an effective assignment
+agreement in form and substance acceptable to agent, executed, delivered and fully completed by the applicable parties
+thereto, and shall have received such other information regarding such eligible assignee as agent reasonably shall
+require. notwithstanding anything set forth in this agreement to the contrary, any lender may at any time pledge or
+assign a security interest in all or any portion of its rights under this agreement to secure obligations of such
+lender, including any pledge or assignment to secure obligations to a federal reserve bank; provided, however, that no
+such pledge or assignment shall release such lender from any of its obligations hereunder or substitute any such pledgee
+or assignee for such lender as a party hereto. nothing herein shall be interpreted or construed, however, to limit or
+otherwise restrict the agent’s rights or abilities to assign all of its agency rights hereunder to an approved fund or
+an affiliate of agent or add new or additional lenders after the closing date (each an “additional lender”, and
+collectively the “additional lenders”); provided, however, that any such additional lender which is not an affiliate of
+agent or any lender or is not an approved fund, shall, unless an event of default has occurred and is continuing at such
+time, be subject to borrower’s prior written consent (which such consent shall not be unreasonably withheld).
+notwithstanding anything to the contrary in this agreement, agent and lenders agree that agent (in its capacity as a
+lender) and lenders may assign one hundred percent (100%) of the term loan commitments of all lenders (and in
+conjunction with such assignment, agent may assign all of its agency rights hereunder) to an eligible assignee, without
+the consent of borrower if (i) a majority of the agent’s life sciences loan portfolio (which for the avoidance of doubt,
+the term “majority” as used in this sentence, shall mean more than half of the loans from such life sciences loan
+portfolio) have been sold or assigned to another person or (ii) the eligible assignee is an approved fund or an
+affiliate of such lender, or (iii) an event of default has occurred and is continuing at such time. notwithstanding
+anything set forth in this agreement to the contrary, any lender may at any time sell a participation in all or any
+portion of its rights under this agreement, to any one or more persons. 12.2 indemnification. (a) borrower agrees to
+indemnify, defend and hold agent and the lenders and their respective directors, officers, employees, agents, attorneys,
+or any other person affiliated with or representing agent or the lenders (each, an “indemnified person”) harmless
+against: (i) all obligations, demands, claims, and liabilities (collectively, “claims”) asserted by any other party in
+connection with the transactions contemplated by the loan documents; and (ii) all losses or lenders’ expenses incurred,
+or paid by indemnified person from, following, or arising from transactions between agent, and/or the lenders and
+borrower (including reasonable attorneys’ fees and expenses), except for claims and/or losses directly caused by such
+indemnified person’s gross negligence or willful misconduct (collectively, the “indemnified liabilities”). (b) borrower
+hereby further indemnifies, defends and holds each indemnified person harmless from and against any and all liabilities,
+obligations, losses, damages, penalties, actions, judgments, suits, claims, costs, expenses and disbursements of any
+kind or nature whatsoever (including the fees and disbursements of counsel for such indemnitee) in connection with any
+investigative, response, remedial, administrative or judicial matter or proceeding, whether or not such indemnified
+person shall be designated a party thereto and including any 22 such proceeding initiated by or on behalf of borrower,
+and the reasonable expenses of investigation by engineers, environmental consultants and similar technical personnel and
+any commission, fee or compensation claimed by any broker (other than any broker retained by agent or lenders) asserting
+any right to payment for the transactions contemplated hereby which may be imposed on, incurred by or asserted against
+such indemnified person as a result of or in connection with the transactions contemplated hereby and the use or
+intended use of the proceeds of the loan proceeds. (c) to the extent that the undertaking set forth in this section 12.2
+may be unenforceable, borrower shall contribute the maximum portion which it is permitted to pay and satisfy under
+applicable law to the payment and satisfaction of all such indemnified liabilities incurred by the indemnitees or any of
+them. 12.3 time of essence. time is of the essence for the performance of all obligations in this agreement. 12.4
+severability of provisions. each provision of this agreement is severable from every other provision in determining the
+enforceability of any provision. 12.5 correction of loan documents. agent and the lenders may correct patent errors and
+fill in any blanks in this agreement and the other loan documents consistent with the agreement of the parties. 12.6
+integration. this agreement and the loan documents represent the entire agreement about this subject matter and
+supersede prior negotiations or agreements. all prior agreements, understandings, representations, warranties, and
+negotiations between the parties about the subject matter of this agreement and the loan documents merge into this
+agreement and the loan documents. 12.7 counterparts. this agreement may be executed in any number of counterparts and by
+different parties on separate counterparts, each of which, when executed and delivered, is an original, and all taken
+together, constitute one agreement. 12.8 survival. all covenants, representations and warranties made in this agreement
+continue in full force until this agreement has terminated pursuant to its terms and all obligations (other than
+inchoate indemnity obligations and any other obligations which, by their terms, are to survive the termination of this
+agreement) have been satisfied. the obligation of borrower in section 12.2 to indemnify each lender and agent shall
+survive until the statute of limitations with respect to such claim or cause of action shall have run. 12.9
+confidentiality. in handling any confidential information of borrower, the lenders and agent shall exercise the same
+degree of care that it exercises for its own proprietary information, but disclosure of information may be made: (a) to
+the lenders’ and agent’s subsidiaries or affiliates; (b) to prospective transferees or purchasers of any interest in the
+credit extensions (provided, however, the lenders and agent shall obtain such prospective transferee’s or purchaser’s
+agreement to the terms of this provision); (c) as required by law, regulation, subpoena, or other order; (d) to
+regulators or as otherwise required in connection with an examination or audit; (e) as agent considers appropriate in
+exercising remedies under the loan documents; and (f) to third party service providers of the lenders and/or agent so
+long as such service providers have executed a confidentiality agreement with the lenders and agent with terms no less
+restrictive than those contained herein. confidential information does not include information that either: (i) is in
+the public domain or in the lenders’ and/or agent’s possession when disclosed to the lenders and/or agent, or becomes
+part of the public domain after disclosure to the lenders and/or agent; or (ii) is disclosed to the lenders and/or agent
+by a third party, if the lenders and/or agent does not know that the third party is prohibited from disclosing the
+information. agent and/or lenders may use confidential information for any purpose, including, without limitation, for
+the development of client databases, reporting purposes, and market analysis, so long as agent and/or lenders, as
+applicable, do not disclose borrower’s identity or the identity of any person associated with borrower unless otherwise
+expressly permitted by this agreement. the provisions of the immediately preceding sentence shall survive the
+termination of this agreement. the agreements provided under this section 12.9 supersede all prior agreements,
+understanding, representations, warranties, and negotiations between the parties about the subject matter of this
+section 12.9. 23 12.10 right of set off. borrower hereby grants to agent and to each lender, a lien, security interest
+and right of set off as security for all obligations to agent and each lender hereunder, whether now existing or
+hereafter arising upon and against all deposits, credits, collateral and property, now or hereafter in the possession,
+custody, safekeeping or control of agent or the lenders or any entity under the control of agent or the lenders
+(including a agent affiliate) or in transit to any of them. at any time after the occurrence and during the continuance
+of an event of default, without demand or notice, agent or the lenders may set off the same or any part thereof and
+apply the same to any liability or obligation of borrower even though unmatured and regardless of the adequacy of any
+other collateral securing the obligations. any and all rights to require agent to exercise its rights or remedies with
+respect to any other collateral which secures the obligations, prior to exercising its right of setoff with respect to
+such deposits, credits or other property of borrower are hereby knowingly, voluntarily and irrevocably waived. 12.11
+[reserved]. 12.12 amendments. (a) no amendment, modification, termination or waiver of any provision of this agreement
+or any other loan document, no approval or consent thereunder, or any consent to any departure by borrower therefrom,
+shall in any event be effective unless the same shall be in writing and signed by borrower, agent and required lenders.
+except as set forth in clause (b) below, all such amendments, modifications, terminations or waivers requiring the
+consent of the “lenders” shall require the written consent of required lenders. (b) no amendment, modification,
+termination or waiver of any provision of this agreement or any other loan document shall, unless in writing and signed
+by agent and each lender directly affected thereby: (i) increase or decrease the commitment of any lender (which shall
+be deemed to affect all lenders), (ii) reduce the principal of or rate of interest on any obligation or the amount of
+any fees payable hereunder (other than waiving the imposition of the default rate), (iii) postpone the date fixed for or
+waive any payment of principal of or interest on any term loan, or any fees or reimbursement obligation hereunder, (iv)
+release all or substantially all of the collateral, or consent to a transfer of any of the intellectual property, in
+each case, except as otherwise expressly permitted in the loan documents (which shall be deemed to affect all lenders),
+(v) subordinate the lien granted in favor of agent securing the obligations (which shall be deemed to affect all
+lenders), (vi) release a loan party from, or consent to a loan party’s assignment or delegation of, such loan party’s
+obligations hereunder and under the other loan documents or any guarantor from its guaranty of the obligations (which
+shall be deemed to affect all lenders) or (vii) amend, modify, terminate or waive section 9.4, 12.10 or 12.12 or the
+definition of “required lenders” or any other provision hereof specifying the number or percentage of lenders required
+to amend, waive or otherwise modify any rights hereunder or make any determination or grant any consent hereunder,
+without the consent of each lender. (c) notwithstanding any provision in this section 12.12 to the contrary, no
+amendment, modification, termination or waiver affecting or modifying the rights or obligations of agent hereunder shall
+be effective unless signed by borrower, agent and required lenders. any amendment, modification, supplement,
+termination, waiver or consent pursuant to this section 12.12 shall apply equally to, and shall be binding upon, all the
+lenders and agent. 12.13 publicity. borrower will not directly or indirectly publish, disclose or otherwise use in any
+public disclosure, advertising material, promotional material, press release or interview, any reference to the name,
+logo or any trademark of agent or any lender or any of their affiliates or any reference to this agreement or the
+financing evidenced hereby, in any case except as required by applicable law (including the rules and regulations of the
+securities and exchange commission), subpoena or judicial or similar order, in which case borrower shall endeavor to
+give agent prior written notice of such publication or other disclosure. each lender and borrower hereby authorizes each
+lender to publish the name of such lender and borrower, the existence of the financing arrangements referenced under
+this agreement, the primary purpose and/or structure of those arrangements, the amount of credit extended under each
+facility, the title and role of each party to this agreement, and the total amount of the financing evidenced hereby in
+any “tombstone”, comparable advertisement or press release which such 24 lender elects to submit for publication. in
+addition, each lender and borrower agrees that each lender may provide lending industry trade organizations with
+information necessary and customary for inclusion in league table measurements after the closing date. with respect to
+any of the foregoing, such authorization shall be subject to such lender providing borrower and the other lenders with
+an opportunity to review and confer with such lender regarding, and approve, the contents of any such tombstone,
+advertisement or information, as applicable, prior to its initial submission for publication, but subsequent
+publications of the same tombstone, advertisement or information shall not require borrower’s approval. 12.14 no strict
+construction. the parties hereto have participated jointly in the negotiation and drafting of this agreement. in the
+event an ambiguity or question of intent or interpretation arises, this agreement shall be construed as if drafted
+jointly by the parties hereto and no presumption or burden of proof shall arise favoring or disfavoring any party by
+virtue of the authorship of any provisions of this agreement. 13. agent 13.1 appointment and authorization of agent.
+each lender hereby irrevocably appoints, designates and authorizes agent to take such action on its behalf under the
+provisions of this agreement and each other loan document and to exercise such powers and perform such duties as are
+expressly delegated to it by the terms of this agreement or any other loan document, together with such powers as are
+reasonably incidental thereto. notwithstanding any provision to the contrary contained elsewhere herein or in any other
+loan document, agent shall not have any duties or responsibilities, except those expressly set forth herein, nor shall
+agent have or be deemed to have any fiduciary relationship with any lender or participant, and no implied covenants,
+functions, responsibilities, duties, obligations or liabilities shall be read into this agreement or any other loan
+document or otherwise exist against agent. without limiting the generality of the foregoing sentence, the use of the
+term “agent” herein and in the other loan documents with reference to agent is not intended to connote any fiduciary or
+other implied (or express) obligations arising under agency doctrine of any applicable law. instead, such term is used
+merely as a matter of market custom, and is intended to create or reflect only an administrative relationship between
+independent contracting parties. 13.2 delegation of duties. agent may execute any of its duties under this agreement or
+any other loan document by or through its, or its affiliates’, agents, employees or attorneys-in-fact and shall be
+entitled to obtain and rely upon the advice of counsel and other consultants or experts concerning all matters
+pertaining to such duties. agent shall not be responsible for the negligence or misconduct of any agent or
+attorney-in-fact that it selects in the absence of gross negligence or willful misconduct. 13.3 liability of agent.
+except as otherwise provided herein, no agent-related person shall (a) be liable for any action taken or omitted to be
+taken by any of them under or in connection with this agreement or any other loan document or the transactions
+contemplated hereby (except for its own gross negligence or willful misconduct in connection with its duties expressly
+set forth herein), or (b) be responsible in any manner to any lender or participant for any recital, statement,
+representation or warranty made by borrower or any officer thereof, contained herein or in any other loan document, or
+in any certificate, report, statement or other document referred to or provided for in, or received by agent under or in
+connection with, this agreement or any other loan document, or the validity, effectiveness, genuineness, enforceability
+or sufficiency of this agreement or any other loan document, or for any failure of borrower or any other party to any
+loan document to perform its obligations hereunder or thereunder. no agent-related person shall be under any obligation
+to any lender or participant to ascertain or to inquire as to the observance or performance of any of the agreements
+contained in, or conditions of, this agreement or any other loan document, or to inspect the properties, books or
+records of borrower or any affiliate thereof. 13.4 reliance by agent. agent shall be entitled to rely, and shall be
+fully protected in relying, upon any writing, communication, signature, resolution, representation, notice, consent,
+certificate, affidavit, letter, telegram, facsimile, telex or telephone message, electronic mail message, statement or
+other document or conversation believed by it to be genuine and correct and to have been signed, sent or made by the
+proper person or persons, and upon advice and statements of legal counsel (including counsel to borrower), independent
+accountants and other experts selected by agent. agent shall be fully justified in failing or refusing to take any
+action under any loan document unless it shall first receive such advice or concurrence of all lenders as it deems
+appropriate and, if 25 it so requests, it shall first be indemnified to its satisfaction by the lenders against any and
+all liability and expense which may be incurred by it by reason of taking or continuing to take any such action. agent
+shall in all cases be fully protected in acting, or in refraining from acting, under this agreement or any other loan
+document in accordance with a request or consent of all lenders and such request and any action taken or failure to act
+pursuant thereto shall be binding upon all the lenders. 13.5 notice of default. agent shall not be deemed to have
+knowledge or notice of the occurrence of any default and/or event of default, unless agent shall have received written
+notice from a lender or borrower, describing such default or event of default. agent will notify the lenders of its
+receipt of any such notice. agent shall take such action with respect to an event of default as may be directed in
+writing by the required lenders in accordance with section 9(a); provided, however, that while an event of default has
+occurred and is continuing, agent may (but shall not be obligated to) take such action, or refrain from taking such
+action, with respect to such event of default as agent shall deem advisable or in the best interest of the lenders,
+including without limitation, satisfaction of other security interests, liens or encumbrances on the collateral not
+permitted under the loan documents, payment of taxes on behalf of borrower, payments to landlords, warehouseman, bailees
+and other persons in possession of the collateral and other actions to protect and safeguard the collateral, and actions
+with respect to insurance claims for casualty events affecting borrower and/or the collateral. 13.6 credit decision;
+disclosure of information by agent. each lender acknowledges that no agent-related person has made any representation or
+warranty to it, and that no act by agent hereafter taken, including any consent to and acceptance of any assignment or
+review of the affairs of borrower or any affiliate thereof, shall be deemed to constitute any representation or warranty
+by any agent-related person to any lender as to any matter, including whether agent-related persons have disclosed
+material information in their possession. each lender represents to agent that it has, independently and without
+reliance upon any agent-related person and based on such documents and information as it has deemed appropriate, made
+its own appraisal of, and investigation into, the business, prospects, operations, property, financial and other
+condition and creditworthiness of borrower and its respective subsidiaries, and all applicable bank or other regulatory
+laws relating to the transactions contemplated hereby, and made its own decision to enter into this agreement and to
+extend credit to borrower hereunder. each lender also represents that it will, independently and without reliance upon
+any agent-related person and based on such documents and information as it shall deem appropriate at the time, continue
+to make its own credit analysis, appraisals and decisions in taking or not taking action under this agreement and the
+other loan documents, and to make such investigations as it deems necessary to inform itself as to the business,
+prospects, operations, property, financial and other condition and creditworthiness of borrower. except for notices,
+reports and other documents expressly required to be furnished to the lenders by agent herein, agent shall not have any
+duty or responsibility to provide any lender with any credit or other information concerning the business, prospects,
+operations, property, financial and other condition or creditworthiness of borrower or any of its affiliates which may
+come into the possession of any agent-related person. 13.7 indemnification of agent. whether or not the transactions
+contemplated hereby are consummated, each lender shall, severally and pro rata based on its respective pro rata share,
+indemnify upon demand each agent-related person (to the extent not reimbursed by or on behalf of borrower and without
+limiting the obligation of borrower to do so), and hold harmless each agent-related person from and against any and all
+indemnified liabilities (which shall not include legal expenses of agent incurred in connection with the closing of the
+transactions contemplated by this agreement) incurred by it; provided, however, that no lender shall be liable for the
+payment to any agent-related person of any portion of such indemnified liabilities to the extent determined in a
+judgment by a court of competent jurisdiction to have resulted from such agent-related person’s own gross negligence or
+willful misconduct; provided, however, that no action taken in accordance with the directions of the required lenders
+shall be deemed to constitute gross negligence or willful misconduct for purposes of this section 13.7. without
+limitation of the foregoing, each lender shall, severally and pro rata based on its respective pro rata share, reimburse
+agent upon demand for its ratable share of any costs or out-of-pocket expenses (including lenders’ expenses incurred
+after the closing of the transactions contemplated by this agreement) incurred by agent (in its capacity as agent, and
+not as a lender) in connection with the preparation, execution, delivery, administration, modification, amendment or
+enforcement (whether through negotiations, legal proceedings or otherwise) of, or legal advice in respect of rights or
+responsibilities under, this agreement, any other loan document, or any document contemplated by or referred to herein,
+to the extent that agent is not reimbursed for such expenses by or on behalf of borrower. the undertaking in this
+section 13.7 shall survive the payment in full of the obligations, the termination of this agreement and the resignation
+of agent. 26 13.8 agent in its individual capacity. with respect to its credit extensions, midcap shall have the same
+rights and powers under this agreement as any other lender and may exercise such rights and powers as though it were not
+agent, and the terms “lender” and “lenders” include midcap in its individual capacity. 13.9 successor agent. (a) subject
+to the terms and conditions set forth in section 12.1, agent may at any time assign its rights, powers, privileges and
+duties hereunder to (i) another lender, or (ii) any person to whom agent, in its capacity as a lender, has assigned (or
+will assign, in conjunction with such assignment of agency rights hereunder) fifty percent (50%) or more of its loan, in
+each case without the consent of the lenders, but, unless an event of default has occurred and is continuing at such
+time, with the prior written consent of borrower if such assignee is not an affiliate or approved fund of agent (which
+such consent shall not be unreasonably withheld). following any such assignment, agent shall give notice to the lenders
+and borrower. an assignment by agent pursuant to this subsection (a) shall not be deemed a resignation by agent for
+purposes of subsection (b) below. (b) without limiting the rights of agent to designate an assignee pursuant to
+subsection (a) above, agent may at any time give notice of its resignation to the lenders and borrower. upon receipt of
+any such notice of resignation, required lenders shall have the right to appoint a successor agent. if no such successor
+shall have been so appointed by required lenders and shall have accepted such appointment within ten (10) business days
+after the retiring agent gives notice of its resignation, then the retiring agent may, on behalf of the lenders, appoint
+a successor agent; provided, however, that if agent shall notify borrower and the lenders that no person has accepted
+such appointment, then such resignation shall nonetheless become effective in accordance with such notice from agent
+that no person has accepted such appointment and, from and following delivery of such notice, (i) the retiring agent
+shall be discharged from its duties and obligations hereunder and under the other loan documents, and (ii) all payments,
+communications and determinations provided to be made by, to or through agent shall instead be made by or to each lender
+directly, until such time as required lenders appoint a successor agent as provided for above in this subsection (b).
+(c) upon (i) an assignment permitted by subsection (a) above, or (ii) the acceptance of a successor’s appointment as
+agent pursuant to subsection (b) above, such successor shall succeed to and become vested with all of the rights,
+powers, privileges and duties of the retiring (or retired) agent, and the retiring agent shall be discharged from all of
+its duties and obligations hereunder and under the other loan documents (if not already discharged therefrom as provided
+above in this subsection (c)). the fees payable by borrower to a successor agent shall be the same as those payable to
+its predecessor unless otherwise agreed between borrower and such successor. after the retiring agent’s resignation
+hereunder and under the other loan documents, the provisions of this section 13 shall continue in effect for the benefit
+of such retiring agent and its sub-agents in respect of any actions taken or omitted to be taken by any of them while
+the retiring agent was acting or was continuing to act as agent. 13.10 agent may file proofs of claim. in case of the
+pendency of any receivership, insolvency, liquidation, bankruptcy, reorganization, arrangement, adjustment, composition
+or other judicial proceeding relative to borrower, agent (irrespective of whether the principal of any loan, shall then
+be due and payable as herein expressed or by declaration or otherwise and irrespective of whether agent shall have made
+any demand on borrower) shall be entitled and empowered, by intervention in such proceeding or otherwise: (a) to file
+and prove a claim for the whole amount of the principal and interest owing and unpaid in respect of the credit
+extensions and all other obligations that are owing and unpaid and to file such other documents as may be necessary or
+advisable in order to have the claims of the lenders and agent (including any claim for the reasonable compensation,
+expenses, disbursements and advances of the lenders and agent and their respective agents and counsel and all other
+amounts due the lenders and agent allowed in such judicial proceeding); and 27 (b) to collect and receive any monies or
+other property payable or deliverable on any such claims and to distribute the same; and any custodian, receiver,
+assignee, trustee, liquidator, sequestrator or other similar official in any such judicial proceeding is hereby
+authorized by each lender to make such payments to agent and, in the event that agent shall consent to the making of
+such payments directly to the lenders, to pay to agent any amount due for the reasonable compensation, expenses,
+disbursements and advances of agent and its agents and counsel, and any other amounts due agent under section 2.4(e). to
+the extent that agent fails timely to do so, each lender may file a claim relating to such lender’s claim. 13.11
+collateral and guaranty matters. the lenders irrevocably authorize agent, at its option and in its discretion, to
+release any guarantor and any lien on any collateral granted to or held by agent under any loan document (a) upon the
+date that all obligations due hereunder have been fully and indefeasibly paid in full and no term loan commitments or
+other obligations of any lender to provide funds to borrower under this agreement remain outstanding, (b) that is
+transferred or to be transferred as part of or in connection with any transfer permitted hereunder or under any other
+loan document, or (c) as approved in accordance with section 12.11. upon request by agent at any time, all lenders will
+confirm in writing agent’s authority to release its interest in particular types or items of property, pursuant to this
+section 13.11. 13.12 cooperation of borrower. if necessary, borrower agrees to (a) execute any documents (including new
+secured promissory notes and warrants) reasonably required to effectuate and acknowledge each assignment of a term loan
+commitment or loan to an assignee in accordance with section 12.1, (b) make borrower’s management available to meet with
+agent and prospective participants and assignees of term loan commitments or credit extensions and (c) assist agent or
+the lenders in the preparation of information relating to the financial affairs of borrower as any prospective
+participant or assignee of a term loan commitment or term loan reasonably may request. subject to the provisions of
+section 12.9, borrower authorizes each lender to disclose to any prospective participant or assignee of a term loan
+commitment, any and all information in such lender’s possession concerning borrower and its financial affairs which has
+been delivered to such lender by or on behalf of borrower pursuant to this agreement, or which has been delivered to
+such lender by or on behalf of borrower in connection with such lender’s credit evaluation of borrower prior to entering
+into this agreement. 14. definitions as used in this agreement, the following terms have the following meanings: “access
+agreement” means a landlord consent, bailee letter or warehouseman’s letter, in form and substance reasonably
+satisfaction to agent, in favor of agent executed by such landlord, bailee or warehouseman, as applicable, for any third
+party location. “account” means any “account”, as defined in the code, with such additions to such term as may hereafter
+be made, and includes, without limitation, all accounts receivable and other sums owing to borrower. “account debtor”
+means any “account debtor”, as defined in the code, with such additions to such term as may hereafter be made.
+“additional lender” or “additional lenders” has the meaning given it in section 12.1. “affiliate” means, with respect to
+any person, a person that owns or controls directly or indirectly the person, any person that controls or is controlled
+by or is under common control with the person, and each of that person’s senior executive officers, directors, partners
+and, for any person that is a limited liability company, that person’s managers and members. “agent” means, midcap, not
+in its individual capacity, but solely in its capacity as agent on behalf of and for the benefit of the lenders. 28
+“agent-related person” means the agent, together with its affiliates, and the officers, directors, employees, agents,
+advisors, auditors and attorneys-in-fact of such persons; provided, however, that no agent-related person shall be an
+affiliate of borrower. “agreement” has the meaning given it in the preamble of this agreement. “amortization date” means
+january 1, 2014. “anti-terrorism laws” means any laws relating to terrorism or money laundering, including executive
+order no. 13224 (effective september 24, 2001), the usa patriot act, the laws comprising or implementing the bank
+secrecy act, and the laws administered by ofac. “approved fund” means any (a) investment company, fund, trust,
+securitization vehicle or conduit that is (or will be) engaged in making, purchasing, holding or otherwise investing in
+commercial loans and similar extensions of credit in the ordinary course of business, or (b) any person (other than a
+natural person) which temporarily warehouses loans for any lender or any entity described in the preceding clause (a)
+and that, with respect to each of the preceding clauses (a) and (b), is administered or managed by (i) a lender, (ii) an
+affiliate of a lender or (iii) a person (other than a natural person) or an affiliate of a person (other than a natural
+person) that administers or manages a lender. “base libor rate” means, for any interest period, the rate per annum,
+determined by agent in accordance with its customary procedures, and utilizing such electronic or other quotation
+sources as it considers appropriate (rounded upwards, if necessary, to the next 1/100%), to be the rate at which dollar
+deposits (for delivery on the first day of such interest period or, if such day is not a business day, on the preceding
+business day) in the amount of one million dollars ($1,000,000) are offered to major banks in the london interbank
+market on or about 11:00 a.m. (new york time) two (2) business days prior to the commencement of such interest period,
+for a term comparable to such interest period, which determination shall be conclusive in the absence of manifest error.
+“blocked person” means: (a) any person listed in the annex to, or is otherwise subject to the provisions of, executive
+order no. 13224, (b) a person owned or controlled by, or acting for or on behalf of, any person that is listed in the
+annex to, or is otherwise subject to the provisions of, executive order no. 13224, (c) a person with which any lender is
+prohibited from dealing or otherwise engaging in any transaction by any anti-terrorism law, (d) a person that commits,
+threatens or conspires to commit or supports “terrorism” as defined in executive order no. 13224, or (e) a person that
+is named a “specially designated national” or “blocked person” on the most current list published by ofac or other
+similar list. “borrower” has the meaning given it in the preamble of this agreement. “borrower’s books” means all of
+borrower’s books and records, including ledgers, federal and state tax returns, records regarding borrower’s assets or
+liabilities, the collateral, business operations or financial condition, and all computer programs or storage or any
+equipment containing such information. “borrowing resolutions” means, with respect to any person, those resolutions
+adopted by such person’s board of directors and delivered by such person to agent approving the loan documents to which
+such person is a party and the transactions contemplated thereby, together with a certificate executed by its secretary
+on behalf of such person certifying that (a) such person has the authority to execute, deliver, and perform its
+obligations under each of the loan documents to which it is a party, (b) that attached as an exhibit to such certificate
+is a true, correct, and complete copy of the resolutions then in full force and effect authorizing and ratifying the
+execution, delivery, and performance by such person of the loan documents to which it is a party, (c) the name(s) of the
+person(s) authorized to execute the loan documents on behalf of such person, together with a sample of the true
+signature(s) of such person(s), and (d) that agent and the lenders may conclusively rely on such certificate unless and
+until such person shall have delivered to agent a further certificate canceling or amending such prior certificate.
+“business day” means any day that is not a saturday, sunday or a day on which agent is closed. 29 “cash equivalents”
+means (a) marketable direct obligations issued or unconditionally guaranteed by the united states or any agency or any
+state thereof having maturities of not more than one (1) year from the date of acquisition, (b) commercial paper
+maturing no more than one (1) year after its creation and having the highest rating from either standard & poor’s
+ratings group or moody’s investors service, inc., (c) certificates of deposit issued maturing no more than one (1) year
+after issue, and (d) money market funds at least ninety-five percent (95%) of the assets of which constitute cash
+equivalents of the kinds described in clauses (a) through (b) of this definition. for the avoidance of doubt, the direct
+purchase by borrower, co-borrower, or any subsidiary of borrower of any auction rate securities, or purchasing
+participations in, or entering into any type of swap or other derivative transaction, or otherwise holding or engaging
+in any ownership interest in any type of auction rate security by borrower, co-borrower, or any subsidiary of borrower
+shall be conclusively determined by the lenders as an ineligible cash equivalent, and any such transaction shall
+expressly violate each other provision of this agreement governing permitted investments. notwithstanding the foregoing,
+cash equivalents does not include, and each borrower and subsidiary is prohibited from purchasing, purchasing
+participations in, entering into any type of swap or other equivalent derivative transaction, or otherwise holding or
+engaging in any ownership interest in any type of debt instrument, including, without limitation, any corporate or
+municipal bonds with a long-term nominal maturity for which the interest rate is reset through a dutch auction and more
+commonly referred to as an auction rate security. “change in control” means any event, transaction, or occurrence as a
+result of which (a) sofinnova ventures, mpm capital, alloy ventures and fidelity (each, a “primary investor”, and
+collectively, the “primary investors”) cease to own and control, collectively, all of the economic and voting rights
+associated with ownership of at least twenty percent (20%) of the outstanding securities of all classes of borrower on a
+fully diluted basis and one or more replacement investors satisfactory to agent in its sole and absolute discretion
+(each, an “acceptable replacement investor”, and collectively, the “acceptable replacement investors”) are not made in
+conjunction with the applicable primary investor’s disposition of its economic and voting rights associated with
+ownership of outstanding securities of borrower; (b) during any period of twelve (12) consecutive calendar months,
+individuals who at the beginning of such period constituted the board of directors of borrower (together with any new
+directors whose election by the board of directors of borrower was approved by a vote of not less than two-thirds (2/3)
+of the directors then still in office who either were directions at the beginning of such period or whose election or
+nomination for election was previously so approved) cease for any reason other than death or disability to constitute a
+majority of the directors then in office, other than as a result of borrower’s qualifying initial public offering; (c)
+borrower ceases to own and control, directly or indirectly, all of the economic and voting rights associated with the
+outstanding securities of each of its subsidiaries, other than as a result of borrower’s qualifying initial public
+offering; or (d) the occurrence of any “change of control” or any term of similar effect under any subordinated debt
+document. in furtherance to the terms set forth in clause (a) of this definition, an acceptable replacement investor
+shall be deemed to be included as a “primary investor”. “claims” has the meaning given it in section 12.2. “closing
+date” has the meaning given it in the preamble of this agreement. “code” means the uniform commercial code in effect on
+the date hereof, as the same may, from time to time, be enacted and in effect in the state of maryland; provided,
+however, that to the extent that the code is used to define any term herein or in any loan document and such term is
+defined differently in different articles or divisions of the code, the definition of such term contained in article or
+division 9 shall govern; and provided, further, that in the event that, by reason of mandatory provisions of law, any or
+all of the attachment, perfection, or priority of, or remedies with respect to, agent’s lien on any collateral is
+governed by the uniform commercial code in effect in a jurisdiction other than the state of maryland, the term “code”
+shall mean the uniform commercial code as enacted and in effect in such other jurisdiction solely for purposes of the
+provisions thereof relating to such attachment, perfection, priority, or remedies and for purposes of definitions
+relating to such provisions. “collateral” means all property, now existing or hereafter acquired, mortgaged or pledged
+to, or purported to be subjected to a lien in favor of agent, for the benefit of agent and lenders, pursuant to this
+agreement and the other loan documents, including, without limitation, all of the property described in exhibit a
+hereto. “collateral account” means any deposit account, securities account or commodity account, but excluding the
+excluded comerica bank account. 30 “commitment percentage” means, as to any lender, the percentage set forth opposite
+such lender’s name on schedule 1, as amended from time to time. “commodity account” means any “commodity account”, as
+defined in the code, with such additions to such term as may hereafter be made. “communication” has the meaning given it
+in section 10. “compliance certificate” means a certificate, duly executed by an authorized officer of borrower,
+appropriately completed and substantially in the form of exhibit c. “contingent obligation” means, for any person, any
+direct or indirect liability, contingent or not, of that person for (a) any indebtedness, lease, dividend, letter of
+credit or other obligation of another such as an obligation directly or indirectly guaranteed, endorsed, co-made,
+discounted or sold with recourse by that person, or for which that person is directly or indirectly liable; (b) any
+obligations for undrawn letters of credit for the account of that person; and (c) all obligations from any interest
+rate, currency or commodity swap agreement, interest rate cap or collar agreement, or other agreement or arrangement
+designated to protect a person against fluctuation in interest rates, currency exchange rates or commodity prices; but
+“contingent obligation” does not include endorsements in the ordinary course of business. the amount of a contingent
+obligation is the stated or determined amount of the primary obligation for which the contingent obligation is made or,
+if not determinable, the maximum reasonably anticipated liability for it determined by the person in good faith; but the
+amount may not exceed the maximum of the obligations under any guarantee or other support arrangement. “control
+agreement” means any control agreement entered into among the depository institution at which borrower maintains a
+deposit account or the securities intermediary or commodity intermediary at which borrower maintains a securities
+account or a commodity account, borrower, and agent pursuant to which agent obtains control (within the meaning of the
+code) for the benefit of the lenders over such deposit account, securities account or commodity account. “credit
+extension” means any term loan or any other extension of credit by agent or the lenders for borrower’s benefit. “dea”
+means the drug enforcement administration of the united states of america, and any successor agency thereof. “default”
+means any event which with notice or passage of time or both, would constitute an event of default. “default rate” has
+the meaning given it in section 2.3(c). “deposit account” means any “deposit account” as defined in the code with such
+additions to such term as may hereafter be made. “designated deposit account” means borrower’s deposit account, account
+number 1892865328, maintained with comerica bank and over which agent has been granted control for the ratable benefit
+of all lenders. “dollars,” “dollars” and “$” each means lawful money of the united states. “domestic subsidiary” means a
+subsidiary organized under the laws of the united states or any state or territory thereof or the district of columbia.
+“draw period” means the period of time commencing upon the closing date and continuing through the earliest to occur of
+(a) the draw period termination date, (b) an event of default, and (c) the existence of any default. 31 “draw period
+termination date” means june 30, 2013. “drug application” means a new drug application, an abbreviated drug application,
+or a product license application for any product, as appropriate, as those terms are defined in the fdca. “eligible
+assignee” means (a) a lender, (b) an affiliate of a lender, (c) an approved fund, and (d) any other person (other than a
+natural person) approved by agent; provided, however, that notwithstanding the foregoing, “eligible assignee” shall not
+include borrower, any guarantor or any of borrower’s or any guarantor’s affiliates or subsidiaries. notwithstanding the
+foregoing, in connection with assignments by a lender due to a forced divestiture at the request of any regulatory
+agency, the restrictions set forth herein shall not apply and eligible assignee shall mean any person or party becoming
+an assignee incident to such forced divestiture. “equipment” means all “equipment”, as defined in the code, with such
+additions to such term as may hereafter be made, and includes without limitation all machinery, fixtures, goods,
+vehicles (including motor vehicles and trailers), and any interest in any of the foregoing. “erisa” means the employee
+retirement income security act of 1974, and all regulations promulgated thereunder. “event of default” has the meaning
+given it in section 8. “excluded comerica bank account” means that certain cash collateral account of borrower
+maintained at comerica bank (account no. 1892865336) securing the performance of a letter of credit, having an aggregate
+balance not to exceed five hundred thousand dollars ($500,000) at any time. “fda” means the food and drug administration
+of the united states of america, or any successor entity thereto. “fdca” means the federal food, drug and cosmetic act,
+as amended, 21 u.s.c. section 301 et seq., and all regulations promulgated thereunder. “final payment” means a payment
+(in addition to and not a substitution for the regular monthly payments of principal plus accrued interest) due on the
+earlier to occur of (a) the maturity date, (b) the acceleration of any term loan, and (c) the prepayment of a term loan
+pursuant to section 2.2(c) or (d)), equal to the original principal amount of the applicable term loan subject to such
+final payment multiplied by the final payment percentage. “final payment percentage” means three percent (3.00%).
+“foreign subsidiary” means any subsidiary which is not a domestic subsidiary. “funding date” means any date on which a
+credit extension is made to or on account of borrower which shall be a business day. “gaap” means generally accepted
+accounting principles set forth in the opinions and pronouncements of the accounting principles board of the american
+institute of certified public accountants and statements and pronouncements of the financial accounting standards board
+or in such other statements by such other person as may be approved by a significant segment of the accounting
+profession in the united states, which are applicable to the circumstances as of the date of determination. “general
+intangibles” means all “general intangibles”, as defined in the code, with such additions to such term as may hereafter
+be made, and includes without limitation, all copyright rights, copyright applications, copyright registrations and like
+protections in each work of authorship and derivative work, whether published or 32 unpublished, any patents,
+trademarks, service marks and, to the extent permitted under applicable law, any applications therefor, whether
+registered or not, any trade secret rights, including any rights to unpatented inventions, payment intangibles,
+royalties, contract rights, goodwill, franchise agreements, purchase orders, customer lists, route lists, telephone
+numbers, domain names, claims, income and other tax refunds, security and other deposits, options to purchase or sell
+real or personal property, rights in all litigation presently or hereafter pending (whether in contract, tort or
+otherwise), insurance policies (including, without limitation, key man, property damage, and business interruption
+insurance), payments of insurance and rights to payment of any kind. “governmental approval” means any consent,
+authorization, approval, order, license, franchise, permit, certificate, accreditation, registration, filing or notice,
+of, issued by, from or to, or other act by or in respect of, any governmental authority. “governmental authority” means
+any nation or government, any state or other political subdivision thereof, any agency, authority, instrumentality,
+regulatory body, court, central bank or other entity exercising executive, legislative, judicial, taxing, regulatory or
+administrative functions of or pertaining to government, any securities exchange and any self-regulatory organization.
+“guarantor” means any present or future guarantor of the obligations. “indebtedness” means (a) indebtedness for borrowed
+money or the deferred price of property or services, such as reimbursement and other obligations for surety bonds and
+letters of credit, (b) obligations evidenced by notes, bonds, debentures or similar instruments, (c) capital lease
+obligations, and (d) contingent obligations. “indemnified liabilities” has the meaning given it in section 12.2.
+“indemnified person” has the meaning given it in section 12.2. “insolvency proceeding” means any proceeding by or
+against any person under the united states bankruptcy code, or any other bankruptcy or insolvency law, including
+assignments for the benefit of creditors, compositions, extensions generally with its creditors, or proceedings seeking
+reorganization, arrangement, or other relief. “intellectual property” includes without limitation, all copyright rights,
+copyright applications, copyright registrations and like protections in each work of authorship and derivative work,
+whether published or unpublished, any patents, patent applications and like protections, including improvements,
+divisions, continuations, renewals, reissues, extensions, and continuations-in-part of the same, trademarks, trade
+names, service marks, mask works, rights of use of any name, domain names, or any other similar rights, any applications
+therefor, whether registered or not, know-how, operating manuals, trade secret rights, clinical and non-clinical data,
+rights to unpatented inventions, and any claims for damage by way of any past, present, or future infringement of any of
+the foregoing. “interest expense” means for any fiscal period with respect to borrower and its subsidiaries on a
+consolidated basis, interest expense (whether cash or non-cash) determined in accordance with gaap for the relevant
+period ending on such date, including, in any event, interest expense with respect to any credit extension and other
+indebtedness of borrower and its subsidiaries, including, without limitation or duplication, all commissions, discounts,
+or related amortization and other fees and charges with respect to letters of credit and bankers’ acceptance financing
+and the net costs associated with interest rate swap, cap, and similar arrangements, and the interest portion of any
+deferred payment obligation (including leases of all types). “interest period” means the one-month period starting on
+the first (1st) day of each month and ending on the last day of such month; provided, however, that the first (1st)
+interest period for each term loan shall commence on the date that the applicable term loan is made and end on the last
+day of such month. “interest rate determination date” means the second (2nd) business day prior to the first (1st) day
+of the related interest period. 33 “inventory” means all “inventory”, as defined in the code, with such additions to
+such term as may hereafter be made, and includes without limitation all merchandise, raw materials, parts, supplies,
+packing and shipping materials, work in process and finished products, including without limitation such inventory as is
+temporarily out of borrower’s custody or possession or in transit and including any returned goods and any documents of
+title representing any of the above. “investment” means, with respect to any person, directly or indirectly, (a) to
+purchase or acquire any stock or stock equivalents, or any obligations or other securities of, or any interest in, any
+person, including the establishment or creation of a subsidiary, (b) to make or commit to make any acquisition of all or
+substantially all of the assets of another person, or of any business, product, business line or product line, division
+or other unit operation of any person or (c) make or purchase any advance, loan, extension of credit or capital
+contribution to, or any other investment in, any person. “investment policy” means that certain investment policy of
+borrower approved by borrower’s board of directors and provided to agent as of the closing date, as the same may be
+amended from time to time with the prior approval of borrower’s board of directors (and any such amendments or other
+modifications to the investment policy shall be promptly delivered to agent after such approval by borrower’s board of
+directors pursuant to the terms set forth in section 6.2(h)). “laws” means any and all federal, state, provincial,
+territorial, local and foreign statutes, laws, judicial decisions, regulations, guidances, guidelines, ordinances,
+rules, judgments, orders, decrees, codes, plans, injunctions, permits, concessions, grants, franchises, governmental
+agreements and governmental restrictions, whether now or hereafter in effect, which are applicable to borrower in any
+particular circumstance. “lender” means any one of the lenders. “lenders” means the persons identified on schedule 1
+hereto, and each assignee that becomes a party to this agreement pursuant to section 12.1. “lenders’ expenses” means all
+audit fees and expenses, costs, and expenses (including reasonable attorneys’ fees and expenses) of agent and lenders
+for preparing, amending, negotiating, administering, defending and enforcing the loan documents (including, without
+limitation, those incurred in connection with appeals or insolvency proceedings) or otherwise incurred by agent or the
+lenders in connection with the loan documents. “libor rate” means, for each interest period, the rate per annum
+determined by agent (rounded upwards, if necessary, to the next 1/100th%) by dividing (a) the base libor rate for such
+interest period, by (b) 100% minus the reserve percentage. the libor rate shall be adjusted on and as of the effective
+day of any change in the reserve percentage. “libor rate margin” means six percent (6.00%) per annum. “lien” means a
+claim, mortgage, deed of trust, levy, charge, pledge, security interest or other encumbrance of any kind, whether
+voluntarily incurred or arising by operation of law or otherwise against any property. “loan documents” means,
+collectively, this agreement, the warrant, the perfection certificate, and each note and guarantee executed by one or
+more loan parties in connection with the indebtedness governed by this agreement, and each other present or future
+agreement executed by one or more loan parties and, or for the benefit of, the lenders and/or agent in connection with
+this agreement, all as amended, restated, or otherwise modified from time to time. “loan party” means borrower and each
+guarantor. “material adverse change” means (a) a material impairment in the perfection or priority of the agent’s lien
+in the collateral or in the value of such collateral; (b) a material adverse change in the business, operations, or
+condition (financial or otherwise) of borrower, taken as a whole; or (c) a material impairment of the prospect of
+repayment of any portion of the obligations. 34 “material agreement” means (i) each agreement or contract to which a
+loan party is a party involving the receipt or payment of amounts in the aggregate exceeding one million dollars
+($1,000,000) per year, and (ii) any agreement or contract to which such loan party or its subsidiaries is a party the
+termination of which could reasonably be expected to cause a material adverse change. “material intellectual property”
+means all of borrower’s intellectual property and license or sublicense agreements or other agreements with respect to
+rights in intellectual property, the loss or termination of which could reasonably be expected to cause a material
+adverse change. “maturity date” means december 31, 2016 for each term loan. “obligations” means all of borrower’s
+obligations to pay when due any debts, principal, interest, lenders’ expenses, the prepayment fee, the final payment,
+and other amounts borrower owes the lenders now or later, under this agreement or the other loan documents, including,
+without limitation, interest accruing after insolvency proceedings begin (whether or not allowed) and debts,
+liabilities, or obligations of borrower assigned to the lenders and/or agent, and the performance of borrower’s duties
+under the loan documents. “ofac” means the u.s. department of treasury office of foreign assets control. “ofac lists”
+means, collectively, the specially designated nationals and blocked persons list maintained by ofac pursuant to
+executive order no. 13224, 66 fed. reg. 49079 (sept. 25, 2001) and/or any other list of terrorists or other restricted
+persons maintained pursuant to any of the rules and regulations of ofac or pursuant to any other applicable executive
+orders. “operating documents” means, for any person, such person’s formation documents, as certified with the secretary
+of state of such person’s state of formation on a date that is no earlier than thirty (30) days prior to the closing
+date, and (a) if such person is a corporation, its bylaws in current form, (b) if such person is a limited liability
+company, its limited liability company agreement (or similar agreement), and (c) if such person is a partnership, its
+partnership agreement (or similar agreement), each of the foregoing with all current amendments or modifications
+thereto. “ordinary course of business” means, in respect of any transaction involving any loan party, the ordinary
+course of business of such loan party, as conducted by such loan party in accordance with past practices. “qualifying
+initial public offering” means the sale of the borrower’s common stock in an initial public offering on the nyse, nasdaq
+or other comparable registered public exchange. “payment/advance form” means that certain form attached hereto as
+exhibit b. “payment date” means the first calendar day of each calendar month. “perfection certificate” has the meaning
+given it in section 5.1. “permits” means licenses, certificates, accreditations, product clearances or approvals,
+provider numbers or provider authorizations, marketing authorizations, other authorizations, registrations, permits,
+consents and approvals required in connection with the conduct of borrower’s or any subsidiary’s business or to comply
+with any applicable laws, including, without limitation, drug listings and drug establishment registrations under 21
+u.s.c. section 510, registrations issued by dea under 21 u.s.c. section 823 (if applicable to any product), and those
+issued by state governments for the conduct of borrower’s or any subsidiary’s business. 35 “permitted indebtedness”
+means: (a) borrower’s indebtedness to the lenders and agent under this agreement and the other loan documents; (b)
+indebtedness existing on the closing date and described on schedule 7.4; (c) subordinated debt; (d) unsecured
+indebtedness to trade creditors incurred in the ordinary course of business; (e) indebtedness secured by permitted
+liens; and (f) extensions, refinancings, modifications, amendments and restatements of any items of permitted
+indebtedness (a) through (e) above, provided, however, that the principal amount thereof is not increased or the terms
+thereof are not modified to impose more burdensome terms upon borrower or its subsidiary, as the case may be. “permitted
+investments” means: (a) investments existing on the closing date and described on schedule 7.7; (b) investments
+consisting of cash equivalents or those consistent with borrower’s investment policy solely with respect to cash
+investments; (c) investments permitted under borrower’s investment policy; and (d) investments in subsidiaries solely to
+the extent permitted pursuant to section 6.10. “permitted liens” means: (a) liens existing on the closing date and shown
+on the perfection certificate or arising under this agreement and the other loan documents; (b) liens for taxes, fees,
+assessments or other government charges or levies, either not delinquent or being contested in good faith and for which
+borrower maintains adequate reserves on its books, provided, however, that no notice of any such lien has been filed or
+recorded under the internal revenue code of 1986, as amended , and the treasury regulations adopted thereunder; (c)
+purchase money liens (i) on equipment acquired or held by borrower incurred for financing the acquisition of the
+equipment securing no more than five hundred thousand dollars ($500,000) in the aggregate amount outstanding, or (ii)
+existing on equipment when acquired, if the lien is confined to the property and improvements and the proceeds of the
+equipment; (d) statutory liens securing claims or demands of materialmen, mechanics, carriers, warehousemen, landlords
+and other persons imposed without action of such parties, provided, however, that they have no priority over any of
+agent’s lien and the aggregate amount of such liens does not any time exceed twenty five thousand dollars ($25,000); (e)
+leases or subleases of real property granted in the ordinary course of business, and leases, subleases, non-exclusive
+licenses or sublicenses of property (other than real property or intellectual property) granted in the ordinary course
+of business, if the leases, subleases, licenses and sublicenses do not prohibit granting agent a security interest; 36
+(f) banker’s liens, rights of setoff and liens in favor of financial institutions incurred made in the ordinary course
+of business arising in connection with borrower’s deposit accounts or securities accounts held at such institutions to
+secure payment of fees and similar costs and expenses subject to borrower’s compliance with section 6.6(b) hereof; (g)
+liens in identified accounts to secure performance bonds, letters of credit, or other contingent obligations incurred in
+the ordinary course of business and the aggregate amount of such liens does not any time exceed three hundred thousand
+dollars ($300,000); (h) liens to secure payment of workers’ compensation, employment insurance, old-age pensions, social
+security and other like obligations incurred in the ordinary course of business (other than liens imposed by erisa); (i)
+liens arising from judgments, decrees or attachments in circumstances not constituting an event of default under section
+8.5 or 8.7; (j) easements, reservations, rights-of-way, restrictions, minor defects or irregularities in title and
+similar charges or encumbrances affecting real property not constituting a material adverse change; and (k) liens
+incurred in the extension, renewal or refinancing of the indebtedness secured by liens described in (a) and (c) above,
+but any extension, renewal or replacement lien must be limited to the property encumbered by the existing lien and the
+principal amount of the indebtedness may not increase. “person” means any individual, sole proprietorship, partnership,
+limited liability company, joint venture, company, trust, unincorporated organization, association, corporation,
+institution, public benefit corporation, firm, joint stock company, estate, entity or government agency. “phase 2
+clinical trial” means any phase 2 clinical trial, as such term is defined in 21 c.f.r. §312.21, and any foreign
+equivalent thereof. “prepayment fee” means with respect to any term loan subject to prepayment prior to the maturity
+date, whether by mandatory or voluntary prepayment, acceleration or otherwise, an additional fee payable to the lenders
+in amount equal to: (a) for a prepayment made on or after the closing date through and including the date that is twelve
+(12) months after the amortization date, five percent (5.0%) multiplied by the outstanding principal amount of such term
+loan being prepaid; (b) for a prepayment made after the date that is twelve (12) months after the amortization date
+through and including the date which is twenty-four (24) months after the amortization date, two percent (2.0%)
+multiplied by the outstanding principal amount of such term loan being prepaid; and (c) for a prepayment made after the
+date that is twenty-four (24) months after the amortization date and prior to the maturity date, one percent (1.0%)
+multiplied by the outstanding principal amount of such term loan being prepaid. “pro rata share” means, as determined by
+agent, with respect to each lender, a percentage (expressed as a decimal, rounded to the ninth decimal place) determined
+by dividing the amount of term loans held by such lender by the aggregate amount of all outstanding term loans.
+“products” means any products manufactured, sold, developed, tested or marketed by borrower or any of its subsidiaries,
+including without limitation, those products set forth on schedule 5.11 (as updated from time to time in accordance with
+section 6.2(d) above); provided, however, that if borrower shall fail to comply with the obligations under section
+6.2(d) to give notice to agent and update schedule 5.11 prior to manufacturing, selling, developing, testing or
+marketing any new product, any such improperly undisclosed product shall be deemed to be included in this definition;
+and provided, further, that products manufactured by borrower for unaffiliated third parties shall not be deemed
+“products” hereunder. 37 “registered organization” means any “registered organization” as defined in the code, with such
+additions to such term as may hereafter be made. “required lenders” means lenders having (a) more than 60% of the term
+loan commitments of all lenders, or (b) if such term loan commitments have expired or been terminated, more than 60% of
+the aggregate outstanding principal amount of the term loans; provided, however, that so long as a party that is a
+lender hereunder on the closing date does not assign any portion of its term loan commitment or term loan, the term
+“required lenders” shall include such lender. for purposes of this definition only, a lender shall be deemed to include
+itself, and any lender that is an affiliate or approved fund of such lender. “required permit” means a permit (a) issued
+or required under laws applicable to the business of borrower or any of its subsidiaries or necessary in the
+manufacturing, importing, exporting, possession, ownership, warehousing, marketing, promoting, sale, labeling,
+furnishing, distribution or delivery of goods or services under laws applicable to the business of borrower or any of
+its subsidiaries or any drug application (including without limitation, at any point in time, all licenses, approvals
+and permits issued by the fda or any other applicable governmental authority necessary for the testing, manufacture,
+marketing or sale of any product by any applicable borrower(s) as such activities are being conducted by such borrower
+with respect to such product at such time), and (b) issued by any person from which borrower or any of their
+subsidiaries have received an accreditation. “requirement of law” means as to any person, the organizational or
+governing documents of such person, and any law (statutory or common), treaty, rule or regulation or determination of an
+arbitrator or a court or other governmental authority, in each case applicable to or binding upon such person or any of
+its property or to which such person or any of its property is subject. “reserve percentage” means, on any day, for any
+lender, the maximum percentage prescribed by the board of governors of the federal reserve system (or any successor
+governmental authority) for determining the reserve requirements (including any basic, supplemental, marginal, or
+emergency reserves) that are in effect on such date with respect to eurocurrency funding (currently referred to as
+“eurocurrency liabilities”) of that lender, but so long as such lender is not required or directed under applicable
+regulations to maintain such reserves, the reserve percentage shall be zero. “responsible officer” means any of the
+president and chief executive officer or chief financial officer of borrower. “secured promissory note” has the meaning
+given it in section 2.7. “secured promissory note record” means a record maintained by each lender with respect to the
+outstanding obligations and credits made thereto. “securities account” means any “securities account”, as defined in the
+code, with such additions to such term as may hereafter be made. “subordinated debt” means indebtedness incurred by
+borrower subordinated to all of borrower’s now or hereafter indebtedness to the lenders (pursuant to a subordination,
+intercreditor, or other similar agreement in form and substance satisfactory to agent and the lenders entered into
+between agent, borrower and the other creditor), on terms acceptable to agent and the lenders. “subsidiary” means, with
+respect to any person, any person of which more than 50.0% of the voting stock or other equity interests (in the case of
+persons other than corporations) is owned or controlled, directly or indirectly, by such person or one or more of
+affiliates of such person. “term loan” or “term loans” has the meaning given it in section 2.2(a). 38 “term loan
+commitment” means, for any lender, the obligation of such lender to make a term loan, up to the principal amount shown
+on schedule 1. “term loan commitments” means the aggregate amount of such commitments of all lenders. “tranche one” has
+the meaning given it in section 2.2(a). “tranche three” has the meaning given it in section 2.2(a). “tranche two” has
+the meaning given it in section 2.2(a). “transfer” has the meaning given it in section 7.1. “warrants” means those
+certain warrants to purchase stock dated as of the closing date executed by borrower in favor of each lender or such
+lender’s affiliates. [signatures appear on following page] 39 in witness whereof, the parties hereto have caused this
+agreement to be executed as of the closing date. borrower: kalobios pharmaceuticals, inc. by: /s/ jeffrey h. cooper
+name: jeffrey h. cooper title: chief financial officer agent: midcap financial sbic, lp, as agent for lenders by: midcap
+financial sbic gp, llc by: /s/ josh groman name: josh groman title: authorized signatory lenders: midcap financial sbic,
+lp by: midcap financial sbic gp, llc by: /s/ josh groman name: josh groman title: authorized signatory [signature page
+to loan and security agreement] exhibits and schedules exhibits exhibit a collateral exhibit b form of loan payment /
+advance request form exhibit c form of compliance certificate exhibit d form of secured promissory note exhibit e form
+of warrant schedules schedule 1 lenders and commitments schedule 5.1(a) organizational information schedule 5.2(b)
+material agreements schedule 5.2(e) location of collateral schedule 5.3 litigation schedule 5.11 products and required
+permits schedule 6.12 post-closing obligations schedule 7.4 indebtedness schedule 7.7 investments exhibits and schedules
+exhibit a collateral the collateral consists of all assets of borrower, including all of borrower’s right, title and
+interest in and to the following personal property: (a) all goods, accounts (including health-care insurance
+receivables), equipment, inventory, contract rights or rights to payment of money, leases, license agreements, franchise
+agreements, general intangibles, commercial tort claims, documents, instruments (including any promissory notes),
+chattel paper (whether tangible or electronic), cash, deposit accounts, investment accounts, commodity accounts and
+other collateral accounts, all certificates of deposit, fixtures, letters of credit rights (whether or not the letter of
+credit is evidenced by a writing), securities, and all other investment property, supporting obligations, and financial
+assets, whether now owned or hereafter acquired, wherever located; and (b) all borrower’s books relating to the
+foregoing, and any and all claims, rights and interests in any of the above and all substitutions for, additions,
+attachments, accessories, accessions and improvements to and replacements, products, proceeds and insurance proceeds of
+any or all of the foregoing. pursuant to the terms of a certain negative pledge arrangement with agent and lenders,
+borrower has agreed not to encumber any of its intellectual property without agent’s and lenders’ prior written consent.
+notwithstanding the foregoing, the collateral shall not include any intellectual property of borrower, whether now owned
+or hereafter acquired, except to the extent that it is necessary under applicable law to have a lien and security
+interest in any such intellectual property in order to have a perfected lien and security interest in and to ip proceeds
+(defined below), and for the avoidance of any doubt, the collateral shall include, and agent shall have a lien and
+security interest in, (i) all ip proceeds, and (ii) all payments with respect to ip proceeds that are received after the
+commencement of a bankruptcy or insolvency proceeding. the term “ip proceeds” means, collectively, all cash, accounts,
+license and royalty fees, claims, products, awards, judgments, insurance claims, and other revenues, proceeds or income,
+arising out of, derived from or relating to any intellectual property of borrower, and any claims for damage by way of
+any past, present or future infringement of any intellectual property of borrower (including, without limitation, all
+cash, royalty fees, other proceeds, accounts and general intangibles that consist of rights of payment to or on behalf
+of borrower and the proceeds from the sale, licensing or other disposition of all or any part of, or rights in, any
+intellectual property by or on behalf of borrower). exhibit a exhibit b loan payment/advance request form deadline is
+noon e.t. date: , 201 loan payment: from account # to account # (deposit account #) (loan account #) principal $ and/or
+interest $ authorized signature: phone number: print name/title: loan advance: complete outgoing wire request section
+below if all or a portion of the funds from this loan advance are for an outgoing wire. from account # to account #
+(loan account #) (deposit account #) amount of advance $ all borrower’s representations and warranties in the loan and
+security agreement are true, correct and complete in all material respects on the date of the request for an advance;
+provided, however, that such materiality qualifier shall not be applicable to any representations and warranties that
+already are qualified or modified by materiality in the text thereof; and provided, further, that those representations
+and warranties expressly referring to a specific date shall be true, accurate and complete in all material respects as
+of such date: authorized signature: phone number: print name/title: outgoing wire request: complete only if all or a
+portion of funds from the loan advance above is to be wired. beneficiary name: amount of wire: $ beneficiary lender:
+account number: city and state: beneficiary lender transit (aba) #: beneficiary lender code (swift, sort, chip, etc.):
+(for international wire only) intermediary lender: transit (aba) #: for further credit to: special instruction: by
+signing below, i (we) acknowledge and agree that my (our) funds transfer request shall be processed in accordance with
+and subject to the terms and conditions set forth in the agreements(s) covering funds transfer service(s), which
+agreements(s) were previously received and executed by me. authorized signature: 2nd signature (if required): print
+name/title: print name/title: telephone #: telephone #: exhibit b exhibit c compliance certificate to: midcap financial
+sbic, lp, as agent from: date: ,201 the undersigned authorized officer of kalobios pharmaceuticals, inc. (“borrower”)
+certifies that under the terms and conditions of the loan and security agreement between borrower, agent and the lenders
+(the “agreement”): (1) borrower is in complete compliance with all required covenants for the month ending , 201 ,
+except as noted below; (2) there are no events of default; (3) all representations and warranties in the agreement are
+true and correct in all material respects on this date except as noted below; provided, however, that such materiality
+qualifier shall not be applicable to any representations and warranties that already are qualified or modified by
+materiality in the text thereof; and provided, further, that those representations and warranties expressly referring to
+a specific date shall be true, accurate and complete in all material respects as of such date; (4) borrower, and each of
+its subsidiaries, has timely filed all required tax returns and reports, and borrower has timely paid all foreign,
+federal, state and local taxes, assessments, deposits and contributions owed by borrower except as otherwise permitted
+pursuant to the terms of section 5.8 of the agreement; and (5) no liens have been levied or claims made against borrower
+or any of its subsidiaries relating to unpaid employee payroll or benefits of which borrower has not previously provided
+written notification to agent. attached are the required documents supporting the certifications set forth in this
+compliance certificate. the undersigned certifies, in his/her capacity as an officer of the borrower, that these are
+prepared in accordance with gaap consistently applied from one period to the next except as explained in an accompanying
+letter or footnotes. the undersigned acknowledges, in his/her capacity as an officer of borrower, that no borrowings may
+be requested at any time or date of determination that borrower is not in compliance with any of the terms of the
+agreement, and that compliance is determined not just at the date this certificate is delivered. capitalized terms used
+but not otherwise defined herein shall have the meanings given them in the agreement. please indicate compliance status
+by circling yes/no under “complies” column. reporting covenant required complies monthly financial statements monthly
+within 45 days yes no audited financial statements annually within 120 days after fye yes no board approved projections
+annually within 30 days after fye yes no compliance certificate monthly within 45 days yes no [signature page follows.]
+exhibit c the following are the exceptions with respect to the certification above: (if no exceptions exist, state “no
+exceptions to note.”) kalobios pharmaceuticals, inc. agent use only by: received by: name: authorized signer title:
+date: verified: authorized signer date: compliance status: yes no exhibit c exhibit d secured promissory note [see
+attached] exhibit d exhibit e warrant [see attached] exhibit e schedule 1 lenders and commitments lender term loan
+commitment commitment percentage midcap financial sbic, lp $ 15,000,000 100 % total $ 15,000,000 100 % schedule 1
+schedule 5.1(a) organizational information legal name of borrower: kalobios pharmaceuticals, inc. type of legal entity:
+corporation state of organization: delaware organizational identification number: 3437218 tax identification number:
+77-0557236 principal place of business: 260 east grand avenue, south san francisco, california 94080 schedule 5.1
+schedule 5.2(a) collateral accounts comerica bank (1892865328); 5 palo alto sq, ste 800, 3000 el camino real, palo alto,
+ca 940306 comerica bank (1892865336); 5 palo alto sq, ste 800, 3000 el camino real, palo alto, ca 940306 state street
+bank (de2460); 1200 crown colony drive, cc1/2, quincy, ma 02169. schedule 5.2(a) schedule 5.2(b) material agreements
+development, commercialization, collaboration and license agreement, by and between sanofi pasteur, s.a. and the
+company, dated as of january 8, 2010. development and license agreement, by and between ludwig institute for cancer
+research and the company, dated as of may 11, 2004. license agreement, by and between ludwig institute for cancer
+research and the company, dated as of april 7, 2006. exclusive license agreement, by and between the regents of the
+university of california and the company, dated as of october 4, 2011. non-exclusive license agreement, by and among
+biowa, inc., lonza sales ag and the company, dated as of october 15, 2010. master services agreement, by and between
+chiltern international inc. and the company, dated as of march 9, 2012. services agreement, by and between lonza sales
+ag and the company, dated as of april 1, 2009. non-exclusive license agreement, by and between biowa, inc. and the
+company, dated as of september 2, 2008. master services agreement, by and between biomedical systems corporation and the
+company, dated as of may 9, 2012. master services agreement, by and between covance central laboratory services, lp and
+the company, dated as of january 18, 2008. letter agreement, by and between inc research, llc and the company, dated as
+of august 16, 2012. letter agreement, by and between the regents of the university of california and the company, dated
+as of may 10, 2011. exclusive license agreement, by and between the regents of the university of california and the
+company, dated as of april 6, 2004. schedule 5.2(b) schedule 5.2(d) intellectual property and license agreements
+development, commercialization, collaboration and license agreement, by and between sanofi pasteur, s.a. and the
+company, dated as of january 8, 2010. development and license agreement, by and between ludwig institute for cancer
+research and the company, dated as of may 11, 2004. license agreement, by and between ludwig institute for cancer
+research and the company, dated as of april 7, 2006. exclusive license agreement, by and between the regents of the
+university of california and the company, dated as of october 4, 2011. non-exclusive license agreement, by and among
+biowa, inc., lonza sales ag and the company, dated as of october 15, 2010. services agreement, by and between lonza
+sales ag and the company, dated as of april 1, 2009. non-exclusive license agreement, by and between biowa, inc. and the
+company, dated as of september 2, 2008. letter agreement, by and between the regents of the university of california and
+the company, dated as of may 10, 2011. exclusive license agreement, by and between the regents of the university of
+california and the company, dated as of april 6, 2004. schedule 5.2(d) schedule 5.2(e) location of collateral kalobios
+pharmaceuticals, inc., 260 east grand avenue, south san francisco, ca 94080. catalent pharma solution (kb004, kb003, and
+soon kb001-a product inventory), 3001 red lion road, philadelphia, pa 19114. cook pharmacra llc, 1300 s. patterson
+drive, bloomington, in 47403. schedule 5.2(e) schedule 5.3 litigation none. schedule 5.3 schedule 5.11 products and
+required permits the following list includes all products: kb001a kb003 kb004 the following list includes all material
+required permits: environmental health of san mateo county, permit no. 12-1657, issued on august 1, 2012 and expires
+august 1, 2017. environmental health of san mateo county, permit no. 11-2704, issued on december 14, 2011 and expires
+december 31, 2013. city of san francisco, business license, business license no. 103547, for period from january 1, 2012
+to december 31, 2012. schedule 5.11 schedule 6.12 post closing obligations borrower shall satisfy and complete each of
+the following obligations, or provide agent each of the items listed below, as applicable, on or before the date
+indicated below, all to the satisfaction of agent in its sole and absolute discretion: 1. within five (5) business days
+after the closing date, borrower shall deliver to agent, the original signatures of the following documents: (a) this
+agreement, (b) the perfection certificate, (c) the control agreement with comerica bank, (d) the control agreement with
+state street bank, (e) the completed borrowing resolutions for borrower, (f) the sba forms 480, 652 and 1031, (g) the
+loan disbursement state, and (h) the warrant to purchase stock. 2. within thirty (30) days after the closing date,
+borrower shall deliver to agent, evidence satisfactory to agent that the insurance policies required by section 6.5
+hereof are in full force and effect, together with appropriate evidence showing loss payable and/or additional insured
+clauses or endorsements in favor of agent, for the ratable benefit of lenders. borrower’s failure to complete and
+satisfy any of the above obligations on or before the date indicated above, or borrower’s failure to deliver any of the
+above listed items on or before the date indicated above, shall constitute an immediate an automatic event of default.
+schedule 6.12 schedule 7.4 indebtedness as of the closing date the company does not have any indebtedness. schedule 7.4
+schedule 7.7 investments as of the closing date [see attached] schedule 7.7
+

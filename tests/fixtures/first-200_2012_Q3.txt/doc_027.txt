@@ -1,0 +1,531 @@
+
+ex-10.1 exhibit 10.1 certain confidential information contained in this document has been omitted and filed separately
+with the securities and exchange commission (the “sec”) pursuant to a request for confidential treatment with respect to
+the omitted portions. omitted portions are indicated by [***]. execution copy alliance agreement this alliance agreement
+(“agreement”) is made as of december 4, 2007 (the “effective date”), by and between monster, inc., a delaware
+corporation with offices at 5 clock tower place, suite 500, maynard, ma 01754 (“monster”), and ihispano.com, llc, an
+illinois limited liability company with offices at 4265 n. knox avenue, suite 300, chicago, illinois 60641 (“ihispano”).
+recitals a. whereas, monster owns and operates an interactive job posting and search/career destination portal and
+related content service on a web site currently located at www.monster.com (the “monster web site”). through the monster
+web site, monster operates a supplemental diversity-focused job search service called “monster diversity” that provides
+diversity-focused functionality and results for job applicants seeking employers interested in a diverse workforce and
+employers focused on hiring a diverse workforce as a supplement to monster’s core job posting and resume search
+services. through monster diversity, employers may (i) post job postings on the monster diversity section of the monster
+web site and on the web sites of the diversity partners in monster’s network (collectively a “monster diversity job
+posting”); (ii) perform searches of resumes in the monster web site with search results showing flags for the resumes of
+diverse candidates (as defined herein) and (iii) advertise on the monster diversity section of the monster web site
+and/or on any or all of the web sites of certain diversity partners in monster’s network. through monster diversity, job
+seekers may (a) post a resume through the monster diversity section of the monster web site and be designated/flagged as
+a diverse candidate in the monster web site resume database or (b) post a resume on the monster web site and have an
+opportunity to self identify as a diverse candidate. subject to the further clarifications of section 2(j) of this
+agreement, the products and services described above are referred to herein as “monster diversity”. b. whereas, ihispano
+owns and/or operates a hispanic-focused job search and related content service at www.ihispano.com (the “ihispano web
+site”), the ihispano vertical channels (as defined below) and certain ihispano partner channels (as defined below); c.
+whereas ihispano and monster desire that ihispano become part of the diversity partner network of monster; and d.
+whereas, monster and ihispano desire to cooperate by (i) monster administering the job search portion of the ihispano
+web site, ihispano vertical channels and ihispano partner channels (collectively, the “ihispano channels”), (ii) monster
+selling job postings and advertising on the ihispano channels and resume search services in the monster web site resume
+database (such database to include ihispano channel resumes) as part of a package with monster diversity, and (iii)
+monster incorporating resumes from the ihispano channels into the monster web site resume database, such resumes to be
+designated/flagged as resumes of diverse candidates, all on the terms and conditions set forth herein. certain
+confidential information contained in this document has been omitted and filed separately with the securities a nd
+exchange commission (the “sec”) pursuant to a request for confidential treatment with respect to the omitted portions.
+omitted portions are indicated by [***]. now therefore, in consideration of the foregoing premises and the mutual
+covenants and obligations contained herein, and intending to be legally bound hereby as of the date hereof, monster and
+ihispano agree as follows: 1. definitions. as used herein, the following terms shall have the following meanings: (a)
+“affiliate” of a party means a person or entity that directly, or indirectly through one or more intermediaries,
+controls or is controlled by, or is under common control with, such party. as used in this definition, “control”,
+“controlled by” and “under common control with” shall mean the possession, directly or indirectly, of power to direct or
+cause the direction of the management or policies (whether through ownership of securities or partnership or other
+ownership interests, by contract or otherwise). (b) “alpfa” means the association of latino professionals in finance and
+accounting. (c) “applicant” means, for purposes of job board components of the ihispano channels administered by
+monster, an individual who applies for a diversity job by clicking on links provided on the ihispano web site in
+conformance with adicio standards. (d) “career data” means resume and/or career-related information. (e) “change in
+control” means the sale of all or substantially all of the outstanding shares of capital stock, assets or business of an
+entity, by merger, consolidation, sale of assets or otherwise (other than a transaction in which the individuals and
+entities who were beneficial owners of the voting securities of such entity immediately prior to such transaction
+beneficially own, directly or indirectly, more than 50% of the outstanding securities entitled to vote generally in the
+election of directors of (i) the resulting, surviving or acquiring corporation in the case of a merger, consolidation or
+sale of outstanding shares or (ii) the acquiring corporation in the case of a sale of assets). for the purposes of this
+definition, (a) “control” means: (1) the possession, directly or indirectly, of more than 50% of the issued and
+outstanding share capital, stock or other securities of, or the voting rights in an entity; or (2) the possession,
+directly or indirectly, of the right to appoint or remove the majority of the board of directors of an entity and (b)
+“entity” means any natural or legal person, partnership, association or governmental authority. (f) “commissions” means
+the jobs commissions, media commissions and resume contribution fees. (g) “diverse candidates” are job seekers (1) who
+post resumes through the monster diversity section of the monster web site and (2) who post resumes on the monster web
+site and self identify as a job applicant seeking employers interested in a diverse workforce. (h) “diversity job” means
+a job advertised in a monster diversity job posting. 2 certain confidential information contained in this document has
+been omitted and filed separately with the securities a nd exchange commission (the “sec”) pursuant to a request for
+confidential treatment with respect to the omitted portions. omitted portions are indicated by [***]. (i) “fulfillment
+sales” means postings of job postings on behalf of an ihispano customer on any of the ihispano channels pursuant to
+contracts to which ihispano was contractually bound prior to the effective date, and posted after ihispano first uses
+best efforts to transfer such customer to become a monster diversity customer and the ihispano customer refuses to do
+so. (j) “guarantee amount” means [***]. (k) “ihispano career data” means career data collected by ihispano through the
+ihispano channels before or during the term. (l) “ihispano marks” means the trademarks listed on exhibit a hereto. (m)
+“ihispano partner” means a third party provider of job search services with which ihispano has an alliance or
+cooperation relationship and that agrees in writing to cooperate with ihispano on terms and conditions consistent with
+this agreement, subject to the consent of monster on a case-by-case basis. ihispano shall use best efforts to obtain
+from alpfa and nshmba their respective written agreements to (i) accept job postings from monster diversity that have
+been reviewed and qualified by ihispano and (ii) provide resumes to monster diversity for inclusion in the monster web
+site resume database and designated/flagged therein as diverse candidate resumes, it being understood that such
+agreements may be conditioned upon alpfa’s and nshmba’s continuing satisfaction with such arrangement. ihispano partners
+shall include all future partners as agreed to in writing by the parties. monster may remove an ihispano partner for any
+or no reason upon thirty (30) days prior written notice to ihispano. (n) “ihispano partner channels” means the career
+center portions of all channels of ihispano partners administered by ihispano. (o) “ihispano vertical channels” means
+all vertical diversity channels of ihispano, including without limitation: www.asianjobboard.com, www.gbltcareers.com,
+wwwwomenscareerchannel.com, www.pwdcareers.com (www.peoplewithdisabilitiescareers.com),
+www.africanamericancareerchannel.com and www.americanveteranjobs.com. (p) “ihispano web site” has the meaning set forth
+in the recitals above. (q) “intellectual property rights” means all patent, copyright (including any rights in the
+source code), database rights, designs, design rights, trademarks, service marks, trade and business names, domain
+names, trade secrets and all other intellectual and intangible property rights, in each case whether registered or
+unregistered and including all registrations and applications therefore, and all continuations, continuations in part,
+divisional applications, re-examinations and renewals of any of the foregoing and all associated goodwill, in each case
+in any jurisdiction. 3 certain confidential information contained in this document has been omitted and filed separately
+with the securities a nd exchange commission (the “sec”) pursuant to a request for confidential treatment with respect
+to the omitted portions. omitted portions are indicated by [***]. (r) “job posting” means an advertisement for a
+permanent or temporary job that is included on a jobs board, such as the monster web site and ihispano web site,
+submitted by a prospective employer seeking employees or contractors. (s) “jobs commission” shall have the meaning set
+forth in section 3(a). (t) “jobs commission rate” shall have the meaning set forth in section 3(a). (u) “jobs revenue”
+means the recognized revenue from the sale of monster diversity job postings on or after the effective date. (v) “media
+commission” shall have the meaning set forth in section 3(c). (w) “media revenue” means the recognized revenue actually
+received by monster from the sale of media advertising on ihispano channels that was received by monster on or after the
+effective date. (x) “monster career data” means career data collected by monster through (i) the monster diversity
+section of the monster web site, (ii) the monster web site with the contributor of such career data designating
+himself/herself as a diverse candidate or (iii) the ihispano channels. (y) “monster diversity” has the meaning set forth
+in the recitals above. (z) “monster diversity job posting” has the meaning set forth in the recitals above. (aa)
+“monster web site” has the meaning set forth in the recitals above. (bb) “nshmba” means the national society of hispanic
+mbas. (cc) “parties” means monster and ihispano and “party” means either monster or ihispano, as applicable. (dd)
+“passive ecomm sales” means passive sales (i.e., without active individual sales efforts) of job postings by an ihispano
+partner through an ihispano partner channel, and, only during the first twelve (12) months of the term of this
+agreement, by ihispano through the ihispano website or ihispano vertical channels. (ee) “recognized revenue” means the
+total revenue actually recognized and accrued according to gaap by monster, excluding any (a) discounts, rebates and
+refunds, (b) taxes, duties and levies in any applicable jurisdiction, (c) revenue shares owed to third parties, or (d)
+sales commissions to employees or any third parties that are not employees of such party. (ff) “resume search services”
+means enabling a third party to search resumes for prospective employees or contractors, either on such third party’s
+behalf or for its clients. 4 certain confidential information contained in this document has been omitted and filed
+separately with the securities a nd exchange commission (the “sec”) pursuant to a request for confidential treatment
+with respect to the omitted portions. omitted portions are indicated by [***]. (gg) “term” means the term of this
+agreement set forth in section 6(a). (hh) “third party” means any person or entity that is not a party or an affiliate
+of either party. 5 certain confidential information contained in this document has been omitted and filed separately
+with the securities a nd exchange commission (the “sec”) pursuant to a request for confidential treatment with respect
+to the omitted portions. omitted portions are indicated by [***]. 2. integration; joint marketing and exclusivity. (a)
+administration. ihispano hereby agrees that it will, and it will use good faith efforts to cause each ihispano partner
+to, transfer the administration of job board components of the ihispano channels to monster for operation in conjunction
+with monster diversity. as part of such administration, monster will (i) host the job boards for the ihispano channels
+and (ii) post resumes from the ihispano channels into the monster web site resume database, such resumes to be
+designated/flagged therein as diverse candidate resumes. the logistics of implementing such administration by monster
+shall be mutually agreed by the parties in writing. both parties agree and acknowledge that the administration of the
+job board components will evolve, with ihispano initially handling much of the administration and providing regular data
+feeds to monster to enable the foregoing tasks and, over time, monster assuming more control over the functions and
+operation of the ihispano channels such that monster will need little or no involvement from ihispano personnel in order
+to perform the foregoing tasks. monster initially, if necessary, will provide a data feed of job posting content (and
+updates thereto) to ihispano and ihispano agrees to post such job postings (and updates) within a reasonable amount of
+time of receipt thereof. monster and ihispano will transfer administration on a channel-by-channel basis; transfer of
+administration, authority and responsibility of an ihispano channel to monster will not be delayed because monster is
+not yet prepared to administer other channels. while ihispano is administering an ihispano channel, ihispano shall
+provide all resumes and ihispano career data received by that ihispano channel to monster on a nightly basis or on such
+less frequent basis as may be requested by monster from time to time. until the parties agree on and implement the
+logistics for such administration by monster of an ihispano channel, and to the extent any ihispano partner does not
+agree to such administration by monster, ihispano will continue to host the job boards for such ihispano channels;
+provided, however, that, ihispano shall report to monster the number of applicants each calendar month during the term
+of this agreement within fifteen (15) days of the end of such calendar month. ihispano acknowledges that monster
+diversity job postings will only be available on ihispano partner channels if the ihispano partner agrees to the terms
+set forth in the applicable side letter agreements attached hereto as exhibit c. (b) appointment. subject to the terms
+and conditions of this agreement, ihispano hereby appoints monster as its exclusive seller of (i) job postings and
+advertising on each of the ihispano channels and (ii) resume search services involving all resumes available in monster
+web site resume database which includes resumes from the ihispano website and ihispano vertical channels (it being
+understood that (x) resumes from an ihispano partner channel may be included in the monster web site resume database
+subject to agreement between monster and such ihispano partner and (y) monster shall not sell resume search services
+involving resumes only available in the ihispano channels); provided that ihispano partners shall remain free to engage
+in the foregoing activities with third parties. for the avoidance of doubt, and without limiting the foregoing, ihispano
+shall accept job postings from monster even when such job postings originated from one of monster’s newsprint partners,
+not subject to any additional commissions or fees payable to ihispano. ihispano acknowledges that monster has alliances
+with various newspapers which require exclusivity and restrict monster’s ability to perform similar services for
+competing newspapers. ihispano acknowledges that the acceptance of job postings by ihispano channels from a newspaper
+that is not part of the monster newspaper alliance may cause monster to breach its existing agreements with its
+newspaper partners. notwithstanding the foregoing, monster agrees to allow the ihispano web site and ihispano vertical
+channels to accept job postings from its newspaper partners until the termination of ihispano’s newspaper partnership
+agreements and arrangements. 6 certain confidential information contained in this document has been omitted and filed
+separately with the securities a nd exchange commission (the “sec”) pursuant to a request for confidential treatment
+with respect to the omitted portions. omitted portions are indicated by [***]. (c) transfer of ihispano customers to
+monster diversity. commencing on the effective date, ihispano and monster shall cooperate to contact ihispano job
+posting customers and prospective customers (“ihispano customers”) and use good faith efforts to transfer those ihispano
+customers to become monster diversity customers. (d) non-compete; exclusivity. during the term, ihispano hereby agrees
+that it will not, directly or indirectly, (i) enable any other provider of job search services to provide content to, or
+derive content or advertising from, the ihispano channels, including without limitation, job postings on the ihispano
+channels; (ii) develop, sell or provide any product or service competitive with the monster web site; (iii) permit any
+third party to advertise on the ihispano web site or ihispano vertical channels; (iv) accept new job postings directly
+into the ihispano web site or ihispano vertical channels, except for administering the job board of any ihispano partner
+that receives new job postings through passive ecomm sales; (v) provide resume search services, except as permitted
+pursuant to section 2(g) or (vi) provide or sell resumes to any other provider of job search services; provided that, in
+all cases ihispano may engage in fulfillment sales and satisfy its commitments and obligations under binding agreements
+with third parties in existence as of the effective date (“existing agreements”), notwithstanding the restrictions set
+forth in any of clauses (i) through (vi) above. for the avoidance of doubt, upon the effective date, ihispano shall
+remove all advertising on the ihispano channels for all job board competitors of monster, including without limitation
+careerbuilder, yahoo hotjobs, dice and craigslist. following the effective date, to the extent ihispano has the right to
+terminate, suspend or otherwise cancel an existing agreement, ihispano shall promptly terminate all such existing
+agreements. for the avoidance of doubt, and without limiting the foregoing, monster acknowledges that ihispano has
+alliance or cooperation agreements with the following third party providers of job search services: association of
+latino professionals in accounting and finance (alpfa), careersforlatinos.com, latina style magazine, latinos in
+information sciences and technology association (lista), national hispanic business association, inc. (nhba), national
+hispanic professional organization (nhpo), national association of hispanic masters in business administration (nshmba),
+quepasa.com corporation and telemundo group inc. (“third party alliances”), which may be maintained, extended or renewed
+in ihispano’s sole discretion. except for nshmba and alpfa and any other ihispano partner, ihispano agrees that it shall
+not post monster diversity job postings on such third party alliance sites. ihispano shall be allowed to post job
+postings as a result of fulfillment sales and passive ecomm sales on such third party alliance sites. ihispano agrees
+that all job postings posted on the ihispano web site and ihispano vertical channels after the effective date as a
+result of passive ecomm sales or fulfillment sales shall comply with monster’s terms of use available at the monster web
+site through the link “terms of use”. in addition, in the event that any ihispano customer who has posted a job posting
+as a result of a passive ecomm sales or a fulfillment sale is the subject of a criminal investigation, such job posting
+will be immediately disabled. 7 certain confidential information contained in this document has been omitted and filed
+separately with the securities a nd exchange commission (the “sec”) pursuant to a request for confidential treatment
+with respect to the omitted portions. omitted portions are indicated by [***]. (e) marketing efforts of monster. monster
+shall use commercially reasonable efforts to (i) promote monster diversity consistent with past practices and the added
+benefits provided by the cooperation between monster and ihispano set forth herein and the addition of the ihispano
+channels to the monster diversity partner network, (ii) develop and promote ihispano, the ihispano web site and ihispano
+vertical channels (including, without limitation, with emails and newsletters to the monster job seeker customer base,
+banner ads on the monster web site and by facilitating not less than [***] mass email distributions to at least [***]
+different regions to promote co-branded job fairs with ihispano on an annual basis), and (iii) sell job postings, and
+advertising on the ihispano channels and resume search services of the monster web site resume database (which includes
+resumes from the ihispano channels) as part of a package with monster diversity, all at monster’s own expense. (f)
+continued marketing efforts of ihispano. ihispano shall continue to promote itself and its position in the job search
+market for hispanic job seekers and employers seeking hispanic employees, all at ihispano’s own expense. such efforts
+shall be at least as significant as were implemented by ihispano in the year prior to the effective date, and shall
+include, without limitation, (i) grass roots efforts, (ii) attendance at conferences, events, job fairs, speaking
+engagements and similar events, (iii) online and offline marketing and technology support of the ihispano channels and
+the job and employee search services available through such web sites and their integration with monster diversity and
+(iv) other marketing activities such as seo/sem, email blasts and newsletters. (g) retained rights of ihispano. ihispano
+shall not be subject to any restriction with respect to the ihispano channels and their respective businesses, except as
+provided in this agreement. for the avoidance of doubt, ihispano may (i) subject to section 2(b) above, continue to
+host, maintain and provide content for the ihispano channels, (ii) continue to engage in fulfillment sales and passive
+ecomm sales as permitted in section 2(d) and offer resume search services solely with respect to resumes posted on the
+ihispano channels, and (iii) satisfy its commitments and obligations under existing agreements as provided in section
+2(d). (h) compliance with laws. monster and ihispano shall perform their obligations under this agreement in compliance
+with applicable federal and state laws, rules and regulations, including the current equal employment opportunity
+commission rules, regulations and guidelines. the parties hereby agree that they will use commercially reasonable
+efforts to exercise mutual goodwill in their respective interpretation of the applicability of such laws and shall, in
+the case of disagreement on such applicability, obtain the written opinion of independent counsel competent in the
+pertinent areas of law and regulatory statutes and selected by the mutual consent of the parties hereto. (i) ihispano
+partners. ihispano shall use best efforts to cause each third party provider of job search services with which ihispano
+has an alliance or cooperation relationship to become an ihispano partner, but the refusal of any such third party to
+become an ihispano partner on terms and conditions satisfactory to each of monster and ihispano shall not constitute a
+breach or default by ihispano hereunder. without limiting ihispano’s obligations pursuant to section 2(d) hereof,
+monster and ihispano agree that all obligations of ihispano with respect to an ihispano partner channel are subject to
+the applicable ihispano partner agreeing in writing with ihispano that such ihispano partner will meet such obligations
+with respect to its job 8 certain confidential information contained in this document has been omitted and filed
+separately with the securities a nd exchange commission (the “sec”) pursuant to a request for confidential treatment
+with respect to the omitted portions. omitted portions are indicated by [***]. search channels, which shall then become
+ihispano partner channels. ihispano will cooperate with monster in enforcing the terms of any such agreement; provided
+that, notwithstanding anything to the contrary contained herein, ihispano shall not be responsible or liable for an
+ihispano partner’s breach of such agreement, nor shall a breach under this agreement result to the extent arising from
+or caused by an ihispano partner’s breach of such agreement. (j) monster diversity only. for the avoidance of doubt,
+ihispano agrees and acknowledges that the fees payable to ihispano, and the restrictions on monster, apply solely to the
+monster diversity component of monster’s business and revenues tied solely to monster diversity products and services.
+monster shall have reasonable discretion to establish codes in monster’s internal systems to identify monster diversity
+products and services and the allocation of fees therefor. for example and without limitation, ihispano agrees and
+acknowledges that, for a monster diversity employer customer posting job postings or utilizing resume search services on
+the monster web site, will pay monster a fee for access to monster services generally and another fee specifically for
+the monster diversity services embedded in the monster services. in such case, only the portion of the fees specifically
+paid for the monster diversity services will be counted toward jobs revenue or any other revenue subject to commissions
+or other fees payable by monster hereunder. (k) test accounts. monster may provide ihispano with access to the monster
+web site resume database from time to time, similar to the license access provided to monster employer customers.
+ihispano agrees that (a) such access is for ihispano employees only and that it shall not provide its login credentials
+to any third party, (b) it shall use such test account resume access and resumes and other content from the monster web
+site solely for the purpose of furthering the cooperation between monster and ihispano hereunder and (c) it shall not,
+directly or indirectly, distribute any content from the monster web site to any third party. ihispano shall be
+responsible for any and all improper use of its login credentials. ihispano further agrees that its use of the test
+accounts shall be subject to the general terms and conditions applicable to the monster web site, accessible through the
+link “terms of use”. monster may terminate such accounts at any time. ihispano shall not use information obtained from
+the monster web site resume database to send unsolicited mail or email, make unsolicited phone calls or send unsolicited
+faxes. ihispano shall not use any engine, software, tool, agent or other device or mechanism (including without
+limitation browsers, spiders, avatars or intelligent agents) to navigate or search the monster web site resume database
+except for generally available third party web browsers (e.g. internet explorer, firefox, safari). ihispano shall not
+decipher, decompile, disassemble or reverse engineer any of the software comprising or in any way making up a part of
+the monster web site. (l) redistribution of job postings. other than as expressly set forth herein, ihispano shall not
+resell or transfer any monster diversity job postings (or any content therein) to any third party. 3. commissions. (a)
+job postings commissions. in partial consideration of the rights granted to monster hereunder, monster shall pay
+ihispano the jobs commission rate of jobs revenue (the “jobs commission”) in each calendar quarter ending after the
+effective date; where the 9 certain confidential information contained in this document has been omitted and filed
+separately with the securities a nd exchange commission (the “sec”) pursuant to a request for confidential treatment
+with respect to the omitted portions. omitted portions are indicated by [***]. “jobs commission rate” shall vary by each
+calendar month during such calendar quarter and shall equal (i) [***] percent ([***]%) if, in each such calendar month,
+there are fewer than [***] unique applicants in such calendar month or (ii) if there are more than [***] unique
+applicants in such calendar month, (a) [***] percent ([***]%) if the number of unique applicants does not exceed the
+number of monster diversity job postings in such calendar month and (b) [***] percent ([***]%) if the number of unique
+applicants exceeds the number of monster diversity job postings in such calendar month, pro-rated for any portion of a
+calendar month. (b) guarantee. (i) in each year of the term, monster shall pay jobs commissions at least equal to the
+guarantee amount. (c) media sales commissions. in partial consideration of the rights granted to monster hereunder,
+monster shall pay ihispano [***] percent ([***]%) of media revenue (“media commission”) received by monster in that
+calendar quarter within forty-five (45) days of the end of each calendar quarter ending after the effective date. (d)
+payments to ihispano partners. ihispano shall be solely responsible for making payments to ihispano partners and its
+other partners, such as nshmba and alpfa, out of the commissions paid by monster hereunder. 4. payment; recordkeeping.
+(a) currency. all commissions due hereunder shall be paid in u.s. dollars. (b) quarterly report; payments. commencing on
+november 30, 2007, and on the last business day of each calendar month thereafter during the term of this agreement,
+monster will pay to ihispano an amount equal to one-twelfth of the guarantee amount. within forty-five (45) days of the
+end of each calendar quarter, monster will deliver to ihispano a report summarizing the amount of jobs commissions and
+media commissions accrued during such calendar quarter, each separately identified, together with payment of the excess
+of jobs commissions over the guarantee amount and media commissions in respect of such calendar quarter. (c) audit
+rights. from time to time upon reasonable advance notice and during normal business hours, each party (or its agents and
+representatives) shall have the right to inspect the books and records of the other party specifically relating to this
+agreement in order to verify the amount and proper payment of commissions, the reporting of applicants or other
+compliance with this agreement. any breaches noted in such audit shall be promptly corrected. (d) taxes. ihispano shall
+pay any sales, use, property, license, value added, withholding, excise or similar tax whether federal, state or local,
+properly payable as a result of monster’s payment of the commissions hereunder, and any related duties, tariffs and
+similar charges, exclusive of taxes based on the net income of monster. 10 certain confidential information contained in
+this document has been omitted and filed separately with the securities a nd exchange commission (the “sec”) pursuant to
+a request for confidential treatment with respect to the omitted portions. omitted portions are indicated by [***]. 5.
+intellectual property rights. (a) web sites. subject to section 5(b) below, ihispano (and its licensors, where
+applicable) shall continue to be the sole and exclusive owner of the ihispano web site and each of the ihispano vertical
+channels and all content and proprietary rights therein, including without limitation patent, copyright and trade
+secrets; provided that monster shall own any content of intellectual property rights provided by monster in any of the
+ihispano channels,. monster and its affiliates shall continue to be the sole and exclusive owner of the monster web
+site, monster diversity, and all content and proprietary rights therein, including without limitation patent, copyright
+and trade secrets; provided that ihispano shall own any content of intellectual property rights provided by ihispano in
+the monster web site. (b) career data. (i) ihispano career data. subject to clause (iii) below, ihispano shall continue
+to be the sole and exclusive owner of all ihispano career data. ihispano hereby grants to monster an irrevocable,
+perpetual, non-exclusive (subject to the restrictions set forth in section 2(d) hereof), royalty-free license to use the
+ihispano career data, solely to the extent ihispano provides such ihispano career data to monster prior to the
+expiration or termination of this agreement, on the monster web site and to make available such ihispano career data to
+users of the monster web site and subscribers to resume search services, provided that monster shall not disclose
+ihispano career data except as combined with monster career data and monster shall not enable any third party to isolate
+ihispano career data from monster career data. (ii) monster career data. monster shall be the sole and exclusive owner
+of all monster career data. ihispano acknowledges that it shall have no right or license to the monster career data.
+(iii) shared data. monster and ihispano shall jointly own all ihispano career data received by ihispano or the ihispano
+channels during the term of this agreement, without royalties or accounting. (c) trademark placement; trademark license.
+(i) monster mark. ihispano hereby agrees to place the mark “powered by monster” (the “monster mark”) in such locations
+as monster may reasonably request on the ihispano channels. monster hereby grants ihispano a non-exclusive,
+non-transferable, non-sublicensable, worldwide license to use such monster mark only where and when approved by monster;
+provided that ihispano hereby agrees that it (i) shall immediately cease use of the monster mark upon monster’s written
+request and (ii) display symbols and notices clearly and sufficiently on the ihispano web site, as required by monster
+from time to time, indicating the trademark status and ownership of the monster mark. all such use of the monster mark
+shall inure to the benefit, and be on behalf, of monster. (ii) ihispano marks. ihispano hereby grants monster a
+non-exclusive, non-transferable, non-sublicensable, worldwide license to use and display the ihispano marks in
+connection with monster’s exercise of its rights and obligations under this agreement; provided that monster hereby
+agrees that it (i) shall immediately cease use of the ihispano marks upon ihispano’s written request, (ii) shall not
+create a unitary composite mark involving an 11 certain confidential information contained in this document has been
+omitted and filed separately with the securities a nd exchange commission (the “sec”) pursuant to a request for
+confidential treatment with respect to the omitted portions. omitted portions are indicated by [***]. ihispano mark
+without the prior written consent of ihispano, (iii) shall use the ihispano marks solely for the promotion of job
+postings, advertising, resume search services, the monster web site and monster diversity, all in accordance with this
+agreement and not in connection with any other activity, and (iv) displays symbols and notices, as required by ihispano
+from time to time, clearly and sufficiently indicating the trademark status and ownership of the ihispano marks in
+accordance with applicable trademark law and practice. all such use of the ihispano marks shall inure to the benefit,
+and be on behalf, of ihispano. (d) ownership. each party acknowledges that such use of the trademarks of the other party
+will not create in it, nor will it represent it has, any right, title, or interest in or to such trademarks other than
+the licenses expressly granted in this agreement and that the trademark owner may terminate such party’s rights granted
+pursuant to this section 5 immediately upon such party’s breach of any of its obligations under this agreement. 6. term
+and termination. (a) term; renewals. this agreement shall commence on the effective date and shall continue in effect
+until the three (3) year anniversary of the effective date (the “initial term”), and thereafter will be automatically
+renewed for successive one (1) year periods (each, a “renewal term”), unless either monster or ihispano gives to the
+other party sixty (60) days prior written notice of its intention not to renew this agreement at the end of the initial
+term or the then-current renewal term or this agreement is sooner terminated in accordance with the provisions of this
+section 6. the initial term and each renewal term are referred to herein as the “term.” (b) breach. either party shall
+have the right to terminate this agreement if (i) the other party shall fail to perform any material obligation, breach
+a representation or warranty or fail to fulfill any material condition hereunder or any obligation to the other party
+required by law (a “breach”), (ii) the non-breaching party has given the breaching party written notice of the breach
+and an intent to terminate this agreement due to such breach and (iii) the breaching party shall not have cured the
+breach within thirty (30) days after such notice has been given. (c) insolvency. either party shall have the right to
+terminate this agreement if the other party files a petition in bankruptcy, or is adjudicated as bankrupt, or takes
+advantage of the insolvency laws of any jurisdiction, or makes an assignment for the benefit of creditors, or is
+voluntarily or involuntarily dissolved, or has a receiver, trustee or other court officer appointed for its property, or
+has filed against it any involuntary petition in bankruptcy which is not dismissed or withdrawn within sixty (60) days.
+(d) other. monster shall have the right to pursue additional diversity partnerships in the event there are fewer than
+[***] unique applicants in each month for [***] consecutive calendar months during the second and third years of the
+initial term. for the avoidance of doubt, monster does not have any exclusivity obligations to ihispano at any time
+under this agreement. 12 certain confidential information contained in this document has been omitted and filed
+separately with the securities a nd exchange commission (the “sec”) pursuant to a request for confidential treatment
+with respect to the omitted portions. omitted portions are indicated by [***]. (e) effect of termination. upon
+termination of this agreement for any reason, except as set forth in section 6(h) below, all rights and obligations of
+the parties shall immediately terminate and: (i) other than as expressly set forth herein, each party shall return to
+the other party any advertising and other materials furnished to it by such other party; (ii) each party shall remove
+and not thereafter use any signs containing the name or trademarks of the other party; and (iii) each party shall
+destroy all of its advertising matter and other preprinted matter remaining in its possession or under its control
+containing the name of the other party or any of its products and related trade names or trademarks of the other party.
+termination shall be in addition to, and shall not prejudice, any of the parties’ other remedies at law or in equity.
+(f) no compensation. each party agrees that neither it nor its employees shall be entitled to any compensation or
+severance payment resulting from the fact of the termination of this agreement or relating to any goodwill created by
+such party, and whether relating to loss of prospective sales, investments, compensation or goodwill. each party, for
+itself and on behalf of its employees, hereby waives any right it may have under any applicable laws with respect to any
+such payments, including but not limited to applicable termination, labor, social security or other similar laws or
+regulations. (g) survival. notwithstanding any termination or expiration of this agreement, sections 1, 3 (solely with
+respect to commissions accrued during the term and thereafter during such period as ihispano continues to provide
+services and access to ihispano career data pursuant to section 6(g) hereof), 4, 5(a), 5(b), 6(e), 6(g), 6(h), 7, 9, 10
+and 11 shall survive and remain in effect in accordance with their terms. termination for any reason or expiration of
+this agreement shall not relieve either party from any liability which at the time of termination or expiration already
+has accrued to the other party hereto or which thereafter may accrue in respect of any act or omission prior to
+termination or expiration, or from any obligation which is expressly stated herein to survive termination or expiration.
+(h) surviving customer obligations. ihispano agrees that it shall cooperate with monster to provide such services and
+access to ihispano career data as needed for monster to meet customer obligations relating to the cooperation between
+ihispano and monster for one (1) year following expiration or termination of this agreement, to the extent such customer
+obligations are binding on monster after the expiration or termination of this agreement. 7. confidentiality. during and
+after the term of this agreement and for five (5) years thereafter, monster, on the one hand, and ihispano, on the other
+hand (and each of their respective owners, shareholders, directors, and officers) shall keep secret and retain in the
+strictest confidence, and shall not use for its benefit or the benefit of any person or entity, except in connection
+with the business and affairs of the other party, as the case may be, and its affiliates, all information relating to
+the business and affairs of the other party and its affiliates learned by monster and ihispano, as the case may be,
+directly or indirectly from the other party (including, but not limited to, such other party’s affiliates and its and
+their predecessors in interest), including, without limitation, information with respect to (i) processes, products,
+procedures and formulas, (ii) sales amounts and commissions due hereunder, and (iii) customers, clients, suppliers,
+sources of supply and customer lists (collectively, the “confidential information”), and shall not disclose such
+confidential information to anyone outside of ihispano and monster and their respective affiliates, as the case may be,
+except with the other party’s express written 13 certain confidential information contained in this document has been
+omitted and filed separately with the securities a nd exchange commission (the “sec”) pursuant to a request for
+confidential treatment with respect to the omitted portions. omitted portions are indicated by [***]. consent. the term
+“confidential information” shall not include information which is (1) is generally available to the public or otherwise
+readily ascertainable from published information or trade sources, or (2) is received from a third party that is not
+under an obligation to keep such information confidential and without breach of this agreement. in addition, each party
+shall have the right to comply with any disclosure of information that is required pursuant to a writ, judgment,
+subpoena, decree, injunction or similar order (whether preliminary or final) of any court, tribunal, arbitrator or any
+government or political subdivision thereof, whether federal, state, county, local or foreign, or any agency, authority,
+official or instrumentality of any such government or political subdivision (provided that prior written notice is given
+to ihispano and monster, as the case may be, and the other party, to the extent practicable, provides ihispano and
+monster, as the case may be, a reasonable opportunity to obtain a protective order prior to such disclosure). each of
+monster and ihispano acknowledges that any breach of the confidentiality obligations set forth in this section 7 may
+result in irreparable injury to the other party for which such other party cannot be adequately compensated by monetary
+damages alone. each of monster and ihispano agrees, therefore, that, in addition to any other remedy it may have under
+law or in equity, each such party shall have the right and remedy to have the confidentiality obligations specifically
+enforced by any court having equity jurisdiction, including without limitation, the right to an entry against the other
+party of restraining orders and injunctions (preliminary, mandatory, temporary and permanent) against violations,
+threatened or actual, and whether or not then continuing, of such confidentiality obligations. 8. representations,
+warranties and right of first refusal covenant. (a) representations and warranties of monster. as a material inducement
+to ihispano to enter into this agreement, monster hereby makes the following representations and warranties to ihispano:
+(i) monster is a corporation duly organized, validly existing and presently subsisting under the laws of the state of
+delaware. (ii) monster has full corporate power and authority to enter into this agreement and to consummate the
+transactions contemplated hereby. (iii) monster has duly executed and delivered this agreement and the execution,
+delivery and performance by monster of this agreement will not conflict with or violate any provision of any agreement
+or instrument to which monster is a party or by which monster is bound. (b) representations and warranties of ihispano.
+as a material inducement to monster to enter into this agreement, ihispano hereby makes the following representations
+and warranties to monster: (i) ihispano is a limited liability company duly organized, validly existing and in good
+standing under the laws of the state of illinois. (ii) ihispano has full corporate power and authority to enter into
+this agreement and to consummate the transactions contemplated hereby. 14 certain confidential information contained in
+this document has been omitted and filed separately with the securities a nd exchange commission (the “sec”) pursuant to
+a request for confidential treatment with respect to the omitted portions. omitted portions are indicated by [***].
+(iii) ihispano has all appropriate rights and licenses to provide monster with (x) the right to access and administer
+the career center functions of ihispano channels and (y) all resumes and other ihispano career data provided by ihispano
+to monster hereunder; provided that, ihispano shall not be responsible or liable for resumes and other ihispano career
+data provided by ihispano partners. (iv) ihispano has duly executed and delivered this agreement and the execution,
+delivery and performance by ihispano of this agreement will not conflict with or violate any provision of any agreement
+or instrument to which ihispano is a party or by which ihispano is bound. (v) exhibit b to this agreement lists all
+existing agreements. ihispano has provided monster with a copy of each existing agreement. (c) right of first refusal.
+if ihispano is in negotiations to enter into a change in control, then ihispano shall provide monster with written
+notice of the intent to negotiate and the key terms of the proposed arrangement (the “notice”). within twenty-five (25)
+days of receipt of the notice, monster shall provide ihispano with a written notification (the “acceptance notice”) that
+monster desires to enter into a comparable arrangement with ihispano on terms and conditions no less favorable to
+ihispano as the terms and conditions set forth in the notice. if monster delivers an acceptance notice in the required
+timeframe, then ihispano and monster shall negotiate in good faith a definitive agreement to implement the terms and
+conditions set forth in the notice. if ihispano does not receive an acceptance notice within twenty-five (25) days of
+monster’s receipt of the notice or if a definitive agreement is not executed by both ihispano and monster within
+forty-five (45) days of ihispano’s receipt of the acceptance notice (unless due to ihispano’s failure or refusal to
+accept the terms and conditions set forth in the notice), then ihispano shall be free for a period of one hundred twenty
+(120) days thereafter to enter into an arrangement with such third party on terms and conditions no less favorable to
+ihispano, when taken as a whole, to those set forth in the notice. 9. general exclusion of warranties and liability. (a)
+general exclusion of warranties. except as expressly stated in this agreement, neither party makes any representations
+or warranties, oral or written, express or implied, including implied warranties of merchantability and fitness for a
+particular purpose, regarding any matter pertaining to this agreement. (b) disclaimer. except in the case of a party’s
+breach of the covenants set forth in sections 2(k), 2(l),5 and 7 or warranties in section 8(b) (iii) of this agreement
+or either party’s indemnification obligations pursuant to section 10 of this agreement, under no circumstances will the
+parties be liable to each other or any other person for lost productivity, business interruption, loss of data, lost
+revenues, lost profits, loss of business, or any indirect, special, incidental, exemplary or consequential damages of
+any nature, 15 certain confidential information contained in this document has been omitted and filed separately with
+the securities a nd exchange commission (the “sec”) pursuant to a request for confidential treatment with respect to the
+omitted portions. omitted portions are indicated by [***]. whether or not foreseeable, arising out of or in connection
+with this agreement or the use or performance of the web sites of any of the parties, whether in an action of contract,
+tort (including but not limited to negligence and strict liability) or otherwise, and whether or not such party has been
+apprised of the possibility of such damages. (c) limitation of liability. except in the case of a party’s breach of the
+covenants set forth in sections 2(k), 2(l) and 7 of this agreement or either party’s indemnification obligations
+pursuant to section 10 of this agreement, under no circumstances will the parties be liable to each other for any
+amounts exceeding the amounts paid by monster to ihispano hereunder. (d) basis of the bargain. the parties agree and
+acknowledge that this section 9 has been included as a material inducement for the parties to enter into this agreement
+and that the parties would not have entered into this agreement on the terms and conditions set forth herein but for the
+limitations and disclaimers of liability as set forth herein. 10. indemnification. (a) indemnification of monster.
+ihispano shall defend, indemnify and hold harmless monster and its officers, directors, employees, agents,
+representatives and their respective heirs, successors and assigns against any and all expenses, damages, costs and
+liabilities (including, but not limited to, reasonable attorneys’ fees and expenses) resulting or arising from any third
+party claim or action that (i) ihispano has violated any applicable law or regulation, (ii) the ihispano website,
+ihispano vertical channels, any services or content provided therein or any other content provided by ihispano to
+monster hereunder infringe or misappropriate any patent, copyright, trade secret, or other third party proprietary or
+privacy right or (iii) ihispano has breached any agreement as a result of its compliance with this agreement or monster
+has induced or caused ihispano to breach any agreement not disclosed to monster (including on exhibit b hereto).
+ihispano shall defend any such claim with counsel of its own selection; provided, however, that monster will not be
+bound by any determination of a claim so defended or any compromise or settlement effected without monster’s consent
+(which may not be unreasonably withheld). if ihispano fails to assume the defense of such a claim within 30 days after
+receiving written notice thereof, monster shall have the right to defend itself and monster shall be entitled to prompt
+reimbursement by ihispano for all of its reasonable attorneys’ fees, costs and other damages incurred in defending or
+settling such claim, provided that any settlement will require the prior written approval of ihispano, such consent not
+to be unreasonably withheld. (b) indemnification of ihispano. monster shall defend, indemnify and hold harmless ihispano
+and its officers, directors, employees, agents, representatives and their respective heirs, successors and assigns
+against any and all expenses, damages, costs and liabilities (including, but not limited to, reasonable attorneys’ fees)
+resulting or arising from any third party claim or action that (i) monster has violated any applicable law or regulation
+or (ii) the monster web site, any services or content provided therein or any other content provided by 16 certain
+confidential information contained in this document has been omitted and filed separately with the securities a nd
+exchange commission (the “sec”) pursuant to a request for confidential treatment with respect to the omitted portions.
+omitted portions are indicated by [***]. monster hereunder infringe or misappropriate any patent, copyright, trade
+secret, or other third party proprietary right. monster shall defend any such claim with counsel of its own selection;
+provided, however, that ihispano will not be bound by any determination of a claim so defended or any compromise or
+settlement effected without ihispano’s consent (which may not be unreasonably withheld). if monster fails to assume the
+defense of such a claim within 30 days after receiving written notice thereof, ihispano shall have the right to defend
+itself and ihispano shall be entitled to prompt reimbursement by monster for all of its reasonable attorneys’ fees,
+costs and other damages incurred in defending or settling such claim, provided that any settlement will require the
+prior written approval of monster, such consent not to be unreasonably withheld. 11. other provisions. (a) notices. any
+notice or other communication required or permitted hereunder shall be in writing and shall be delivered personally,
+sent by overnight mail (postage prepaid) via a nationally recognized courier or sent by certified, registered or express
+mail, postage prepaid (“notice”). any such notice shall be deemed given when so delivered personally, two days after the
+date sent by overnight mail, or, if mailed, five days after the date of deposit in the united states mails, to the
+address for such party first set forth in this agreement. any such person may by notice given in accordance with this
+section 11(a) to the other party hereto designate another address or person for receipt by such person of notices
+hereunder. (b) entire agreement. this agreement contains the entire agreement between the parties with respect to the
+subject matter hereof and supersedes all prior and/or contemporaneous agreements, written or oral, with respect thereto.
+(c) waivers and amendments. unless otherwise provided herein, this agreement may be amended, superseded, cancelled,
+renewed or extended, and the terms hereof may be waived, only by a written instrument signed by the parties or, in the
+case of a waiver, by the party waiving compliance. no delay on the part of any party in exercising any right, power or
+privilege hereunder shall operate as a waiver thereof, nor shall any waiver on the part of any party of any such right,
+power or privilege nor any single or partial exercise of any such right, power or privilege, preclude any other or
+further exercise thereof or the exercise of any other such right, power or privilege. (d) governing law. this agreement
+shall be governed by and construed in accordance with the laws of the state of new york, without regard to principles of
+conflicts of law. (e) jurisdiction; agents for service of process. any judicial proceeding brought against any of the
+parties to this agreement in regard to any dispute arising out of this agreement or any matter related hereto shall be
+brought in the federal courts located in new york, new york and the state courts located in new york, new york and, by
+execution and delivery of this agreement, each of the parties hereto accepts for itself and irrevocably submits to the
+non-exclusive jurisdiction of the aforesaid court, irrevocably agrees to be bound by any judgment rendered thereby in
+connection with this agreement and agrees not to assert, by way of motion, as a defense or otherwise, in any such
+judicial proceeding, any claim that it is not subject personally 17 certain confidential information contained in this
+document has been omitted and filed separately with the securities a nd exchange commission (the “sec”) pursuant to a
+request for confidential treatment with respect to the omitted portions. omitted portions are indicated by [***]. to the
+jurisdiction of such court, that the judicial proceeding is brought in an inconvenient forum, that the venue of the
+judicial proceeding is improper or that this agreement or the subject matter hereof may not be enforced in or by such
+court. any and all service of process and other notice in any such judicial proceeding shall be effective against any
+party if given personally, by overnight mail, or by registered or certified mail, return receipt requested, or by any
+other means of mail that requires a signed receipt, postage prepaid, mailed to such party as provided herein. (f)
+assignment. this agreement may not be assigned by either party hereto. in the event of any sale, transfer or other
+disposition of all or substantially all of either party’s assets or business, whether by merger, consolidation or
+otherwise, such party may assign or transfer this agreement and its rights hereunder provided that the assignee or
+transferee assumes the obligations of such party hereunder either contractually or as a matter of law. (g) binding
+effect. this agreement shall be binding upon and inure to the benefit of the parties and their respective successors,
+permitted assigns, heirs, executors and legal representatives. (h) counterparts. this agreement may be executed by the
+parties hereto in separate counterparts, each of which when so executed and delivered shall be an original but all such
+counterparts together shall constitute one and the same instrument. (i) headings. the headings in this agreement are for
+reference only and shall not affect the interpretation of this agreement. (j) invalidity. in case any one or more of the
+provisions contained in this agreement shall, for any reason, be held to be invalid, illegal or unenforceable in any
+respect, such invalidity, illegality or unenforceability shall not affect the validity of any other provision of this
+agreement, and such provisions shall be deemed modified to the extent necessary to make it (them) enforceable. (k)
+gender; number. words used herein, regardless of the number and gender specifically used, shall be deemed and construed
+to include any other number, singular or plural, and any other gender, masculine, feminine or neuter, as the context
+requires. (l) remedies. without limiting any provision herein, and in addition to any rights and remedies set forth
+herein, the parties hereunder shall have all rights and remedies under law and equity in connection with this agreement.
+(m) construction. no provision of this agreement shall be construed against or in favor of any party hereto because such
+party’s counsel drafted, revised, commented upon or did not draft, revise or comment upon, such provision. (n)
+independent contractor. each party is and shall remain an independent contractor with respect to all performance under
+this agreement. neither party will have, and will not represent that it has, any power, right or authority to bind the
+other party, or to assume or create any obligation or responsibility, express or implied, on behalf of the other party
+or in the other party’s name, except as herein expressly provided. no employee of either party shall be 18 certain
+confidential information contained in this document has been omitted and filed separately with the securities a nd
+exchange commission (the “sec”) pursuant to a request for confidential treatment with respect to the omitted portions.
+omitted portions are indicated by [***]. considered an employee or agent of the other party for any purpose. each party
+assumes sole responsibility for the supervision, daily direction and control, payment of salary (including withholding
+of income taxes and social security), worker’s compensation, disability benefits and the like of its employees. 19 in
+witness whereof, ihispano and monster have caused this alliance agreement to be signed and delivered by their duly
+authorized representatives, all as of the effective date. monster, inc. by: /s/ steven j. pemberton name: steven j.
+pemberton title: chief diversity officer ihispano.com, llc by: /s/ rudy martinez name: rudy martinez title: ceo exhibit
+a ihispano marks ihispano.com® (u.s. registration no. 2,481,760; issued 8/28/01) ihispano™ logo (trademark application
+pending): exhibit b existing agreements [***] exhibit c none
+

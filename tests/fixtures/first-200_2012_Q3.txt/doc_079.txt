@@ -1,0 +1,656 @@
+
+ex10_2.htm exhibit 10.2 execution version note on redacted material: sections under the headings “definitions”, “notice
+of production”, “refinery and shipment”, “price and purchase” and “notices” in this agreement and customer
+identification numbers in exhibit a have been omitted pursuant to a confidential treatment request (“request”) gryphon
+gold corporation filed with the united states securities and exchange commission (“sec”) concurrently with the filing of
+the form 8-k to which this agreement is an exhibit. the omitted material has been filed separately with the sec as part
+of the request. the place of omitted provisions are indicated below as “*[redacted]”. seven pages contain omitted
+provisions. gold and silver supply agreement between: gryphon gold corporation borealis mining company and waterton
+global value, l.p. dated april 18, 2012 this gold and silver supply agreement dated as of april 18, 2012, b e t w e e n:
+gryphon gold corporation, a corporation organized and existing under the laws of the state of nevada (“gryphon”),
+borealis mining company, a corporation organized and existing under the laws of the state of nevada (“borealis”)
+(gryphon and borealis are hereinafter individually referred to as a “seller” and collectively referred to as the
+“seller”, with the obligations of each seller under this agreement applicable to each seller on a joint and several
+liability basis); - and - waterton global value, l.p., a limited partnership organized and existing under the laws of
+the british virgin islands (hereinafter, the “buyer”) whereas, borealis is a wholly-owned subsidiary of gryphon;
+whereas, borealis is the lessee or owner of certain unpatented mining claims, unpatented millsite claims, mineral rights
+and other rights and interests located in mineral county, nevada, as further described on exhibit a attached hereto and
+incorporated herein (the “properties”); whereas, each seller agrees to sell, and the buyer will have the right to buy,
+all of the refined gold and refined silver produced or otherwise originating from the properties or any portion thereof
+at the price and on the terms described herein; whereas the seller and the buyer have entered into that certain senior
+secured gold stream credit agreement dated as of april 18, 2012 (as amended, modified, supplemented, replaced or
+restated, the “credit agreement”); whereas, this agreement is independent of the credit agreement; and whereas, this
+agreement and the agreements and obligations of each seller hereunder shall constitute a continuing covenant running
+with the land for the term set forth herein, which shall survive for the term described herein; now therefore this
+agreement witnesses that for good and valuable consideration, the receipt and sufficiency of which are acknowledged by
+each of the seller and the buyer, the seller and the buyer agree as follows: 1. definitions in this agreement the
+following terms shall, unless otherwise defined, have the following meanings: 2 “affiliate” means, with respect to a
+person, (i) any partner, director, officer, ten percent (10%) or more shareholder, manager, member, employee or managing
+agent of that person or that person’s affiliates; and (ii) any other person (a) that directly or indirectly through one
+or more intermediaries, controls or is controlled by, or is under common control with, that person; (b) that directly or
+indirectly owns or holds (legally or beneficially) 10% or more of any class of voting stock or partnership, membership
+or other voting interest of that person; or (c) 10% or more of the voting stock or partnership, membership or other
+voting interest of which is directly or indirectly owned or held (legally or beneficially) by that person; “agreement”,
+“this agreement”, “hereto”, “hereby”, “hereunder”, “hereof”, “herein” and similar expressions refer to this gold and
+silver supply agreement and not to any particular article, section, subsection, paragraph, clause, subdivision or other
+portion hereof, and includes all amendments, modifications, supplements, extensions and replacements and any and every
+supplemental agreement; and the expressions “article”, “section”, “subsection” and “paragraph” followed by a number mean
+and refer to the specified article, section, subsection or paragraph of this agreement; “alternative debt financing” has
+the meaning set out in section 14.4 of this agreement; “applicable discount” means, with respect to all ounces of
+refined gold and refined silver sold to the buyer pursuant to this agreement *[redacted]; “applicable law” means, at any
+time, with respect to any person, property, transaction, event or other matter, as applicable, all laws, rules,
+statutes, regulations, treaties, orders, judgments and decrees, and all official requests, directives, rules,
+guidelines, orders, policies, practices and other requirements of any governmental authority relating or applicable at
+such time to such person, property, transaction, event or other matter, and also includes any interpretation thereof by
+any person having jurisdiction over it or charged with its administration or interpretation; “applicable lbma price”
+means: *[redacted]; “authorization” means any authorization, consent, approval, resolution, licence, exemption, filing,
+notarization or registration; “business day” means any day (other than saturday or sunday) when banks are open for
+general business in toronto, ontario; “buyer’s account” has the meaning set out in section 4.2 of this agreement;
+“encumbrances” means any and all liens, charges, mortgages, hypothecs, encumbrances, pledges, security interests, prior
+claims, royalties, taxes, proxies, preferential rights, options and third party rights or any other encumbrances of any
+nature whatsoever, whether registered or unregistered; “environmental laws” means all federal, provincial, state,
+municipal, county, local and other laws, statutes, codes, ordinances, by-laws, rules, regulations, policies, guidelines,
+certificates, approvals, permits, consents, directions, standards, judgments, orders and other authorizations, as well
+as common law, civil laws and other jurisprudence or authority, in each case, domestic or foreign, having the force of
+law at any time relating in whole or in part 3 to any environmental matters and any permit, order, directions,
+certificate, approval, consent, registration, licence or other authorization of any kind held or required to be held in
+connection with any environmental matters; “environmental matters” means: (a) any condition, any activity, or substance,
+heat, energy, sound, vibration, radiation or odor that may affect any component of the earth and its surrounding
+atmosphere or affect human health or any plant, animal or other living organism; and (b) any waste, toxic substance,
+contaminant or dangerous good or the deposit, release or discharge of any thereof into any component of the earth and
+its surrounding atmosphere; “generally accepted accounting principles” means generally accepted accounting principles in
+the united states of america, consistently applied; “governmental authority” means the government of any nation and any
+state, provincial, territorial, divisional, county, regional, city and other political subdivision thereof, any tribal,
+aboriginal or native government or corporation, and any union or commonwealth of multiple countries, such as the
+european union, in each case in which any property of seller is located or which exercises valid jurisdiction over any
+such property or person, or in which the seller conducts business or is otherwise present, and any entity, court,
+arbitrator or board of arbitrators, agency, department, commission, board, bureau, regulatory authority or
+instrumentality of any of them exercising executive, legislative, judicial, regulatory or administrative functions that
+exercises jurisdiction over seller or its properties or assets, including the properties, and any securities exchange or
+securities regulatory authority to which seller is subject; “indemnified parties” has the meaning set out in section
+18.5 of this agreement; “knowledge” means, in respect of any person, such knowledge after due and diligent inquiry;
+“lbma” means the london bullion market association; “london good delivery bars” means gold or silver bars which are
+defined in and meet the standards and specifications of the lbma; “material adverse effect” means, when used with
+reference to any event or circumstance, any event or circumstance which has, had, or could reasonably be expected to
+have: (a) a material adverse effect on any of the business, operations, results of operations, assets, liabilities,
+condition (financial or otherwise) or prospects of the properties or the seller; or (b) a material adverse effect on the
+ability of the seller to perform any obligation under this agreement; 4 “mining assets” means all material assets and
+equipment owned, leased or used in the mining operations conducted on or at the properties and, for greater certainty,
+includes the mining rights; “mining rights” means all surface, subsurface, mineral and other real property rights,
+concessions and interests, including, without limitation, all fee interests, patented mining claims, unpatented mining
+claims, unpatented millsites, leasehold interests, option rights, mining concessions, mineral rights or participating
+interests or other property or proprietary interests or rights, and all related, associated or appurtenant rights and
+interests, in respect of the properties; “ounce” means troy ounce; “person” means any individual, partnership, limited
+partnership, limited liability company, joint venture, syndicate, sole proprietorship, company, corporation or other
+similar entity howsoever designated, with or without share capital, body corporate, unincorporated association, trust,
+trustee, executor, administrator or other legal personal representative, government or governmental authority or entity,
+however designated or constituted; “pricing date” has the meaning set out in section 3.2 of this agreement; “production
+notice” has the meaning set out in section 3.2 of this agreement; “purchase notice” has the meaning set out in section
+3.2 of this agreement; “properly contested” means, with respect to any obligation of the seller, (a) the obligation is
+subject to a bona fide dispute regarding the amount or the seller’s liability to pay, (b) the obligation is being
+properly contested in good faith by appropriate proceedings promptly instituted and diligently pursued, (c) appropriate
+reserves have been established in accordance with generally accepted accounting principles, (d) non-payment could not
+reasonably be expected to have a material adverse effect, nor result in forfeiture or sale of any assets of the seller,
+and (e) no encumbrance is imposed on any assets of the seller; “properties” has the meaning set out in the recitals to
+this agreement, and for the purpose of certainty, the properties includes the mining rights and shall include any
+re-staking or relocation of any unpatented claims in the same area and the addition of any adjacent or appurtenant
+unpatented claims, leasehold interests, patented claims, fee property or other real property interests; “purchase price”
+has the meaning set out in section 6.1 of this agreement; “refined gold” means all and any refined gold bullion
+produced, derived or resulting from unrefined gold originating from the properties or any portion thereof; “refined
+silver” means all and any refined silver bullion produced, derived or resulting from unrefined silver originating from
+the properties or any portion thereof; “refinery” means the refinery as determined from time to time pursuant to section
+4.1 of this agreement; 5 “security interest” means any security interest, assignment by way of security, mortgage, deed
+of trust, charge (whether fixed or floating), hypothec, deposit arrangement, pledge, lien, royalty, encumbrance,
+preference, priority or other security interest or preferential arrangement of any kind or nature whatsoever (including
+any conditional sale or other title retention agreement, and any financing lease having substantially the same economic
+effect as any of the foregoing); “seller” means, individually and collectively, gryphon gold corporation, a corporation
+organized and existing under the laws of the state of nevada; borealis mining company, a corporation organized and
+existing under the laws of the state of nevada; and each of their respective successors and permitted assigns; “seller’s
+account” means one or more nominated bank accounts as may be agreed to by the buyer and the seller; “term” has the
+meaning set out in section 13.1 of this agreement; “threshold date” means the date that is three (3) years after the
+date on which the credit agreement and all amounts and obligations owing thereunder have been indefeasibly repaid in
+full; “transfer” when used as a verb, means to sell, grant, assign, convey, encumber, hypothecate, pledge or otherwise
+transfer or dispose of or commit to transfer or dispose of, directly or indirectly, including, without limitation,
+through mergers, arrangements, amalgamations, consolidations, asset sales, spin-out transactions or otherwise. when used
+as a noun, “transfer” means a sale, transfer, grant, assignment, conveyance, pledge or disposal or the commitment to do
+any of the foregoing, directly or indirectly, including, without limitation, through mergers, arrangements,
+amalgamations, consolidations, asset sale, spin-out transaction or otherwise; “u.s. dollars” means the currency of the
+united states of america; “unrefined gold” means raw or crushed ore, concentrate, doré and/or other unrefined gold; and
+“unrefined silver” means ore, concentrate, doré and/or other unrefined silver. 2. sale and purchase 2.1 each seller
+hereby agrees to sell, and the buyer hereby has the right to purchase, all refined gold and all refined silver at the
+purchase price and otherwise subject to the terms and conditions of this agreement. 3. notice of production 3.1 the
+seller shall provide the buyer with a written, bi-weekly notice of its estimated then-current mining activities and gold
+and silver production and inventory levels with respect to each property, including (i) tons of material removed from
+the pit, (ii) tons of material added to heap leach pads, (iii) estimated ounces of gold and ounces of silver on heap
+leach pads, (iv) estimated ounces of gold and ounces of silver in 6 solution, in ponds and in carbon columns (or other
+recovery methods), (v) ounces of gold and ounces of silver recovered from leaching, (vi) ounces of gold and ounces of
+silver in the form of concentrate or doré shipped to a refinery, and (vii) estimated ounces of gold and ounces of silver
+to be produced from each property and shipped to a refinery during the forthcoming two-week period, all such actual
+amounts and estimates to be calculated in accordance with industry standards applied in a reasonable and prudent manner.
+3.2 the seller shall from time to time (subject to the seller’s obligations under section 10 hereof) also provide the
+buyer with written notice of the actual number of ounces of refined gold and refined silver produced by the seller (a
+“production notice”). within *[redacted] of receipt of the production notice, the buyer shall notify the seller in
+writing if the buyer shall exercise its right to purchase such refined gold or refined silver (a “purchase notice”);
+*[redacted]. the date of such purchase notice shall be the “pricing date”. promptly following the buyer’s delivery of a
+purchase notice to the seller, the seller shall effect delivery of any ounces of refined gold or refined silver
+purchased by the buyer pursuant to this subsection in accordance with section 5 hereof and the buyer shall make payment
+for such ounces in accordance with section 6 hereof. 4. refinery and shipment 4.1 the seller agrees and undertakes
+during the term to promptly process and/or ship to *[redacted] or other recognized refinery any and all unrefined gold
+and unrefined silver upon such unrefined gold or unrefined silver being produced, and the seller shall ship such
+unrefined gold or unrefined silver to *[redacted] or such other refinery in the vicinity of the properties as agreed by
+the buyer and the seller from time to time (the “refinery”) for processing into refined gold and refined silver,
+respectively. 4.2 the seller will ensure that any refined gold or refined silver produced by the refinery and purchased
+by the buyer from time to time pursuant to section 3.2 shall be promptly credited to the buyer’s metals account at
+*[redacted] or as otherwise designated by the buyer from time to time (with such account, at such institution designated
+by the buyer being, the “buyer’s account”); for purposes of certainty, such refined gold and refined silver shall be
+credited to the buyer’s account no later than *[redacted] after the refinery is liable to give possession of the refined
+gold or refined silver to the seller. 2. sale and purchase 5. delivery 5.1 the refined gold and refined silver shall be
+delivered to the buyer in the form of london good delivery bars, which shall conform to the stated requirements for good
+delivery by the lbma. 5.2 in relation to any refined gold or refined silver purchased by the buyer under this agreement,
+delivery is deemed to have occurred on the day that the relevant refined gold or refined silver is credited to the
+buyer’s account, with title to such refined gold and refined silver being transferred to the buyer in accordance with
+section 8 hereof. 7 6. price and payment 6.1 the purchase price per ounce for all refined gold and refined silver
+purchased by the buyer shall be equal to: *[redacted] (the “purchase price”). 6.2 the buyer will pay for the refined
+gold and the refined silver credited to the buyer’s account at the purchase price from time to time on the business day
+after the buyer’s account has been credited with refined gold or refined silver that meets lbma good delivery
+requirements. 6.3 all payments under this agreement shall be made in u.s. dollars via wire transfer to the seller’s
+account. 7. inspection 7.1 the buyer and its auditors or other representatives shall, upon ten (10) days notice to the
+seller and at a reasonable time during regular business hours, have the right to audit the seller’s accounts, books,
+records and other information relating to mineral production, including, but not limited to, production of unrefined
+gold and unrefined silver, deliveries of unrefined gold and unrefined silver to the refinery or any other refinery or
+purchaser, deliveries of refined gold or refined silver to the buyer or any other purchaser and refinery records related
+to refined gold and refined silver. 7.2 if such audit determines that there has been a deficiency in any delivery of
+refined gold or refined silver made to the buyer, such deficiency will be resolved by adjusting the next delivery due
+hereunder. 7.3 the buyer will pay all the costs and expenses of such audit unless a deficiency of 5% or more of the
+refined gold or refined silver due is determined to exist, in which case the seller will pay the costs thereof. 8.
+insurance, title and risk 8.1 title and risk on all refined gold and refined silver shall be transferred to the buyer
+from the seller at the later of (i) the time the relevant refined gold or refined silver has been credited to the
+buyer’s account, and (ii) the time that the purchase price for the relevant refined gold or refined silver has been
+credited to the seller’s account. the seller shall convey and transfer the refined gold and refined silver to the lender
+with good and marketable title thereto, free and clear of all encumbrances and adverse claims of any nature or
+description. 8.2 the seller shall be responsible for all costs and expenses relating to unrefined gold, unrefined
+silver, refined gold and refined silver, including but not limited to mining, crushing, milling, processing,
+transportation, refining, warehousing, storage, customs, duties, taxes, security, and insurance, accrued, incurred or
+paid prior to the passing of title and risk as per section 8.1 above. 9. taxes, tariffs and duties 9.1 all taxes,
+tariffs, duties, customs, export or import charges and other related costs and expenses arising or incurred in relation
+to any unrefined gold, unrefined silver, refined gold or refined silver prior to the transfer of title and risk of the
+relevant refined gold or refined silver to the buyer in accordance with section 8.1 shall be borne by the seller. 8 9.2
+all taxes (including sales, consumption, goods and services, value added and similar taxes arising in connection with
+the purchase and sale of refined gold and refined silver), tariffs, duties, customs, export or import charges and other
+related costs and expenses arising or incurred in relation to any refined gold and refined silver after the transfer of
+title and risk of such refined gold and refined silver to the buyer in accordance with section 8.1 shall be borne by the
+buyer. 10. warranty 10.1 the seller undertakes, warrants and agrees: (a) not to sell, transfer, assign, convey or
+deliver any refined gold, refined silver, unrefined gold or unrefined silver originating from any property or any
+portion thereof to any person other than the buyer, other than refined gold or refined silver in respect of which the
+buyer has not delivered a purchase notice; (b) to deliver forthwith all unrefined gold and unrefined silver originating
+from the properties to the refinery, promptly upon production of the same, and to cause the unrefined gold and unrefined
+silver to be processed and refined to refined gold and refined silver, respectively, forthwith upon receipt; (c) to sell
+to the buyer all refined gold and refined silver resulting from unrefined gold and unrefined silver that is severed from
+the properties or any portion thereof during the term; (d) to convey and properly transfer to the buyer all legal and
+beneficial right, title and interest in and to all refined gold and refined silver delivered to the buyer, with good and
+marketable title thereto; (e) that all refined gold and refined silver delivered to the buyer shall be free and clear of
+any and all encumbrances and adverse claims of any nature or description; and (f) that all refined gold and refined
+silver delivered to the buyer shall meet the standards and specifications of the lbma. 11. representations and
+warranties of the seller 11.1 each seller hereby represents and warrants to the buyer that the representations and
+warranties of the borrower set out in the credit agreement are true and correct in all material respects, and each
+seller hereby makes the representations and warranties set out in the credit agreement, mutatis mutandis, as if each
+such representation and warranty was set forth herein and originally made by such seller herein. 11.2 the seller further
+agrees that: (a) such representations and warranties are incorporated herein by reference and form an integral part of
+this agreement; and 9 (b) the buyer has the benefit of such representations and warranties as though they were contained
+in this agreement. 12. covenants of the seller 12.1 the seller covenants with the buyer as follows: (a) the seller will
+at all times maintain its corporate existence, obtain and maintain all authorizations required or necessary in
+connection with its business, the properties and to carry on and conduct its business in a reasonably proper and
+efficient manner; (b) the seller will keep or cause to be kept proper books of account and make or cause to be made
+therein true and complete entries of all of its dealings and transactions in relation to its business in accordance with
+generally accepted accounting principles, and at all reasonable times it will furnish or cause to be furnished to the
+buyer or its duly authorized agent or attorney such information relating to its operations as the buyer may reasonably
+request and such books of account shall be open for inspection by the buyer or such agent or attorney upon reasonable
+request; (c) the seller will duly and punctually perform and carry out all of the covenants and acts or things to be
+done by it as provided in this agreement; (d) the seller will obtain and maintain all required governmental
+authorizations, approvals, licences and permits and third party approvals and consents for development and operation of
+the properties, including but not limited to all authorizations required under environmental laws; (e) if and to the
+extent that the seller is prevented or prohibited from carrying on any of its mining activities in respect of the
+properties by virtue of any action, rule, decision or restriction imposed by a governmental authority, the seller will
+diligently and in good faith pursue all commercially reasonable remedies in compliance with all applicable laws and as
+the buyer may reasonably require from time to time; (f) the seller will comply in all respects with all applicable law,
+including environmental laws; (g) the seller will operate in such manner so as to not give rise to liabilities under any
+environmental laws (including reclamation obligations) and to avoid a material adverse effect; (h) the seller will
+maintain policies of insurance with responsible carriers and in such amounts and covering such risks as are usually
+carried by companies engaged in similar businesses and owning similar properties in the same general areas in which the
+seller operates; (i) the seller will promptly notify the buyer in writing upon becoming aware of: (i) any material suit,
+proceeding or governmental investigation pending or, to the seller’s knowledge, threatened or any notification of any
+challenge to the validity of any authorization, relating to the seller, the properties or any of the 10 mining assets,
+(ii) any force majeure event under any document relating to the properties, and (iii) any suit, proceeding, demand,
+claim or governmental investigation or communication pending or threatened against it; (j) the seller will pay and
+discharge or cause to be paid and discharged, promptly when due, all taxes, assessments and governmental charges or
+levies imposed upon it or in respect of any of its property or assets, or upon the income or profits therefrom as well
+as all claims of any kind (including claims for labor, materials, supplies and rent) which, if unpaid, might become a
+security interest thereupon; provided however, that it shall not be required to pay or cause to be paid any such tax,
+assessment, charge, levy or claim being properly contested; (k) the seller will maintain all unpatented mining claims
+included as part of the properties in accordance with applicable laws and the seller will cause all necessary and proper
+commercially reasonable steps to be taken diligently to protect and defend the properties and the mining assets against
+any adverse claim or demand, including without limitation, the employment or use of counsel for the prosecution or
+defense of litigation and the contest, settlement, release or discharge of any such claim or demand; and (l) the seller
+hereby covenants and agrees with the buyer that, except with the prior written consent of the buyer, it will not enter
+into or become party or subject to any dissolution, winding-up or similar transaction or proceeding. 13. term and
+termination 13.1 subject to section 15.1, this agreement shall remain in full force and effect from the date hereof and
+shall continue to and until the date on which the buyer, acting reasonably, has determined that all planned and
+potential mining operations with respect to the properties have been completed and performed, the mineral potential of
+the properties has been exhausted, and the owner and/or operator of the properties has permanently ceased mining
+operations with respect thereto (the “term”). for greater certainty, delays in placing the properties into commercial
+production, placing the properties on a care and maintenance status, the suspension of operations, in whole or in part,
+or other delays in production or periods of inactivity, for any period of time and from time to time, whether due to a
+force majeure event, economic factors, delays or suspension of operations due to applicable law or actions of
+governmental authorities, or otherwise, shall not toll this agreement, require the buyer to determine that mining
+operations have ceased, or otherwise result in the termination of this agreement, and the term shall be extended by an
+equivalent number of days during which the properties was on a care and maintenance status, suspension of operations,
+subject to a force majeure event or other suspension for whatever reason. each party shall have the right, by providing
+thirty (30) days prior written notice to the other party, to terminate this agreement if the other party commits a
+material breach of any of the terms and conditions of the agreement and fails to rectify such breach within thirty (30)
+days following its receipt of such notice of breach from the non-breaching party. any such termination shall be without
+prejudice to any rights accrued or duties arising prior to termination. 11 14. transfers 14.1 the seller agrees not to
+directly or indirectly transfer or enter into any agreement to directly or indirectly transfer the properties, the
+mining rights or any portion thereof or any right therein, except expressly subject to the satisfaction of all
+conditions set forth in this section 14. any transfer or purported transfer that does not comply with this section 14
+shall be void ab initio. the seller shall be permitted to transfer, directly or indirectly, in whole or in part: (i) the
+properties, including the mining rights or any portion thereof or any right therein; or (ii) its rights and obligations
+under this agreement, in each case only so long as the following conditions precedent set forth below are satisfied. if
+such conditions are satisfied in respect of a transfer that constitutes a transfer to a bona fide third party purchaser
+of the applicable part or parts of the mining rights (and not to a mortgagee, chargeholder, encumbrancer or surviving
+company after completion of a merger, arrangement, consolidation or spin-out transaction), the seller shall be released
+from its obligations under this agreement upon the completion of such transfer. the conditions precedent are as follows:
+(a) the seller shall provide the buyer with at least 30 days prior written notice of its intent to transfer; (b) any
+purchaser, merged company, transferee, successor or assignee shall, as a condition precedent to the transfer, agree in
+writing in favour of the buyer (in form and content satisfactory to the buyer in its sole discretion) to abide by and be
+bound by this agreement and all terms, obligations and covenants contained herein; (c) any purchaser, merged company,
+transferee, successor or assignee shall, in the reasonable judgment of the buyer, have the financial capability and
+commitment to advance or continue the operation and development of the properties and shall otherwise be capable of
+performing the obligations of the seller under this agreement; (d) the buyer, in its judgment in its sole discretion,
+shall not, as a result of such transfer, suffer or be reasonably likely to suffer a material adverse effect in relation
+to the transactions set forth in this agreement; and (e) any transferee that is a mortgagee, chargeholder or
+encumbrancer agrees to obtain an agreement in writing in favour of the buyer from any subsequent purchaser or transferee
+of such mortgagee, chargeholder or encumbrancer that such subsequent mortgagee, chargeholder or encumbrancer will be
+bound by the terms of the agreement, as applicable and to the extent possible. 14.2 the seller may relinquish,
+surrender, abandon or terminate all or any part of the mining rights if the seller reasonably determines that the cost
+of maintaining such relinquished, surrendered, abandoned or terminated mining rights is not justified. if the seller
+acquires, reacquires, restakes or relocates any mining rights that cover or relate to or are contiguous with or
+appurtenant to any portion of the properties that was released, surrendered, abandoned, terminated, lapsed or
+relinquished, this agreement shall apply fully to such acquired, reacquired, restaked or relocated portion. 12 14.3 the
+seller may enter into a joint venture with another person or persons with respect to the properties provided that: (a)
+the seller shall provide the buyer with at least 30 days prior written notice of its intent to enter into a joint
+venture in respect of the properties; (b) the seller retains at least a 50% undivided interest in the properties; (c)
+the seller is at all times the operator of the properties; (d) each joint venture counterparty agrees to sell any and
+all refined gold and refined silver attributable to it to the buyer pursuant to the terms of this agreement; and (e)
+each joint venture participant agrees in a document, or documents, acceptable to the buyer, acting reasonably, with the
+seller, the buyer and any other joint venture participant to assume on a joint and several basis with the seller all of
+the obligations and duties under this agreement. 14.4 prior to the threshold date, without the buyer’s prior written
+consent, the seller shall not enter into any alternative debt financing arrangement (an “alternative debt financing”)
+whereby the seller agrees to deliver to the provider of such financing any refined gold, refined silver, unrefined gold
+or unrefined silver, or assign or otherwise convey any right to receive the proceeds or income therefrom. after the
+threshold date, in the event the seller enters into an alternative debt financing arrangement, the buyer agrees to
+reasonably negotiate the amendment of this agreement in order to accommodate (and not contradict) the terms and
+conditions of such alternative debt financing. 15. force majeure 15.1 to the extent that a failure to perform any of the
+obligations under this agreement is caused by the occurrence of a force majeure event, the seller shall immediately
+notify the buyer in writing and no default shall arise under this agreement by reason of any failure of seller to
+perform, or any delay in the performance of, any of its obligations under and in accordance with this agreement to the
+extent that such failure to perform or delay in performance is caused by the occurrence of a force majeure event. for
+purposes of this agreement, “force majeure event” means an act of god, riots, terrorism, acts of war, epidemics,
+governmental action or judicial order, earthquakes, or any other similar causes. the term of this agreement and seller’s
+performance times under this agreement shall be extended for a period of time equivalent to the time lost because of any
+delay that is excusable under this section. 15.2 the seller shall give prompt written notice to the buyer once the cause
+of such force majeure has been resolved. 15.3 it is understood that once the force majeure is lifted, the seller will
+thereafter be required to fulfill its obligations under this agreement in respect of any shipments taking place after
+the lifting of the force majeure. 13 16. notices 16.1 any notice to the seller under the provisions of this agreement
+shall be valid and effective if delivered personally, by courier or by facsimile transmission to or, if given by
+registered mail, postage prepaid, addressed to, the seller at *[redacted] and shall be deemed to have been given on the
+date of delivery personally or by facsimile transmission if so delivered prior to 5:00 pm. (toronto time) on a business
+day and otherwise on the next business day or on the third business day after such letter has been mailed, as the case
+may be. the seller may from time to time notify the buyer of a change in address which thereafter, until changed by
+further notice, shall be the address of the seller for all purposes of this agreement. 16.2 any notice to the buyer
+under the provisions of this agreement shall be valid and effective if delivered personally, by courier or by facsimile
+transmission to or, if given by registered mail, postage prepaid, addressed to the buyer at its principal office at
+*[redacted], and shall be deemed to have been given on the date of delivery personally or by facsimile transmission if
+so delivered prior to 5:00 p.m. (toronto time) on a business day and otherwise on the next business day or on the third
+business day after such letter has been mailed, as the case may be. the buyer may from time to time notify the seller of
+a change in address which thereafter, until changed by further notice, shall be the address of the buyer for all
+purposes of this agreement. 16.3 any notice provided for in this agreement may be waived in writing by the party
+entitled to receive such notice, either before or after the event, and such waiver shall be the equivalent of such
+notice. 17. binding effect; covenant running with the land 17.1 the parties hereto acknowledge and agree that, subject
+to applicable law, this gold and silver supply agreement and the covenants, terms, and conditions herein contained shall
+constitute continuing “covenants running with the land” and that the performance of the provisions under this agreement
+remain an obligation not only for the current owner, title holder, claim holder, concession holder or licencee but also
+of any and all persons who subsequently acquire or receive all or any interest in the properties and the mining rights.
+17.2 accordingly, the seller shall at or before the execution of this agreement deliver to the buyer and/or the buyer's
+lawyers all such documents as may be necessary to permit the buyer to register and record this agreement against title
+to the properties. legal counsel for the seller shall assist the buyer and/or its counsel in preparing and filing and
+such documents. the parties agree that the buyer may, and shall, record this agreement (or a memorandum or short form of
+this agreement) in the official records of the applicable county. 18. general 18.1 this agreement embodies the final,
+entire agreement between the parties hereto in respect of the matters described herein and supersede any and all prior
+commitments, agreements, representations, and understandings, whether written or oral, relating to the subject matter
+hereof and may not be contradicted or varied by evidence of prior, 14 contemporaneous, or subsequent oral agreements or
+discussions of the parties hereto. there are no oral agreements among the parties hereto. 18.2 no amendment,
+modification, termination or waiver of any provision of this agreement, or consent to any departure therefrom or any of
+the terms, conditions, or provisions thereof, shall be effective unless the same shall be in writing and signed by each
+of the parties hereto. each amendment, modification, termination or waiver shall be effective only in the specific
+instance and for the specific purpose for which it was given. 18.3 this agreement may be executed in any number of
+counterparts and by the parties on different counterparts, but shall not be effective until each party has executed at
+least one counterpart. each counterpart shall constitute an original of this agreement but all the counterparts shall
+together constitute one and the same agreement. this agreement may be validly executed and delivered by facsimile,
+portable document format (.pdf) or other electronic transmission, and delivery of an executed counterpart of a signature
+page to this agreement by facsimile, portable document format (.pdf) or other electronic delivery (including e-mail)
+shall be as effective and binding as delivery of a manually executed counterpart thereof. 18.4 time is of the essence of
+this agreement. 18.5 in consideration for the buyer entering into this agreement, each seller agrees to indemnify, save
+harmless and defend the buyer and its respective affiliates, partners, officers, directors, employees, agents and
+controlling persons (the “indemnified parties”, and individually each, an “indemnified party”) each of the indemnified
+parties from and against any and all losses, claims, actions, suits, proceedings, damages, liabilities, taxes,
+obligations, penalties, fines, charges, disbursements, payments or expenses of whatsoever nature or kind including the
+aggregate amount paid in reasonable settlement of any of the foregoing and the reasonable fees, disbursements and taxes
+of their counsel in connection with any of the foregoing to which an indemnified party may become subject or otherwise
+involved in any capacity insofar as they relate to, are caused by, result from, arise out of or are based upon, directly
+or indirectly, this agreement, the transactions contemplated hereby, the properties (or any portion thereof) or the
+business or operations of any seller, except to the extent that any losses, expenses, claims, actions, damages or
+liabilities incurred by the indemnified party are determined by a court of competent jurisdiction to have resulted
+primarily from the gross negligence, wilful misconduct or fraud of such indemnified party. 18.6 the seller shall obtain
+and use commercially reasonable efforts to maintain and keep in good standing all mining claims, governmental permits
+and licenses, as the case may be, which are necessary for the performance of the seller’s obligations under this
+agreement. 18.7 each of the rights and remedies of the buyer under this agreement is without prejudice to any other
+right or remedy that the buyer may have whether under this agreement or otherwise. 18.8 if any provision of this
+agreement is found by any court, tribunal or administrative body of competent jurisdiction to be wholly or partly
+illegal, invalid, void, voidable, 15 unenforceable or unreasonable it shall, to the extent of such illegality,
+invalidity, voidness, voidability, unenforceability or unreasonableness, be deemed severable and the remaining
+provisions of this agreement and the remainder of such provision shall continue in full force and effect. 18.9 failure
+or delay by the buyer in enforcing or partially enforcing any provision of this agreement shall not be construed as a
+waiver of any of its rights under this agreement. 18.10 the seller agrees to pay on demand all reasonable costs and
+expenses of the buyer in connection with the negotiation, preparation, execution, and delivery of this agreement and the
+other documents and instruments to be delivered hereunder, including, without limitation the reasonable fees and
+expenses of legal counsel and all other out-of-pocket expenses of the buyer. 18.11 any waiver of the buyer of any breach
+of, or default under, any provision of this agreement by the seller shall not be deemed a waiver of any subsequent
+breach or default and shall in no way affect the other terms of this agreement. 18.12 this agreement and all its
+provisions shall be binding upon and inure to the benefit of the successors and assigns of the respective parties
+hereto; provided, that the seller shall not transfer this agreement except in accordance with section 14. the buyer may,
+at any time, without the consent of the seller, transfer or assign to its respective successors and affiliates all or
+any part of this agreement. 18.13 nothing contained in this agreement shall be deemed to constitute either party the
+partner or joint venturer of the other. it is not the intention of the parties to create, nor shall this agreement be
+construed to create, any mining partnership, commercial partnership or other partnership, joint venture or fiduciary
+relationship. 18.14 gryphon and borealis are engaged in related businesses and are integrated to such an extent that the
+financial strength and flexibility of each seller has a direct, tangible and immediate impact on the success of the
+other seller. each seller shall cause the other seller to perform the obligations under this agreement and each seller
+hereby irrevocably guarantees the performance of the obligations under this agreement by the other seller. each seller
+waives any right to revoke, terminate or suspend its guarantee granted hereby and acknowledges that it entered into such
+guarantee in contemplation of the benefits that it would receive. 18.15 the seller agrees to execute, acknowledge,
+notarize and deliver to the buyer such other and further agreements, documents, certificates and instruments and do or
+cause to be done such other acts as the buyer reasonably determines to be necessary or desirable to effect the intent of
+the parties to this agreement or otherwise to protect and preserve the interests of the buyer hereunder. 19. rule
+against perpetuities 19.1 in the event that a court of competent jurisdiction determines that the term or any other
+provision of this agreement violates the rule against perpetuities, then the term of this agreement shall automatically
+be revised and reformed to coincide with the maximum term permitted by the rule against perpetuities, or such other
+provisions 15 shall automatically be revised and reformed as necessary to comply with the rule against perpetuities, and
+this agreement shall not be terminated solely as a result of a violation of the rule against perpetuities. 20. rights of
+set-off 20.1 each party shall have the right to set-off and apply any and all cash payment obligations at any time owing
+by one party to or for the credit or the account of the other party against any and all cash payment obligations owing
+by such party, whether arising under this agreement or the credit agreement. prior to exercising any right of set-off, a
+party desiring to apply the right of set-off provided by this agreement shall first provide written notification to the
+other party, whereupon the parties shall mutually agree as to the calculation and application of any such set-off prior
+to applying any such set-off rights arising under this agreement. each party hereby expressly authorizes the other party
+to so set-off and apply any and all such amounts, only so long as such party has complied with the provisions hereof.
+the right of set-off provided by this paragraph is in addition to, and not in limitation or derogation of, any and all
+other rights and remedies of each party, whether under this agreement, the credit agreement or otherwise. 21. governing
+law and jurisdiction 21.1 this agreement shall be governed by, construed and enforced in accordance with the laws of the
+state of nevada and shall be treated in all respects as a nevada contract. the parties hereby irrevocably attorn to the
+non-exclusive jurisdiction of the courts of the state of nevada. each party hereby irrevocably and unconditionally
+waives, to the fullest extent it may legally and effectively do so, any objection which it may now or hereafter have to
+the laying of venue of any suit, action or proceeding arising out of or relating to this agreement in any court in the
+state of nevada. each of the parties hereto hereby irrevocably waives, to the fullest extent permitted by law, any forum
+non conveniens defence to the maintenance of such action or proceeding in any such court. nothing in this agreement will
+affect the right of any party to this agreement to serve process in any other manner permitted by law. remainder of this
+page intentionally blank 16 in witness whereof the parties hereto have executed this agreement under the hands of their
+proper officers duly authorized in that behalf as of the date first above written. gryphon gold corporation by: name:
+title: borealis mining company by: name: title: waterton global value, l.p., by its investment manager, altitude
+management limited by: authorized signing officer [signature page to gold and silver supply agreement] 17 exhibit a to
+gold and silver supply agreement active claims run date: 03/14/2012 06:23 pm page 2 of 17 admin state: nv geo state: nv
+borealis mining co 1153 bergen pkwy # 290 evergreen, co 80439-9501 customer id: *[redacted] serial no. claim name/number
+lead serial no. disposition nmc850432 gpm 1 n mc850432 active nmc850433 gpm 2 n mc850432 active nmc850434 gpm 3 n
+mc850432 active nmc850435 gpm 4 n mc850432 active nmc850436 gpm 5 n mc850432 active nmc850437 gpm 6 n mc850432 active
+nmc850438 gpm 7 n mc850432 active nmc850439 gpm 8 n mc850432 active nmc850440 gpm 9 n mc850432 active nmc850441 gpm 10 n
+mc850432 active nmc850442 gpm 11 n mc850432 active nmc850443 gpm 12 n mc850432 active nmc850444 gpm 13 n mc850432 active
+nmc850445 gpm 14 n mc850432 active nmc850446 gpm 15 n mc850432 active nmc850447 gpm 16 n mc850432 active nmc850448 gpm
+17 n mc850432 active nmc850449 gpm 18 n mc850432 active nmc850450 gpm 19 n mc850432 active nmc850451 gpm 20 n mc850432
+active nmc850452 gpm 21 n mc850432 active nmc850453 gpm 22 n mc850432 active nmc850454 gpm 23 n mc850432 active
+nmc850455 gpm 24 n mc850432 active nmc850456 gpm 25 n mc850432 active nmc850457 gpm 26 n mc850432 active nmc850458 gpm
+27 n mc850432 active nmc850459 gpm 28 n mc850432 active nmc850460 gpm 29 n mc850432 active nmc850461 gpm 30 n mc850432
+active nmc850462 gpm 31 n mc850432 active nmc850463 gpm 32 n mc850432 active nmc850464 gpm 33 n mc850432 active
+nmc850465 gpm 34 n mc850432 active nmc850466 gpm 35 n mc850432 active nmc850467 gpm 36 n mc850432 active nmc850468 gpm
+37 n mc850432 active nmc850469 gpm 38 n mc850432 active nmc850470 gpm 39 n mc850432 active nmc850471 gpm 40 n mc850432
+active nmc850472 gpm 41 n mc850432 active nmc850473 gpm 42 n mc850432 active nmc850474 gpm 43 n mc850432 active
+nmc850475 gpm 44 nmc850432 active a-1 active claims run date: 03/14/2012 06:23 pm page 3 of 17 serial no. claim
+name/number lead serial no. disposition nmc850476 gpm 45 nmc850432 active nmc850477 gpm 46 nmc850432 active nmc850478
+gpm 47 nmc850432 active nmc850479 gpm 48 nmc850432 active nmc850480 gpm 49 nmc850432 active nmc850481 gpm 50 nmc850432
+active nmc850482 gpm 51 nmc850432 active nmc850483 gpm 52 nmc850432 active nmc850484 gpm 53 nmc850432 active nmc850485
+gg 1 nmc850432 active nmc850486 gg 2 nmc850432 active nmc850487 gg 3 nmc850432 active nmc850488 gg 4 nmc850432 active
+nmc850489 gg 5 nmc850432 active nmc850490 gg 6 nmc850432 active nmc850491 gg 7 nmc850432 active nmc850492 gg 8 nmc850432
+active nmc850493 gg 9 nmc850432 active nmc850494 gg 10 nmc850432 active nmc850495 gg 11 nmc850432 active nmc850496 gg 12
+nmc850432 active nmc850497 gg 13 nmc850432 active nmc850498 gg 14 nmc850432 active nmc850499 gg 15 nmc850432 active
+nmc850500 gg 16 nmc850432 active nmc850501 gg 17 nmc850432 active nmc850502 gg 18 nmc850432 active nmc850503 gg 19
+nmc850432 active nmc850504 gg 20 nmc850432 active nmc850505 gg 21 nmc850432 active nmc850506 gg 22 nmc850432 active
+nmc850507 gg 23 nmc850432 active nmc850508 gg 24 nmc850432 active nmc850509 gg 25 nmc850432 active nmc850510 gg 26
+nmc850432 active nmc850511 gg 27 nmc850432 active nmc850512 gg 28 nmc850432 active nmc850513 gg 29 nmc850432 active
+nmc850514 gg 30 nmc850432 active nmc850515 gg 31 nmc850432 active nmc850516 gg 32 nmc850432 active nmc850517 gg 33
+nmc850432 active nmc850518 gg 34 nmc850432 active nmc850519 gg 35 nmc850432 active nmc850520 gg 36 nmc850432 active
+nmc850521 gg 37 nmc850432 active nmc850522 gg 38 nmc850432 active nmc850523 gg 39 nmc850432 active nmc850524 gg 40
+nmc850432 active nmc850525 gg 41 nmc850432 active nmc850526 gg 42 nmc850432 active nmc850527 gg 43 nmc850432 active a-2
+active claims run date: 03/14/2012 06:23 pm page 4 of 17 serial no. claim name/number lead serial no. disposition
+nmc850528 gg 44 nmc850432 active nmc850529 gg 45 nmc850432 active nmc850530 gg 46 nmc850432 active nmc850531 gg 47
+nmc850432 active nmc850532 gg 48 nmc850432 active nmc850533 gg 49 nmc850432 active nmc850534 gg 50 nmc850432 active
+nmc850535 gg 51 nmc850432 active nmc850536 gg 52 nmc850432 active nmc850537 gg 53 nmc850432 active nmc850538 gg 54
+nmc850432 active nmc850539 gg 55 nmc850432 active nmc850540 gg 56 nmc850432 active nmc850541 gg 57 nmc850432 active
+nmc856715 borms #1 nmc856715 active nmc856716 bor 1 nmc856715 active nmc856717 bor 2 nmc856715 active nmc856718 bor 3
+nmc856715 active nmc856719 bor 4 nmc856715 active nmc856720 bor 5 nmc856715 active nmc856721 bor 6 nmc856715 active
+nmc856722 bor 7 nmc856715 active nmc856723 bor 8 nmc856715 active nmc856724 bor 9 nmc856715 active nmc856725 bor 10
+nmc856715 active nmc856726 bor 11 nmc856715 active nmc856727 bor 12 nmc856715 active nmc856728 bor 13 nmc856715 active
+nmc856729 bor 14 nmc856715 active nmc856730 bor 15 nmc856715 active nmc856731 bor 16 nmc856715 active nmc856732 bor 17
+nmc856715 active nmc856733 bor 18 nmc856715 active nmc856734 bor 19 nmc856715 active nmc856735 bor 20 nmc856715 active
+nmc856736 bor 21 nmc856715 active nmc856737 bor 22 nmc856715 active nmc856738 bor 23 nmc856715 active nmc856739 bor 24
+nmc856715 active nmc856740 bor 25 nmc856715 active nmc856741 bor 26 nmc856715 active nmc856742 bor 27 nmc856715 active
+nmc856743 bor 28 nmc856715 active nmc856744 bor 29 n mc856715 active nmc856745 bor 30 n mc856715 active nmc856746 bor 31
+n mc856715 active nmc856747 bor 32 n mc856715 active nmc856748 bor 33 n mc856715 active nmc856749 bor 34 n mc856715
+active nmc856750 bor 35 n mc856715 active nmc856751 bor 36 n mc856715 active nmc856752 bor 37 n mc856715 active a-3
+active claims run date: 03/14/2012 06:23 pm page 5 of 17 serial no. claim name/number lead serial no. disposition
+nmc856753 bor 38 n mc856715 active nmc856754 bor 39 n mc856715 active nmc856755 bor 40 n mc856715 active nmc856756 bor
+41 n mc856715 active nmc856757 bor 42 n mc856715 active nmc856758 bor 43 n mc856715 active nmc856759 bor 44 n mc856715
+active nmc856760 bor 45 n mc856715 active nmc856761 bor 46 n mc856715 active nmc856762 bor 47 n mc856715 active
+nmc856763 bor 48 n mc856715 active nmc856764 bor 49 n mc856715 active nmc856765 bor 50 n mc856715 active nmc856766 bor
+51 n mc856715 active nmc856767 bor 52 n mc856715 active nmc856768 bor 53 n mc856715 active nmc856769 bor 54 n mc856715
+active nmc856770 bor 55 n mc856715 active nmc856771 bor 56 n mc856715 active nmc856772 bor 57 n mc856715 active
+nmc856773 bor 58 n mc856715 active nmc856774 bor 59 n mc856715 active nmc856775 bor 60 n mc856715 active nmc856776 bor
+61 n mc856715 active nmc856777 bor 62 n mc856715 active nmc856778 bor 63 n mc856715 active nmc856779 bor 64 n mc856715
+active nmc856780 bor 65 n mc856715 active nmc856781 bor 66 n mc856715 active nmc856782 bor 67 n mc856715 active
+nmc856783 bor 68 n mc856715 active nmc856784 bor 69 n mc856715 active nmc856785 bor 70 n mc856715 active nmc856786 bor
+71 n mc856715 active nmc856787 bor 72 n mc856715 active nmc856788 bor 73 n mc856715 active nmc856789 bor 74 n mc856715
+active nmc856790 bor 75 n mc856715 active nmc856791 bor 76 n mc856715 active nmc856792 bor 77 n mc856715 active
+nmc856793 bor 78 n mc856715 active nmc856794 bor 79 n mc856715 active nmc856795 bor 80 n mc856715 active nmc856796 bor
+81 n mc856715 active nmc856797 bor 82 n mc856715 active nmc856798 bor 83 n mc856715 active nmc856799 bor 84 n mc856715
+active nmc856800 bor 85 n mc856715 active nmc856801 bor 86 n mc856715 active nmc856802 bor 87 n mc856715 active
+nmc856803 bor 88 n mc856715 active nmc856804 bor 89 n mc856715 active a-4 active claims run date: 03/14/2012 06:23 pm
+page 6 of 17 serial no. claim name/number lead serial no. disposition nmc856805 bor 90 n mc856715 active nmc856806 bor
+91 n mc856715 active nmc856807 bor 92 n mc856715 active nmc856808 bor 93 n mc856715 active nmc856809 bor 94 n mc856715
+active nmc856810 bor 95 n mc856715 active nmc856811 bor 96 n mc856715 active nmc856812 bor 97 n mc856715 active
+nmc856813 bor 98 n mc856715 active nmc856814 bor 99 n mc856715 active nmc856815 bor 113 n mc856715 active nmc856816 bor
+114 n mc856715 active nmc856817 bor 115 n mc856715 active nmc856818 bor 116 n mc856715 active nmc856819 bor 117 n
+mc856715 active nmc856820 bor 118 n mc856715 active nmc856821 bor 119 n mc856715 active nmc856822 bor 120 n mc856715
+active nmc856823 bor 121 n mc856715 active nmc856824 bor 122 n mc856715 active nmc856825 bor 123 n mc856715 active
+nmc856826 bor 124 n mc856715 active nmc856827 bor 125 n mc856715 active nmc856828 bor 126 n mc856715 active nmc856829
+bor 127 n mc856715 active nmc856830 bor 128 n mc856715 active nmc856831 bor 129 n mc856715 active nmc856832 bor 130 n
+mc856715 active nmc856833 bor 131 n mc856715 active nmc856834 bor 132 n mc856715 active nmc856835 bor 133 n mc856715
+active nmc856836 bor 134 n mc856715 active nmc856837 bor 135 n mc856715 active nmc856838 bor 136 n mc856715 active
+nmc856839 bor 137 n mc856715 active nmc856840 bor 138 n mc856715 active nmc856841 bor 139 n mc856715 active nmc856842
+bor 140 n mc856715 active nmc856843 bor 141 n mc856715 active nmc856844 bor 142 n mc856715 active nmc856845 bor 143 n
+mc856715 active nmc856846 bor 144 n mc856715 active nmc856847 bor 145 n mc856715 active nmc856848 bor 146 n mc856715
+active nmc856849 bor 157 n mc856715 active nmc856850 bor 157 n mc856715 active nmc856851 bor 159 n mc856715 active
+nmc856852 bor 167 n mc856715 active nmc856853 bor 168 n mc856715 active nmc856854 bor 169 n mc856715 active nmc856855
+bor 170 n mc856715 active nmc856856 bor 171 n mc856715 active a-5 active claims run date: 03/14/2012 06:23 pm page 7 of
+17 serial no. claim name/number lead serial no. disposition nmc856857 bor 172 n mc856715 active nmc856858 bor 173 n
+mc856715 active nmc856859 bor 174 n mc856715 active nmc856860 bor 175 n mc856715 active nmc856861 bor 176 n mc856715
+active nmc856862 bor 177 n mc856715 active nmc856863 bor 178 n mc856715 active nmc856864 bor 179 n mc856715 active
+nmc856865 bor 180 n mc856715 active nmc856866 bor 181 n mc856715 active nmc856867 bor 182 n mc856715 active nmc856868
+bor 183 n mc856715 active nmc856869 bor 184 n mc856715 active nmc856870 bor 185 n mc856715 active nmc856871 bor 186 n
+mc856715 active nmc856872 bor 187 n mc856715 active nmc856873 bor 188 n mc856715 active nmc856874 bor 189 n mc856715
+active nmc856875 bor 190 n mc856715 active nmc856876 bor 191 n mc856715 active nmc856877 bor 192 n mc856715 active
+nmc856878 bor 193 n mc856715 active nmc856879 bor 194 n mc856715 active nmc856880 bor 195 n mc856715 active nmc856881
+bor 196 n mc856715 active nmc856882 bor 197 n mc856715 active nmc856883 bor 198 n mc856715 active nmc856884 bor 199 n
+mc856715 active nmc856885 bor 200 n mc856715 active nmc856886 bor 201 n mc856715 active nmc856887 bor 202 n mc856715
+active nmc856888 bor 203 n mc856715 active nmc856889 bor 204 n mc856715 active nmc856890 bor 205 n mc856715 active
+nmc856891 bor 206 n mc856715 active nmc856892 bor 207 n mc856715 active nmc856893 bor 208 n mc856715 active nmc856894
+bor 209 n mc856715 active nmc856895 bor 210 n mc856715 active nmc856896 bor 211 n mc856715 active nmc871548 bmc 1 n
+mc871548 active nmc871549 bmc 2 n mc871548 active nmc871550 bmc 3 n mc871548 active nmc871551 bmc 4 n mc871548 active
+nmc871552 bmc 5 n mc871548 active nmc871553 bmc 6 n mc871548 active nmc871554 bmc 7 n mc871548 active nmc871555 bmc 8 n
+mc871548 active nmc871556 bmc 9 n mc871548 active nmc871557 bmc 10 n mc871548 active nmc871558 bmc 11 n mc871548 active
+nmc871559 bmc 12 n mc871548 active a-4 active claims run date: 03/14/2012 06:23 pm page 8 of 17 serial no. claim
+name/number lead serial no. disposition nmc871560 bmc 13 n mc871548 active nmc871561 bmc 14 n mc871548 active nmc871562
+bmc 15 n mc871548 active nmc871563 bmc 16 n mc871548 active nmc871564 bmc 17 n mc871548 active nmc871565 bmc 18 n
+mc871548 active nmc871566 bmc 19 n mc871548 active nmc871567 bmc 20 n mc871548 active nmc871568 bmc 21 n mc871548 active
+nmc871569 bmc 22 n mc871548 active nmc871570 bmc 23 n mc871548 active nmc871571 bmc 24 n mc871548 active nmc871572 bmc
+25 n mc871548 active nmc871573 bmc 26 n mc871548 active nmc871574 bmc 27 n mc871548 active nmc871575 bmc 28 n mc871548
+active nmc871576 bmc 29 n mc871548 active nmc871577 bmc 30 n mc871548 active nmc871578 bmc 31 n mc871548 active
+nmc871579 bmc 32 n mc871548 active nmc871580 bmc 33 n mc871548 active nmc871581 bmc 34 n mc871548 active nmc871582 bmc
+35 n mc871548 active nmc871583 bmc 36 n mc871548 active nmc871584 bmc 37 n mc871548 active nmc871585 bmc 38 n mc871548
+active nmc871586 bmc 39 n mc871548 active nmc871587 bmc 40 n mc871548 active nmc871588 bmc 41 n mc871548 active
+nmc871589 bmc 42 n mc871548 active nmc871590 bmc 43 n mc871548 active nmc871591 bmc 44 n mc871548 active nmc871592 bmc
+45 n mc871548 active nmc871593 bmc 46 n mc871548 active nmc871594 bmc 47 n mc871548 active nmc871595 bmc 48 n mc871548
+active nmc871596 bmc 49 n mc871548 active nmc871597 bmc 50 n mc871548 active nmc871598 bmc 51 n mc871548 active
+nmc871599 bmc 52 n mc871548 active nmc871600 bmc 53 n mc871548 active nmc871601 bmc 54 n mc871548 active nmc871602 bmc
+55 n mc871548 active nmc871603 bmc 56 n mc871548 active nmc871604 bmc 57 n mc871548 active nmc871605 bmc 58 n mc871548
+active nmc871606 bmc 59 n mc871548 active nmc871607 bmc 60 n mc871548 active nmc871608 bmc 61 n mc871548 active
+nmc871609 bmc 62 n mc871548 active nmc871610 bmc 63 n mc871548 active nmc871611 bmc 64 n mc871548 active a-5 active
+claims run date: 03/14/2012 06:23 pm page 9 of 17 serial no. claim name/number lead serial no. disposition nmc871612 bmc
+65 n mc871548 active nmc871613 bmc 66 n mc871548 active nmc871614 bmc 67 n mc871548 active nmc871615 bmc 68 n mc871548
+active nmc871616 bmc 69 n mc871548 active nmc871617 bmc 70 n mc871548 active nmc871618 bmc 71 n mc871548 active
+nmc871619 bmc 72 n mc871548 active nmc871620 bmc 73 n mc871548 active nmc871621 bmc 74 n mc871548 active nmc871622 bmc
+75 n mc871548 active nmc871623 bmc 76 n mc871548 active nmc871624 bmc 77 n mc871548 active nmc871625 bmc 78 n mc871548
+active nmc871626 bmc 79 n mc871548 active nmc871627 bmc 80 n mc871548 active nmc871628 bmc 81 n mc871548 active
+nmc871629 bmc 82 n mc871548 active nmc871630 bmc 83 n mc871548 active nmc871631 bmc 84 n mc871548 active nmc871632 bmc
+85 n mc871548 active nmc871633 bmc 86 n mc871548 active nmc871634 bmc 87 n mc871548 active nmc871635 bmc 88 n mc871548
+active nmc871636 bmc 89 n mc871548 active nmc871637 bmc 90 n mc871548 active nmc871638 bmc 91 n mc871548 active
+nmc871639 bmc 92 n mc871548 active nmc871640 bmc 93 n mc871548 active nmc871641 bmc 94 n mc871548 active nmc871642 bmc
+95 n mc871548 active nmc871643 bmc 96 n mc871548 active nmc871644 bmc 97 n mc871548 active nmc871645 bmc 98 n mc871548
+active nmc871646 bmc 99 n mc871548 active nmc871647 bmc 100 n mc871548 active nmc871648 bmc 101 n mc871548 active
+nmc871649 bmc 102 n mc871548 active nmc871650 bmc 103 n mc871548 active nmc871651 bmc 104 n mc871548 active nmc871652
+bmc 105 n mc871548 active nmc871653 bmc 106 n mc871548 active nmc871654 bmc 107 n mc871548 active nmc871655 bmc 108 n
+mc871548 active nmc871656 bmc 109 n mc871548 active nmc871657 bmc 110 n mc871548 active nmc871658 bmc 111 n mc871548
+active nmc871659 bmc 112 n mc871548 active nmc871660 bmc 113 n mc871548 active nmc871661 bmc 114 n mc871548 active
+nmc871662 bmc 115 n mc871548 active nmc871663 bmc 116 n mc871548 active a-6 active claims run date: 03/14/2012 06:23 pm
+page 10 of 17 serial no. claim name/number lead serial no. disposition nmc871664 bmc 117 n mc871548 active nmc871665 bmc
+118 n mc871548 active nmc871666 bmc 119 n mc871548 active nmc871667 bmc 120 n mc871548 active nmc871668 bmc 121 n
+mc871548 active nmc871669 bmc 122 n mc871548 active nmc871670 bmc 123 n mc871548 active nmc871671 bmc 124 n mc871548
+active nmc871672 bmc 125 n mc871548 active nmc871673 bmc 126 n mc871548 active nmc871674 bmc 127 n mc871548 active
+nmc871675 bmc 128 n mc871548 active nmc871676 abc 1 n mc871548 active nmc871677 abc 2 n mc871548 active nmc871678 abc 3
+n mc871548 active nmc871679 abc 4 n mc871548 active nmc871680 abc 5 n mc871548 active nmc871681 abc 6 n mc871548 active
+nmc871682 abc 7 n mc871548 active nmc871683 abc 8 n mc871548 active nmc871684 abc 9 n mc871548 active nmc871685 abc 10 n
+mc871548 active nmc871686 abc 11 n mc871548 active nmc871687 abc 12 n mc871548 active nmc871688 abc 13 n mc871548 active
+nmc871689 abc 14 n mc871548 active nmc871690 abc 15 n mc871548 active nmc871691 abc 16 n mc871548 active nmc871692 abc
+17 n mc871548 active nmc871693 abc 18 n mc871548 active nmc871694 abc 19 n mc871548 active nmc871695 abc 20 n mc871548
+active nmc871696 abc 21 n mc871548 active nmc871697 abc 22 n mc871548 active nmc871698 abc 23 n mc871548 active
+nmc871699 abc 24 n mc871548 active nmc871700 abc 25 n mc871548 active nmc871701 abc 26 n mc871548 active nmc871702 abc
+27 n mc871548 active nmc871703 abc 28 n mc871548 active nmc871704 abc 29 n mc871548 active nmc871705 abc 30 n mc871548
+active nmc871706 abc 31 n mc871548 active nmc871707 abc 32 n mc871548 active nmc871708 abc 33 n mc871548 active
+nmc871709 abc 34 n mc871548 active nmc871710 abc 35 n mc871548 active nmc871711 abc 36 n mc871548 active nmc871712 abc
+37 n mc871548 active nmc871713 abc 38 n mc871548 active nmc871714 abc 39 n mc871548 active nmc871715 abc 40 n mc871548
+active a-7 active claims run date: 03/14/2012 06:23 pm page 11 of 17 serial no. claim name/number lead serial no.
+disposition nmc871716 abc 41 n mc871548 active nmc871717 abc 42 n mc871548 active nmc871718 abc 43 n mc871548 active
+nmc871719 abc 44 n mc871548 active nmc871720 abc 45 n mc871548 active nmc871721 abc 46 n mc871548 active nmc871722 abc
+47 n mc871548 active nmc871723 abc 48 n mc871548 active nmc871724 abc 49 n mc871548 active nmc871725 abc 50 n mc871548
+active nmc871726 abc 51 n mc871548 active nmc871727 abc 52 n mc871548 active nmc871728 abc 53 n mc871548 active
+nmc871729 abc 54 n mc871548 active nmc871730 abc 55 n mc871548 active nmc871731 abc 56 n mc871548 active nmc871732 abc
+57 n mc871548 active nmc871733 abc 58 n mc871548 active nmc871734 abc 59 n mc871548 active nmc871735 abc 60 n mc871548
+active nmc871736 abc 61 n mc871548 active nmc871737 abc 62 n mc871548 active nmc871738 abc 63 n mc871548 active
+nmc871739 abc 64 n mc871548 active nmc871740 abc 65 n mc871548 active nmc871741 abc 66 n mc871548 active nmc871742 abc
+67 n mc871548 active nmc871743 abc 68 n mc871548 active nmc871744 abc 69 n mc871548 active nmc871745 abc 70 n mc871548
+active nmc871746 abc 71 n mc871548 active nmc871747 abc 72 n mc871548 active nmc871748 abc 73 n mc871548 active
+nmc871749 abc 74 n mc871548 active nmc871750 abc 75 n mc871548 active nmc871751 abc 76 n mc871548 active nmc871752 abc
+77 n mc871548 active nmc871753 abc 78 n mc871548 active nmc871754 abc 79 n mc871548 active nmc871755 abc 80 n mc871548
+active nmc871756 abc 81 n mc871548 active nmc871757 abc 82 n mc871548 active nmc871758 abc 83 n mc871548 active
+nmc871759 abc 84 n mc871548 active nmc871760 abc 85 n mc871548 active nmc871761 abc 86 n mc871548 active nmc871762 abc
+87 n mc871548 active nmc876819 glen 1 nmc876819 active nmc876820 glen 2 nmc876819 active nmc876821 glen 3 nmc876819
+active nmc876822 glen 4 nmc876819 active nmc876823 glen 5 nmc876819 active a-8 active claims run date: 03/14/2012 06:23
+pm page 12 of 17 serial no. claim name/number lead serial no. disposition nmc876824 glen 6 nmc876819 active nmc876825
+glen 7 nmc876819 active nmc876826 glen 8 nmc876819 active nmc876827 glen 9 nmc876819 active nmc876828 glen 10 nmc876819
+active nmc876829 glen 11 nmc876819 active nmc876830 glen 12 nmc876819 active nmc876831 glen 13 nmc876819 active
+nmc876832 glen 14 nmc876819 active nmc876833 glen 15 nmc876819 active nmc876834 glen 16 nmc876819 active nmc876835 glen
+17 n mc876819 active nmc876836 glen 18 n mc876819 active nmc876837 glen 19 n mc876819 active nmc876838 glen 20 n
+mc876819 active nmc876839 glen 21 n mc876819 active nmc876840 glen 22 n mc876819 active nmc876841 glen 23 n mc876819
+active nmc876842 glen 24 n mc876819 active nmc876843 glen 25 n mc876819 active nmc876844 glen 26 n mc876819 active
+nmc876845 glen 27 n mc876819 active nmc876846 glen 28 n mc876819 active nmc889366 bmc 129 nmc889366 active nmc889367 bmc
+130 nmc889366 active nmc889368 bmc 131 nmc889366 active nmc889369 bmc 132 nmc889366 active nmc889370 bmc 133 nmc889366
+active nmc889371 bmc 134 nmc889366 active nmc889372 bmc 135 nmc889366 active nmc889373 bmc 136 nmc889366 active
+nmc889374 bmc 137 nmc889366 active nmc889375 bmc 138 nmc889366 active nmc889376 bmc 139 nmc889366 active nmc889377 bmc
+140 nmc889366 active nmc889378 bmc 141 nmc889366 active nmc889379 bmc 142 nmc889366 active nmc889380 bmc 143 nmc889366
+active nmc889381 bmc 144 nmc889366 active nmc889382 bmc 145 nmc889366 active nmc889383 bmc 146 nmc889366 active
+nmc889384 bmc 147 nmc889366 active nmc889385 bmc 148 nmc889366 active nmc889386 bmc 149 nmc889366 active nmc889387 bmc
+150 nmc889366 active nmc889388 bmc 151 nmc889366 active nmc889389 bmc 152 nmc889366 active nmc889390 bmc 153 nmc889366
+active nmc889391 bmc 154 nmc889366 active nmc889392 bmc 155 nmc889366 active nmc889393 bmc 156 nmc889366 active
+nmc889394 bmc 157 nmc889366 active a-9 active claims run date: 03/14/2012 06:23 pm page 13 of 17 serial no. claim
+name/number lead serial no. disposition nmc889395 bmc 158 nmc889366 active nmc889396 bmc 159 nmc889366 active nmc889397
+bmc 160 nmc889366 active nmc889398 bmc 161 nmc889366 active nmc889399 bmc 162 nmc889366 active nmc889400 bmc 163
+nmc889366 active nmc889401 bmc 164 nmc889366 active nmc889402 bmc 165 n mc889366 active nmc889403 bmc 166 n mc889366
+active nmc889404 bmc 167 n mc889366 active nmc889405 bmc 168 n mc889366 active nmc889406 bmc 169 n mc889366 active
+nmc889407 bmc 170 n mc889366 active nmc889408 bmc 171 n mc889366 active nmc889409 bmc 172 n mc889366 active nmc889410
+bmc 173 n mc889366 active nmc889411 bmc 174 n mc889366 active nmc889412 bmc 175 n mc889366 active nmc889413 bmc 176 n
+mc889366 active nmc889414 bmc 177 n mc889366 active nmc889415 bmc 178 n mc889366 active nmc889416 bmc 179 n mc889366
+active nmc889417 bmc 180 n mc889366 active nmc889418 bmc 181 n mc889366 active nmc889419 bmc 182 n mc889366 active
+nmc889420 bmc 183 n mc889366 active nmc889421 bmc 184 n mc889366 active nmc889422 bmc 185 n mc889366 active nmc889423
+bmc 186 n mc889366 active nmc889424 bmc 187 n mc889366 active nmc889425 bmc 188 n mc889366 active nmc889426 bmc 189 n
+mc889366 active nmc889427 bmc 190 n mc889366 active nmc889428 bmc 191 n mc889366 active nmc889429 bmc 192 n mc889366
+active nmc889430 bmc 193 n mc889366 active nmc889431 bmc 194 n mc889366 active nmc889432 bmc 195 n mc889366 active
+nmc889433 bmc 196 n mc889366 active nmc889434 bmc 197 n mc889366 active nmc889435 bmc 198 n mc889366 active nmc889436
+bmc 199 n mc889366 active nmc889437 bmc 200 n mc889366 active nmc889438 bmc 201 n mc889366 active nmc889439 bmc 202 n
+mc889366 active nmc889440 bmc 203 n mc889366 active nmc889441 bmc 204 n mc889366 active nmc889442 bmc 205 n mc889366
+active nmc889443 bmc 206 n mc889366 active nmc889444 bmc 207 n mc889366 active nmc889445 bmc 208 n mc889366 active
+nmc889446 bmc 209 n mc889366 active a-10 active claims run date: 03/14/2012 06:23 pm page 14 of 17 serial no. claim
+name/number lead serial no. disposition nmc889447 bmc 212 n mc889366 active nmc889448 bmc 213 n mc889366 active
+nmc889449 bmc 214 n mc889366 active nmc889450 bmc 215 n mc889366 active nmc889451 bmc 216 n mc889366 active nmc889452
+bmc 217 n mc889366 active nmc889453 bmc 218 n mc889366 active nmc889454 bmc 219 n mc889366 active number of active
+cases: 624 a-11 active claims run date: 03/14/2012 06:22 pm page 15 of 17 admin state: nv geo state: nv whitney john w
+6490 s mccarran blvd #23 reno, nv 89509 customer id: *[redacted] serial no. claim name/number lead serial no.
+disposition nmc135448 fox #336 nmc135447 active nmc135450 fox #338 nmc135447 active nmc144623 bo #435 nmc144621 active
+nmc144624 bo #436 nmc144621 active nmc144626 bo #442 nmc144621 active nmc144627 bo #443 nmc144621 active nmc144628 bo
+#444 nmc144621 active nmc144629 bo #448 nmc144621 active nmc144630 bo #449 nmc144621 active nmc144632 bo #466 nmc144621
+active nmc144636 bo #480 nmc144621 active nmc144637 bo #481 nmc144621 active nmc144838 bo #848 nmc144621 active nmc25426
+rainbow nmc25426 active nmc25427 cabin nmc25426 active nmc25428 silver knight nmc25426 active nmc25429 rainbow # 1 east
+nmc25426 active nmc25430 rainbow # 2 east nmc25426 active nmc25431 rainbow # 2 west nmc25426 active nmc25432 rainbow # 1
+west nmc25426 active nmc25433 cabin # 2 east nmc25426 active nmc25434 silver night #2 west nmc25426 active nmc25435
+silver night #1 west nmc25426 active nmc25436 silver night #1 east nmc25426 active nmc25437 silver night #2 east
+nmc25426 active nmc25438 cabin # 1 east nmc25426 active nmc25439 cabin # 2 west nmc25426 active nmc25440 cabin # 1 west
+nmc25426 active nmc44289 fox # 86 nmc44288 active nmc44290 fox # 87 nmc44288 active nmc44291 fox # 88 nmc44288 active
+nmc44292 fox # 89 nmc44288 active nmc44293 fox # 90 nmc44288 active nmc44302 fox #100 nmc44288 active nmc44303 fox #101
+nmc44288 active nmc44304 fox #102 nmc44288 active nmc44305 fox #103 nmc44288 active nmc44317 fox #115 nmc44288 active
+nmc44318 fox #116 nmc44288 active nmc44319 fox #117 nmc44288 active nmc44345 fox #143 nmc44288 active nmc44346 fox #144
+nmc44288 active nmc44347 fox #145 nmc44288 active nmc44348 fox #146 nmc44288 active a-12 active claims run date:
+03/14/2012 06:22 pm page 16 of 17 serial no. claim name/number lead serial no. disposition nmc44349 fox #147 nmc44288
+active nmc44350 fox #148 nmc44288 active nmc57755 fox # 2 nmc57755 active nmc57756 fox # 3 nmc57755 active nmc57757 fox
+# 4 nmc57755 active nmc57758 fox # 5 nmc57755 active nmc57759 fox # 6 nmc57755 active nmc57760 fox # 7 nmc57755 active
+nmc57761 fox # 8 nmc57755 active nmc57762 fox # 9 nmc57755 active nmc57773 fox # 20 nmc57755 active nmc57774 fox # 21
+nmc57755 active nmc57775 fox # 22 nmc57755 active nmc57776 fox # 23 nmc57755 active nmc57777 fox # 25 nmc57755 active
+nmc57778 fox # 27 nmc57755 active nmc57785 fox # 46 nmc57755 active nmc57786 fox # 47 nmc57755 active nmc57787 fox # 48
+nmc57755 active nmc57788 fox # 49 nmc57755 active nmc57789 fox # 50 nmc57755 active nmc57790 fox # 51 nmc57755 active
+nmc57795 fox # 56 nmc57755 active nmc57796 fox # 57 nmc57755 active nmc57797 fox # 58 nmc57755 active nmc57799 fox # 60
+nmc57755 active nmc57800 fox # 61 nmc57755 active nmc57801 fox # 62 nmc57755 active nmc57804 fox # 65 nmc57755 active
+nmc57805 fox # 66 nmc57755 active nmc57806 fox # 67 nmc57755 active nmc57807 fox # 68 nmc57755 active nmc57808 fox # 69
+nmc57755 active nmc57809 fox # 70 nmc57755 active nmc57810 fox # 71 nmc57755 active nmc57811 fox # 72 nmc57755 active
+nmc57812 fox # 73 nmc57755 active nmc57813 fox # 74 nmc57755 active nmc57814 fox # 75 nmc57755 active nmc57815 fox # 76
+nmc57755 active nmc57816 fox # 77 nmc57755 active nmc57817 fox # 78 nmc57755 active nmc57818 fox # 79 nmc57755 active
+nmc57819 fox # 80 nmc57755 active nmc57820 fox # 81 nmc57755 active nmc57821 fox # 82 nmc57755 active nmc58194 fox # 1
+nmc58194 active nmc71756 fox #244 n mc71752 active nmc71757 fox #245 n mc71752 active nmc71758 fox #246 n mc71752 active
+nmc71759 fox #247 n mc71752 active nmc71760 fox #248 n mc71752 active a-13 active claims run date: 03/14/2012 06:22 pm
+page 17 of 17 serial no. claim name/number lead serial no. disposition nmc71761 fox #249 n mc71752 active nmc849217 fox
+n0 149 n mc849217 active nmc917136 ff 1 n mc917136 active nmc917137 ff 2 n mc917136 active nmc917138 ff 3 n mc917136
+active nmc917139 ff 4 n mc917136 active nmc917140 foxy 63 n mc917136 active nmc917141 foxy 64 n mc917136 active nmc99775
+fox #288 n mc99775 active nmc99776 fox #289 n mc99775 active nmc99777 fox #290 n mc99775 active nmc99778 fox #291 n
+mc99775 active nmc99779 fox #292 n mc99775 active nmc99780 fox #293 n mc99775 active nmc99781 fox #294 n mc99775 active
+nmc99790 fox #303 n mc99775 active nmc99791 fox #304 n mc99775 active nmc99818 fox #331 n mc99775 active nmc99819 fox
+#332 n mc99775 active nmc99820 fox #333 n mc99775 active nmc99821 fox #334 n mc99775 active number of active cases: 117
+whitney john w po box 20579 reno, nv 89515 customer id: *[redacted] serial no. claim name/number lead serial no.
+disposition nmc44288 fox # 85 n mc44288 active nmc769845 lis #86 n mc769760 active nmc769846 lis #87 n mc769760 active
+nmc769847 lis #88 n mc769760 active nmc769848 lis #89 n mc769760 active nmc769849 lis #90 n mc769760 active nmc769850
+lis #91 n mc769760 active nmc769855 lis #96 n mc769760 active nmc769857 lis #98 n mc769760 active nmc769859 lis #100 n
+mc769760 active nmc769956 lis #197 n mc769760 active number of active cases: 11 water rights: nevada state water permit
+no. 70321 nevada state water permit no. 70322 a-14
+

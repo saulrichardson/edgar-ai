@@ -42,7 +42,7 @@ def _guess_exhibit_type(file_name: str) -> str | None:
 
 
 def run(filing_dir: str | Path) -> List[Document]:  # noqa: D401
-    """Return a list of *Document*s for every HTML/HTM file in *filing_dir*."""
+    """Return a list of *Document*s for every HTML, HTM, or TXT file in *filing_dir*."""
 
     root = Path(filing_dir).expanduser().resolve()
     if not root.exists():
@@ -50,7 +50,7 @@ def run(filing_dir: str | Path) -> List[Document]:  # noqa: D401
 
     documents: List[Document] = []
     for path in root.iterdir():
-        if path.suffix.lower() not in {".html", ".htm"}:
+        if path.suffix.lower() not in {".html", ".htm", ".txt"}:
             continue
 
         text = path.read_text(encoding="utf-8", errors="ignore")

@@ -110,10 +110,24 @@ more accurate**—all by prompt evolution, never by re-training model weights.
 ## 4.  Jump In
 
 ```bash
-# Install (editable) & run a quick extract
+# Install (editable) & run a quick extract (uses localhost:9000 Gateway)
 pip install -e .
 python -m edgar_ai.cli extract path/to/exhibit.txt --verbose
 ```
+
+### Running the LLM Gateway via Docker Compose
+
+Containerising the Gateway ensures identical dev→CI→prod runtime.
+
+```bash
+# Build & start only the LLM-Gateway service (port 9000)
+docker compose up -d llm-gateway
+
+# (Optional) Tail gateway logs
+docker compose logs -f llm-gateway
+```
+
+Then run your extract as above—no manual Gateway step needed.
 
 See `docs/` for deep-dive design notes; start with `docs/architecture.md`.
 

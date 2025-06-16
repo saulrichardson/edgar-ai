@@ -1,0 +1,439 @@
+
+security agreement exhibit 10.3 execution copy security agreement dated as of august 29, 2012 (this agreement) between
+arch street funding llc, a delaware limited liability company (the pledgor), and citibank, n.a., a national banking
+association, as security agent for the secured parties referred to below (in such capacity, the security agent).
+whereas: a. the pledgor, the financial institutions and other lenders from time to time party thereto as “lenders” (the
+lenders) and citibank, n.a., a national banking association, as administrative agent for the lenders (in such capacity,
+together with its successors in such capacity, the administrative agent), have entered into a loan agreement dated as of
+august 29, 2012 (the loan agreement). b. to induce the lenders to enter into the loan agreement and extend credit
+thereunder, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged,
+the pledgor has agreed to pledge and grant to the security agent for the ratable benefit of the secured parties a
+security interest in the collateral (as hereinafter defined) as security for the pledgor’s present and future
+obligations under the loan agreement and the account control agreement (collectively, the secured obligations).
+accordingly, the parties hereto agree as follows: definitions and interpretation 1.1 capitalized terms used but not
+defined herein have the respective meanings given to such terms in the loan agreement. terms used but not defined herein
+or in the loan agreement, if defined in the ucc, shall have the respective meanings given to such terms in the ucc. the
+principles of construction and rules of interpretation set forth in section 1.2 of the loan agreement shall apply,
+mutatis mutandis, to this agreement, with each reference to “this agreement” in said section 1.2 being a reference to
+this agreement. in addition, as used herein, the following terms have the following respective meanings: accounts has
+the meaning specified in the account control agreement. account control agreement means the account control agreement
+dated as of the date hereof between the between the pledgor, the security agent, citibank, n.a., in its capacity as
+securities intermediary (the securities intermediary) and virtus group, lp, a texas limited partnership, in its capacity
+as collateral administrator (the collateral administrator). administrative agent has the meaning assigned to such term
+in the recitals hereto. agreement has the meaning specified in the first paragraph of this agreement. authorized officer
+means any officer of the pledgor or the security agent who is authorized to act for the pledgor or the security agent,
+as the case may be, in matters page 1 relating to, and binding upon, the pledgor or the security agent, as the case may
+be, which, for the avoidance of doubt, shall include any duly appointed attorney-in-fact and who is listed in the
+applicable list delivered in the form pursuant to exhibit a to the account control agreement. cash means money and any
+collected funds standing to the credit of the accounts. certificated security has the meaning specified in section
+8-102(a)(4) of the ucc. collateral has the meaning specified in section 2.1. collection account has the meaning
+specified in the account control agreement. collections means, with respect to any collateral owned by the pledgor, all
+principal payments, interest payments, fees and other payments received by the pledgor with respect thereto and all
+other amounts paid with respect to such collateral, including all distributions with respect thereto and any proceeds of
+collateral for, or any guaranty of, such collateral or the relevant obligor’s obligation to make payments with respect
+thereto. credit documents means the loan agreement and the support documents. custodial account means the account,
+referenced as such, established pursuant to the account control agreement. financial asset has the meaning specified in
+section 8-102(a)(9) of the ucc. firm bid has the meaning specified in section 5.1. instrument has the meaning specified
+in section 9-102(a)(47) of the ucc. money has the meaning specified in section 1-201(24) of the ucc. pledgor has the
+meaning specified in the first paragraph of this agreement. pledgor order means a written order or request dated and
+signed in the name of the pledgor by an authorized officer of the pledgor. proceedings has the meaning specified in
+section 8.7. lenders has the meaning assigned to such term in the recitals hereto. loan agreement has the meaning
+assigned to such term in the recitals hereto. secured obligations has the meaning assigned to such term in the recitals
+hereto. secured parties means the lenders, the administrative agent, the security agent, the securities intermediary,
+the collateral administrator and the security agent custodian. page 2 security agent has the meaning specified in the
+first paragraph of this agreement. security agent custodian has the meaning specified in section 6.3(c). ucc means the
+uniform commercial code as in effect from time to time in the state of new york. grant of security interest 2.1 as
+collateral security for the prompt payment in full and performance when due (whether at stated maturity, by
+acceleration, by liquidation or otherwise) of the secured obligations, the pledgor hereby pledges to the security agent,
+for the ratable benefit of the secured parties, and grants to the security agent, for the ratable benefit of the secured
+parties, a continuing security interest in, lien on, and right of set-off against, all of its right, title and interest
+in, to and under all accounts, payment intangibles, general intangibles, chattel paper, electronic chattel paper,
+instruments, deposit accounts, letter-of-credit rights, securities, investment property and any and all other property
+of any type or nature owned by it, including the accounts, the debt obligations and the assignment agreements and all of
+the pledgor’s rights and remedies thereunder, and all collections and other proceeds with respect to any of the
+foregoing, whether now owned or hereafter acquired and whether now existing or hereafter coming into existence
+(collectively, the collateral). representations and warranties on each representation date, the pledgor represents and
+warrants to the secured parties that: ownership of collateral 3.1 immediately before and immediately after giving effect
+to each transfer of collateral by the pledgor to the security agent for the benefit of the secured parties in accordance
+herewith, the pledgor will have good and marketable title to such collateral, the pledgor will be the sole beneficial
+owner of such collateral, and the pledgor will have the right to receive all collections on such collateral, in each
+case free and clear of all liens other than permitted liens. security interest 3.2 the pledgor has full right to grant
+the pledge, security interest, lien and right of set-off in its rights in the collateral to the security agent. upon
+each transfer of collateral by the pledgor in the manner specified in section 6.4, and after the other actions described
+in section 6.2(a) and section 6.4 have been taken by the appropriate parties, the security agent will have a perfected
+pledge of and security interest in such collateral and all proceeds thereof (subject to section 9-315 of the ucc), which
+security interest will be prior to all other interests in such collateral (in the case of proceeds, page 3 subject to
+section 9-315 of the ucc). no filings other than those described or referred to in section 6.4 or any other action other
+than those described in section 6.2(a) and section 6.4 will be necessary to perfect such security interest in the
+collateral. covenants the pledgor agrees that, until the later of (a) the termination of the commitments and (b) the
+payment and satisfaction in full of the secured obligations (other than contingent obligations for which no claim has
+been made): title covenants 4.1 at no time shall the pledgor create, permit or suffer to exist any lien or security
+interest in the collateral other than permitted liens. security agent may perform 4.2 if (i) the pledgor fails to
+perform any obligation to be performed by it contained herein after the secured party has made a written request for the
+pledgor to so perform such obligation (and, if the performance of such obligation involves the incurrence of any
+material expense, the secured party has given the pledgor a reasonable opportunity to so perform such obligation) or
+(ii) an event of default has occurred and is continuing, the security agent may itself give, make, execute, deliver,
+file and/or record any financing statement, notice, instrument, document, agreement or other papers, and take such acts,
+as may be necessary or (in the reasonable judgment of the security agent) desirable from time to time to create and
+perfect, and establish, preserve or otherwise protect the priority of, the pledge, security interest, lien and right of
+set-off of the security agent in the collateral and otherwise perform, or cause performance of, any other such actions
+as may be necessary or (in the reasonable judgment of the security agent) desirable in connection with such failure to
+perform, and the reasonable and documented out-of-pocket expenses of the security agent incurred in connection therewith
+shall be payable by the pledgor and shall be part of the secured obligations. perfection, etc. 4.3 the pledgor shall:
+(a) give, make, execute, deliver, file and/or record any financing statement, notice, instrument, document, agreement or
+other papers and take any other actions, including, without limitation, fulfilling its obligations under the account
+control agreement, that may be necessary or (in the reasonable judgment of the security agent) desirable to create and
+perfect, and establish, preserve or otherwise protect the priority of, the pledge, security interest, lien and right of
+set-off granted by it pursuant to section 2 or to enable the security agent to exercise and enforce its rights hereunder
+with respect to such pledge, security interest, lien and right of set-off; page 4 (b) keep proper books and records
+relating to the collateral; (c) permit representatives of the security agent, during normal business hours, to examine,
+copy and make extracts from its books and records pertaining to the collateral, to inspect any of the collateral, and to
+require that the security agent be provided with copies of all notices or other communications received by the pledgor
+with respect to the collateral, all to the extent reasonably requested by the security agent (including on behalf of any
+lender); provided that any exercise of rights under this clause (c) shall be subject to the proviso to section
+5.1(a)(ix) of the loan agreement (as if each reference therein to “the administrative agent” were also a reference to
+the security agent); and (d) direct each obligor in respect of any collateral to make any payments due or to become due
+in respect of such collateral directly to the collection account. no other financing statements 4.4 the pledgor shall
+not file, or affirmatively authorize or permit to be filed or to be on file, in any jurisdiction, any financing
+statement or like instrument with respect to the collateral in which the security agent (or its nominee) is not named as
+the sole secured party. prior parties; care of collateral 4.5 the security agent shall not be required to take steps
+necessary to preserve any rights against prior parties with respect to any of the collateral. the security agent shall
+use reasonable care in the custody and preservation of collateral in the secured party’s own possession. continuing
+liability of the pledgor 4.6 anything herein to the contrary notwithstanding, the pledgor shall remain liable under each
+interest and obligation included in the collateral to observe and perform all the conditions and obligations to be
+observed and performed by it thereunder, all in accordance with and pursuant to the terms and provisions thereof, and
+shall do nothing to impair the security interest of the security agent in any collateral (it being agreed that any
+actions expressly permitted by the loan agreement shall not be deemed to impair such security interest). the security
+agent shall not have any obligation or liability under any such interest or obligation by reason of or arising out of
+this agreement or the receipt by the security agent of any payment relating to any such interest or obligation pursuant
+hereto, and the security agent shall not be required or obligated in any manner to perform or fulfill any of the
+obligations of the pledgor thereunder or pursuant thereto or to make any payment or to make any inquiry as to the nature
+or the sufficiency of any payment received by it or the sufficiency of any performance by any party under any such
+interest or obligation or to present or file any claim or to take any action to collect or enforce any performance or
+the payment of any amount thereunder to which it may be entitled at any time. page 5 limitation on certain changes 4.7
+the pledgor shall not, without at least 30 days prior written notice to the security agent, (a) change its location
+(within the meaning of section 9-307 of the ucc) or (b) change its corporate name from the name shown on the signature
+pages hereto. further assurances 4.8 the pledgor agrees that, from time to time upon the written request of the security
+agent, it shall execute and deliver such further documents and do such other acts and things as the security agent may
+reasonably request in order fully to effect the purposes of this agreement. remedies remedies 5.1 at any time that an
+event of default shall have occurred and be continuing: (a) the pledgor shall, at the request of the security agent,
+assemble any collateral not held pursuant to the account control agreement at such place or places, reasonably
+convenient to both the security agent and the pledgor, designated in such request; (b) the security agent may make any
+reasonable compromise or settlement deemed desirable with respect to any of the collateral and may extend the time of
+payment, arrange for payment in installments or otherwise modify the terms of any of the collateral; (c) the security
+agent shall have all of the rights and remedies with respect to the collateral of a secured party under the uniform
+commercial code (whether or not the uniform commercial code is in effect in the jurisdiction where the rights and
+remedies are asserted) and such additional rights and remedies to which a secured party is entitled under the laws in
+effect in any jurisdiction where any rights and remedies hereunder may be asserted, including the right, to the maximum
+extent permitted by law, to exercise all voting, consensual and other powers of ownership pertaining to the collateral
+as if the security agent were the sole and absolute owner thereof (and the pledgor agrees to take all such actions as
+may be appropriate to give effect to such right); (d) the security agent in its discretion may, in its name or in the
+name of the pledgor or otherwise, demand, sue for, collect or receive any money or property at any time payable or
+receivable on account of or in exchange for any of the collateral but shall be under no obligation to do so; page 6 (e)
+the security agent may set-off any amounts payable by the pledgor with respect to any secured obligations against any
+collateral in the form of cash; (f) subject to section 5.1(g), the security agent may, upon ten business days’ prior
+written notice to the pledgor of the time and place, with respect to the collateral or any part thereof which shall then
+be or shall thereafter come into the possession, custody or control of the security agent or any of its agents, sell,
+assign or otherwise dispose of all or any part of such collateral, in a commercially reasonable manner, at such place or
+places as the security agent deems best in such manner, and for cash or for credit or for future delivery (without
+thereby assuming any credit risk), at public or private sale, without demand of performance or notice of intention to
+effect any such disposition or of the time or place thereof (except such notice as is required above or by applicable
+statute and cannot be waived), and the security agent or anyone else may be the purchaser, lessee, assignee or recipient
+of any or all of the collateral so disposed of at any public sale (or, to the extent permitted by law, at any private
+sale) and thereafter hold the same absolutely, free from any claim or right of whatsoever kind, including any right or
+equity of redemption (statutory or otherwise) of the pledgor, any such demand, notice, claim and right or equity being
+hereby expressly waived and released to the extent permitted by law. subject to section 5.1(g), the security agent may,
+without notice or publication, adjourn any public or private sale or cause the same to be adjourned from time to time by
+announcement at the time and place fixed for the sale, and such sale may be made at any time or place to which the sale
+may be so adjourned; and (g) in the event that any debt obligation becomes the subject of a disposition pursuant to this
+section 5.1, the security agent shall attempt to obtain firm bids (or a combination of firm bids) for the entire debt
+obligation from three or more dealers (and may obtain firm bids from any other person or persons selected by the
+security agent); provided that the security agent may in its commercially reasonable discretion obtain firm bids with
+respect to any group or groups of such debt obligations. the security agent will give the pledgor notice of its
+intention to obtain firm bids pursuant to this section 5.1(g) (such notice to be given telephonically and via electronic
+mail) not later than 5:00 p.m. new york time on the date 10 business days prior to the bid submission deadline specified
+below. by notice to the security agent not later than such bid submission deadline, the pledgor may, but shall not be
+obligated to, designate any dealer to provide a firm bid (and the security agent will seek a firm bid from such dealer
+if so designated by the pledgor on a timely basis). a “firm bid” shall be a good and irrevocable bid for value, to
+purchase all or any portion of the relevant debt obligation (or an entire specified group of debt obligations) for
+scheduled settlement no later than the date customary for settlement substantially in accordance with the then-current
+market practice in the principal market for the relevant debt obligation (or group of debt obligations), submitted by a
+dealer as of a time during regular business hours in new york city on the date 10 business page 7 days after any date
+specified by the security agent to the pledgor in its commercially reasonable discretion. the security agent will
+conduct the bid process in accordance with the procedures set forth in this section 5.1(g) and otherwise in a
+commercially reasonable manner. notwithstanding anything to the contrary herein, (i) the security agent shall be
+entitled to disregard any firm bid submitted by a dealer or other person if, in the security agent’s commercially
+reasonable judgment, (x) such dealer or other person is ineligible pursuant to the documentation evidencing or otherwise
+governing the relevant debt obligation to accept assignment or transfer of the relevant debt obligation or portion
+thereof, as applicable, substantially in accordance with the then-current market practice in the principal market for
+the relevant debt obligation, as determined by the security agent, or (y) such dealer or other person would not, through
+the exercise of its commercially reasonable efforts, be able to obtain any consent required under any agreement or
+instrument governing or otherwise relating to the relevant debt obligation to the assignment or transfer of the relevant
+debt obligation or portion thereof, as applicable, to it; and (ii) if the security agent determines on any commercially
+reasonable basis that any firm bid is not bona fide, including, without limitation, due to (x) the insolvency of the
+bidder or (y) the inability, failure or refusal of the bidder to settle the purchase of the relevant debt obligation or
+portion thereof, as applicable, or otherwise settle transactions in the relevant market or perform its obligations
+generally, such firm bid shall be disregarded. with respect to each debt obligation being sold pursuant to this section
+5.1(g), the security agent shall transfer, or cause the transfer of, the relevant debt obligation to the person or
+persons providing the highest firm bid or combination of firm bids (other than any firm bid that is disregarded as
+aforesaid) in relation to such debt obligation; provided that, if the security agent has obtained firm bids with respect
+to any group of debt obligations, then the security agent shall transfer, or cause the transfer of, a group of debt
+obligations for which firm bids were obtained to the person or persons providing the highest firm bid or combination of
+firm bids (other than any firm bid that is disregarded as aforesaid) in relation to such group of debt obligations. if
+any debt obligation is not sold in connection with the firm bids so obtained for any reason whatsoever (other than as a
+result of the failure of the security agent to consummate such sale as provided in this section 5.1(g)), the security
+agent may thereafter dispose of the relevant debt obligation in the manner contemplated by section 5.1(f). the security
+agent shall incur no liability as a result of the sale of any debt obligation, or any part thereof, at any private sale
+pursuant to this section 5.1 conducted as provided in the foregoing paragraphs of this section 5.1. to the extent the
+sale of any debt page 8 obligation is conducted as provided in the foregoing paragraphs of this section 5.1, the pledgor
+hereby waives any claims against the security agent arising by reason of the fact that the price at which the relevant
+debt obligation may have been sold at any private sale effected as provided above was less than the price which might
+have been obtained at a public sale or was less than the aggregate amount of the secured obligations. the proceeds of
+each collection, sale or other disposition under this section 5.1 shall be applied in accordance with section 5.2.
+application of proceeds 5.2 the proceeds of any collection, sale or other realization of all or any part of the
+collateral pursuant to section 5.1 (including any amounts on deposit in, or otherwise standing to the credit of, the
+custodial account) shall be deposited in to the collection account and applied by the security agent custodian (at the
+prior written direction of an authorized officer of the security agent) in the following order of priority (and, among
+the items in any one paragraph, equally and ratably in accordance with the respective amounts thereof then due and
+owing): first, to the payment of the reasonable costs and expenses of such collection, sale or other realization,
+including reasonable and documented out-of-pocket costs and expenses of the security agent and the other secured parties
+and the reasonable and documented fees, charges and expenses of the agents and counsel of the security agent and the
+other secured parties and all other reasonable expenses incurred by any of the security agent and the other secured
+parties in connection with such collection, sale or other realization; second, to the payment in full of all remaining
+secured obligations then due and payable; and third, to the payment to the pledgor, or as a court of competent
+jurisdiction may otherwise direct, of any surplus then remaining. power of attorney 5.3 the security agent is hereby
+appointed the attorney-in-fact of the pledgor for the purpose of taking, during any period when the security agent is
+attempting to sell all or any portion of any debt obligation pursuant to section 5.1(f) or 5.1(g), of taking any action
+and executing any instruments which the security agent may reasonably deem necessary or advisable to accomplish the
+purposes of this agreement (including with respect to the exercise of any remedies hereunder against the pledgor), which
+appointment as attorney-in-fact is irrevocable and coupled with an interest. page 9 custodial account and collection
+account collection of money 6.1 except as otherwise expressly provided herein, while an event of default has occurred
+and is continuing, the security agent shall receive and collect, directly and without intervention or assistance of any
+fiscal agent or other intermediary, all money and other property payable to or receivable by the security agent. all
+amounts so received or collected shall be deposited in the collection account. custodial account; collection account
+6.2(a) the security agent custodian has specified in the account control agreement that it has established a single,
+segregated trust account which shall be designated as the custodial account (which may include any sub-accounts thereof
+established by the security agent custodian for administrative purposes), and a single, segregated trust account which
+shall be designated as the collection account (which may include any sub-accounts thereof established by the security
+agent custodian for administrative purposes), each of which shall be held in the name of the security agent and over
+which, except as expressly provided in the account control agreement, the security agent shall have control and the sole
+right of withdrawal. any reference in this agreement to the “custodial account” or to the “collection account” shall,
+unless otherwise expressly provided, include a reference to any sub-account of the custodial account or the collection
+account, respectively. to the extent that an obligor does not make the applicable payment directly to the collection
+account, the pledgor shall from time to time deposit into the collection account promptly (and in no event more than one
+business day) following its receipt thereof (i) all proceeds received from the disposition of any collateral by the
+pledgor, (ii) all collections with respect to the collateral and (iii) all other funds received by the pledgor in
+respect of the collateral. the provisions of this section 6.2 are subject to the terms of the account control agreement.
+(b) by pledgor order executed by an authorized officer of the pledgor (which may be in the form of standing
+instructions), the pledgor may direct the security agent custodian in writing (with a copy to the security agent) to
+invest all funds on deposit in the accounts as so directed in one or more eligible investments having stated maturities
+no later than the business day immediately preceding the next payment date. absent such prior written specific
+investment direction, all such funds shall be held uninvested. (c) on any date on which interest or any fee is due and
+payable under the loan agreement (including any payment date), the pledgor shall by pledgor order executed by an
+authorized officer of the pledgor, delivered to the security agent and the security agent custodian, direct the security
+agent custodian to withdraw funds on deposit in the collection account and remit such funds as indicated in such pledgor
+order to pay such interest or fee as required by, and subject to the conditions of, sections 3.2, 3.3, 3.6 and 3.8 of
+the loan agreement. page 10 (d) on any date on which principal is due and payable under the loan agreement (including
+the scheduled maturity date), the pledgor shall by pledgor order executed by an authorized officer of the pledgor,
+delivered to the security agent and the security agent custodian, direct the security agent custodian to withdraw funds
+on deposit in the collection account and remit such funds as indicated in such pledgor order to pay principal as
+required by, and subject to the conditions of, sections 3.1, 3.6, 3.7 and 3.8 of the loan agreement. (e) on any date on
+which any amount (other than principal, interest or any fee owing under the loan agreement) is due and payable by the
+pledgor under the loan agreement or is otherwise permitted under section 3.8 of the loan agreement, the security agent
+shall give the pledgor written notice of same, and the pledgor shall by pledgor order executed by an authorized officer
+of the pledgor, delivered to the security agent and the security agent custodian, direct the security agent custodian to
+withdraw funds on deposit in the collection account and remit such funds as indicated in such pledgor order to pay such
+amount as required by, and subject to the conditions of, section 3.8, 3.9, 3.11, 3.12, 3.14 and 8.1 of the loan
+agreement. (f) on any date on which any equity restricted payment is to be made by the pledgor, the pledgor may by
+pledgor order executed by an authorized officer of the pledgor, delivered to the security agent and the security agent
+custodian, direct the security agent custodian to withdraw funds on deposit in the collection account and remit such
+funds as indicated in such pledgor order to pay such amount, subject to the conditions of section 3.8(b) of the loan
+agreement. (g) on any date on which any qualifying purchase of a debt obligation is to be made pursuant to clause (i) or
+(ii) of section 5.2(a) of the loan agreement, the pledgor shall by pledgor order executed by an authorized officer of
+the pledgor, delivered to the security agent and the security agent custodian, direct the security agent custodian to
+withdraw funds on deposit in the collection account and remit such funds as indicated in such pledgor order to pay the
+purchase price for such debt obligation. (h) the security agent shall at all times be party to the account control
+agreement. any and all assets or securities at any time on deposit in, or otherwise to the credit of, the accounts shall
+be held for the benefit of the security agent. except in connection with a liquidation pursuant to section 5, the only
+permitted withdrawal of assets or securities (other than cash) from the accounts or in, or otherwise to the credit of,
+the accounts shall be as directed, upon pledgor order, in accordance with the provisions of this section 6.2, section
+6.3 and section 6.4. page 11 (h) the security agent agrees to give the pledgor immediate notice if the security agent
+obtains notice that any account or any assets or securities on deposit therein, or otherwise to the credit thereof,
+shall become subject to any writ, order, judgment, warrant of attachment, execution or similar process. (i) the security
+agent agrees with the pledgor that the security agent will not give an entitlement order (as defined in the account
+control agreement) under the account control agreement unless (i) an event of default has occurred and is continuing on
+the date such entitlement order is given or (ii) such entitlement order is to the effect that instructions of the
+pledgor given under the account control agreement are not permitted by section 6.2 or 6.3 of this agreement (including
+as to the permitted application of funds contemplated hereby) or would constitute a potential event of default or event
+of default. release of security interest in collateral 6.3(a) upon any sale or other disposition by the pledgor of the
+collateral (or portion thereof) in accordance with the terms of this agreement and the loan agreement, the pledge,
+security interest, lien and right of set-off of the security agent in such collateral (or the portion thereof which has
+been sold or otherwise disposed of), and in all collections and rights with respect to such collateral (but not in the
+proceeds of such sale or other disposition), shall, immediately upon the sale or other disposition of such collateral
+(or such portion), and without any further action on the part of the security agent, be released except to the extent of
+the interest, if any, in such collateral which is then retained by the pledgor or which thereafter reverts to the
+pledgor for any reason; provided that the security agent shall execute and deliver to the pledgor any documentation
+reasonably requested by the pledgor to effectuate or evidence the foregoing. (b) if no event of default has occurred and
+is continuing, the security agent custodian shall, upon receipt of an pledgor order executed by an authorized officer of
+the pledgor or as otherwise provided by the account control agreement, delivered to the security agent and the security
+agent custodian at least two business days prior to the date of delivery directed in such pledgor order (or such fewer
+number of days as the security agent may agree), deliver or cause to be delivered to or on the order of the pledgor any
+instrument included in the collateral to the related debtor for ultimate sale or exchange or for presentation,
+collection, enforcement, renewal or registration of transfer; provided that the lien of this agreement on such
+instrument remains perfected in accordance with section 9-312(g) of the ucc and such instrument shall remain subject to
+the lien of this agreement unless and until released in accordance with the foregoing clause (a). (c) the security agent
+shall hold for the benefit of the secured parties all certificated securities and instruments in physical form at the
+office of a custodian appointed by it (the security agent custodian). initially, such security page 12 agent custodian
+shall be citibank n.a. with its address at 111 wall street, 15th floor, new york, new york 10005, attention: global
+transaction services – arch street funding llc any successor custodian shall be a state or national bank or trust
+company which is not an affiliate of the pledgor and has capital and surplus of at least usd1,000,000,000. there may be
+only one security agent custodian appointed at any one time, and any successor thereto shall be appointed only as
+provided in the account control agreement. method of collateral transfer 6.4 the transfer of collateral to the security
+agent custodian to be held for the benefit of the security agent shall be done in the following manner (with any and all
+other actions necessary to create in favor of the security agent a valid, first-priority security interest in each item
+of collateral under applicable law and regulations (including articles 8 and 9 of the ucc) in effect at the time of such
+transfer): (a) each time that the pledgor shall direct or cause the acquisition of any collateral, the pledgor shall, if
+such collateral has not already been transferred to the custodial account and credited thereto, cause the transfer of
+such collateral to the security agent custodian to be held in and credited to the custodial account for the benefit of
+the security agent in accordance with the terms of the account control agreement; and (b) the pledgor shall, within ten
+days after the date of execution of this agreement, file, or cause the filing of, all appropriate financing statements
+covering the collateral in the proper filing office in the appropriate jurisdictions under applicable law. termination
+6.5 upon the termination of this agreement, the termination of the commitments and the payment and satisfaction in full
+of the secured obligations (other than contingent obligations for which no claim has been made), the security agent
+shall forthwith cause to be assigned, transferred and delivered, against receipt but without any recourse, warranty or
+representation whatsoever, any remaining collateral and money received in respect thereof, to or on the order of the
+pledgor. the security agent shall also execute and deliver to the pledgor upon such termination and payment such ucc
+termination statements and such other documentation as shall be reasonably requested by the pledgor to effect the
+termination and release of the pledge, security interest, lien and right of set-off granted pursuant to section 2. the
+security agent 7.1 the person serving as the security agent hereunder shall have the same rights and powers in its
+capacity as a secured party as any other secured party and may exercise the same as though it were not the security
+agent, and such person and its page 13 affiliates may accept deposits from, lend money to and generally engage in any
+kind of business with the pledgor or any subsidiary or other affiliate thereof as if it were not the security agent
+hereunder. 7.2 the security agent shall not have any duties or obligations except those expressly set forth herein.
+without limiting the generality of the foregoing, (a) the security agent shall not be subject to any fiduciary or other
+implied duties, regardless of whether an event of default or potential event of default has occurred and is continuing,
+(b) the security agent shall not have any duty to take any discretionary action or exercise any discretionary powers,
+except discretionary rights and powers expressly contemplated hereby that the security agent is required to exercise by
+the required lenders in writing, and (c) except as expressly set forth herein or in the other credit documents, the
+security agent shall not have any duty to disclose, and shall not be liable for the failure to disclose, any information
+relating to the pledgor or any of its affiliates that is communicated to or obtained by it or any of its affiliates in
+any capacity other than as security agent hereunder. the security agent shall not be liable for any action taken or not
+taken by it with the consent or at the request of the required lenders or in the absence of its own gross negligence or
+willful misconduct. the security agent shall be deemed not to have knowledge of any event of default or potential event
+of default unless and until written notice thereof is given to the security agent by the pledgor or a secured party
+(other than itself), and the security agent shall not be responsible for or have any duty to ascertain or inquire into
+(i) any statement, warranty or representation made in or in connection with this agreement or any other credit document,
+(ii) the contents of any certificate, report or other document delivered hereunder or thereunder or in connection
+herewith or therewith, (iii) the performance or observance of any of the covenants, agreements or other terms or
+conditions set forth herein or therein, (iv) the validity, enforceability, effectiveness or genuineness of this
+agreement, any other credit document or any other agreement, instrument or document, or (v) the satisfaction of any
+condition set forth in schedule i of the loan agreement or elsewhere herein or therein, other than to confirm receipt of
+items expressly required to be delivered to the security agent. 7.3 the security agent shall be entitled to rely upon,
+and shall not incur any liability for relying upon, any notice, request, certificate, consent, statement, instrument,
+document or other writing believed by it to be genuine and to have been signed or sent by the proper person. the
+security agent also may rely upon any statement made to it orally or by telephone and believed by it to be made by the
+proper person, and shall not incur any liability for relying thereon. the security agent may consult with legal counsel
+(who may be counsel for an obligor on the collateral), independent accountants and other experts selected by it, and
+shall not be liable (absent gross negligence or willful misconduct) for any action taken or not taken by it in
+accordance with the advice of any such counsel, accountants or experts (unless such advice is contrary to an express
+provision of a loan document). 7.4 the security agent may perform any and all its duties and exercise its rights and
+powers by or through any one or more sub-agents appointed by the security agent, to the page 14 extent such sub-agent is
+an affiliate of the security agent. the security agent and any such sub-agent may perform any and all its duties and
+exercise its rights and powers through their respective affiliates. the exculpatory provisions of the preceding
+paragraphs shall apply to any such sub-agent and to the affiliates of the security agent and any such sub-agent. 7.5
+subject to the appointment and acceptance of a successor security agent as provided in this paragraph, the security
+agent may resign at any time by notifying the secured parties and the pledgor. upon any such resignation, the required
+lenders shall have the right, after prior written consent from the pledgor (not to be unreasonably withheld), to appoint
+a successor. if no successor shall have been so appointed by the required lenders and shall have accepted such
+appointment within 30 days after the retiring security agent gives notice of its resignation, then the retiring security
+agent may, on behalf of the secured parties and after prior written consent from the pledgor (not to be unreasonably
+withheld), appoint a successor security agent, which shall be a bank with an office in new york city or an affiliate of
+any such bank. upon the acceptance of its appointment as security agent hereunder by a successor, such successor shall
+succeed to and become vested with all the rights, powers, privileges and duties of the retiring security agent and the
+retiring security agent shall be discharged from its duties and obligations hereunder. the fees payable by the pledgor
+to a successor security agent shall be the same as those payable to its predecessor unless otherwise agreed between the
+pledgor and such successor. after the security agent’s resignation hereunder, the provisions of this section shall
+continue in effect for its benefit in respect of any actions taken or omitted to be taken by it while it was acting as
+security agent. 7.6 the security agent custodian shall be entitled to the same rights, protections and immunities as
+those afforded to the security agent in sections 7.1 through 7.6, mutatis mutandis, together with those set forth in the
+account control agreement. miscellaneous notices 8.1 all notices and other communications provided for herein shall be
+in writing and shall be delivered by hand or overnight courier service, mailed by certified or registered mail (airmail,
+if overseas) or the equivalent (return receipt requested) or sent by facsimile transmission, as follows: (a) if to the
+pledgor, to it at c/o fs investment corporation, cira centre, 2929 arch street, suite 675, philadelphia, pa 19104,
+attention: bill goebel, chief financial officer, and ken miller, vice president (facsimile no. (215) 222-4649; telephone
+no. (215) 495-1164); and (b) if to the security agent, to it at 390 greenwich street, 4th floor, new york, new york
+10013, attention: mitali sohoni (telecopy no. 646-291-5779; telephone no. 212-723-6181). page 15 either party hereto may
+change its address or telecopy number for notices and other communications hereunder by notice to the other party
+hereto. all notices and other communications given to either party hereto shall be deemed to be effective (i) if in
+writing and delivered by hand or overnight courier service, on the date it is delivered; (ii) if sent by facsimile
+transmission, on the date that a transmission report confirming transmission is generated by the sender’s facsimile
+machine; or (iii) if sent by certified or registered mail (airmail, if overseas) or the equivalent (return receipt
+requested), on the date that mail is delivered or its delivery is attempted, unless the date of that delivery (or
+attempted delivery) or that receipt, as applicable, is not a business day or that communication is delivered (or
+attempted) or received, as applicable, after the close of business on a business day, in which case that communication
+shall be deemed given and effective on the first following day that is a business day. no waiver 8.2 no failure on the
+part of the security agent to exercise, and no course of dealing with respect to, and no delay in exercising, any right,
+power or remedy hereunder shall operate as a waiver thereof; nor shall any single or partial exercise by the security
+agent of any right, power or remedy hereunder preclude any other or further exercise thereof or the exercise of any
+other right, power or remedy. the remedies herein are cumulative and are not exclusive of any remedies provided by law.
+amendments, etc. 8.3 no amendment, modification or waiver in respect of this agreement will be effective unless in
+writing (including a writing evidenced by a facsimile transmission) and executed by each of the pledgor and the security
+agent (acting with the consent of the required lenders); provided that, without the prior consent of each lender, the
+security agent shall not (except as provided herein) release any collateral or otherwise terminate any lien hereunder,
+agree to additional obligations being secured by any collateral security, alter the relative priorities of the secured
+obligations entitled to the benefits of the lien created hereunder, except that no such consent shall be required, and
+the security agent is hereby authorized, to release any lien covering property that is the subject of a sale,
+distribution or other disposition of property permitted under the loan agreement. successors and assigns 8.4 this
+agreement shall be binding upon and inure to the benefit of the respective successors and permitted assigns of the
+pledgor and the security agent. neither party shall assign or transfer any of its rights or obligations hereunder
+without the prior written consent of the other party, and any such purported assignment without such consent shall be
+void. page 16 counterparts 8.5 this agreement (and each amendment, modification and waiver in respect of it) may be
+executed and delivered in counterparts, each of which will be deemed an original. delivery of an executed counterpart
+signature page of this agreement by e-mail (pdf) or facsimile transmission shall be as effective as delivery of a
+manually executed counterpart of this agreement. governing law 8.6 this agreement shall be construed in accordance with,
+and this agreement and all matters arising out of this agreement and the transactions contemplated hereby (whether in
+contract, tort or otherwise) shall be governed by, the law of the state of new york. jurisdiction 8.7 with respect to
+any suit, action or proceedings relating to this agreement or any matter between the parties arising under or in
+connection with this agreement (proceedings), each party irrevocably: (a) submits to the non-exclusive jurisdiction of
+the courts of the state of new york and the united states district court located in the borough of manhattan in new york
+city; and (b) waives any objection which it may have at any time to the laying of venue of any proceedings brought in
+any such court, waives any claim that such proceedings have been brought in an inconvenient forum and further waives the
+right to object, with respect to such proceedings, that such court does not have any jurisdiction over such party.
+nothing in this agreement precludes either party from bringing proceedings in any other jurisdiction, nor will the
+bringing of proceedings in any one or more jurisdictions preclude the bringing of proceedings in any other jurisdiction.
+waiver of jury trial 8.8 the pledgor and the security agent hereby irrevocably waive, to the fullest extent permitted by
+applicable law, any and all right to trial by jury in any legal proceeding arising out of or relating to this agreement
+or the transactions contemplated hereby. captions 8.9 the captions and section headings appearing herein are included
+solely for convenience of reference and are not intended to affect the interpretation of any provision of this
+agreement. page 17 agents and attorneys-in-fact 8.10 the security agent may employ agents and attorneys-in-fact in
+connection herewith and shall not be responsible for the negligence or misconduct of any such agents or
+attorneys-in-fact selected by it in good faith and with due care; provided that the foregoing shall not constitute the
+waiver of any rights against any such agent or attorney-in-fact. severability 8.11 if any term, provision, covenant or
+condition of this agreement, or the application thereof to either party or any circumstance, is held to be
+unenforceable, invalid or illegal (in whole or in part) for any reason (in any relevant jurisdiction), the remaining
+terms, provisions, covenants and conditions of this agreement, modified by the deletion of the unenforceable, invalid or
+illegal portion (in any relevant jurisdiction), will continue in full force and effect, and such unenforceability,
+invalidity, or illegality will not otherwise affect the enforceability, validity or legality of the remaining terms,
+provisions, covenants and conditions of this agreement so long as this agreement as so modified continues to express,
+without material change, the original intentions of the parties as to the subject matter hereof and the deletion of such
+portion of this agreement will not substantially impair the respective expectations or reciprocal obligations of the
+parties or the practical realization of the benefits that would otherwise be conferred upon the parties. the parties
+will endeavor in good faith negotiations to replace the prohibited or unenforceable provision with a valid provision,
+the economic effect of which comes as close as possible to that of the prohibited or unenforceable provision. third
+party beneficiaries 8.12 nothing in this agreement, expressed or implied, shall give to any person, other than the
+parties hereto and their successors hereunder, any benefit or any legal or equitable right, remedy or claim under this
+agreement, except section 5.2 hereof, which shall benefit the secured parties. page 18 in witness whereof, the parties
+hereto have caused this security agreement to be duly executed and delivered as of the day and year first above written.
+arch street funding llc by: /s/ william goebel name: william goebel title: chief financial officer citibank, n.a. as
+security agent by: /s/ victoria chant name: victoria chant title: vice president page 19 contents section page
+definitions and interpretation 1 grant of security interest 3 representations and warranties 3 ownership of collateral 3
+security interest 3 covenants 4 title covenants 4 security agent may perform 4 perfection, etc. 4 no other financing
+statements 5 prior parties; care of collateral 5 continuing liability of the pledgor 5 limitation on certain changes 6
+further assurances 6 remedies 6 remedies 6 application of proceeds 9 power of attorney 9 custodial account and
+collection account 10 collection of money 10 custodial account; collection account 10 release of security interest in
+collateral 12 method of collateral transfer 13 termination 13 the security agent 13 miscellaneous 15 notices 15 no
+waiver 16 amendments, etc. 16 successors and assigns 16 counterparts 17 governing law 17 jurisdiction 17 waiver of jury
+trial 17 captions 17 agents and attorneys-in-fact 18 severability 18 third party beneficiaries 18 page i dated as of
+august 29, 2012 arch street funding llc, a delaware limited liability company as pledgor and citibank, n.a., a national
+banking association as security agent security agreement
+

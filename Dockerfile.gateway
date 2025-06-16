@@ -1,0 +1,22 @@
+# Dockerfile.gateway – container image for the LLM Gateway service
+FROM python:3.11-slim
+
+# Install build tools (if needed by any dependencies)
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+       build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+# Install this package (and its dependencies)
+COPY pyproject.toml pyproject.lock* ./
+RUN pip install --no-cache-dir pip setuptools wheel \
+    && pip install --no-cache-dir -e .
+
+# Copy the rest of the code
+COPY . .
+
+# Expose the Gateway port and launch uvicorn
+EXPOSE 9000
+ENTRYPOINT ["uvicorn", "edgar_ai.gateway.server:app", "--host", "0.0.0.0", "--port", "9000"]

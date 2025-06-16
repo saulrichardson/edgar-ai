@@ -1,0 +1,419 @@
+
+consolidated financial statements (expressed in thousands of united states dollars) westport innovations inc. for the
+three and six months ended june 30, 2012 and 2011 westport innovations inc. consolidated balance sheets (unaudited)
+(expressed in thousands of united states dollars, except share amounts) june 30, 2012 december 31, 2011 assets current
+assets: cash and cash equivalents $213,770 $70,298 short-term investments 93,457 15,379 accounts receivable (note 4)
+59,128 55,423 loan receivable (note 17 (a)) 21,975 19,409 inventories (note 5) 46,151 37,057 prepaid expenses 10,265
+6,551 current portion of deferred income tax assets 7,926 6,447 other current assets (note 7) - 2,034 452,672 212,598
+long-term investments (note 6) 9,966 8,369 other assets (note 7) 1,336 1,994 property, plant and equipment (note 8)
+45,807 36,243 intangible assets (note 9) 35,399 36,582 deferred income tax assets 8,281 5,075 goodwill (note 10) 54,739
+55,814 $608,200 $356,675 liabilities and shareholders’ equity current liabilities: accounts payable and accrued
+liabilities (note 11) $56,329 $55,807 deferred revenue 3,639 3,146 current portion of deferred income tax liabilities
+333 - current portion of long-term debt (note 12) 19,554 20,568 current portion of warranty liability (note 13) 14,055
+12,978 93,910 92,499 warranty liability (note 13) 17,941 11,253 long-term debt (note 12) 60,606 65,577 deferred revenue
+12,306 10,327 deferred income tax liabilities 4,979 3,446 other long-term liabilities 2,877 3,104 192,619 186,206
+shareholders’ equity: share capital (note 14): authorized: unlimited common shares, no par value unlimited preferred
+shares in series, no par value issued: 54,994,694 (2011 - 48,455,601) common shares 728,733 459,866 other equity
+instruments 8,851 6,112 additional paid in capital 5,185 4,499 accumulated deficit (359,842) (331,158) accumulated other
+comprehensive income 6,365 13,271 389,292 152,590 joint venture partners’ share of net assets of joint ventures (note
+17) 26,289 17,879 415,581 170,469 $608,200 $356,675 see accompanying notes to consolidated financial statements. 1
+westport innovations inc. consolidated statements of operations (unaudited) (expressed in thousands of united states
+dollars, except share and per share amounts) three months ended june 30, six months ended june 30, 2012 2011 2012 2011
+product revenue $81,770 $37,162 $160,582 $63,602 parts revenue 10,245 7,704 20,042 15,326 service and other revenue
+(note 18) 14,080 - 14,080 4,076 106,095 44,866 194,704 83,004 cost of revenue and expenses: cost of product and parts
+revenue 65,583 29,663 125,697 50,162 research and development (notes 15 and 16) 20,543 11,350 36,708 21,304 general and
+administrative (note 15) 9,073 6,492 20,966 12,483 sales and marketing (note 15) 10,353 7,267 19,037 14,131 foreign
+exchange (gain) loss (4,878) 54 (4,493) 3,329 depreciation and amortization 2,766 853 5,285 1,860 bank charges, interest
+and other 265 427 623 620 103,705 56,106 203,823 103,889 income (loss) before undernoted 2,390 (11,240) (9,119) (20,885)
+income from investments accounted for by the equity method (note 6) 953 445 1,715 818 interest on long-term debt and
+amortization of discount (1,366) (964) (2,648) (1,870) interest and other income 708 315 1,077 653 income (loss) before
+income taxes 2,685 (11,444) (8,975) (21,284) income tax recovery (expense): current (6,882) (3,632) (14,175) (4,933)
+deferred 1,782 (101) 2,876 (1,107) (5,100) (3,733) (11,299) (6,040) net loss for the periods $(2,415) $(15,177)
+$(20,274) $(27,324) net income (loss) attributed to: joint venture partners (note 17) $3,642 $2,936 $8,410 $5,166 the
+company (6,057) (18,113) (28,684) (32,490) loss per share attributable to the company: basic and diluted $(0.11) $(0.38)
+$(0.54) $(0.69) weighted average common shares outstanding: basic and diluted 54,941,622 47,141,868 52,912,760
+47,011,133 see accompanying notes to consolidated financial statements. 2 westport innovations inc. consolidated
+statements of comprehensive loss (unaudited) (expressed in thousands of united states dollars) three months ended june
+30, six months ended june 30, 2012 2011 2012 2011 loss for the periods $(2,415) $(15,177) $(20,274) $(27,324) other
+comprehensive income: cumulative translation adjustment (10,441) 1,117 (6,906) 6,022 (10,441) 1,117 (6,906) 6,022
+comprehensive loss $(12,856) $(14,060) $(27,180) $(21,302) comprehensive income (loss) attributable to: joint venture
+partners $3,642 $2,936 $8,410 $5,166 the company (16,498) (16,996) (35,590) (26,468) see accompanying notes to
+consolidated financial statements. 3 westport innovations inc. consolidated statements of shareholders’ equity
+(expressed in thousands of united states dollars, except share amounts) nine months ended december 31, 2011 and for the
+six months ended june 30, 2012 (unaudited) common shares outstanding share capital other equity instruments additional
+paid in capital accumulated deficit accumulated other comprehensive income joint venture partners’ share of net assets
+of joint ventures total shareholders’ equity balance, march 31, 2011 46,972,304 $430,608 $4,205 $5,141 $(284,509)
+$25,641 $14,921 $196,007 issue of common shares on exercise of stock options 225,845 2,810 - (994) - - - 1,816 issue of
+common shares on exercise of performance share units 391,612 3,799 (3,799) - - - - - issue of common shares in
+connection with acquisitions 915,021 23,052 - - - - - 23,052 cancellation of common shares (49,181) (403) - - (855) - -
+(1,258) stock-based compensation - - 5,706 352 - - - 6,058 net loss for the year - - - - (45,794) - 12,958 (32,836)
+dividends paid by joint venture - - - - - - (10,000) (10,000) other comprehensive loss - - - - - (12,370) - (12,370)
+balance, december 31, 2011 48,455,601 $459,866 $6,112 $4,499 $(331,158) $13,271 $17,879 $170,469 - issue of common
+shares on exercise of stock options 81,327 1,366 - (479) - - - 887 issue of common shares on exercise of performance
+share units 132,766 2,071 (2,071) - - - - - issue of common shares on public offering 6,325,000 ]273,556 - - - - -
+273,556 share issue costs - (8,126) - - - - - (8,126) stock-based compensation - - 4,810 1,165 - - - 5,975 net loss for
+the period - - - - (28,684) - 8,410 (20,274) other comprehensive loss - - - - - (6,906) - (6,906) balance, june 30, 2012
+54,994,694 $728,733 $8,851 $5,185 $(359,842) $6,365 $26,289 $415,581 see accompanying notes to consolidated financial
+statements. 4 westport innovations inc. consolidated statements of cash flows (unaudited) (expressed in thousands of
+united states dollars) three months ended june 30, six months ended june 30, 2012 2011 2012 2011 cash flows from
+operating activities: loss for the period $(2,415) $(15,177) $(20,274) $(27,324) items not involving cash: depreciation
+and amortization 2,766 853 5,285 1,860 stock-based compensation expense 2,896 2,212 6,458 3,638 deferred income tax
+(recovery) expense (1,782) 101 (2,876) 1,107 change in deferred lease inducements (15) (14) (26) (37) income from
+investments accounted for by the equity method (953) (445) (1,715) (818) accretion of long-term debt 320 616 515 1,183
+other (1) 65 53 65 changes in non-cash operating working capital: accounts receivable (10,569) (2,342) (4,510) (2,658)
+inventories (4,940) (1,733) (9,291) (2,720) prepaid expenses 204 (2,103) (3,770) (2,253) accounts payable and accrued
+liabilities (6,011) 1,733 (2,411) 7,409 deferred revenue 1,377 203 3,027 141 warranty liability 5,002 73 7,738 (2,067)
+(14,121) (15,958) (21,797) (22,474) cash flows from investing activities: purchase of property, plant and equipment
+(4,895) (1,774) (13,550) (2,753) purchase of intangible assets (30) - (989) - (purchase) sale of short-term investments,
+net (7,130) 8,433 (79,044) 17,794 advances of loan receivable - (1,605) (2,554) (4,781) repayment of loan receivable - -
+2,494 - business acquisition (note 3) (52) - (1,125) - (12,107) 5,054 (94,768) 10,260 cash flows from financing
+activities: increase in operating lines of credit - - 4,245 - repayment of operating lines of credit (2,885) - (2,885) -
+repayment of long-term debt (2,111) (32) (6,404) (52) repayment of short-term debt - (221) - (221) shares issued for
+cash 113 788 274,443 1,169 share issuance costs (123) - (8,126) - (5,006) 535 261,273 896 effect of foreign exchange on
+cash and cash equivalents (521) 801 (1,236) 6,061 (decrease) increase in cash and cash equivalents (31,755) (9,568)
+143,472 (5,257) cash and cash equivalents, beginning of period 245,525 148,462 70,298 144,151 cash and cash equivalents,
+end of period $213,770 $138,894 $213,770 $138,894 5 westport innovations inc. consolidated statements of cash flows
+(unaudited), continued (expressed in thousands of united states dollars) three months ended june 30, six months ended
+june 30, 2012 2011 2012 2011 supplementary information: interest paid $440 $1,141 $2,079 $1,254 taxes paid 13,110 4,910
+14,160 5,593 non-cash transactions: purchase of equipment, furniture and leasehold improvements by assumption of capital
+lease obligation - 34 - 34 shares issued on exercise of performance share units 1,085 1,774 2,071 2,362 cancellation of
+performance share units - 1,258 - 2,153 see accompanying notes to consolidated financial statements. 6 westport
+innovations inc. notes to consolidated financial statements (unaudited) (expressed in thousands of united states dollars
+except share and per share amounts) 1.basis of presentation: the unaudited consolidated balance sheet as at june 30,
+2012, the unaudited consolidated statements of operations, comprehensive loss and cash flows for the three and six
+months ended june 30, 2012 and 2011, and the unaudited consolidated statement of shareholders’ equity for the six months
+ended june 30, 2012 have been prepared in accordance with accounting principles generally accepted in the united states
+(“u.s. gaap”). these unaudited interim consolidated financial statements do not include all note disclosures required on
+an annual basis, and therefore, should be read in conjunction with the annual audited consolidated financial statements
+for the fiscal year ended december 31, 2011 filed with the appropriate securities regulatory authorities. effective
+april 1, 2011, the company changed its year-end to december 31, and the 2011 annual consolidated financial statements
+were for the nine-month period then ended. these interim consolidated financial statements have been prepared on a going
+concern basis, which assumes the realization of assets and the settlement of liabilities in the normal course of
+operations. in the opinion of management, all adjustments, which include reclassifications and normal recurring
+adjustments necessary to present fairly the consolidated financial position, consolidated results of operations and
+consolidated cash flows as at june 30, 2012 and for all periods presented, have been recorded. the results of operations
+for the three and six months ended june 30, 2012 are not necessarily indicative of the results for the company’s full
+year. the company’s reporting currency is the united states dollar. the functional currency of the company’s operations
+is the canadian dollar except for cwi, which uses the u.s. dollar as its functional currency, omvl s.p.a. (“omvl”) omvl
+and emer s.p.a. (“emer”), which use the euro as their functional currency, and alternative fuel vehicle sweden ab
+(“afv”), which uses the swedish krona as its functional currency. the company translates its consolidated canadian
+dollar, euro and swedish krona functional currency financial statements into the reporting currency using the current
+rate method. all assets and liabilities are translated using the period end exchange rates. shareholders’ equity
+balances are translated using a weighted average of historical exchange rates. revenues and expenses are translated
+using the monthly average rate for the period. all resulting exchange differences are recognized in other comprehensive
+income. the period exchange rate of the canadian dollar as at june 30, 2012 was $0.98 (december 31, 2011 - $1.02), and
+the average exchange rates for the three and six months ended june 30, 2012 were $0.99 (2011 - $1.03) and $0.99 (2011 -
+$1.02), respectively. the period end exchange rate of the euro was 1.27 (december 31, 2011 - 1.30), and the average
+exchange rates for the euro for the three and six months ended june 30, 2012 were 1.28 (2011 – 1.44) and 1.30 (2011 –
+1.41), respectively. the period end exchange rate of the swedish krona was 0.14 (december 31, 2011 - 0.15) and the
+average exchange rates for the swedish krona for the three and six months ended june 30, 2012 were 0.14 and 0.15,
+respectively. 7 westport innovations inc. notes to consolidated financial statements (unaudited) (expressed in thousands
+of united states dollars except share and per share amounts) 2.accounting changes: (a)accounting policies adopted during
+the period: fair value measurements in may 2011, the fasb issued asu no. 2011-04, fair value measurements (topic 820):
+amendments to achieve common fair value measurement and disclosure requirements in u.s. gaap and ifrs, (“asu 2011-04”).
+asu 2011-04 changes the wording used to describe many of the requirements in u.s. gaap for measuring fair value and for
+disclosing information about fair value measurements to ensure consistency between u.s. gaap and ifrs. asu 2011-04 also
+expands the disclosures for fair value measurements that are estimated using significant unobservable (level 3) inputs.
+this new guidance is to be applied prospectively. this update was effective for the company on january 1, 2012. the
+adoption of this update did not have a material impact on the company’s consolidated financial statement note
+disclosures. comprehensive income in june 2011, the fasb issued asu no. 2011-05, comprehensive income (topic 220):
+presentation of comprehensive income, (“asu 2011-05”). asu 2011-05 eliminates the option to report other comprehensive
+income and its components in the statement of changes in equity. asu 2011-05 requires that all non-owner changes in
+stockholders’ equity be presented in either a single continuous statement of comprehensive income or in two separate but
+consecutive statements. in december 2011, the fasb issued asu no. 2011-12 (“asu 2011-12”), which defers certain
+requirements within asu 2011-05. these amendments are being made to allow the fasb time to redeliberate whether to
+present on the face of the financial statements the effects of reclassifications out of accumulated other comprehensive
+income on the components of net income and other comprehensive income in all periods presented. this new guidance is to
+be applied retrospectively. this update was effective for the company on january 1, 2012. the adoption of this update
+did not have a material impact on the company’s consolidated financial statements. 8 westport innovations inc. notes to
+consolidated financial statements (unaudited) (expressed in thousands of united states dollars except share and per
+share amounts) 2.accounting changes (continued): (a)accounting policies adopted during the period (continued):
+intangibles – goodwill and other in september 2011, the fasb issued asu no. 2011-08, intangibles - goodwill and other
+(topic 350) - testing goodwill for impairment (“asu 2011-08”), which allows an entity to use a qualitative approach to
+test goodwill for impairment. asu 2011-08 permits an entity to first perform a qualitative assessment to determine
+whether it is more likely than not that the fair value of a reporting unit is less than its carrying value. if it is
+concluded that this is the case, it is necessary to perform the currently prescribed two-step goodwill impairment test.
+otherwise, the two-step goodwill impairment test is not required. this update was effective for the company on january
+1, 2012. the adoption of this update did not have a material impact on the company’s goodwill impairment test. (b)new
+accounting pronouncements: balance sheet in december 2011, the fasb issued asu no. 2011-11, balance sheet (topic 210):
+disclosures about offsetting assets and liabilities (“asu 2011-11”). asu 2011-11 enhances disclosures regarding
+financial instruments and derivative instruments. entities are required to provide both net information and gross
+information for these assets and liabilities in order to enhance comparability between those entities that prepare their
+financial statements on the basis of u.s. gaap and those entities that prepare their financial statements on the basis
+of ifrs. this new guidance is to be applied retrospectively and is effective for annual reporting periods beginning on
+or after january 1, 2013 and interim periods within those annual periods. the company anticipates that the adoption of
+this standard will expand its consolidated financial statement note disclosures. 9 westport innovations inc. notes to
+consolidated financial statements (unaudited) (expressed in thousands of united states dollars except share and per
+share amounts) 3.business combination: on march 20, 2012, the company acquired, through its wholly owned subsidiary,
+westport innovations (australia) pty ltd., certain assets of advanced engine components ltd (“aec”). based in perth,
+australia, aec specializes in research, development and production of patented electronic fuel injection and engine
+management technologies that enable vehicle engines to operate on natural gas. the assets acquired consisted of
+intangible assets, inventories and capital assets. the fair value of the consideration for the acquisition was $1,125
+(aud$1,082) and was allocated as follows: $832 to intangible assets, $529 to inventories, $133 to capital assets, $23 to
+prepaid expense, and liabilities assumed of $392. the company paid cash totaling $1,125 for the acquisition. the company
+also assumed aec's australian leased facility and approximately ten of aec's employees. the acquisition was accounted
+for as a business combination using the purchase method. the foreign exchange rate used to translate australian dollar
+denominated assets acquired, liabilities assumed and purchase consideration into u.s. dollars was 1.04 based on the
+march 20, 2012 closing rate. the company incurred acquisition related expenses of $280 during the three months ended
+march 31, 2012, which have been recorded in general and administrative expenses in the consolidated statement of
+operations. the company has determined that the acquisition of aec was a non-material business combination. as such, pro
+forma disclosures are not required. 4.accounts receivable: june 30, 2012 december 31, 2011 customer trade receivable
+$47,638 $43,268 government funding receivable 1,637 1,412 due from joint venture partner and other receivables 10,670
+11,528 allowance for doubtful accounts (817) (785) $59,128 $55,423 5.inventories: june 30, 2012 december 31, 2011
+purchased parts $25,296 $20,020 assembled parts 5,921 4,198 work-in-process 8,405 6,994 finished goods 6,953 6,360
+obsolescence provision (424) (515) $46,151 $37,057 10 westport innovations inc. notes to consolidated financial
+statements (unaudited) (expressed in thousands of united states dollars except share and per share amounts) 6.long-term
+investments: june 30, 2012 december 31, 2011 weichai westport inc. $9,375 $7,732 minda-emer technologies ltd. 591 637
+$9,966 $8,369 on july 3, 2010, the company invested $4,316 under an agreement with weichai power co. ltd. and hong kong
+peterson (cng) equipment ltd. to form weichai westport inc. (“wwi”). on october 11, 2011, the company invested an
+additional $955 in wwi. the company has a 35% equity interest in wwi. for the three and six months ended june 30, 2012,
+the company recognized income of $1,065 (2011 - $445) and $1,666 (2011 - $818), respectively, as income from investment
+accounted for by the equity method. on july 1, 2011, the company acquired a 50% interest in minda-emer technologies ltd
+(“minda-emer”) through its acquisition of emer. on the date of acquisition, the interest in minda-emer was ascribed a
+value of $643. as the company does not control minda-emer, it accounts for this investment using the equity method.
+during the three and six months ended june 30, 2012, the company recognized loss of $112 (2011 - $nil) and income of $49
+(2011 - $nil), respectively. 7.other assets: june 30, 2012 december 31, 2011 note receivable (a) $- $2,446 deferred
+financing charges (b) 1,092 1,323 other 244 259 1,336 4,028 current portion - (2,034) $1,336 $1,994 (a)on october 15,
+2010, the company entered into a note and warrant purchase agreement (the “agreement”) with a private energy company
+based in the united states to fund operating and capital expenditures related to infrastructure development activities.
+the agreement was subsequently amended on september 30, 2011. under the agreement, the company loaned $2,200 and
+received 1,427,179 warrants representing 20% of the then outstanding shares to purchase common shares at $0.10 per share
+for a period of five years. the loan bore interest at 12.5% and was payable on maturity dates ranging from october 15,
+2012 to october 20, 2013. on february 29, 2012, the total loan principal plus accrued interest of $2,494 was repaid in
+full by the counterparty, and the warrants were terminated. (b)financing charges incurred on the issuance of
+subordinated debentures (note 12(a)) have been deferred and are being amortized into income over the term of the
+debentures using the effective interest rate method. 11 westport innovations inc. notes to consolidated financial
+statements (unaudited) (expressed in thousands of united states dollars except share and per share amounts) 8.property,
+plant and equipment: june 30, 2012 cost accumulated amortization net book value land and buildings $552 $146 $406
+computer equipment and software 10,066 7,483 2,583 furniture and fixtures 2,063 1,654 409 machinery and equipment 64,691
+30,067 34,624 leasehold improvements 17,031 9,246 7,785 $94,403 $48,596 $45,807 december 31, 2011 cost accumulated
+amortization net book value land and buildings $668 $124 $544 computer equipment and software 8,914 7,257 1,657
+furniture and fixtures 2,072 1,602 470 machinery and equipment 55,025 27,322 27,703 leasehold improvements 14,930 9,061
+5,869 $81,609 $45,366 $36,243 9.intangible assets: june 30, 2012 cost accumulated amortization net book value patents
+and trademarks $19,357 $1,178 $18,179 technology 6,209 941 5,268 customer contracts 13,477 1,549 11,928 non-compete
+agreement 37 13 24 $39,080 $3,681 $35,399 december 31, 2011 cost accumulated amortization net book value patents and
+trademarks $19,508 $727 $18,781 technology 6,380 1,122 5,258 customer contracts 13,334 815 12,519 non-compete agreement
+37 13 24 $39,259 $2,677 $36,582 12 westport innovations inc. notes to consolidated financial statements (unaudited)
+(expressed in thousands of united states dollars except share and per share amounts) 10.goodwill: a continuity of
+goodwill is as follows: june 30, 2012 december 31, 2011 balance, beginning of period $55,814 $8,202 acquisition of emer
+- 50,774 acquisition of afv - 2,701 impact of foreign exchange (1,075) (5,863) balance, end of period $54,739 $55,814
+11.accounts payable and accrued liabilities: june 30, 2012 december 31, 2011 trade accounts payable $46,721 $40,758
+accrued payroll 5,203 9,534 accrued interest 1,186 1,233 income taxes payable 2,223 2,705 other 996 1,577 $56,329
+$55,807 12.long-term debt: june 30, 2012 december 31, 2011 subordinated debenture notes (a) $35,360 $35,398 long-term
+payable (b) 9,269 9,330 senior financing (c) 19,240 24,871 senior revolving financing (c) 12,348 11,360 other bank
+financing (d) 1,950 2,557 capital lease obligations 1,993 2,629 80,160 86,145 current portion (19,554) (20,568) $60,606
+$65,577 (a)on september 23, 2011, the company raised $35,363 (cdn$36,000) through the issuance of debentures to
+macquarie private wealth inc. (“macquarie”) on a private placement basis. the debentures are unsecured and subordinated
+to senior indebtedness, mature on september 22, 2014 and bear interest at 9% per annum, payable in cash semi-annually in
+arrears on march 15th and september 15th of each year during the term, commencing on march 15, 2012. the debentures are
+redeemable at the option of the company but cannot be redeemed on or prior to september 22, 2012. the debentures may be
+redeemed at a price equal to $1,150 per $1,000 principal amount of the debentures after september 22, 2012 and on or
+before march 22, 2013. after march 22, 2013 and before maturity, the debentures can be redeemed at a price equal to
+$1,100 per $1,000 principal amount. 13 westport innovations inc. notes to consolidated financial statements (unaudited)
+(expressed in thousands of united states dollars except share and per share amounts) 12.long-term debt (continued):
+(a)continued: the company paid to macquarie a cash commission equal to 3.85% of the gross proceeds of the offering
+totaling $1,460, which is included in other assets (note 7) and amortized over the term of the debentures. (b)on july 2,
+2010, the company acquired omvl for $25,711. a portion of the purchase price amounting to $9,619 (€7,600) is payable on
+the third anniversary of the closing date. the difference between the carrying value of this liability and the principal
+amount is accreted to the principal amount using an effective interest rate of 3.72% over the term to maturity. the
+amount outstanding is denominated in euros, exposing the company to foreign exchange changes. the amount is guaranteed
+to the sellers of omvl by banca intesa s.p.a. with a cross guarantee from the bank of montreal with a letter of credit
+for $10,387 (cdn$10,564). (c)the senior financing agreement bears interest at the 6-month euribor plus 2.5% (3.4% as at
+june 30, 2012) and its carrying value is recorded at amortized cost using the effective interest rate method. the
+principal repayment schedule of the senior financing principal balance is as follows for the years ended december 31:
+2012 $1,338 2013 3,569 2014 3,925 2015 4,282 2016 4,461 2017 2,230 $19,805 the senior revolving financing facility bears
+interest at the 6-month euribor plus 2.5% (3.4% as at june 30, 2012) and will be repaid through two principal payments
+of $6,328 (€5,000) and $5,062 (€4,000) on march 31, 2016 and september 30, 2017, respectively. the company has pledged
+its interest in emer as a general guarantee for its senior financing and senior revolving financing. throughout the
+entire term of these financing arrangements, the company is required to meet certain financial and non-financial
+covenants. as of june 30, 2012, the company is in compliance with all covenants under the financing arrangements.
+(d)other bank financing consists of various unsecured bank financing arrangements that carry rates of interest ranging
+from 4% to 9.63% and are payable on maturity dates ranging from july 31, 2012 to june 30, 2016. 14 westport innovations
+inc. notes to consolidated financial statements (unaudited) (expressed in thousands of united states dollars except
+share and per share amounts) 12.long-term debt (continued): (e)the company has a credit facility for maximum borrowings
+of cdn$30,000. the credit facility is governed by a margin requirement limiting such borrowings to a calculated amount
+based on cash and investments held with the creditor. borrowings may be drawn in the form of direct borrowings, letters
+of credit, foreign exchange forward contracts and overdraft loans. outstanding amounts on direct borrowings and
+overdraft loans drawn under this credit facility bear interest at the prime rate, and letters of credit bear interest at
+0.75% per annum. as at june 30, 2012, no amounts were outstanding as a demand installment loan (2011 - $nil).
+13.warranty liability: a continuity of the warranty liability is as follows: three months ended june 30, six months
+ended june 30, 2012 2011 2012 2011 balance, beginning of period $26,834 $18,035 $24,231 $20,233 warranty claims (4,862)
+(3,085) (8,959) (6,627) warranty accruals 7,770 3,640 13,735 5,646 change in warranty estimates 2,148 (369) 2,998 (997)
+impact of foreign exchange 106 (94) (9) (128) balance, end of period $31,996 $18,127 $31,996 $18,127 current portion
+(14,055) (11,620) (14,055) (11,620) long-term portion 17,941 6,507 17,941 6,507 14.share capital: on february 27, 2012,
+the company issued 6,325,000 common shares at a price of $43.25 per share. gross proceeds totaled $273,556 and the
+company incurred share issuance costs of $8,126. 15 westport innovations inc. notes to consolidated financial statements
+(unaudited) (expressed in thousands of united states dollars except share and per share amounts) 15.stock options and
+other stock-based plans: (a)stock options: stock options are available for issuance under the westport omnibus plan and
+were previously granted under the company’s stock option plan. a summary of the company’s stock option activity for the
+six months ended june 30, 2012 and 2011 are presented as follows: six months ended june 30, 2012 six months ended june
+30, 2011 number of shares weighted average exercise price (cdn $) number of shares weighted average exercise price (cdn
+$) outstanding, beginning of period 328,027 $8.96 606,183 $8.35 granted 770,727 33.77 - - exercised (81,327) 10.99
+(137,610) 7.58 cancelled/expired (163) 6.13 (8,142) 4.84 outstanding, end of period 1,017,264 $27.60 460,431 $8.64
+options exercisable, end of period 238,204 $8.00 361,762 $7.72 during the three and six months ended june 30, 2012, the
+company recognized $666 (2011 - $135) and $1,308 (2011 - $270), respectively, in stock-based compensation related to
+stock options. the fair value of the options granted during the six months ended june 30, 2012 was determined using the
+black-scholes option pricing formula simulation with the following weighted average assumptions: expected dividend yield
+- nil% (2011 – nil%), expected stock price volatility – 47.79% (2011 – nil%), risk free interest rate – 0.38% (2011 –
+nil%); expected life of options – 3 years ( 2011 – nil years). the weighted average grant date fair value was $10.97
+(2011 - $nil) for options granted for the six months ended june 30, 2012. as at june 30, 2012, $6,945 of compensation
+cost related to stock option awards has yet to be recognized in the results from operations and will be recognized over
+a weighted average period of 2.50 years. 16 westport innovations inc. notes to consolidated financial statements
+(unaudited) (expressed in thousands of united states dollars except share and per share amounts) 15.stock options and
+other stock-based plans (continued): (b)share units: the value assigned to issued restricted share units (“rsus”) and
+performance share units (“psus”) (together, the “units”) and the amounts accrued are recorded as other equity
+instruments. as units are exercised or vest and the underlying shares are issued from treasury of the company, the value
+is reclassified to share capital. a continuity of the units issued under the westport omnibus plan and the former
+amended and restated unit plan (together, the “plans”) as of june 30, 2012 and 2011 are as follows: six months ended
+june 30, 2012 six months ended june 30, 2011 number of units weighted average grant date fair value (cdn $) number of
+units weighted average grant date fair value (cdn $) outstanding, beginning of period 1,250,917 $18.04 1,462,250 $11.91
+granted 185,705 $35.99 260,542 $36.08 exercised (86,038) $8.56 (255,292) $7.49 vested (46,728) $29.06 - -
+cancelled/expired - - (77,623) $8.64 outstanding, end of period 1,303,856 $20.83 1,389,877 $17.44 units outstanding and
+exercisable, end of period 251,362 $8.42 302,911 $7.02 included in the above table are units granted under the former
+amended and restated unit plan where the units are considered outstanding after vesting until exercised by the
+recipient. a continuity of these units that vested during the six months ended june 30, 2012 and 2011 are summarized
+below: six months ended june 30, 2012 six months ended june 30, 2011 number of units weighted average grant date fair
+value (cdn $) number of units weighted average grant date fair value (cdn $) unvested, beginning of period 438,917 $9.32
+959,851 $7.89 vested (60,469) $10.71 (393,065) $5.54 cancelled/expired - - (75,301) $8.10 unvested, end of period
+378,448 $9.10 491,485 $9.73 17 westport innovations inc. notes to consolidated financial statements (unaudited)
+(expressed in thousands of united states dollars except share and per share amounts) 15.stock options and other
+stock-based plans (continued): (b)share units (continued): during the three and six months ended june 30, 2012, the
+company recognized $2,230 (2011 - $2,077) and $5,150 (2011 - $3,368), respectively, of stock-based compensation
+associated with the westport omnibus plan and the former amended and restated unit plan. as at june 30, 2012, $15,605 of
+compensation cost related to units has yet to be recognized in the results from operations and will be recognized over a
+weighted average period of 1.39 years. of the units granted during the six months ended june 30, 2012, 66,428 units were
+subject to market and service conditions. the fair value of these units was determined using a monte-carlo simulation
+using the following weighted average assumptions: expected dividend yield - nil% (2011 – nil%); expected stock price
+volatility – 55.95% (2011 – 59.98%) ; and risk free interest rate – 0.93% (2011 – 1.52%). the valuation model determined
+the grant date fair value based on assumptions about the likelihood of the company achieving different payout factors as
+driven by the market conditions. the weighted average grant date fair value was $35.99 (2011 - $36.92) for units granted
+for the six months ended june 30, 2012. for the units granted after january 1, 2012, payout factors are determined based
+upon the absolute stock price at the end of two years, equal to the closing price on the last trading day of december
+31, 2013. for the units granted prior to january 1, 2012, payout factors are determined based upon the absolute stock
+price at the end of two years and the stock price relative to a synthetic clean tech index of comparative companies two
+years after the grant date. one-half of these units vest after two years and the remainder after three years from the
+date of the grant. the impact of market conditions, if any, on compensation expense for these units is determined at the
+time of the grant with no adjustment to the compensation expense for the actual results of the market condition. 18
+westport innovations inc. notes to consolidated financial statements (unaudited) (expressed in thousands of united
+states dollars except share and per share amounts) 15.stock options and other stock-based plans (continued): (c)share
+units (continued): the fair value of all other units was determined based on the market price of the underlying shares
+on the date of grant. compensation expense, net of estimated forfeitures, is recognized in results from operations over
+the vesting period. the aggregate intrinsic value of the company’s stock option awards and share units at june 30, 2012
+is as follows: june 30, 2012 cdn$ stock options: outstanding $9,964 exercisable 7,000 exercised 2,104 share units:
+outstanding $48,751 exercisable 9,398 exercised 4,708 stock-based compensation associated with the westport omnibus plan
+and the former amended and restated unit plan is included in operating expenses as follows: three months ended june 30,
+six months ended june 30, 2012 2011 2012 2011 research and development $554 $254 $1,074 $432 general and administrative
+1,523 1,259 3,723 2,076 sales and marketing 819 699 1,661 1,130 $2,896 $2,212 $6,458 $3,638 19 westport innovations inc.
+notes to consolidated financial statements (unaudited) (expressed in thousands of united states dollars except share and
+per share amounts) 16.research and development expenses: research and development expenses are recorded net of program
+funding received or receivable. research and development expenses incurred and program funding received or receivable
+are as follows: three months ended june 30, six months ended june 30, 2012 2011 2012 2011 research and development
+expenses $21,253 $12,775 $38,539 $23,247 program funding (710) (1,425) (1,831) (1,943) research and development $20,543
+$11,350 $36,708 $21,304 17.partners’ share of net assets of joint ventures: june 30, 2012 december 31, 2011 cummins
+westport inc. (a) $26,148 $17,728 btic westport inc. 141 151 $26,289 $17,879 (a)cummins westport inc.: the company
+entered into a joint venture with cummins inc. (“cummins”) on march 7, 2001. on december 16, 2003, the company and
+cummins amended the joint venture agreement (“jva”) to have cwi focus on and develop markets for alternative fuel
+engines. on february 20, 2012, the jva was amended and restated to provide for, among other things, clarification
+concerning the scope of products within cwi. in addition, the parties have revised certain economic terms of the jva.
+under the prior jva, cwi had a global exclusive right to design, engineer, and market mid-range on-road spark-ignited
+natural gas engines based on cummins diesel engines manufactured in cummins facilities. the company and cummins have
+agreed in the amended and restated jva to focus cwi's future product development on north american markets including
+engines for on-road applications between the displacement range of 5.9 litres through 12 litres and to have these
+engines manufactured in cummins north american plants. 20 westport innovations inc. notes to consolidated financial
+statements (unaudited) (expressed in thousands of united states dollars except share and per share amounts) 17.partners’
+share of net assets of joint ventures (continued): (a)cummins westport inc. (continued): the joint venture will now have
+a term of ten years and can be terminated under certain circumstances before the end of the term, including in the event
+of a material breach of the agreement by, or in the event of a change of control of, one of the parties. the company has
+determined that cwi is a variable interest entity, and the company is the primary beneficiary. the consolidated
+financial statements include 100% of the assets, liabilities, revenue and expenses of cwi as at june 30, 2012 and
+december 31, 2011 and for the three and six months ended june 30, 2012 and 2011. prior to february 20, 2012, the company
+and cummins shared equally in the profits and losses of cwi. under the new jva, profits and losses are shared equally up
+to an established revenue baseline, then any excess profit will be allocated 75% to the company and 25% to cummins.
+however, cwi continues to be a variable interest entity with the company as the primary beneficiary; therefore, the
+company continues to consolidate cwi with cummins’ share of cwi’s income included in “joint venture partners’ share of
+income from joint ventures”. for the three and six months ended june 30, 2012, net income from cwi attributable to
+cummins was $3,650 (2011 - $2,943) and $8,420 (2011 - $5,205), respectively. a summarized balance sheet is presented
+below: june 30, 2012 december 31, 2011 current assets $63,219 $46,888 long-term assets 8,622 5,481 total assets $71,841
+$52,369 june 30, 2012 december 31, 2011 current liabilities: current portion of warranty liability $12,278 $11,791 other
+current liabilities 6,778 8,546 19,056 20,337 long-term liabilities: warranty liability 13,632 8,039 other long-term
+liabilities 8,537 8,095 22,169 16,134 total liabilities $41,225 $36,471 21 westport innovations inc. notes to
+consolidated financial statements (unaudited) (expressed in thousands of united states dollars except share and per
+share amounts) 18.service and other revenue: service and other revenue for the three months ended june 30, 2012 was
+$14,080. this revenue consisted of a one-time license revenue of $7,923 for the transfer of proprietary know-how and
+service revenue of $6,157 under our existing development agreements. during the three months ended june 30, 2012, the
+company entered into an agreement with an original equipment manufacturer (“oem”) to co-develop natural gas technology
+for off-road equipment, including mining trucks and locomotives. under the agreement, the company provided its
+proprietary know-how related to the high pressure direct injection (“hpdi”) technology by granting a non-exclusive
+license to the oem. the company will also provide ongoing development services to the oem to assist with the development
+and commercialization of products. these are considered to be multiple deliverables arrangements under asc 605-25,
+revenue recognition: multiple-element arrangements, and the company has determined that the license and the development
+services are separate units of accounting. during the three months ended june 30, 2012, the company transferred
+proprietary know-how related to the hpdi technology to the oem, and it has no further obligations related to this
+license. therefore, the one-time license revenue of $7,923 was recognized, and on july 26, 2012, payment on the full
+amount was received. the development services will be recognized at cost plus a reasonable mark-up for overhead costs as
+the costs are incurred. no such costs were recognized during the three months ended june 30, 2012. service revenue of
+$6,157 was recognized as the company achieved and delivered certain milestones during the three months ended june 30,
+2012 under certain development agreements with an oem. all costs associated with our development agreements were
+recorded as research and development expenses in the period incurred. 19.segmented information: the company’s business
+operates in four reportable operating segments: - cwi, which serves the medium- to heavy-duty engine markets. the fuel
+for cwi engines is typically carried on vehicles as compressed natural gas or liquefied natural gas; - westport ld,
+which designs, produces and sells high-performance alternative fuel engines targeting the global cng and lpg industrial
+and light-duty automotive markets; - westport hd, which offers a 15-litre lng engine for the heavy-duty trucking market.
+westport hd is the company’s proprietary development platform, engaged in the engineering, design and marketing of
+natural-gas enabling technology for the heavy-duty diesel engine and truck market; and - corporate, which includes
+corporate costs such as research and development including activities for off-road applications, general and
+administrative, marketing, interest and other charges, foreign exchange and depreciation that cannot be attributed to a
+particular segment and are incurred by all segments. these reporting segments offer different products and services and
+are managed separately as each business requires different technology and marketing strategies. 22 westport innovations
+inc. notes to consolidated financial statements (unaudited) (expressed in thousands of united states dollars except
+share and per share amounts) 19.segmented information (continued): the company evaluates segment performance based on
+the net operating income (loss), which is before income taxes and does not include depreciation and amortization,
+foreign exchange gains and losses, bank charges, interest and other expenses, interest and other income, and gain on
+sale of long-term investments. the company did not record any intersegment sales or transfers for the three and six
+months ended june 30, 2012 and 2011. for the three months ended june 30, for the six months ended june 30, 2012 2011
+2012 2011 revenue: cwi $57,020 $31,949 $109,678 $57,005 westport ld 30,663 10,867 57,339 18,324 westport hd 10,489 2,050
+19,764 7,675 corporate 7,923 - 7,923 - $106,095 $44,866 $194,704 $83,004 net operating income (loss): cwi $11,542 $9,334
+$26,484 $16,250 westport ld 248 (881) (1,613) (1,598) westport hd (7,615) (10,342) (17,618) (14,357) corporate (3,632)
+(8,017) (14,957) (15,371) 543 (9,906) (7,704) (15,076) depreciation and amortization: cwi (36) (26) (70) (50) westport
+ld (2,148) (463) (4,213) (924) westport hd - - - - corporate (582) (364) (1,002) (886) (2,766) (853) (5,285) (1,860)
+loss before undernoted (2,223) (10,759) (12,989) (16,936) other income (expenses), net 4,908 (685) 4,014 (4,348) income
+(loss) before income taxes $2,685 $(11,444) $(8,975) $(21,284) capital expenditures: cwi $57 $- $57 $58 westport ld
+2,555 447 3,182 659 westport hd and corporate 2,283 1,327 10,311 2,036 $4,895 $1,774 $13,550 2,753 for the three and six
+months ended june 30, 2012, 65% (2011 - 62%) and 58% (2011 - 60%) of the company’s revenue was from sales in the
+americas, 10% (2011 - 16%) and 17% (2011 - 17%) from sales in asia, and 25% (2011 - 22%) and 25% (2011 - 23%) from sales
+elsewhere. 23 westport innovations inc. notes to consolidated financial statements (unaudited) (expressed in thousands
+of united states dollars except share and per share amounts) 19.segmented information (continued): as at june 30, 2012,
+total goodwill of $54,739 (december 31, 2011 - $55,814) was allocated to the westport ld segment. as at june 30, 2012,
+total long-term investments of $9,375 (december 31, 2011 - $7,732) was allocated to the corporate segment and $591
+(december 31, 2011 - $637) was allocated to the westport ld segment. total assets are allocated as follows: june 30,
+2012 december 31, 2011 cwi $71,841 $52,369 westport ld 180,481 101,324 westport hd and corporate 355,878 202,982
+$608,200 $356,675 property, plant and equipment and goodwill information by geographic area: june 30, 2012 december 31,
+2011 italy $68,973 $72,378 canada 25,032 16,294 sweden 2,923 2,519 united states 3,368 812 australia 228 32 china 22 22
+$100,546 $92,057 24 westport innovations inc. notes to consolidated financial statements (unaudited) (expressed in
+thousands of united states dollars except share and per share amounts) 20.fair value of financial instruments: the
+carrying amounts reported in the balance sheets for cash and cash equivalents, accounts receivable, loan receivable, and
+accounts payable and accrued liabilities approximate their fair values due to the short-term period to maturity of these
+instruments. the company’s short-term investments are recorded at fair value. the long-term investment represents our
+interests in the wwi and minda-emer joint ventures, which are accounted for using the equity method. the carrying value
+reported in the balance sheet for the unsecured subordinated debenture notes (note 12(a)) approximates its fair value
+based on the interest rate being demanded in the market for debt with similar terms and conditions. the carrying value
+reported in the balance sheet for senior financing agreements (note 12 (c)) approximates its fair value as at june 30,
+2012, as the interest rate on the debt is floating and therefore approximates the market rate of interest. the company’s
+credit spread also has not substantially changed from the 2.5% premium currently paid. the carrying value reported in
+the balance sheets for obligations under capital lease, which is based upon discounted cash flows, approximates its fair
+value. the carrying value reported in the balance sheet for other long-term payable (note 12(b)) is recorded at
+amortized cost using the effective interest rate method. it is being accreted to the gross proceeds of €7,600 that is
+payable to omvl on july 2, 2013 at the effective interest rate of 3.65%. as at june 30, 2012, the fair value of the
+long-term debt is higher than its carrying value by $129 based on a market interest rate of 2.35%. the company
+categorizes its fair value measurements for items measured at fair value on a recurring basis into three categories as
+follows: level 1 – unadjusted quoted prices in active markets for identical assets or liabilities. level 2 – observable
+inputs other than level 1 prices such as quoted prices for similar assets or liabilities; quoted prices in markets that
+are not active; or other inputs that are observable or can be corroborated by observable market data for substantially
+the full term of the assets or liabilities. level 3 – inputs for the asset or liability that are not based on observable
+market data (unobservable inputs). when available, the company uses quoted market prices to determine fair value and
+classify such items in level 1. when necessary, level 2 valuations are performed based on quoted market prices for
+similar instruments in active markets and/or model−derived valuations with inputs that are observable in active markets.
+level 3 valuations are undertaken in the absence of reliable level 1 or level 2 information. as at june 30, 2012 and
+december 31, 2011, cash and cash equivalents and short-term investments are measured at fair value on a recurring basis
+and are included in level 1. 25
+

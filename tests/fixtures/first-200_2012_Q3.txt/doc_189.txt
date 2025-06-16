@@ -1,0 +1,619 @@
+
+<!doctype html public "-//w3c//dtd html 4.01 transitional//en" "http://www.w3.org/tr/html4/loose.dtd"> ex. 10.5 warrant
+confirm deutsche bank execution versiondeutsche bank deutsche bank ag, london branch winchester house1 great winchester
+st, london ec2n 2db telephone: 44 20 7545 8000 c/o deutsche bank securities inc.60 wall streetnew york, ny
+10005telephone: 212-250-2500august 23, 2012to: wright medical group, inc. 5677 airline road, arlington, tn
+38002attention: james a. lightman | sr. vice president, general counsel and secretarytelephone no.:(901)
+867-4743facsimile no.:(901) 867-4398re: base warrantsthe purpose of this letter agreement (this “confirmation”) is to
+confirm the terms and conditions of the warrants issued by wright medical group, inc. (“company”) to deutsche bank ag,
+london branch (“dealer”) as of the trade date specified below (the “transaction”). this letter agreement constitutes a
+“confirmation” as referred to in the isda master agreement specified below. this confirmation shall replace any previous
+agreements and serve as the final documentation for the transaction.deutsche bank ag is not registered as a broker or
+dealer under the u.s. securities exchange act of 1934, as amended. deutsche bank securities inc. (“agent”) has acted
+solely as agent in connection with the transaction and has no obligation, by way of issuance, endorsement, guarantee or
+otherwise with respect to the performance of either party under the transaction. as such, all delivery of funds, assets,
+notices, demands and communications of any kind relating to the transaction between deutsche bank ag and company shall
+be transmitted exclusively through agent. deutsche bank ag, london branch is not a member of the securities investor
+protection corporation (sipc).the definitions and provisions contained in the 2002 isda equity derivatives definitions
+(the “equity definitions”), as published by the international swaps and derivatives association, inc. (“isda”), are
+incorporated into this confirmation. in the event of any inconsistency between the equity definitions and this
+confirmation, this confirmation shall govern. each party is hereby advised, and each such party acknowledges, that the
+other party has engaged in, or refrained from engaging in, substantial financial transactions and has taken other
+material actions in reliance upon the parties' entry into the transaction to which this confirmation relates on the
+terms and conditions set forth below.chairman of the supervisory board: clemens börsig management board: josef ackermann
+(chairman), hugo bänziger, jürgen fitschen, anshuman jain, stefan krause, hermann-josef lamberti, rainer neskedeutsche
+bank ag is authorised under german banking law (competent authority: bafin - federal financial supervising authority)
+and regulated by the financial services authority for the conduct of uk business; a member of the london stock exchange.
+deutsche bank ag is a joint stock corporation with limited liability incorporated in the federal republic of germany hrb
+no. 30 000 district court of frankfurt am main; branch registration in england and wales br000005; registered address:
+winchester house, 1 great winchester street, london ec2n 2db. deutsche bank group online:
+http://www.deutsche-bank.com1.this confirmation evidences a complete and binding agreement between dealer and company as
+to the terms of the transaction to which this confirmation relates. this confirmation shall supplement, form a part of,
+and be subject to an agreement in the form of the 2002 isda master agreement (the “agreement”) as if dealer and company
+had executed an agreement in such form (but without any schedule except for the election of the laws of the state of new
+york as the governing law (without reference to choice of law doctrine)) on the trade date. in the event of any
+inconsistency between provisions of that agreement and this confirmation, this confirmation will prevail for the purpose
+of the transaction to which this confirmation relates. the parties hereby agree that no transaction other than the
+transaction to which this confirmation relates shall be governed by the agreement.2.the transaction is a warrant
+transaction, which shall be considered a share option transaction for purposes of the equity definitions. the terms of
+the particular transaction to which this confirmation relates are as follows:general terms.trade date:august 23,
+2012effective date:the third exchange business day immediately prior to the premium payment datewarrants:equity call
+warrants, each giving the holder the right to purchase a number of shares equal to the warrant entitlement at a price
+per share equal to the strike price, subject to the terms set forth under the caption “settlement terms” below. for the
+purposes of the equity definitions, each reference to a warrant herein shall be deemed to be a reference to a call
+option.warrant style:europeanseller:companybuyer:dealershares:the common stock of company, par value usd 0.01 per share
+(exchange symbol “wmgi”).number of warrants:3,066,492. for the avoidance of doubt, the number of warrants shall be
+reduced by any warrants exercised or deemed exercised hereunder. in no event will the number of warrants be less than
+zero.warrant entitlement:one share per warrantstrike price:usd 29.9250.notwithstanding anything to the contrary in the
+agreement, this confirmation or the equity definitions, in no event shall the strike price be subject to adjustment to
+the extent that, after giving effect to such adjustment, the strike price would be less than usd 19.95, except for any
+adjustment pursuant to the terms of this confirmation and the equity definitions in connection with stock splits or
+similar changes to company's capitalization.premium: usd 8,994,750premium payment date: august 31, 2012exchange: the
+nasdaq global select marketrelated exchange(s): all exchangesprocedures for exercise.expiration time: the valuation
+timeexpiration dates: each scheduled trading day during the period from, and including, the first expiration date to,
+but excluding, the 100th scheduled trading day following the first expiration date shall be an “expiration date” for a
+number of warrants equal to the daily number of warrants on such date; provided that, notwithstanding anything to the
+contrary in the equity definitions, if any such date is a disrupted day, the calculation agent shall make adjustments,
+if applicable, to the daily number of warrants or shall reduce such daily number of warrants to zero for which such day
+shall be an expiration date and shall designate a scheduled trading day or a number of scheduled trading days as the
+expiration date(s) for the remaining daily number of warrants or a portion thereof for the originally scheduled
+expiration date; and provided further that if such expiration date has not occurred pursuant to this clause as of the
+eighth scheduled trading day following the last scheduled expiration date under the transaction, the calculation agent
+shall have the right to declare such scheduled trading day to be the final expiration date and the calculation agent
+shall determine its good faith estimate of the fair market value for the shares as of the valuation time on that eighth
+scheduled trading day or on any subsequent scheduled trading day, as the calculation agent shall determine using
+commercially reasonable means.first expiration date:november 15, 2017 (or if such day is not a scheduled trading day,
+the next following scheduled trading day), subject to market disruption event below.daily number of warrants:for any
+expiration date, the number of warrants that have not expired or been exercised as of such day, divided by the remaining
+number of expiration dates (including such day), rounded down to the nearest whole number, subject to adjustment
+pursuant to the provisos to “expiration dates”.automatic exercise: applicable; and means that for each expiration date,
+a number of warrants equal to the daily number of warrants for such expiration date will be deemed to be automatically
+exercised at the expiration time on such expiration date.market disruption event:section 6.3(a) of the equity
+definitions is hereby amended by replacing clause (ii) in its entirety with “(ii) an exchange disruption, or” and
+inserting immediately following clause (iii) the phrase “; in each case that the calculation agent determines is
+material.”section 6.3(d) of the equity definitions is hereby amended by deleting the remainder of the provision
+following the words “scheduled closing time” in the fourth line thereof.valuation terms.valuation time:scheduled closing
+time; provided that if the principal trading session is extended, the calculation agent shall determine the valuation
+time in its reasonable discretion.valuation date:each exercise date. settlement terms.settlement method:net share
+settlement.net share settlement:on the relevant settlement date, company shall deliver to dealer a number of shares
+equal to the share delivery quantity for such settlement date to the account specified herein free of payment through
+the clearance system, and dealer shall be treated as the holder of record of such shares at the time of delivery of such
+shares or, if earlier, at 5:00 p.m. (new york city time) on such settlement date, and company shall pay to dealer cash
+in lieu of any fractional share based on the settlement price on the relevant valuation date.share delivery quantity:for
+any settlement date, a number of shares, as calculated by the calculation agent, equal to the net share settlement
+amount for such settlement date divided by the settlement price on the valuation date for such settlement date.net share
+settlement amount:for any settlement date, an amount equal to the product of (i) the number of warrants exercised or
+deemed exercised on the relevant exercise date, (ii) the strike price differential for the relevant valuation date and
+(iii) the warrant entitlement. settlement price:for any valuation date, the per share volume-weighted average price as
+displayed under the heading “bloomberg vwap” on bloomberg page wmgi <equity> aqr (or any successor thereto) in respect
+of the period from the scheduled opening time of the exchange to the scheduled closing time on such valuation date (or
+if such volume-weighted average price is unavailable, the market value of one share on such valuation date, as
+determined by the calculation agent). notwithstanding the foregoing, if (i) any expiration date is a disrupted day and
+(ii) the calculation agent determines that such expiration date shall be an expiration date for fewer than the daily
+number of warrants, as described above, then the settlement price for the relevant valuation date shall be the
+volume-weighted average price per share on such valuation date on the exchange, as determined by the calculation agent
+based on such sources as it deems appropriate using a volume-weighted methodology, for the portion of such valuation
+date for which the calculation agent determines there is no market disruption event.settlement dates:as determined
+pursuant to section 9.4 of the equity definitions, subject to section 9(k)(i) hereof.other applicable provisions: the
+provisions of sections 9.1(c), 9.8, 9.9, 9.11 and 9.12 of the equity definitions will be applicable, except that all
+references in such provisions to “physically-settled” shall be read as references to “net share settled.” “net share
+settled” in relation to any warrant means that net share settlement is applicable to that warrant.representation and
+agreement:notwithstanding section 9.11 of the equity definitions, the parties acknowledge that any shares delivered to
+dealer may be, upon delivery, subject to restrictions and limitations arising from company's status as issuer of the
+shares under applicable securities laws.3.additional terms applicable to the transaction.adjustments applicable to the
+transaction:method of adjustment: calculation agent adjustment. for the avoidance of doubt, in making any adjustments
+under the equity definitions, the calculation agent may make adjustments, if any, to any one or more of the strike
+price, the number of warrants, the daily number of warrants and the warrant entitlement. notwithstanding the foregoing,
+any cash dividends or distributions on the shares, whether or not extraordinary, shall be governed by section 9(f) of
+this confirmation in lieu of article 10 or section 11.2(c) of the equity definitions.extraordinary events applicable to
+the transaction:new shares:section 12.1(i) of the equity definitions is hereby amended (a) by deleting the text in
+clause (i) thereof in its entirety (including the word “and” following clause (i)) and replacing it with the phrase
+“publicly quoted, traded or listed (or whose related depositary receipts are publicly quoted, traded or listed) on any
+of the new york stock exchange, the nasdaq global select market or the nasdaq global market (or their respective
+successors)” and (b) by inserting immediately prior to the period the phrase “and (iii) of an entity or person that is a
+corporation organized under the laws of the united states, any state thereof or the district of columbia that also
+becomes company under the transaction following such merger event or tender offer”.consequence of merger events:merger
+event:applicable; provided that if an event occurs that constitutes both a merger event under section 12.1(b) of the
+equity definitions and an additional termination event under section 9(h)(ii)(b) of this confirmation, dealer may elect,
+in its commercially reasonable judgment, whether the provisions of section 12.2 of the equity definitions or section
+9(h)(ii)(b) will apply.share-for-share:modified calculation agent adjustmentshare-for-other:cancellation and payment
+(calculation agent determination)share-for-combined:cancellation and payment (calculation agent determination); provided
+that dealer may elect, in its commercially reasonable judgment, component adjustment (calculation agent determination)
+for all or any portion of the transaction.consequence of tender offers:tender offer:applicable; provided that if an
+event occurs that constitutes both a tender offer under section 12.1(d) of the equity definitions and additional
+termination event under section 9(h)(ii)(a) of this confirmation, dealer may elect, in its commercially reasonable
+judgment, whether the provisions of section 12.3 of the equity definitions or section 9(h)(ii)(a) will
+apply.share-for-share:modified calculation agent adjustmentshare-for-other:modified calculation agent
+adjustmentshare-for-combined:modified calculation agent adjustmentannouncement event:if an announcement date occurs in
+respect of a merger event (for the avoidance of doubt, determined without regard to the language in the definition of
+“merger event” following the definition of “reverse merger” therein) or tender offer (such occurrence, an “announcement
+event”), then on the earliest of the expiration date, early termination date or other date of cancellation (the
+“announcement event adjustment date”) in respect of each warrant, the calculation agent will determine the economic
+effect on such warrant of the announcement event (regardless of whether the announcement event actually results in a
+merger event or tender offer, and taking into account such factors as the calculation agent may determine, including,
+without limitation, changes in volatility, expected dividends, stock loan rate or liquidity relevant to the shares or
+the transaction whether prior to or after the announcement event or for any period of time, including, without
+limitation, the period from the announcement event to the relevant announcement event adjustment date). if the
+calculation agent determines that such economic effect on any warrant is material, then on the announcement event
+adjustment date for such warrant, the calculation agent may make such adjustment to the exercise, settlement, payment or
+any other terms of such warrant as the calculation agent determines appropriate to account for such economic effect,
+which adjustment shall be effective immediately prior to the exercise, termination or cancellation of such warrant, as
+the case may be.announcement date:the definition of “announcement date” in section 12.1 of the equity definitions is
+hereby amended by (i) replacing the words “a firm” with the word “any” in the second and fourth lines thereof, (ii)
+replacing the word “leads to the” with the words “, if completed, would lead to a” in the third and the fifth lines
+thereof, (iii) replacing the words “voting shares” with the word “shares” in the fifth line thereof, and (iv) inserting
+the words “by any entity” after the word “announcement” in the second and the fourth lines thereof.nationalization,
+insolvency or delisting:cancellation and payment (calculation agent determination); provided that, in addition to the
+provisions of section 12.6(a)(iii) of the equity definitions, it will also constitute a delisting if the exchange is
+located in the united states and the shares are not immediately re-listed, re-traded or re-quoted on any of the new york
+stock exchange, the nasdaq global select market or the nasdaq global market (or their respective successors); if the
+shares are immediately re-listed, re-traded or re-quoted on any of the new york stock exchange, the nasdaq global select
+market or the nasdaq global market (or their respective successors), such exchange or quotation system shall thereafter
+be deemed to be the exchange.additional disruption events:change in law:applicable; provided that section 12.9(a)(ii) of
+the equity definitions is hereby amended by (i) replacing the word “shares” with the phrase “hedge positions” in clause
+(x) thereof and (ii) inserting the parenthetical “(including, for the avoidance of doubt and without limitation,
+adoption or promulgation of new regulations authorized or mandated by existing statute)” at the end of clause (a)
+thereof.failure to deliver:not applicableinsolvency filing:applicablehedging disruption:applicable; provided
+that:(i)section 12.9(a)(v) of the equity definitions is hereby amended by (a) inserting the following words at the end
+of clause (a) thereof: “in the manner contemplated by the hedging party on the trade date” and (b) inserting the
+following two phrases at the end of such section:“for the avoidance of doubt, the term “equity price risk” shall be
+deemed to include, but shall not be limited to, stock price and volatility risk. and, for the further avoidance of
+doubt, any such transactions or assets referred to in phrases (a) or (b) above must be available on commercially
+reasonable pricing terms.”; and(ii)section 12.9(b)(iii) of the equity definitions is hereby amended by inserting in the
+third line thereof, after the words “to terminate the transaction”, the words “or a portion of the transaction affected
+by such hedging disruption”.increased cost of hedging:applicableloss of stock borrow:applicablemaximum stock loan
+rate:200 basis pointsincreased cost of stock borrow:applicableinitial stock loan rate:25 basis pointshedging party:for
+all applicable additional disruption events, dealer.determining party:for all applicable extraordinary events,
+dealer.non-reliance:applicable. agreements and acknowledgments regarding hedging activities:applicableadditional
+acknowledgments:applicable4.calculation agent. dealer5.account details.(a)account for payments to company: bank: bank of
+americaaba#: 026 009 593acct no.: 003782153049acct name: wright medical technology, inc.5677 airline roadarlington, tn
+38002(b)account for payments to dealer:bank: the bank of new yorkaba#: 021-000-018acct no.: 8900327634acct name:
+deutsche bank securities, inc.account for delivery of shares to dealer:to be advised.6.offices.(a)the office of company
+for the transaction is: inapplicable, company is not a multibranch party.(b)the office of dealer for the transaction is:
+london7.notices. (a)address for notices or communications to company:wright medical technology, inc. | legalattention:
+james a. lightman | sr. vice president, general counsel and secretary telephone no.: (901) 867-4743facsimile no.: (901)
+867-4398email: jim.lightman@wmt.comwith a copy to:ropes & gray llp attention: keith f. higginstelephone no: (617)
+951-7386facsimile no: (617) 235-0053email: keith.higgins@ropesgray.com(b)address for notices or communications to
+dealer:deutsche bank ag, london branchc/o deutsche bank securities inc.60 wall street new york, ny 10005attention:
+andrew yaegertelephone: (212) 250-2717email: andrew.yaeger@db.comwith a copy to:(same address as above)attention: paul
+stowelltelephone: (212) 250-6270email: paul.stowell@db.comattention: faiz khantelephone: (212) 250-0668email:
+faiz.khan@db.com8.representations and warranties of company.each of the representations and warranties of company set
+forth in section 3 of the purchase agreement (the “purchase agreement”), dated as of august 22, 2012, between company
+and j.p. morgan securities llc, as representative of the initial purchasers party thereto (the “initial purchaser”), are
+true and correct and are hereby deemed to be repeated to dealer as if set forth herein. company hereby further
+represents and warrants to dealer on the date hereof, on and as of the premium payment date and, in the case of the
+representations in section 8(d), at all times until termination of the transaction, that:(a)company has all necessary
+corporate power and authority to execute, deliver and perform its obligations in respect of the transaction; such
+execution, delivery and performance have been duly authorized by all necessary corporate action on company's part; and
+this confirmation has been duly and validly executed and delivered by company and constitutes its valid and binding
+obligation, enforceable against company in accordance with its terms, subject to applicable bankruptcy, insolvency,
+fraudulent conveyance, reorganization, moratorium and similar laws affecting creditors' rights and remedies generally,
+and subject, as to enforceability, to general principles of equity, including principles of commercial reasonableness,
+good faith and fair dealing (regardless of whether enforcement is sought in a proceeding at law or in equity) and except
+that rights to indemnification and contribution hereunder may be limited by federal or state securities laws or public
+policy relating thereto.(b)neither the execution and delivery of this confirmation nor the incurrence or performance of
+obligations of company hereunder will conflict with or result in a breach of the certificate of incorporation or by‑laws
+(or any equivalent documents) of company, or any applicable law or regulation, or any order, writ, injunction or decree
+of any court or governmental authority or agency, or any agreement or instrument to which company or any of its
+subsidiaries is a party or by which company or any of its subsidiaries is bound or to which company or any of its
+subsidiaries is subject, or constitute a default under, or result in the creation of any lien under, any such agreement
+or instrument.(c)no consent, approval, authorization, or order of, or filing with, any governmental agency or body or
+any court is required in connection with the execution, delivery or performance by company of this confirmation, except
+such as have been obtained or made and such as may be required under the securities act of 1933, as amended (the
+“securities act”) or state securities laws.(d)a number of shares equal to the maximum number of shares (as defined
+below) (the “warrant shares”) have been reserved for issuance by all required corporate action of company. the warrant
+shares have been duly authorized and, when delivered against payment therefor (which may include net share settlement in
+lieu of cash) and otherwise as contemplated by the terms of the warrants following the exercise of the warrants in
+accordance with the terms and conditions of the warrants, will be validly issued, fully-paid and non-assessable, and the
+issuance of the warrant shares will not be subject to any preemptive or similar rights.(e)company is not and, after
+consummation of the transactions contemplated hereby, will not be required to register as an “investment company” as
+such term is defined in the investment company act of 1940, as amended.(f)company is an “eligible contract participant”
+(as such term is defined in section 1a(12) of the commodity exchange act, as amended, other than a person that is an
+eligible contract participant under section 1a(12)(c) of the commodity exchange act).(g)company and each of its
+affiliates is not, on the date hereof, in possession of any material non-public information with respect to company or
+the shares.(h)no state or local (including any non-u.s. jurisdiction's) law, rule, regulation or regulatory order
+applicable to the shares would give rise to any reporting, consent, registration or other requirement (including without
+limitation a requirement to obtain prior approval from any person or entity) as a result of dealer or its affiliates
+owning or holding (however defined) shares.9.other provisions.(a)opinions. company shall deliver to dealer an opinion of
+counsel, dated as of the trade date, with respect to the matters set forth in sections 8(a) through (d) of this
+confirmation. delivery of such opinion to dealer shall be a condition precedent for the purpose of section 2(a)(iii) of
+the agreement with respect to each obligation of dealer under section 2(a)(i) of the agreement.(b)repurchase notices.
+company shall, on any day on which company effects any repurchase of shares, promptly give dealer a written notice of
+such repurchase (a “repurchase notice”) on such day if following such repurchase, the number of outstanding shares on
+such day, subject to any adjustments provided herein, is (i) less than 38 million (in the case of the first such notice)
+or (ii) thereafter more than 1 million less than the number of shares included in the immediately preceding repurchase
+notice. company agrees to indemnify and hold harmless dealer and its affiliates and their respective officers,
+directors, employees, affiliates, advisors, agents and controlling persons (each, an “indemnified person”) from and
+against any and all losses (including losses relating to dealer's hedging activities as a consequence of becoming, or of
+the risk of becoming, a section 16 “insider”, including without limitation, any forbearance from hedging activities or
+cessation of hedging activities and any losses in connection therewith with respect to the transaction), claims,
+damages, judgments, liabilities and expenses (including reasonable attorney's fees), joint or several, which an
+indemnified person actually may become subject to, as a result of company's failure to provide dealer with a repurchase
+notice on the day and in the manner specified in this paragraph, and to reimburse, within 30 days, upon written request,
+each of such indemnified persons for any reasonable legal or other expenses incurred in connection with investigating,
+preparing for, providing testimony or other evidence in connection with or defending any of the foregoing. if any suit,
+action, proceeding (including any governmental or regulatory investigation), claim or demand shall be brought or
+asserted against the indemnified person, such indemnified person shall promptly notify company in writing, and company,
+upon request of the indemnified person, shall retain counsel reasonably satisfactory to the indemnified person to
+represent the indemnified person and any others company may designate in such proceeding and shall pay the fees and
+expenses of such counsel related to such proceeding. company shall not be liable for any settlement of any proceeding
+effected without its written consent, but if settled with such consent or if there be a final judgment for the
+plaintiff, company agrees to indemnify any indemnified person from and against any loss or liability by reason of such
+settlement or judgment. company shall not, without the prior written consent of the indemnified person, effect any
+settlement of any pending or threatened proceeding in respect of which any indemnified person is or could have been a
+party and indemnity could have been sought hereunder by such indemnified person, unless such settlement includes an
+unconditional release of such indemnified person from all liability on claims that are the subject matter of such
+proceeding on terms reasonably satisfactory to such indemnified person. if the indemnification provided for in this
+paragraph is unavailable to an indemnified person or insufficient in respect of any losses, claims, damages or
+liabilities referred to therein, then company under such paragraph, in lieu of indemnifying such indemnified person
+thereunder, shall contribute to the amount paid or payable by such indemnified person as a result of such losses,
+claims, damages or liabilities. the remedies provided for in this paragraph are not exclusive and shall not limit any
+rights or remedies which may otherwise be available to any indemnified person at law or in equity. the indemnity and
+contribution agreements contained in this paragraph shall remain operative and in full force and effect regardless of
+the termination of the transaction.(c)regulation m. company is not on the trade date engaged in a distribution, as such
+term is used in regulation m under the securities exchange act of 1934, as amended (the “exchange act”), of any
+securities of company, other than a distribution meeting the requirements of the exception set forth in rules 101(b)(10)
+and 102(b)(7) of regulation m. company shall not, until the sixth scheduled trading day immediately following the
+effective date, engage in any such distribution.(d)no manipulation. company is not entering into the transaction to
+create actual or apparent trading activity in the shares (or any security convertible into or exchangeable for the
+shares) or to raise or depress or otherwise manipulate the price of the shares (or any security convertible into or
+exchangeable for the shares) or otherwise in violation of the exchange act.(e)transfer or assignment. company may not
+transfer any of its rights or obligations under the transaction without the prior written consent of dealer. dealer may,
+without company's consent, transfer or assign all or any part of its rights or obligations under the transaction to any
+third party; provided, however, that the transferee or assignee shall not be entitled to receive any greater payment of
+additional amounts under section 2(d)(i)(4) of the agreement than dealer would have been entitled to receive, except to
+the extent such entitlement to receive a greater payment results from a change in tax law that occurs after the date of
+the transfer or assignment. if at any time at which (a) the section 16 percentage exceeds 7.5%, (b) the warrant equity
+percentage exceeds 14.5%, or (c) the share amount exceeds the applicable share limit (if any applies) (any such
+condition described in clauses (a), (b) or (c), an “excess ownership position”), dealer is unable after using its
+commercially reasonable efforts to effect a transfer or assignment of warrants to a third party on pricing terms
+reasonably acceptable to dealer and within a time period reasonably acceptable to dealer such that no excess ownership
+position exists, then dealer may designate any exchange business day as an early termination date with respect to a
+portion of the transaction (the “terminated portion”), such that following such partial termination no excess ownership
+position exists. in the event that dealer so designates an early termination date with respect to a terminated portion,
+a payment shall be made pursuant to section 6 of the agreement as if (1) an early termination date had been designated
+in respect of a transaction having terms identical to the transaction and a number of warrants equal to the number of
+warrants underlying the terminated portion, (2) company were the sole affected party with respect to such partial
+termination and (3) the terminated portion were the sole affected transaction (and, for the avoidance of doubt, the
+provisions of section 9(j) shall apply to any amount that is payable by company to dealer pursuant to this sentence as
+if company was not the affected party). the “section 16 percentage” as of any day is the fraction, expressed as a
+percentage, (a) the numerator of which is the number of shares that dealer and each person subject to aggregation of
+shares with dealer under section 13 or section 16 of the exchange act and rules promulgated thereunder directly or
+indirectly beneficially own (as defined under section 13 or section 16 of the exchange act and rules promulgated
+thereunder) and (b) the denominator of which is the number of shares outstanding. the “warrant equity percentage” as of
+any day is the fraction, expressed as a percentage, (a) the numerator of which is the sum of (1) the product of the
+number of warrants and the warrant entitlement and (2) the aggregate number of shares underlying any other warrants
+purchased by dealer from company, and (b) the denominator of which is the number of shares outstanding. the “share
+amount” as of any day is the number of shares that dealer and any person whose ownership position would be aggregated
+with that of dealer (dealer or any such person, a “dealer person”) under any law, rule, regulation, regulatory order or
+organizational documents or contracts of company that are, in each case, applicable to ownership of shares (“applicable
+restrictions”), owns, beneficially owns, constructively owns, controls, holds the power to vote or otherwise meets a
+relevant definition of ownership under any applicable restriction, as determined by dealer in its reasonable discretion.
+the “applicable share limit” means a number of shares equal to (a) the minimum number of shares that could give rise to
+reporting or registration obligations or other requirements (including obtaining prior approval from any person or
+entity) of a dealer person, or could result in an adverse effect on a dealer person, under any applicable restriction,
+as determined by dealer in its reasonable discretion, minus (b) 1% of the number of shares outstanding. notwithstanding
+any other provision in this confirmation to the contrary requiring or allowing dealer to purchase, sell, receive or
+deliver any shares or other securities, or make or receive any payment in cash, to or from company, dealer may designate
+any of its affiliates to purchase, sell, receive or deliver such shares or other securities, or make or receive such
+payment in cash, and otherwise to perform dealer's obligations in respect of the transaction and any such designee may
+assume such obligations. dealer shall be discharged of its obligations to company to the extent of any such performance.
+(f)dividends. if at any time during the period from and including the effective date, to and including the last
+expiration date, an ex-dividend date for a cash dividend occurs with respect to the shares (an “ex-dividend date”), then
+the calculation agent will adjust any of the strike price, number of warrants, daily number of warrants and/or any other
+variable relevant to the exercise, settlement or payment of the transaction to preserve the fair value of the warrants
+to dealer after taking into account such dividend. (g)matters related to agent. each party agrees and acknowledges that
+(i) agent acts solely as agent on a disclosed basis with respect to the transaction, and (ii) agent has no obligation,
+by guaranty, endorsement or otherwise, with respect to the obligations of either company or dealer hereunder, either
+with respect to the delivery of cash or shares, either at the beginning or the end of the transaction. in this regard,
+each of company and dealer acknowledges and agrees to look solely to the other for performance hereunder, and not to
+agent.(h)additional provisions.(i)amendments to the equity definitions:(a)section 11.2(a) of the equity definitions is
+hereby amended by deleting the words “a diluting or concentrative” and replacing them with the words “an”; and adding
+the phrase “or warrants” at the end of the sentence.(b)section 11.2(c) of the equity definitions is hereby amended by
+(w) replacing the words “a diluting or concentrative” with “an” in the fifth line thereof, (x) adding the phrase “or
+warrants” after the words “the relevant shares” in the same sentence, (y) deleting the words “diluting or concentrative”
+in the sixth to last line thereof and (z) deleting the phrase “(provided that no adjustments will be made to account
+solely for changes in volatility, expected dividends, stock loan rate or liquidity relative to the relevant shares)” and
+replacing it with the phrase “(and, for the avoidance of doubt, adjustments may be made to account solely for changes in
+volatility, expected dividends, stock loan rate or liquidity relative to the relevant shares).”(c)section 11.2(e)(vii)
+of the equity definitions is hereby amended by deleting the words “a diluting or concentrative” and replacing them with
+the word “a material”; and adding the phrase “or warrants” at the end of the sentence.(d)section 12.6(a)(ii) of the
+equity definitions is hereby amended by (1) deleting from the fourth line thereof the word “or” after the word
+“official” and inserting a comma therefor, and (2) deleting the semi-colon at the end of subsection (b) thereof and
+inserting the following words therefor “or (c) at dealer's option, the occurrence of any of the events specified in
+section 5(a)(vii) (1) through (9) of the isda master agreement with respect to that issuer.”(e)section 12.9(b)(iv) of
+the equity definitions is hereby amended by:(x)deleting (1) subsection (a) in its entirety, (2) the phrase “or (b)”
+following subsection (a) and (3) the phrase “in each case” in subsection (b); and(y)replacing the phrase “neither the
+non-hedging party nor the lending party lends shares” with the phrase “such lending party does not lend shares” in the
+penultimate sentence.(f)section 12.9(b)(v) of the equity definitions is hereby amended by:(x)adding the word “or”
+immediately before subsection “(b)” and deleting the comma at the end of subsection (a); and(y)(1) deleting subsection
+(c) in its entirety, (2) deleting the word “or” immediately preceding subsection (c), (3) deleting the penultimate
+sentence in its entirety and replacing it with the sentence “the hedging party will determine the cancellation amount
+payable by one party to the other.” and (4) deleting clause (x) in the final sentence.(ii)notwithstanding anything to
+the contrary in this confirmation, upon the occurrence of one of the following events, with respect to the transaction,
+(1) dealer shall have the right to designate such event an additional termination event and designate an early
+termination date pursuant to section 6(b) of the agreement, (2) company shall be deemed the sole affected party with
+respect to such additional termination event and (3) the transaction, or, at the election of dealer in its sole
+discretion, any portion of the transaction, shall be deemed the sole affected transaction; provided that if dealer so
+designates an early termination date with respect to a portion of the transaction, (a) a payment shall be made pursuant
+to section 6 of the agreement as if an early termination date had been designated in respect of a transaction having
+terms identical to the transaction and a number of warrants equal to the number of warrants included in the terminated
+portion of the transaction, and (b) for the avoidance of doubt, the transaction shall remain in full force and effect
+except that the number of warrants shall be reduced by the number of warrants included in such terminated portion:(a)a
+“person” or “group” within the meaning of section 13(d) of the exchange act, other than company, its subsidiaries or its
+or their employee benefit plans, files a schedule to or any schedule, form or report under the exchange act disclosing
+that such person or group has become the direct or indirect “beneficial owner,” as defined in rule 13d-3 under the
+exchange act, of the common equity of company representing more than 50% of the voting power of such common
+equity.(b)consummation of (i) any recapitalization, reclassification or change of the shares (other than changes
+resulting from a subdivision or combination) as a result of which the shares would be converted into, or exchanged for,
+stock, other securities, other property or assets; (ii) any share exchange, consolidation or merger of company pursuant
+to which the shares will be converted into cash, securities or other property; or (iii) any sale, lease or other
+transfer in one transaction or a series of transactions of all or substantially all of the consolidated assets of
+company and its subsidiaries, taken as a whole, to any person other than one of company's subsidiaries.(c)a transaction
+or transactions described in clause (b) above shall not constitute an additional termination event, however, if at least
+90% of the consideration received or to be received by holders of the shares, excluding cash payments for fractional
+shares and cash payments made pursuant to dissenters' appraisal rights, in connection with such transaction or
+transactions consists of shares of common stock that are listed or quoted on any of the new york stock exchange, the
+nasdaq global select market or the nasdaq global market (or any of their respective successors) or will be so listed or
+quoted when issued or exchanged in connection with such transaction or transactions, and as a result of such transaction
+or transactions, the reference property for the shares becomes such consideration, excluding cash payments for
+fractional shares.(d)default by the company or any of its subsidiaries with respect to any mortgage, agreement or other
+instrument under which there may be outstanding, or by which there may be secured or evidenced, any indebtedness for
+money borrowed in excess of $15 million in the aggregate of the company and/or any such subsidiary, whether such
+indebtedness now exists or shall hereafter be created (i) resulting in such indebtedness becoming or being accelerated
+and declared due and payable prior to its stated maturity date or (ii) constituting a failure to pay the principal or
+interest of any such debt when due and payable (after the expiration of any applicable grace period) at its stated
+maturity, upon required repurchase, upon declaration of acceleration or otherwise.(e)certain events of bankruptcy,
+insolvency, or reorganization of the company or any of its significant subsidiaries as defined in article 1, rule 1-02
+of regulation s-x.(f)a final judgment for the payment of $15 million or more (excluding any amounts covered by
+insurance) rendered against company or any of its subsidiaries, which judgment is not discharged or stayed within 60
+days after (i) the date on which the right to appeal thereof has expired if no such appeal has commenced, or (ii) the
+date on which all rights to appeal have been extinguished.(g)dealer, despite using commercially reasonable efforts, is
+unable or reasonably determines that it is impractical or illegal, to hedge its exposure with respect to the transaction
+in the public market without registration under the securities act or as a result of any legal, regulatory or
+self-regulatory requirements or related policies and procedures (whether or not such requirements, policies or
+procedures are imposed by law or have been voluntarily adopted by dealer).(i)no collateral or setoff. notwithstanding
+any provision of the agreement or any other agreement between the parties to the contrary, the obligations of company
+hereunder are not secured by any collateral. obligations under the transaction shall not be set off by either party
+against any other obligations of the parties, whether arising under the agreement, this confirmation, under any other
+agreement between the parties hereto, by operation of law or otherwise. for the avoidance of doubt, in the event of
+bankruptcy or liquidation of either company or dealer, neither party shall have the right to set off any obligation that
+it may have to the other party under the transaction against any obligation such other party may have to it, whether
+arising under the agreement, this confirmation or any other agreement between the parties hereto, by operation of law or
+otherwise.(j)alternative calculations and payment on early termination and on certain extraordinary events. (i)if, in
+respect of the transaction, an amount is payable by company to dealer, (a) pursuant to section 12.7 or section 12.9 of
+the equity definitions or (b) pursuant to section 6(d)(ii) of the agreement (any such amount, a “payment obligation”),
+company shall satisfy the payment obligation by the share termination alternative (as defined below), unless (a) company
+gives irrevocable telephonic notice to dealer, confirmed in writing within one scheduled trading day, no later than
+12:00 p.m. (new york city time) on the merger date, tender offer date, announcement date (in the case of a
+nationalization, insolvency or delisting), early termination date or date of cancellation, as applicable, of its
+election that the share termination alternative shall not apply, (b) company remakes the representation set forth in
+section 8(g) as of the date of such election and (c) dealer agrees, in its sole discretion, to such election, in which
+case the provisions of section 12.7 or section 12.9 of the equity definitions, or the provisions of section 6(d)(ii) of
+the agreement, as the case may be, shall apply. share termination alternative: if applicable, company shall deliver to
+dealer the share termination delivery property on the date (the “share termination payment date”) on which the payment
+obligation would otherwise be due pursuant to section 12.7 or section 12.9 of the equity definitions or section 6(d)(ii)
+of the agreement, as applicable, subject to section 9(k)(i) below, in satisfaction, subject to section 9(k)(ii) below,
+of the relevant payment obligation, in the manner reasonably requested by dealer free of payment. share termination
+delivery property: a number of share termination delivery units, as calculated by the calculation agent, equal to the
+relevant payment obligation divided by the share termination unit price. the calculation agent shall adjust the amount
+of share termination delivery property by replacing any fractional portion of a security therein with an amount of cash
+equal to the value of such fractional security based on the values used to calculate the share termination unit price
+(without giving effect to any discount pursuant to section 9(k)(i)).share termination unit price: the value to dealer of
+property contained in one share termination delivery unit on the date such share termination delivery units are to be
+delivered as share termination delivery property, as determined by the calculation agent in its discretion by
+commercially reasonable means. in the case of a private placement of share termination delivery units that are
+restricted shares (as defined below), as set forth in section 9(k)(i) below, the share termination unit price shall be
+determined by the discounted price applicable to such share termination delivery units. in the case of a registration
+settlement of share termination delivery units that are restricted shares (as defined below) as set forth in section
+9(k)(ii) below, notwithstanding the foregoing, the share termination unit price shall be the settlement price on the
+merger date, tender offer date, announcement date (in the case of a nationalization, insolvency or delisting), early
+termination date or date of cancellation, as applicable. the calculation agent shall notify company of the share
+termination unit price at the time of notification of such payment obligation to company or, if applicable, at the time
+the discounted price applicable to the relevant share termination units is determined pursuant to section 9(k)(i). share
+termination delivery unit: one share or, if the shares have changed into cash or any other property or the right to
+receive cash or any other property as the result of a nationalization, insolvency or merger event (any such cash or
+other property, the “exchange property”), a unit consisting of the type and amount of exchange property received by a
+holder of one share (without consideration of any requirement to pay cash or other consideration in lieu of fractional
+amounts of any securities) in such nationalization, insolvency or merger event. if such nationalization, insolvency or
+merger event involves a choice of exchange property to be received by holders, such holder shall be deemed to have
+elected to receive the maximum possible amount of cash.failure to deliver: inapplicableother applicable provisions: if
+share termination alternative is applicable, the provisions of sections 9.8, 9.9, 9.11 and 9.12 (as modified above) of
+the equity definitions will be applicable, except that all references in such provisions to “physically-settled” shall
+be read as references to “share termination settled” and all references to “shares” shall be read as references to
+“share termination delivery units”. “share termination settled” in relation to the transaction means that the share
+termination alternative is applicable to the transaction.(k)registration/private placement procedures. if, in the
+reasonable opinion of dealer, following any delivery of shares or share termination delivery property to dealer
+hereunder, such shares or share termination delivery property would be in the hands of dealer subject to any applicable
+restrictions with respect to any registration or qualification requirement or prospectus delivery requirement for such
+shares or share termination delivery property pursuant to any applicable federal or state securities law (including,
+without limitation, any such requirement arising under section 5 of the securities act as a result of such shares or
+share termination delivery property being “restricted securities”, as such term is defined in rule 144 under the
+securities act, or as a result of the sale of such shares or share termination delivery property being subject to
+paragraph (c) of rule 145 under the securities act) (such shares or share termination delivery property, “restricted
+shares”), then delivery of such restricted shares shall be effected pursuant to either clause (i) or (ii) below at the
+election of company, unless dealer waives the need for registration/private placement procedures set forth in (i) and
+(ii) below. notwithstanding the foregoing, solely in respect of any daily number of warrants exercised or deemed
+exercised on any expiration date, company shall elect, prior to the first settlement date for the first applicable
+expiration date, a private placement settlement or registration settlement for all deliveries of restricted shares for
+all such expiration dates which election shall be applicable to all remaining settlement dates for such warrants and the
+procedures in clause (i) or clause (ii) below shall apply for all such delivered restricted shares on an aggregate basis
+commencing after the final settlement date for such warrants. the calculation agent shall make reasonable adjustments to
+settlement terms and provisions under this confirmation to reflect a single private placement or registration settlement
+for such aggregate restricted shares delivered hereunder.(i)if company elects to settle the transaction pursuant to this
+clause (i) (a “private placement settlement”), then delivery of restricted shares by company shall be effected in
+customary private placement procedures with respect to such restricted shares reasonably acceptable to dealer; provided
+that company may not elect a private placement settlement if, on the date of its election, it has taken, or caused to be
+taken, any action that would make unavailable either the exemption pursuant to section 4(2) of the securities act for
+the sale by company to dealer (or any affiliate designated by dealer) of the restricted shares or the exemption pursuant
+to section 4(1) or section 4(3) of the securities act for resales of the restricted shares by dealer (or any such
+affiliate of dealer). the private placement settlement of such restricted shares shall include customary
+representations, covenants, blue sky and other governmental filings and/or registrations, indemnities to dealer, due
+diligence rights (for dealer or any designated buyer of the restricted shares by dealer), opinions and certificates, and
+such other documentation as is customary for private placement agreements, all reasonably acceptable to dealer. in the
+case of a private placement settlement, dealer shall determine the appropriate discount to the share termination unit
+price (in the case of settlement of share termination delivery units pursuant to section 9(j) above) or any settlement
+price (in the case of settlement of shares pursuant to section 2 above) applicable to such restricted shares in a
+commercially reasonable manner and appropriately adjust the number of such restricted shares to be delivered to dealer
+hereunder. notwithstanding anything to the contrary in the agreement or this confirmation, the date of delivery of such
+restricted shares shall be the exchange business day following notice by dealer to company, of such applicable discount
+and the number of restricted shares to be delivered pursuant to this clause (i). for the avoidance of doubt, delivery of
+restricted shares shall be due as set forth in the previous sentence and not be due on the share termination payment
+date (in the case of settlement of share termination delivery units pursuant to section 9(j) above) or on the settlement
+date for such restricted shares (in the case of settlement in shares pursuant to section 2 above). (ii)if company elects
+to settle the transaction pursuant to this clause (ii) (a “registration settlement”), then company shall promptly (but
+in any event no later than the beginning of the resale period) file and use its reasonable best efforts to make
+effective under the securities act a registration statement or supplement or amend an outstanding registration statement
+in form and substance reasonably satisfactory to dealer, to cover the resale of such restricted shares in accordance
+with customary resale registration procedures, including covenants, conditions, representations, underwriting discounts
+(if applicable), commissions (if applicable), indemnities due diligence rights, opinions and certificates, and such
+other documentation as is customary for equity resale underwriting agreements, all reasonably acceptable to dealer. if
+dealer, in its sole reasonable discretion, is not satisfied with such procedures and documentation private placement
+settlement shall apply. if dealer is satisfied with such procedures and documentation, it shall sell the restricted
+shares pursuant to such registration statement during a period (the “resale period”) commencing on the exchange business
+day following delivery of such restricted shares (which, for the avoidance of doubt, shall be (x) the share termination
+payment date in case of settlement in share termination delivery units pursuant to section 9(j) above or (y) the
+settlement date in respect of the final expiration date for all daily number of warrants) and ending on the earliest of
+(i) the exchange business day on which dealer completes the sale of all restricted shares or, in the case of settlement
+of share termination delivery units, a sufficient number of restricted shares so that the realized net proceeds of such
+sales equals or exceeds the payment obligation (as defined above), (ii) the date upon which all restricted shares have
+been sold or transferred pursuant to rule 144 (or similar provisions then in force) or rule 145(d)(2) (or any similar
+provision then in force) under the securities act and (iii) the date upon which all restricted shares may be sold or
+transferred by a non-affiliate pursuant to rule 144 (or any similar provision then in force) or rule 145(d)(2) (or any
+similar provision then in force) under the securities act. if the payment obligation exceeds the realized net proceeds
+from such resale, company shall transfer to dealer by the open of the regular trading session on the exchange on the
+exchange trading day immediately following such resale the amount of such excess (the “additional amount”) in cash or in
+a number of shares (“make-whole shares”) in an amount that, based on the settlement price on such day (as if such day
+was the “valuation date” for purposes of computing such settlement price), has a dollar value equal to the additional
+amount. the resale period shall continue to enable the sale of the make-whole shares. if company elects to pay the
+additional amount in shares, the requirements and provisions for registration settlement shall apply. this provision
+shall be applied successively until the additional amount is equal to zero. in no event shall company deliver a number
+of restricted shares greater than the maximum number of shares.(iii)without limiting the generality of the foregoing,
+company agrees that (a) any restricted shares delivered to dealer may be transferred by and among dealer and its
+affiliates and company shall effect such transfer without any further action by dealer and (b) after the period of 6
+months from the trade date (or 1 year from the trade date if, at such time, informational requirements of rule 144(c)
+under the securities act are not satisfied with respect to company) has elapsed in respect of any restricted shares
+delivered to dealer, company shall promptly remove, or cause the transfer agent for such restricted shares to remove,
+any legends referring to any such restrictions or requirements from such restricted shares upon request by dealer (or
+such affiliate of dealer) to company or such transfer agent, without any requirement for the delivery of any
+certificate, consent, agreement, opinion of counsel, notice or any other document, any transfer tax stamps or payment of
+any other amount or any other action by dealer (or such affiliate of dealer). notwithstanding anything to the contrary
+herein, to the extent the provisions of rule 144 of the securities act or any successor rule are amended, or the
+applicable interpretation thereof by the securities and exchange commission or any court change after the trade date,
+the agreements of company herein shall be deemed modified to the extent necessary, in the opinion of outside counsel of
+company, to comply with rule 144 of the securities act, as in effect at the time of delivery of the relevant shares or
+share termination delivery property.(iv)if the private placement settlement or the registration settlement shall not be
+effected as set forth in clauses (i) or (ii), as applicable, then failure to effect such private placement settlement or
+such registration settlement shall constitute an event of default with respect to which company shall be the defaulting
+party.(l)limit on beneficial ownership. notwithstanding any other provisions hereof, dealer may not exercise any warrant
+hereunder or be entitled to take delivery of any shares deliverable hereunder, and automatic exercise shall not apply
+with respect to any warrant hereunder, to the extent (but only to the extent) that, after such receipt of any shares
+upon the exercise of such warrant or otherwise hereunder, (i) the section 16 percentage would exceed 7.5%, or (ii) the
+share amount would exceed the applicable share limit. any purported delivery hereunder shall be void and have no effect
+to the extent (but only to the extent) that, after such delivery, (i) the section 16 percentage would exceed 7.5%, or
+(ii) the share amount would exceed the applicable share limit. if any delivery owed to dealer hereunder is not made, in
+whole or in part, as a result of this provision, company's obligation to make such delivery shall not be extinguished
+and company shall make such delivery as promptly as practicable after, but in no event later than one business day
+after, dealer gives notice to company that, after such delivery, (i) the section 16 percentage would not exceed 7.5%,
+and (ii) the share amount would not exceed the applicable share limit. (m)share deliveries. notwithstanding anything to
+the contrary herein, company agrees that any delivery of shares or share termination delivery property shall be effected
+by book-entry transfer through the facilities of dtc, or any successor depositary, if at the time of delivery, such
+class of shares or class of share termination delivery property is in book-entry form at dtc or such successor
+depositary. (n)waiver of jury trial. each party waives, to the fullest extent permitted by applicable law, any right it
+may have to a trial by jury in respect of any suit, action or proceeding relating to the transaction. each party (i)
+certifies that no representative, agent or attorney of the other party has represented, expressly or otherwise, that
+such other party would not, in the event of such a suit, action or proceeding, seek to enforce the foregoing waiver and
+(ii) acknowledges that it and the other party have been induced to enter into the transaction, as applicable, by, among
+other things, the mutual waivers and certifications provided herein.(o)tax disclosure. effective from the date of
+commencement of discussions concerning the transaction, company and each of its employees, representatives, or other
+agents may disclose to any and all persons, without limitation of any kind, the tax treatment and tax structure of the
+transaction and all materials of any kind (including opinions or other tax analyses) that are provided to company
+relating to such tax treatment and tax structure.(p)maximum share delivery. (i)notwithstanding any other provision of
+this confirmation, the agreement or the equity definitions, in no event will company at any time be required to deliver
+a number of shares greater than two times the number of warrants (the “maximum number of shares”) to dealer in
+connection with the transaction, subject to the provisions regarding deficit shares in section 9(p)(ii).(ii)in the event
+company shall not have delivered to dealer the full number of shares or restricted shares otherwise deliverable by
+company to dealer pursuant to the terms of the transaction because company has insufficient authorized but unissued
+shares (such deficit, the “deficit shares”), company shall be continually obligated to deliver, from time to time,
+shares or restricted shares, as the case may be, to dealer until the full number of deficit shares have been delivered
+pursuant to this section 9(p)(ii), when, and to the extent that, (a) shares are repurchased, acquired or otherwise
+received by company or any of its subsidiaries after the trade date (whether or not in exchange for cash, fair value or
+any other consideration), (b) authorized and unissued shares previously reserved for issuance in respect of other
+transactions become no longer so reserved or (c) company additionally authorizes any unissued shares that are not
+reserved for other transactions; provided that in no event shall company deliver any shares or restricted shares to
+dealer pursuant to this section 9(p)(ii) to the extent that such delivery would cause the aggregate number of shares and
+restricted shares delivered to dealer to exceed the maximum number of shares. company shall immediately notify dealer of
+the occurrence of any of the foregoing events (including the number of shares subject to clause (a), (b) or (c) and the
+corresponding number of shares or restricted shares, as the case may be, to be delivered) and promptly deliver such
+shares or restricted shares, as the case may be, thereafter.(q)right to extend. dealer may postpone or add, in whole or
+in part, any expiration date or any other date of valuation or delivery with respect to some or all of the relevant
+warrants (in which event the calculation agent shall make appropriate adjustments to the daily number of warrants with
+respect to one or more expiration dates) if dealer determines, in its commercially reasonable judgment, that such
+extension is reasonably necessary or appropriate to preserve dealer's hedging or hedge unwind activity hereunder in
+light of existing liquidity conditions or to enable dealer to effect purchases of shares in connection with its hedging,
+hedge unwind or settlement activity hereunder in a manner that would, if dealer were issuer or an affiliated purchaser
+of issuer, be in compliance with applicable legal, regulatory or self-regulatory requirements, or with related policies
+and procedures applicable to dealer.(r)status of claims in bankruptcy. dealer acknowledges and agrees that this
+confirmation is not intended to convey to dealer rights against company with respect to the transaction that are senior
+to the claims of common stockholders of company in any united states bankruptcy proceedings of company; provided that
+nothing herein shall limit or shall be deemed to limit dealer's right to pursue remedies in the event of a breach by
+company of its obligations and agreements with respect to the transaction; provided, further, that nothing herein shall
+limit or shall be deemed to limit dealer's rights in respect of any transactions other than the
+transaction.(s)securities contract; swap agreement. the parties hereto intend for (i) the transaction to be a
+“securities contract” and a “swap agreement” as defined in the bankruptcy code (title 11 of the united states code) (the
+“bankruptcy code”), and the parties hereto to be entitled to the protections afforded by, among other sections, sections
+362(b)(6), 362(b)(17), 546(e), 546(g), 555 and 560 of the bankruptcy code, (ii) a party's right to liquidate the
+transaction and to exercise any other remedies upon the occurrence of any event of default under the agreement with
+respect to the other party to constitute a “contractual right” as described in the bankruptcy code, and (iii) each
+payment and delivery of cash, securities or other property hereunder to constitute a “margin payment” or “settlement
+payment” and a “transfer” as defined in the bankruptcy code.(t)wall street transparency and accountability act. in
+connection with section 739 of the wall street transparency and accountability act of 2010 (“wstaa”), the parties hereby
+agree that neither the enactment of wstaa or any regulation under the wstaa, nor any requirement under wstaa or an
+amendment made by wstaa, shall limit or otherwise impair either party's otherwise applicable rights to terminate,
+renegotiate, modify, amend or supplement this confirmation or the agreement, as applicable, arising from a termination
+event, force majeure, illegality, increased costs, regulatory change or similar event under this confirmation, the
+equity definitions incorporated herein, or the agreement (including, but not limited to, rights arising from change in
+law, hedging disruption, increased cost of hedging, an excess ownership position, or illegality (as defined in the
+agreement)).(u)agreements and acknowledgements regarding hedging. company understands, acknowledges and agrees that: (a)
+at any time on and prior to the last expiration date, dealer and its affiliates may buy or sell shares or other
+securities or buy or sell options or futures contracts or enter into swaps or other derivative securities in order to
+adjust its hedge position with respect to the transaction; (b) dealer and its affiliates also may be active in the
+market for shares other than in connection with hedging activities in relation to the transaction; (c) dealer shall make
+its own determination as to whether, when or in what manner any hedging or market activities in securities of issuer
+shall be conducted and shall do so in a manner that it deems appropriate to hedge its price and market risk with respect
+to the settlement prices; and (d) any market activities of dealer and its affiliates with respect to shares may affect
+the market price and volatility of shares, as well as the settlement prices, each in a manner that may be adverse to
+company.(v)early unwind. in the event the sale of the “underwritten securities” (as defined in the purchase agreement)
+is not consummated with the initial purchaser for any reason, or company fails to deliver to dealer opinions of counsel
+as required pursuant to section 9(a), in each case by 5:00 p.m. (new york city time) on the premium payment date, or
+such later date as agreed upon by the parties (the premium payment date or such later date the “early unwind date”), the
+transaction shall automatically terminate (the “early unwind”), on the early unwind date and (i) the transaction and all
+of the respective rights and obligations of dealer and company under the transaction shall be cancelled and terminated
+and (ii) each party shall be released and discharged by the other party from and agrees not to make any claim against
+the other party with respect to any obligations or liabilities of the other party arising out of and to be performed in
+connection with the transaction either prior to or after the early unwind date; provided that company shall purchase
+from dealer on the early unwind date all shares purchased by dealer or one or more of its affiliates as hedging
+positions in respect of this transaction at the then prevailing market price. each of dealer and company represents and
+acknowledges to the other that, subject to the proviso included in this section 9(v), upon an early unwind, all
+obligations with respect to the transaction shall be deemed fully and finally discharged.(w)payment by dealer. in the
+event that (i) an early termination date occurs or is designated with respect to the transaction as a result of a
+termination event or an event of default (other than an event of default arising under section 5(a)(ii) or 5(a)(iv) of
+the agreement) and, as a result, dealer owes to company an amount calculated under section 6(e) of the agreement, or
+(ii) dealer owes to company, pursuant to section 12.7 or section 12.9 of the equity definitions, an amount calculated
+under section 12.8 of the equity definitions, such amount shall be deemed to be zero.(x)designation by dealer.
+notwithstanding any other provision in this confirmation to the contrary requiring or allowing dealer to purchase, sell,
+receive or deliver any shares or other securities to or from company, dealer may designate any of its affiliates to
+purchase, sell, receive or deliver such shares or other securities and otherwise to perform dealer's obligations in
+respect of the transaction and any such designee may assume such obligations. dealer shall be discharged of its
+obligations to company to the extent of any such performance.this confirmation may be executed in several counterparts,
+each of which shall be deemed an original but all of which together shall constitute one and the same instrument.company
+hereby agrees to check this confirmation and to confirm that the foregoing correctly sets forth the terms of the
+transaction by signing in the space provided below and returning to dealer a facsimile of the fully-executed
+confirmation to dealer at 44 113 336 2009. originals shall be provided for your execution upon your request.we are very
+pleased to have executed the transaction with you and we look forward to completing other transactions with you in the
+near future.very truly yours, deutsche bank ag, london branchby: /s/ michael sanderson name: michael sandersontitle:
+managing directorby: /s/ dushyant chadha name: dushyant chadhatitle: managing directordeutsche bank securities
+inc.,acting solely as agent in connection with this transactionby: /s/ michael sanderson name: michael sandersontitle:
+managing directorby: /s/ dushyant chadha name: dushyant chadhatitle: managing directoraccepted and confirmedas of the
+trade date:wright medical group, inc.by: /s/ lance a. berryauthorized signatoryname:lance a. berry
+

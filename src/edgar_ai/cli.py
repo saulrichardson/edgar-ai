@@ -45,7 +45,7 @@ def _parse_args(argv: List[str] | None = None) -> argparse.Namespace:  # noqa: D
     )
     extract_cmd.add_argument(
         "path",
-        help="HTML/HTM or plain-text file containing an exhibit.",
+        help="Path to an HTML/HTM/TXT file or to a directory of exhibits.",
     )
     extract_cmd.add_argument(
         "-v",
@@ -57,6 +57,11 @@ def _parse_args(argv: List[str] | None = None) -> argparse.Namespace:  # noqa: D
         "--reset-memory",
         action="store_true",
         help="Flush the persisted schema memory before running (starts fresh).",
+    )
+    extract_cmd.add_argument(
+        "--record-llm",
+        action="store_true",
+        help="Record all LLM request/response traffic for audit (requires gateway logging).",
     )
 
     # Schema management
@@ -139,6 +144,10 @@ def main(argv: List[str] | None = None) -> None:  # noqa: D401
         if getattr(args, "reset_memory", False):
             _log("⚠️  --reset-memory flag detected – clearing memory.json")
             memory._path.write_text("[]", encoding="utf-8")  # type: ignore[attr-defined]
+
+        if getattr(args, "record_llm", False):
+            _log("⚠️  --record-llm flag detected – recording LLM session traffic")
+            os.environ["EDGAR_AI_RECORD_SESSION"] = "1"
 
         path = Path(args.path).expanduser().resolve()
 

@@ -1,0 +1,652 @@
+
+purchase agreement exhibit 10.1 purchase agreement between afs sensub corp. purchaser and americredit financial
+services, inc. seller dated as of september 10, 2012 table of contents page article i. definitions 1 section 1.1 general
+1 section 1.2 specific terms 1 section 1.3 usage of terms 2 section 1.4 [reserved] 2 section 1.5 no recourse 2 section
+1.6 action by or consent of noteholders and certificateholder 3 article ii. conveyance of the receivables and the other
+conveyed property 3 section 2.1 conveyance of the receivables and the other conveyed property 3 article iii.
+representations and warranties 4 section 3.1 representations and warranties of seller 4 section 3.2 representations and
+warranties of purchaser 6 article iv. covenants of seller 8 section 4.1 protection of title of purchaser 8 section 4.2
+other liens or interests 9 section 4.3 costs and expenses 10 section 4.4 indemnification 10 article v. repurchases 12
+section 5.1 repurchase of receivables upon breach of warranty 12 section 5.2 reassignment of purchased receivables 12
+section 5.3 waivers 13 article vi. miscellaneous 13 section 6.1 liability of seller 13 section 6.2 merger or
+consolidation of seller or purchaser 13 section 6.3 limitation on liability of seller and others 14 section 6.4 seller
+may own notes or the certificate 14 section 6.5 amendment 14 section 6.6 notices 15 section 6.7 merger and integration
+15 section 6.8 severability of provisions 15 section 6.9 intention of the parties. 15 section 6.10 governing law 16
+section 6.11 counterparts 16 section 6.12 conveyance of the receivables and the other conveyed property to the issuer 16
+section 6.13 nonpetition covenant 17 i schedules schedule a — schedule of receivables schedule b — representations and
+warranties from the seller as to the receivables ii purchase agreement this purchase agreement, dated as of september
+10, 2012, executed between afs sensub corp., a nevada corporation, as purchaser (“purchaser”) and americredit financial
+services, inc., a delaware corporation, as seller (“seller”). w i t n e s s e t h : whereas, purchaser has agreed to
+purchase from the seller, and the seller, pursuant to this agreement, is transferring to purchaser the receivables and
+other conveyed property. now, therefore, in consideration of the premises and the mutual agreements hereinafter
+contained, and for other good and valuable consideration, the receipt of which is acknowledged, purchaser and the
+seller, intending to be legally bound, hereby agree as follows: article i. definitions section 1.1 general. the specific
+terms defined in this article include the plural as well as the singular. the words “herein,” “hereof” and “hereunder”
+and other words of similar import refer to this agreement as a whole and not to any particular article, section or other
+subdivision, and article, section, schedule and exhibit references, unless otherwise specified, refer to articles and
+sections of and schedules and exhibits to this agreement. capitalized terms used herein without definition shall have
+the respective meanings assigned to such terms in the sale and servicing agreement dated as of september 10, 2012, by
+and among afs sensub corp., as seller, americredit financial services, inc., in its individual capacity and as servicer,
+americredit automobile receivables trust 2012-4, as issuer, and wells fargo bank, national association, as trust
+collateral agent. section 1.2 specific terms. whenever used in this agreement, the following words and phrases, unless
+the context otherwise requires, shall have the following meanings: “agreement” shall mean this purchase agreement and
+all amendments hereof and supplements hereto. “closing date” means september 20, 2012. “issuer” means americredit
+automobile receivables trust 2012-4. “other conveyed property” means all property conveyed by the seller to the
+purchaser pursuant to section 2.1(a)(2) through (8) of this agreement. “owner trustee” means wilmington trust company,
+as owner trustee appointed and acting pursuant to the trust agreement. 1 “purchase agreement collateral” has the meaning
+specified in section 6.9 of this agreement. “receivables” has the meaning assigned in the sale and servicing agreement.
+“related documents” means the notes, the certificate, the custodian agreement, the sale and servicing agreement, the
+indenture, the trust agreement, the lockbox account agreement, the lockbox processing agreement, the underwriting
+agreement and the note purchase agreement. the related documents to be executed by any party are referred to herein as
+“such party’s related documents,” “its related documents” or by a similar expression. “repurchase event” means the
+occurrence of a breach of any of the seller’s representations and warranties hereunder or any other event which requires
+the repurchase of a receivable by the seller under the sale and servicing agreement. “sale and servicing agreement”
+means the sale and servicing agreement referred to in section 1.1 hereof. “schedule of receivables” means the schedule
+of receivables sold and transferred pursuant to this agreement which is attached hereto as schedule a. “schedule of
+representations” means the schedule of representations and warranties attached hereto as schedule b. “trust collateral
+agent” means wells fargo bank, national association, as trust collateral agent and any successor trust collateral agent
+appointed and acting pursuant to the sale and servicing agreement. “trustee” means wells fargo bank, national
+association, as trustee and any successor trustee appointed and acting pursuant to the indenture. section 1.3 usage of
+terms. with respect to all terms used in this agreement, the singular includes the plural and the plural the singular;
+words importing any gender include the other gender; references to “writing” include printing, typing, lithography, and
+other means of reproducing words in a visible form; references to agreements and other contractual instruments include
+all subsequent amendments thereto or changes therein entered into in accordance with their respective terms and not
+prohibited by this agreement or the sale and servicing agreement; references to persons include their permitted
+successors and assigns; and the terms “include” or “including” mean “include without limitation” or “including without
+limitation.” section 1.4 [reserved]. section 1.5 no recourse. without limiting the obligations of seller hereunder, no
+recourse may be taken, directly or indirectly, under this agreement or any certificate or other writing delivered in
+connection herewith or therewith, against any stockholder, officer or director, as such, of seller, or of any
+predecessor or successor of seller. 2 section 1.6 action by or consent of noteholders and certificateholder. whenever
+any provision of this agreement refers to action to be taken, or consented to, by the noteholders or the
+certificateholder, such provision shall be deemed to refer to the noteholders or the certificateholder, as the case may
+be, of record as of the record date immediately preceding the date on which such action is to be taken, or consent
+given, by noteholders or the certificateholder. solely for the purposes of any action to be taken, or consented to, by
+noteholders or the certificateholder, any note or the certificate registered in the name of the seller or any affiliate
+thereof shall be deemed not to be outstanding; provided, however, that, solely for the purpose of determining whether
+the trustee or the trust collateral agent is entitled to rely upon any such action or consent, only notes or the
+certificate which the owner trustee, the trustee or the trust collateral agent, respectively, knows to be so owned shall
+be so disregarded. article ii. conveyance of the receivables and the other conveyed property section 2.1 conveyance of
+the receivables and the other conveyed property. (a) subject to the terms and conditions of this agreement, seller
+hereby sells, transfers, assigns, and otherwise conveys to purchaser without recourse (but without limitation of its
+obligations in this agreement), and purchaser hereby purchases, all right, title and interest of seller in and to the
+following described property (collectively, the “receivables and the other conveyed property”): (1) the receivables and
+all moneys received thereon after the cutoff date; (2) the security interests in the financed vehicles granted by
+obligors pursuant to the receivables and any other interest of the seller in such financed vehicles; (3) any proceeds
+and the right to receive proceeds with respect to the receivables from claims on any physical damage, credit life or
+disability insurance policies covering financed vehicles or obligors and any proceeds from the liquidation of the
+receivables; (4) any proceeds received from a dealer pursuant to a dealer agreement or a third-party lender pursuant to
+an auto loan purchase and sale agreement as a result of a breach of representation or warranty in the related dealer
+agreement or auto loan purchase and sale agreement; (5) all rights under any service contracts on the related financed
+vehicles; 3 (6) the related receivable files; (7) all of the seller’s (i) accounts, (ii) chattel paper, (iii) documents,
+(iv) instruments and (v) general intangibles (as such terms are defined in the ucc) relating to the property described
+in (1) through (6); and (8) all proceeds and investments with respect to items (1) through (7). it is the intention of
+seller and purchaser that the transfer and assignment contemplated by this agreement shall constitute a sale of the
+receivables and the other conveyed property from seller to purchaser, conveying good title thereto free and clear of any
+liens, and the beneficial interest in and title to the receivables and the other conveyed property shall not be part of
+seller’s estate in the event of the filing of a bankruptcy petition by or against seller under any bankruptcy or similar
+law. (b) simultaneously with the conveyance of the receivables and the other conveyed property to purchaser, purchaser
+has paid or caused to be paid to or upon the order of seller an amount equal to the book value of the receivables sold
+by seller, as set forth on the books and records of seller, by wire transfer of immediately available funds and the
+remainder as a contribution to the capital of the purchaser (a wholly-owned subsidiary of seller). article iii.
+representations and warranties section 3.1 representations and warranties of seller. seller makes the following
+representations and warranties as of the date hereof and as of the closing date on which purchaser relies in purchasing
+the receivables and the other conveyed property and in transferring the receivables and the other conveyed property to
+the issuer under the sale and servicing agreement. such representations are made as of the execution and delivery of
+this agreement, but shall survive the sale, transfer and assignment of the receivables and the other conveyed property
+hereunder, and the sale, transfer and assignment thereof by purchaser to the issuer under the sale and servicing
+agreement. seller and purchaser agree that purchaser will assign to issuer all purchaser’s rights under this agreement
+and that the trustee will thereafter be entitled to enforce this agreement against seller in the trustee’s own name on
+behalf of the noteholders. (a) schedule of representations. the representations and warranties set forth on the schedule
+of representations with respect to the receivables as of the date hereof, and as of the closing date, are true and
+correct. (b) organization and good standing. seller has been duly organized and is validly existing as a corporation in
+good standing under the laws of the state of delaware, with power and authority to own its properties and to conduct its
+business as such properties are currently owned and such business is currently conducted, and had at all relevant times,
+and now has, power, authority and legal right to acquire, own and sell the receivables and the other conveyed property
+to be transferred to purchaser. 4 (c) due qualification. seller is duly qualified to do business as a foreign
+corporation, is in good standing, and has obtained all necessary licenses and approvals in all jurisdictions in which
+the ownership or lease of its property or the conduct of its business requires such qualification. (d) power and
+authority. seller has the power and authority to execute and deliver this agreement and its related documents and to
+carry out its terms and their terms, respectively; seller has full power and authority to sell and assign the
+receivables and the other conveyed property to be sold and assigned to and deposited with purchaser hereunder and has
+duly authorized such sale and assignment to purchaser by all necessary corporate action; and the execution, delivery and
+performance of this agreement and seller’s related documents have been duly authorized by seller by all necessary
+corporate action. (e) no consent required. seller is not required to obtain the consent of any other person, or any
+consent, license, approval or authorization or registration or declaration with, any governmental authority, bureau or
+agency in connection with the execution, delivery or performance of this agreement and the related documents, except for
+such as have been obtained, effected or made. (f) valid sale; binding obligations. this agreement and seller’s related
+documents have been duly executed and delivered, shall effect a valid sale, transfer and assignment of the receivables
+and the other conveyed property to the purchaser, enforceable against seller and creditors of and purchasers from
+seller; and this agreement and seller’s related documents constitute legal, valid and binding obligations of seller
+enforceable in accordance with their respective terms, except as enforceability may be limited by bankruptcy,
+insolvency, reorganization or other similar laws affecting the enforcement of creditors’ rights generally and by
+equitable limitations on the availability of specific remedies, regardless of whether such enforceability is considered
+in a proceeding in equity or at law. (g) no violation. the consummation of the transactions contemplated by this
+agreement and the related documents, and the fulfillment of the terms of this agreement and the related documents, shall
+not conflict with, result in any breach of any of the terms and provisions of, or constitute (with or without notice,
+lapse of time or both) a default under, the articles of incorporation or bylaws of seller, or any indenture, agreement,
+mortgage, deed of trust or other instrument to which seller is a party or by which it is bound, or result in the
+creation or imposition of any lien upon any of its properties pursuant to the terms of any such indenture, agreement,
+mortgage, deed of trust or other instrument, other than this agreement, the sale and servicing agreement and the
+indenture, or violate any law, order, rule or regulation applicable to seller of any court or of any federal or state
+regulatory body, administrative agency or other governmental instrumentality having jurisdiction over seller or any of
+its properties. 5 (h) no proceedings. there are no proceedings or investigations pending or, to seller’s knowledge,
+threatened against seller, before any court, regulatory body, administrative agency or other tribunal or governmental
+instrumentality having jurisdiction over seller or its properties (i) asserting the invalidity of this agreement or any
+of the related documents, (ii) seeking to prevent the issuance of the notes or the consummation of any of the
+transactions contemplated by this agreement or any of the related documents, (iii) seeking any determination or ruling
+that might materially and adversely affect the performance by seller of its obligations under, or the validity or
+enforceability of, this agreement or any of the related documents or (iv) seeking to affect adversely the federal income
+tax or other federal, state or local tax attributes of, or seeking to impose any excise, franchise, transfer or similar
+tax upon, the transfer and acquisition of the receivables and the other conveyed property hereunder or under the sale
+and servicing agreement. (i) solvency. the seller is not insolvent, nor will the seller be made insolvent by the
+transfer of the receivables, nor does the seller anticipate any pending insolvency. (j) true sale. the receivables are
+being transferred with the intention of removing them from seller’s estate pursuant to section 541 of the bankruptcy
+code, as the same may be amended from time to time. (k) chief executive office and principal place of business. the
+chief executive office and principal place of business of seller is located at 801 cherry street, suite 3500, fort
+worth, texas 76102. section 3.2 representations and warranties of purchaser. purchaser makes the following
+representations and warranties, on which seller relies in selling, assigning, transferring and conveying the receivables
+and the other conveyed property to purchaser hereunder. such representations are made as of the execution and delivery
+of this agreement, but shall survive the sale, transfer and assignment of the receivables and the other conveyed
+property hereunder and the sale, transfer and assignment thereof by purchaser to the issuer under the sale and servicing
+agreement. (a) organization and good standing. purchaser has been duly organized and is validly existing and in good
+standing as a corporation under the laws of the state of nevada, with the power and authority to own its properties and
+to conduct its business as such properties are currently owned and such business is currently conducted, and had at all
+relevant times, and has, full power, authority and legal right to acquire and own the receivables and the other conveyed
+property, and to transfer the receivables and the other conveyed property to the issuer pursuant to the sale and
+servicing agreement. (b) due qualification. purchaser is duly qualified to do business as a foreign corporation, is in
+good standing, and has obtained all necessary licenses and approvals in all jurisdictions where the failure to do so
+would materially and adversely affect purchaser’s ability to acquire the receivables or the other conveyed property, and
+to transfer the receivables and the other conveyed property to the issuer pursuant to the sale and servicing agreement,
+or the validity or enforceability of the receivables and the other conveyed property or to perform purchaser’s
+obligations hereunder and under the purchaser’s related documents. 6 (c) power and authority. purchaser has the power,
+authority and legal right to execute and deliver this agreement and to carry out the terms hereof and to acquire the
+receivables and the other conveyed property hereunder; and the execution, delivery and performance of this agreement and
+all of the documents required pursuant hereto have been duly authorized by purchaser by all necessary corporate action.
+(d) no consent required. purchaser is not required to obtain the consent of any other person, or any consent, license,
+approval or authorization or registration or declaration with, any governmental authority, bureau or agency in
+connection with the execution, delivery or performance of this agreement and the related documents, except for such as
+have been obtained, effected or made. (e) binding obligation. this agreement constitutes a legal, valid and binding
+obligation of purchaser, enforceable against purchaser in accordance with its terms, subject, as to enforceability, to
+applicable bankruptcy, insolvency, reorganization, conservatorship, receivership, liquidation and other similar laws and
+to general equitable principles. (f) no violation. the execution, delivery and performance by purchaser of this
+agreement, the consummation of the transactions contemplated by this agreement and the related documents and the
+fulfillment of the terms of this agreement and the related documents do not and will not conflict with, result in any
+breach of any of the terms and provisions of, or constitute (with or without notice or lapse of time) a default under,
+the certificate of incorporation or bylaws of purchaser, or conflict with or breach any of the terms or provisions of,
+or constitute (with or without notice or lapse of time) a default under, any indenture, agreement, mortgage, deed of
+trust or other instrument to which purchaser is a party or by which purchaser is bound or to which any of its properties
+are subject, or result in the creation or imposition of any lien upon any of its properties pursuant to the terms of any
+such indenture, agreement, mortgage, deed of trust or other instrument (other than the sale and servicing agreement), or
+violate any law, order, rule or regulation, applicable to purchaser or its properties, of any federal or state
+regulatory body, any court, administrative agency, or other governmental instrumentality having jurisdiction over
+purchaser or any of its properties. (g) no proceedings. there are no proceedings or investigations pending, or, to the
+knowledge of purchaser, threatened against purchaser, before any court, regulatory body, administrative agency, or other
+tribunal or governmental instrumentality having jurisdiction over purchaser or its properties: (i) asserting the
+invalidity of this agreement or any of the related documents, (ii) seeking to prevent the consummation of any of the
+transactions contemplated by this agreement or any of the related documents, (iii) seeking any determination or ruling
+that might materially and adversely affect the performance by purchaser of its obligations under, or the validity or
+enforceability of, this agreement or any of the related documents or (iv) that may adversely affect the federal or state
+income tax attributes of, or seeking to impose any excise, franchise, 7 transfer or similar tax upon, the transfer and
+acquisition of the receivables and the other conveyed property hereunder or the transfer of the receivables and the
+other conveyed property to the issuer pursuant to the sale and servicing agreement. in the event of any breach of a
+representation and warranty made by purchaser hereunder, seller covenants and agrees that it will not take any action to
+pursue any remedy that it may have hereunder, in law, in equity or otherwise, until a year and a day have passed since
+the date on which all notes, the certificate, pass-through certificates or other similar securities issued by purchaser,
+or a trust or similar vehicle formed by purchaser, have been paid in full. seller and purchaser agree that damages will
+not be an adequate remedy for such breach and that this covenant may be specifically enforced by purchaser, issuer or by
+the trustee on behalf of the noteholders and owner trustee on behalf of the certificateholder. article iv. covenants of
+seller section 4.1 protection of title of purchaser. (a) at or prior to the closing date, seller shall have filed or
+caused to be filed a ucc-1 financing statement, naming seller as seller or debtor, naming purchaser as purchaser or
+secured party and describing the receivables and the other conveyed property being sold by it to purchaser as
+collateral, with the office of the secretary of state of the state of delaware and in such other locations as purchaser
+shall have required. from time to time thereafter, seller shall execute and file such financing statements and cause to
+be executed and filed such continuation statements, all in such manner and in such places as may be required by law
+fully to preserve, maintain and protect the interest of purchaser under this agreement, of the issuer under the sale and
+servicing agreement and of the trust collateral agent under the indenture in the receivables and the other conveyed
+property and in the proceeds thereof. seller shall deliver (or cause to be delivered) to purchaser and the trust
+collateral agent file-stamped copies of, or filing receipts for, any document filed as provided above, as soon as
+available following such filing. in the event that seller fails to perform its obligations under this subsection,
+purchaser, issuer or the trust collateral agent may do so, at the expense of the seller. in furtherance of the
+foregoing, the seller hereby authorizes the purchaser, the issuer or the trust collateral agent to file a record or
+records (as defined in the applicable ucc), including, without limitation, financing statements, in all jurisdictions
+and with all filing offices as each may determine, in its sole discretion, are necessary or advisable to perfect the
+security interest granted to the purchaser pursuant to section 6.9 of this agreement. such financing statements may
+describe the collateral in the same manner as described herein or may contain an indication or description of collateral
+that describes such property in any other manner as such party may determine, in its sole discretion, is necessary,
+advisable or prudent to ensure the perfection of the security interest in the collateral granted to the purchaser
+herein. 8 (b) seller shall not change its name, identity, state of incorporation or corporate structure in any manner
+that would, could or might make any financing statement or continuation statement filed by seller (or by purchaser,
+issuer or the trust collateral agent on behalf of seller) in accordance with paragraph (a) above seriously misleading
+within the meaning of §9-506 of the applicable ucc, unless they shall have given purchaser, issuer and the trust
+collateral agent at least 60 days’ prior written notice thereof, and shall promptly file appropriate amendments to all
+previously filed financing statements and continuation statements. (c) seller shall give purchaser, the issuer and the
+trust collateral agent at least 60 days prior written notice of any relocation that would result in a change of the
+location of the debtor within the meaning of section 9-307 of the applicable ucc. seller shall at all times maintain (i)
+each office from which it services receivables within the united states of america or canada and (ii) its principal
+executive office within the united states of america. (d) prior to the closing date, seller has maintained accounts and
+records as to each receivable accurately and in sufficient detail to permit (i) the reader thereof to know at any time
+as of or prior to the closing date, the status of such receivable, including payments and recoveries made and payments
+owing (and the nature of each) and (ii) reconciliation between payments or recoveries on (or with respect to) each
+receivable and the principal balance as of the cutoff date. seller shall maintain its computer systems so that, from and
+after the time of sale under this agreement of the receivables to purchaser, and the conveyance of the receivables by
+purchaser to the issuer, seller’s master computer records (including archives) that shall refer to a receivable indicate
+clearly that such receivable has been sold to purchaser and has been conveyed by purchaser to the issuer. indication of
+the issuer’s ownership of a receivable shall be deleted from or modified on seller’s computer systems when, and only
+when, the receivable shall become a purchased receivable or a sold receivable or shall have been paid in full or sold
+pursuant to the terms of the sale and servicing agreement. (e) if at any time seller shall propose to sell, grant a
+security interest in, or otherwise transfer any interest in any motor vehicle receivables to any prospective purchaser,
+lender or other transferee, seller shall give to such prospective purchaser, lender, or other transferee computer tapes,
+records, or print-outs (including any restored from archives) that, if they shall refer in any manner whatsoever to any
+receivable (other than a purchased receivable or a sold receivable), shall indicate clearly that such receivable has
+been sold to purchaser, sold by purchaser to issuer, and is owned by the issuer. section 4.2 other liens or interests.
+except for the conveyances hereunder, seller will not sell, pledge, assign or transfer to any other person, or grant,
+create, incur, assume or suffer to exist any lien on the receivables or the other conveyed property or any interest
+therein, and seller shall defend the right, title, and interest of purchaser and the issuer in and to the receivables
+and the other conveyed property against all claims of third parties claiming through or under seller. 9 section 4.3
+costs and expenses. seller shall pay all reasonable costs and disbursements in connection with the performance of its
+obligations hereunder and under its related documents. section 4.4 indemnification. (a) seller shall defend, indemnify
+and hold harmless purchaser, the issuer, the trust collateral agent, the trustee, the owner trustee, the noteholders and
+the certificateholder from and against any and all costs, expenses, losses, damages, claims, and liabilities, arising
+out of or resulting from any breach of any of seller’s representations and warranties contained herein. (b) seller shall
+defend, indemnify and hold harmless purchaser, the issuer, the trust collateral agent, the trustee, the owner trustee,
+the noteholders and the certificateholder from and against any and all costs, expenses, losses, damages, claims, and
+liabilities, arising out of or resulting from the use, ownership or operation by seller or any affiliate thereof of a
+financed vehicle. (c) seller shall defend, indemnify and hold harmless purchaser, the issuer, the trust collateral
+agent, the trustee, the owner trustee, the noteholders and the certificateholder from and against any and all costs,
+expenses, losses, damages, claims and liabilities arising out of or resulting from any action taken, or failed to be
+taken, by it in respect of any portion of the receivables other than in accordance with this agreement or the sale and
+servicing agreement. (d) seller agrees to pay, and shall defend, indemnify and hold harmless purchaser, the issuer, the
+trust collateral agent, the trustee, the owner trustee, the noteholders and the certificateholder from and against any
+taxes that may at any time be asserted against purchaser, the issuer, the trust collateral agent, the trustee, the owner
+trustee, the noteholders and the certificateholder with respect to the transactions contemplated in this agreement,
+including, without limitation, any sales, gross receipts, general corporation, tangible or intangible personal property,
+privilege, or license taxes (but not including any taxes asserted with respect to, and as of the date of, the sale,
+transfer and assignment of the receivables and the other conveyed property to purchaser and by purchaser to the issuer
+or the issuance and original sale of the notes or issuance of the certificate, or asserted with respect to ownership of
+the receivables and other conveyed property which shall be indemnified by seller pursuant to clause (e) below, or
+federal, state or other income taxes, arising out of distributions on the notes or the certificate or transfer taxes
+arising in connection with the transfer of the notes or the certificate) and costs and expenses in defending against the
+same, arising by reason of the acts to be performed by seller under this agreement or imposed against such persons. (e)
+seller agrees to pay, and to indemnify, defend and hold harmless purchaser, the issuer, the trust collateral agent, the
+trustee, the owner trustee, the noteholders and the certificateholder from, any taxes which may at any time be asserted
+against such persons with respect to, and as of the date of, the conveyance or ownership of the receivables or the other
+conveyed property hereunder and the conveyance or ownership 10 of the receivables under the sale and servicing agreement
+or the issuance and original sale of the notes or the issuance of the certificate, including, without limitation, any
+sales, gross receipts, personal property, tangible or intangible personal property, privilege or license taxes (but not
+including any federal or other income taxes, including franchise taxes, arising out of the transactions contemplated
+hereby or transfer taxes arising in connection with the transfer of the notes or the certificate) and costs and expenses
+in defending against the same, arising by reason of the acts to be performed by seller under this agreement or imposed
+against such persons. (f) seller shall defend, indemnify, and hold harmless purchaser, the issuer, the trust collateral
+agent, the trustee, the owner trustee, the noteholders and the certificateholder from and against any and all costs,
+expenses, losses, claims, damages, and liabilities to the extent that such cost, expense, loss, claim, damage, or
+liability arose out of, or was imposed upon purchaser, the issuer, the trust collateral agent, the trustee, the owner
+trustee, the noteholders or the certificateholder through the negligence, willful misfeasance, or bad faith of seller in
+the performance of its duties under this agreement or by reason of reckless disregard of seller’s obligations and duties
+under this agreement. (g) seller shall indemnify, defend and hold harmless purchaser, the issuer, the trust collateral
+agent, the trustee, the owner trustee, the noteholders and the certificateholder from and against any loss, liability or
+expense incurred by reason of the violation by seller of federal or state securities laws in connection with the
+registration or the sale of the notes. (h) seller shall indemnify, defend and hold harmless purchaser, the issuer, the
+trust collateral agent, the trustee, the owner trustee, the noteholders and the certificateholder from and against any
+loss, liability or expense imposed upon, or incurred by, purchaser, the issuer, the trust collateral agent, the trustee,
+the owner trustee, the noteholders or the certificateholder as result of the failure of any receivable, or the sale of
+the related financed vehicle, to comply with all requirements of applicable law. (i) seller shall defend, indemnify, and
+hold harmless purchaser from and against all costs, expenses, losses, claims, damages, and liabilities arising out of or
+incurred in connection with the acceptance or performance of seller’s trusts and duties as servicer under the sale and
+servicing agreement, except to the extent that such cost, expense, loss, claim, damage, or liability shall be due to the
+willful misfeasance, bad faith, or negligence (except for errors in judgment) of purchaser. (j) seller shall indemnify
+the owner trustee and its officers, directors, successors, assigns, agents and servants jointly and severally with the
+purchaser pursuant to section 7.2 of the trust agreement. indemnification under this section 4.4 shall include
+reasonable fees and expenses of counsel and expenses of litigation and shall survive payment of the notes and the
+certificate. the indemnity obligations hereunder shall be in addition to any obligation that seller may otherwise have.
+11 article v. repurchases section 5.1 repurchase of receivables upon breach of warranty. upon the occurrence of a
+repurchase event, seller shall, unless the breach which is the subject of such repurchase event shall have been cured in
+all material respects, repurchase the receivable relating thereto from the issuer if and only if the interests of the
+noteholders therein are materially and adversely affected by any such breach from the issuer and, simultaneously with
+the repurchase of the receivable, seller shall deposit the purchase amount in full, without deduction or offset, to the
+collection account, pursuant to section 3.2 of the sale and servicing agreement. it is understood and agreed that,
+except as set forth in section 6.1 hereof, the obligation of seller to repurchase any receivable, as to which a breach
+occurred and is continuing, shall, if such obligation is fulfilled, constitute the sole remedy against seller for such
+breach available to purchaser, the issuer, the noteholders, the certificateholder, the trust collateral agent on behalf
+of the noteholders or the owner trustee on behalf of the certificateholder. the provisions of this section 5.1 are
+intended to grant the issuer and the trust collateral agent a direct right against seller to demand performance
+hereunder, and in connection therewith, seller waives any requirement of prior demand against purchaser with respect to
+such repurchase obligation. any such repurchase shall take place in the manner specified in section 3.2 of the sale and
+servicing agreement. notwithstanding any other provision of this agreement or the sale and servicing agreement to the
+contrary, the obligation of seller under this section shall not terminate upon a termination of seller as servicer under
+the sale and servicing agreement and shall be performed in accordance with the terms hereof notwithstanding the failure
+of the servicer or purchaser to perform any of their respective obligations with respect to such receivable under the
+sale and servicing agreement. in addition to the foregoing and notwithstanding whether the related receivable shall have
+been purchased by seller, seller shall indemnify the issuer, the trust collateral agent, the trustee, the owner trustee,
+the noteholders and the certificateholder from and against all costs, expenses, losses, damages, claims and liabilities,
+including reasonable fees and expenses of counsel, which may be asserted against or incurred by any of them as a result
+of third party claims arising out of the events or facts giving rise to such repurchase events. section 5.2 reassignment
+of purchased receivables. upon deposit in the collection account of the purchase amount of any receivable repurchased by
+seller under section 5.1 hereof, purchaser and the issuer shall take such steps as may be reasonably requested by seller
+in order to assign to seller all of purchaser’s and the issuer’s right, title and interest in and to such receivable and
+all security and documents and all other conveyed property conveyed to purchaser and the issuer directly relating
+thereto, without recourse, representation or warranty, except as to the absence of liens created by or arising as a
+result of actions of purchaser or the issuer. such assignment shall be a sale and assignment outright, and not for
+security. if, following the reassignment of a purchased receivable, in any enforcement suit or legal proceeding, it is
+held that seller may not enforce any such receivable on the ground that it shall not be a real party in interest or a
+holder entitled to enforce the receivable, purchaser and the issuer shall, at the expense of seller, take such steps as
+seller deems reasonably necessary to enforce the receivable, including bringing suit in purchaser’s or in the issuer’s
+name. 12 section 5.3 waivers. no failure or delay on the part of purchaser, or the issuer as assignee of purchaser, or
+the trust collateral agent as assignee of the issuer, in exercising any power, right or remedy under this agreement
+shall operate as a waiver thereof, nor shall any single or partial exercise of any such power, right or remedy preclude
+any other or future exercise thereof or the exercise of any other power, right or remedy. article vi. miscellaneous
+section 6.1 liability of seller. seller shall be liable in accordance herewith only to the extent of the obligations in
+this agreement specifically undertaken by seller and the representations and warranties of seller. section 6.2 merger or
+consolidation of seller or purchaser. any corporation or other entity (i) into which seller or purchaser may be merged
+or consolidated, (ii) resulting from any merger or consolidation to which seller or purchaser is a party or (iii)
+succeeding to the business of seller or purchaser, in the case of purchaser, which corporation has a certificate of
+incorporation containing provisions relating to limitations on business and other matters substantively identical to
+those contained in purchaser’s certificate of incorporation, provided that in any of the foregoing cases such
+corporation shall execute an agreement of assumption to perform every obligation of seller or purchaser, as the case may
+be, under this agreement and, whether or not such assumption agreement is executed, shall be the successor to seller or
+purchaser, as the case may be, hereunder (without relieving seller or purchaser of their responsibilities hereunder, if
+it survives such merger or consolidation) without the execution or filing of any document or any further action by any
+of the parties to this agreement. seller or purchaser shall promptly inform the other party, the issuer, the trust
+collateral agent and the owner trustee and, as a condition to the consummation of the transactions referred to in
+clauses (i), (ii) and (iii) above, (x) immediately after giving effect to such transaction, no representation or
+warranty made pursuant to sections 3.1 and 3.2 of this agreement shall have been breached (for purposes hereof, such
+representations and warranties shall speak as of the date of the consummation of such transaction) and be continuing,
+(y) seller or purchaser, as applicable, shall have delivered written notice of such consolidation, merger or purchase
+and assumption to the rating agencies prior to the consummation of such transaction and shall have delivered to the
+issuer and the trust collateral agent an officer’s certificate of the seller or a certificate signed by or on behalf of
+the purchaser, as applicable, and an opinion of counsel each stating that such consolidation, merger or succession and
+such agreement of assumption comply with this section 6.2 and that all conditions precedent, if any, provided for in
+this agreement relating to such transaction have been complied with, and (z) seller or purchaser, as applicable, shall
+have delivered to the issuer, and the trust collateral agent an opinion of counsel, stating, in the opinion of such
+counsel, either (a) all financing statements and continuation statements and amendments thereto have been executed and
+filed that are necessary to preserve and protect the interest of the issuer and the trust collateral agent in the
+receivables and reciting the details of the filings or (b) no such action shall be necessary to preserve and protect
+such interest. 13 section 6.3 limitation on liability of seller and others. seller and any director, officer, employee
+or agent thereof may rely in good faith on the advice of counsel or on any document of any kind prima facie properly
+executed and submitted by any person respecting any matters arising under this agreement. seller shall not be under any
+obligation to appear in, prosecute or defend any legal action that is not incidental to its obligations under this
+agreement or its related documents and that in its opinion may involve it in any expense or liability. section 6.4
+seller may own notes or the certificate. subject to the provisions of the sale and servicing agreement, seller and any
+affiliate of seller may in their individual or any other capacity become the owner or pledgee of notes or the
+certificate with the same rights as they would have if they were not seller or an affiliate thereof. section 6.5
+amendment. (a) this agreement may be amended by seller and purchaser without the consent of the trust collateral agent,
+the owner trustee, the certificateholder or any of the noteholders (i) to cure any ambiguity or (ii) to correct any
+provisions in this agreement; provided, however, that such action shall not, as evidenced by an opinion of counsel
+delivered to the issuer, the owner trustee and the trust collateral agent, adversely affect in any material respect the
+interests of any certificateholder or noteholder. (b) this agreement may also be amended from time to time by seller and
+purchaser, and with the consent of the trust collateral agent and, if required, the certificateholder and the
+noteholders evidencing not less than a majority of the outstanding principal amount of the notes, in accordance with the
+sale and servicing agreement, for the purpose of adding any provisions to or changing in any manner or eliminating any
+of the provisions of this agreement, or of modifying in any manner the rights of the certificateholder or noteholders;
+provided, however, the seller provides the trust collateral agent with an opinion of counsel (which may be provided by
+the seller’s internal counsel) that no such amendment shall increase or reduce in any manner the amount of, or
+accelerate or delay the timing of, collections of payments on receivables or distributions that shall be required to be
+made on any note or the certificate. (c) prior to the execution of any such amendment or consent, seller shall have
+furnished written notification of the substance of such amendment or consent to each rating agency. (d) it shall not be
+necessary for the consent of certificateholder or noteholders pursuant to this section to approve the particular form of
+any proposed amendment or consent, but it shall be sufficient if such consent shall approve the substance thereof. the
+manner of obtaining such consents and of evidencing the authorization of the execution thereof by certificateholder or
+noteholders shall be subject to such reasonable requirements as the trust collateral agent may prescribe, including the
+establishment of record dates. the consent of a holder of the certificate or a note given pursuant to this section or
+pursuant to any other provision of this agreement shall be conclusive and binding on such holder and on all future
+holders of the certificate or such note and of the certificate or any note issued upon the transfer thereof or in
+exchange thereof or in lieu thereof whether or not notation of such consent is made upon the certificate or note. 14
+section 6.6 notices. all demands, notices and communications to seller or purchaser hereunder shall be in writing,
+personally delivered, or sent by telecopier (subsequently confirmed in writing), reputable overnight courier or mailed
+by certified mail, return receipt requested, and shall be deemed to have been given upon receipt (a) in the case of
+seller, to americredit financial services, inc., 801 cherry street, suite 3500, fort worth, texas 76102, attention:
+chief financial officer, or (b) in the case of purchaser, to afs sensub corp., 2265 b renaissance drive, suite 17, las
+vegas, nevada 89119, attention: chief financial officer, with a copy to afs sensub corp., c/o americredit financial
+services, inc., 801 cherry street, suite 3500, fort worth, texas 76102, attention: chief financial officer, or such
+other address as shall be designated by a party in a written notice delivered to the other party or to the issuer, owner
+trustee or the trust collateral agent, as applicable. section 6.7 merger and integration. except as specifically stated
+otherwise herein, this agreement and related documents set forth the entire understanding of the parties relating to the
+subject matter hereof, and all prior understandings, written or oral, are superseded by this agreement and the related
+documents. this agreement may not be modified, amended, waived or supplemented except as provided herein. section 6.8
+severability of provisions. if any one or more of the covenants, provisions or terms of this agreement shall be for any
+reason whatsoever held invalid, then such covenants, provisions or terms shall be deemed severable from the remaining
+covenants, provisions or terms of this agreement and shall in no way affect the validity or enforceability of the other
+provisions of this agreement. section 6.9 intention of the parties. the execution and delivery of this agreement shall
+constitute an acknowledgment by seller and purchaser that they intend that the assignment and transfer herein
+contemplated constitute a sale and assignment outright, and not for security, of the receivables and the other conveyed
+property, conveying good title thereto free and clear of any liens, from seller to purchaser, and that the receivables
+and the other conveyed property shall not be a part of seller’s estate in the event of the bankruptcy, reorganization,
+arrangement, insolvency or liquidation proceeding, or other proceeding under any federal or state bankruptcy or similar
+law, or the occurrence of another similar event, of, or with respect to seller. in the event that such conveyance is
+determined to be made as security for a loan made by purchaser, the issuer, the noteholders or the certificateholder to
+seller, the seller hereby grants to purchaser a security interest in all of seller’s right, title and interest in and to
+the following property whether now owned or existing or hereafter acquired or arising, and this agreement shall
+constitute a security agreement under applicable law (collectively, the “purchase agreement collateral”) (1) the
+receivables and all moneys received thereon after the cutoff date; 15 (2) the security interests in the financed
+vehicles granted by obligors pursuant to the receivables and any other interest of the seller in such financed vehicles;
+(3) any proceeds and the right to receive proceeds with respect to the receivables from claims on any physical damage,
+credit life or disability insurance policies covering financed vehicles or obligors and any proceeds from the
+liquidation of the receivables; (4) any proceeds received from a dealer pursuant to a dealer agreement or a third-party
+lender pursuant to an auto loan purchase and sale agreement as a result of a breach of representation or warranty in the
+related dealer agreement or auto loan purchase and sale agreement; (5) all rights under any service contracts on the
+related financed vehicles; (6) the related receivable files; (7) all of the seller’s (i) accounts, (ii) chattel paper,
+(iii) documents, (iv) instruments and (v) general intangibles (as such terms are defined in the ucc) relating to the
+property described in (1) through (6); and (8) all proceeds and investments with respect to items (1) through (7).
+section 6.10 governing law. this agreement shall be construed in accordance with, and this agreement and all matters
+arising out of or relating in any way to this agreement shall be governed by, the law of the state of new york, without
+giving effect to its conflict of law provisions (other than sections 5-1401 and 5-1402 of the new york general
+obligations law). section 6.11 counterparts. for the purpose of facilitating the execution of this agreement and for
+other purposes, this agreement may be executed simultaneously in any number of counterparts, each of which counterparts
+shall be deemed to be an original, and all of which counterparts shall constitute but one and the same instrument.
+section 6.12 conveyance of the receivables and the other conveyed property to the issuer. seller acknowledges that
+purchaser intends, pursuant to the sale and servicing agreement, to convey the receivables and the other conveyed
+property, together with its rights under this agreement, to the issuer on the closing date. seller acknowledges and
+consents to such conveyance and pledge and waives any further notice thereof and covenants and agrees that the
+representations and warranties of seller contained in this agreement and the rights of purchaser hereunder are intended
+to benefit the issuer, the owner trustee, the trust collateral agent, the noteholders and the certificateholder. in
+furtherance of the foregoing, seller covenants and agrees to perform its duties and obligations hereunder, in accordance
+with the terms hereof for the benefit of the issuer, the owner trustee, the trust collateral agent, the noteholders and
+the certificateholder and that, notwithstanding anything to the contrary in this agreement, seller shall be directly
+liable to the issuer, the owner trustee, the trust collateral agent, the noteholders and the certificateholder
+(notwithstanding any failure by the servicer or the purchaser to perform its respective duties and obligations hereunder
+or under related 16 documents) and that the trust collateral agent may enforce the duties and obligations of seller
+under this agreement against seller for the benefit of the owner trustee, the trust collateral agent, the noteholders
+and the certificateholder. section 6.13 nonpetition covenant. neither purchaser nor seller shall petition or otherwise
+invoke the process of any court or government authority for the purpose of commencing or sustaining a case against the
+purchaser or the issuer under any federal or state bankruptcy, insolvency or similar law or appointing a receiver,
+liquidator, assignee, trustee, custodian, sequestrator or other similar official of the purchaser or the issuer or any
+substantial part of their respective property, or ordering the winding up or liquidation of the affairs of the purchaser
+or the issuer. 17 in witness whereof, the parties have caused this purchase agreement to be duly executed by their
+respective officers as of the day and year first above written. afs sensub corp., as purchaser by name: title:
+americredit financial services, inc., as seller by name: title: accepted: wells fargo bank, national association, as
+trustee and trust collateral agent by name: title: [purchase agreement] schedule a schedule of receivables [to be filed
+on a form 8-k following the final pool cut on september 10, 2012] sch-a-1 schedule b representations and warranties of
+americredit financial services, inc. (“americredit”) 1. characteristics of receivables. each receivable (a) was
+originated (i) by americredit, (ii) by an originating affiliate and was validly assigned by such originating affiliate
+to americredit, (iii) by a dealer and purchased by americredit from such dealer under an existing dealer agreement or
+pursuant to a dealer assignment with americredit and was validly assigned by such dealer to americredit pursuant to a
+dealer assignment or (iv) by a third-party lender and purchased by americredit from such third-party lender under an
+existing auto loan purchase and sale agreement or pursuant to a third-party lender assignment with americredit and was
+validly assigned by such third-party lender to americredit pursuant to a third-party lender assignment (b) was
+originated by americredit, such originating affiliate, such dealer or such third-party lender for the retail sale of a
+financed vehicle in the ordinary course of americredit’s, such originating affiliate’s, the dealer’s or the third-party
+lender’s business, in each case was originated in accordance with americredit’s credit policies and was fully and
+properly executed by the parties thereto, and americredit, each originating affiliate, each dealer and each third-party
+lender had all necessary licenses and permits to originate receivables in the state where americredit, each such
+originating affiliate, each such dealer or each such third-party lender was located, (c) contains customary and
+enforceable provisions such as to render the rights and remedies of the holder thereof adequate for realization against
+the collateral security, (d) is a receivable which provides for level monthly payments (provided that the period in the
+first collection period and the payment in the final collection period of the receivable may be minimally different from
+the normal period and level payment) which, if made when due, shall fully amortize the amount financed over the original
+term and (e) has not been amended or collections with respect to which waived, other than as evidenced in the receivable
+file or the servicer’s electronic records relating thereto. 2. no fraud or misrepresentation. each receivable was
+originated (i) by americredit, (ii) by an originating affiliate and was assigned by the originating affiliate to
+americredit, (iii) by a dealer and was sold by the dealer to americredit or (iv) by a third-party lender and was sold by
+the third-party lender to americredit, and was sold by americredit to afs sensub corp. without any fraud or
+misrepresentation on the part of such originating affiliate, dealer, third-party lender or americredit in any case. 3.
+compliance with law. all requirements of applicable federal, state and local laws, and regulations thereunder
+(including, without limitation, usury laws, the federal truth-in-lending act, the equal credit opportunity act, the fair
+credit billing act, the fair credit reporting act, the fair debt collection practices act, the federal trade commission
+act, the magnuson-moss warranty act, the federal reserve board’s regulations “b” and “z” (including amendments to the
+federal reserve’s official staff commentary to regulation z, effective october 1, 1998, concerning negative equity
+loans), the dodd-frank wall street reform and consumer protection act, the servicemembers civil relief act, each
+applicable state motor vehicle retail installment sales act, the gramm-leach-bliley act and state adaptations of the
+national consumer act and of the uniform consumer credit code and other consumer credit laws and sch-b-1 equal credit
+opportunity and disclosure laws) in respect of the receivables and the financed vehicles, have been complied with in all
+material respects, and each receivable and the sale of the financed vehicle evidenced by each receivable complied at the
+time it was originated or made and now complies in all material respects with all applicable legal requirements. 4.
+origination. each receivable was originated in the united states. 5. binding obligation. each receivable represents the
+genuine, legal, valid and binding payment obligation of the obligor thereon, enforceable by the holder thereof in
+accordance with its terms, except (a) as enforceability may be limited by bankruptcy, insolvency, reorganization or
+similar laws affecting the enforcement of creditors’ rights generally and by equitable limitations on the availability
+of specific remedies, regardless of whether such enforceability is considered in a proceeding in equity or at law and
+(b) as such receivable may be modified by the application after the cutoff date of the servicemembers civil relief act,
+as amended; and all parties to each receivable had full legal capacity to execute and deliver such receivable and all
+other documents related thereto and to grant the security interest purported to be granted thereby. 6. no government
+obligor. no obligor is the united states of america or any state or any agency, department, subdivision or
+instrumentality thereof. 7. obligor bankruptcy. at the cutoff date, no obligor had been identified on the records of
+americredit as being the subject of a current bankruptcy proceeding. 8. schedule of receivables. the information set
+forth in the schedule of receivables has been produced from the electronic ledger and was true and correct in all
+material respects as of the close of business on the cutoff date. 9. marking records. each of the seller and afs sensub
+corp. has indicated in its files that the receivables have been sold to the issuer pursuant to the sale and servicing
+agreement and granted to the trust collateral agent pursuant to the indenture. further, americredit has indicated in its
+computer files that the receivables are owned by the issuer. 10. computer tape. the computer tape made available by
+americredit to afs sensub corp. and to the issuer on the closing date was complete and accurate as of the cutoff date
+and includes a description of the same receivables that are described in the schedule of receivables. 11. adverse
+selection. no selection procedures adverse to the noteholders were utilized in selecting the receivables from those
+receivables owned by americredit which met the selection criteria set forth in clauses (a) through (m) of number 29 of
+this schedule b. 12. chattel paper. the receivables constitute “tangible chattel paper” or “electronic chattel paper”
+within the meaning of the ucc as in effect in the states of texas, new york, nevada and delaware. 13. one original.
+there is only one original executed copy (or with respect to “electronic chattel paper”, one authoritative copy) of each
+contract. with respect to contracts that sch-b-2 are “electronic chattel paper”, each authoritative copy (a) is unique,
+identifiable and unalterable (other than with the participation of the trust collateral agent in the case of an addition
+or amendment of an identified assignee and other than a revision that is readily identifiable as an authorized or
+unauthorized revision), (b) has been marked with a legend to the following effect: “authoritative copy” and (c) has been
+communicated to and is maintained by or on behalf of the custodian. 14. not an authoritative copy. with respect to
+contracts that are “electronic chattel paper”, the seller has marked all copies of each such contract other than an
+authoritative copy with a legend to the following effect: “this is not an authoritative copy.” 15. revisions. with
+respect to contracts that are “electronic chattel paper”, the related receivables have been established in a manner such
+that (a) all copies or revisions that add or change an identified assignee of the authoritative copy of each such
+contract must be made with the participation of the trust collateral agent and (b) all revisions of the authoritative
+copy of each such contract must be readily identifiable as an authorized or unauthorized revision. 16. pledge or
+assignment. with respect to contracts that are “electronic chattel paper”, the authoritative copy of each contract
+communicated to the custodian has no marks or notations indicating that it has been pledged, assigned or otherwise
+conveyed to any person other than the trust collateral agent. 17. receivable files complete. there exists a receivable
+file pertaining to each receivable and such receivable file contains a fully executed original of the contract and the
+original lien certificate or a copy of the application therefor. related documentation concerning the receivable,
+including any documentation regarding modifications of the contract, will be maintained electronically by the servicer
+in accordance with customary policies and procedures. each of such documents which is required to be signed by the
+obligor has been signed by the obligor in the appropriate spaces. all applicable blanks on any form have been properly
+filled in and each form has otherwise been correctly prepared. with respect to receivables that are tangible chattel
+paper, the complete receivable file for each receivable, including a fully executed original of the contract, currently
+is in the possession of the custodian. 18. receivables in force. no receivable has been satisfied, subordinated or
+rescinded, and the financed vehicle securing each such receivable has not been released from the lien of the related
+receivable in whole or in part. no terms of any receivable have been waived, altered or modified in any respect since
+its origination, except by instruments or documents identified in the receivable file or the servicer’s electronic
+records. 19. lawful assignment. no receivable was originated in, or is subject to the laws of, any jurisdiction the laws
+of which would make unlawful, void or voidable the sale, transfer and assignment of such receivable under this agreement
+or pursuant to transfers of the notes. the seller has not entered into any agreement with any person that prohibits,
+restricts or conditions the sale of any receivable by the seller. 20. good title. immediately prior to the conveyance of
+the receivables to afs sensub corp. pursuant to this agreement, americredit was the sole owner thereof and had good
+sch-b-3 and indefeasible title thereto, free of any lien and, upon execution and delivery of this agreement by
+americredit, afs sensub corp. shall have good and indefeasible title to and will be the sole owner of such receivables,
+free of any lien. no dealer or third-party lender has a participation in, or other right to receive, proceeds of any
+receivable. americredit has not taken any action to convey any right to any person that would result in such person
+having a right to payments received under the related insurance policies or the related dealer agreements, auto loan
+purchase and sale agreements, dealer assignments, or third-party lender assignments or to payments due under such
+receivables. 21. security interest in financed vehicle. each receivable created or shall create a valid, binding and
+enforceable first priority security interest in favor of americredit (or an originating affiliate or a titled
+third-party lender which first priority security interest has been assigned to americredit) in the financed vehicle. the
+lien certificate for each financed vehicle shows, or if a new or replacement lien certificate is being applied for with
+respect to such financed vehicle the lien certificate will be received within 180 days of the closing date and will
+show, americredit, an originating affiliate or a titled third-party lender named (which may be accomplished by the use
+of a properly registered “doing business as” (“dba”) name in the applicable jurisdiction) as the original secured party
+under each receivable as the holder of a first priority security interest in such financed vehicle. with respect to each
+receivable for which the lien certificate has not yet been returned from the registrar of titles, americredit or the
+related originating affiliate has applied for or received written evidence from the related dealer or third-party lender
+that such lien certificate showing americredit, an originating affiliate, the issuer or a titled third-party lender
+(which may be accomplished by the use of a properly registered dba name in the applicable jurisdiction), as applicable,
+as first lienholder has been applied for and the originating affiliate’s or titled third-party lender’s security
+interest has been validly assigned by the originating affiliate or titled third-party lender, as applicable, to
+americredit and americredit’s security interest has been validly assigned by americredit to afs sensub corp. pursuant to
+this agreement. this agreement creates a valid and continuing security interest (as defined in the ucc) in the
+receivables in favor of the purchaser, which security interest is prior to all other liens, and is enforceable as such
+against creditors of and purchasers from the seller. immediately after the sale, transfer and assignment thereof by
+americredit to afs sensub corp., each receivable will be secured by an enforceable and perfected first priority security
+interest in the financed vehicle in favor of afs sensub corp. as secured party, which security interest is prior to all
+other liens upon and security interests in such financed vehicle which now exist or may hereafter arise or be created
+(except, as to priority, for any lien for taxes, labor or materials affecting a financed vehicle). as of the cutoff
+date, there were no liens or claims for taxes, work, labor or materials affecting a financed vehicle which are or may be
+liens prior or equal to the liens of the related receivable. 22. all filings made. all filings (including, without
+limitation, ucc filings (including, without limitation, the filing by the seller of all appropriate financing statements
+in the proper filing office in the state of delaware under applicable law in order to perfect the security interest in
+the receivables granted to the purchaser hereunder)) required to be made by any person and actions required to be taken
+or performed by any person in any jurisdiction to give the issuer and the trust collateral agent a first priority
+perfected lien on, or ownership interest in, the receivables and the proceeds thereof and the other conveyed property
+have been made, taken or performed. sch-b-4 23. no impairment. americredit has not done anything to convey any right to
+any person that would result in such person having a right to payments due under the receivables or otherwise to impair
+the rights of the issuer, the trustee, the trust collateral agent and the noteholders in any receivable or the proceeds
+thereof. other than the security interest granted to the purchaser pursuant to this agreement and except any other
+security interests that have been fully released and discharged as of the closing date, the seller has not pledged,
+assigned, sold, granted a security interest in, or otherwise conveyed any of the receivables. the seller has not
+authorized the filing of and is not aware of any financing statements against the seller that include a description of
+collateral covering the receivables other than any financing statement relating to the security interest granted to the
+purchaser hereunder or that has been terminated. the seller is not aware of any judgment, erisa or tax lien filings
+against it. 24. receivable not assumable. no receivable is assumable by another person in a manner which would release
+the obligor thereof from such obligor’s obligations to the owner thereof with respect to such receivable. 25. no
+defenses. no receivable is subject to any right of rescission, setoff, counterclaim or defense, including the defense of
+usury, and the operation of any of the terms of any receivable, or the exercise of any right thereunder, will not render
+such receivable unenforceable in whole or in part and no such right has been asserted or threatened with respect to any
+receivable. 26. no default. there has been no default, breach, violation or event permitting acceleration under the
+terms of any receivable (other than payment delinquencies of not more than 30 days) and no condition exists or event has
+occurred and is continuing that with notice, the lapse of time or both would constitute a default, breach, violation or
+event permitting acceleration under the terms of any receivable, and there has been no waiver of any of the foregoing.
+as of the cutoff date, no financed vehicle had been repossessed. 27. insurance. at the time of an origination of a
+receivable by americredit, an originating affiliate, a dealer or third-party lender, each financed vehicle is required
+to be covered by a comprehensive and collision insurance policy (i) in an amount at least equal to the lesser of (a) its
+maximum insurable value and (b) the principal amount due from the obligor under the related receivable, (ii) naming
+americredit, an originating affiliate or a titled third-party lender (which may be accomplished by the use of a properly
+registered dba name in the applicable jurisdiction) as loss payee and (iii) insuring against loss and damage due to
+fire, theft, transportation, collision and other risks generally covered by comprehensive and collision coverage. each
+receivable requires the obligor to maintain physical loss and damage insurance, naming americredit, an originating
+affiliate or a titled third-party lender (which may be accomplished by the use of a properly registered dba name in the
+applicable jurisdiction) and its successors and assigns as additional insured parties, and each receivable permits the
+holder thereof to obtain physical loss and damage insurance at the expense of the obligor if the obligor fails to do so.
+no financed vehicle is insured under a policy of force-placed insurance on the cutoff date. 28. remaining principal
+balance. at the cutoff date, the principal balance of each receivable set forth in the schedule of receivables is true
+and accurate in all material respects. sch-b-5 29. certain characteristics of receivables. (a) each receivable had a
+remaining maturity, as of the cutoff date, of not less than 3 months and not more than 72 months. (b) each receivable
+had an original maturity, as of the cutoff date, of not less than 3 months and not more than 72 months. (c) each
+receivable had a remaining principal balance, as of the cutoff date, of at least $250 and not more than $85,000. (d)
+each receivable had an annual percentage rate, as of the cutoff date, of at least 1% and not more than 33%. (e) no
+receivable was more than 30 days past due as of the cutoff date. (f) no funds had been advanced by americredit, any
+originating affiliate, any dealer, any third-party lender, or anyone acting on behalf of any of them in order to cause
+any receivable to qualify under clause (e) above. (g) each obligor had a billing address in the united states as of the
+date of origination of the related receivable, is a natural person and is not an affiliate of any party to any related
+document. (h) each receivable is denominated in, and each contract provides for payment in, united states dollars. (i)
+each receivable is identified on the servicer’s master servicing records as an automobile installment sales contract or
+installment note. (j) each receivable arose under a contract that is assignable without the consent of, or notice to,
+the obligor thereunder, and does not contain a confidentiality provision that purports to restrict the ability of the
+servicer to exercise its rights under the sale and servicing agreement, including, without limitation, its right to
+review the contract. (k) each receivable arose under a contract with respect to which americredit has performed all
+obligations required to be performed by it thereunder, and, in the event such contract is an installment sales contract,
+delivery of the financed vehicle to the related obligor has occurred. (l) no automobile related to a receivable was held
+in repossession inventory as of the cutoff date. (m) no obligor was in bankruptcy as of the cutoff date. sch-b-6 30. no
+further amounts owed on the receivables. at the time each receivable was acquired from an origination affiliate, a
+dealer or a third-party lender, no further amounts were owed by seller to the obligor under the receivable. 31. interest
+calculation. each contract provides for the calculation of interest payable thereunder under either the “simple
+interest” method, the “rule of 78’s” method or the “precomputed interest” method. 32. lockbox account. each obligor has
+been, or will be, directed to make all payments on their related receivable to the lockbox processor for deposit into
+the lockbox account. 33. transfer. each receivable prohibits the sale or transfer of the financed vehicle without the
+consent of the seller. 34. prepayment. each receivable allows for prepayment and partial prepayments without penalty and
+requires that a prepayment by the related obligor will fully pay the principal balance and accrued interest through the
+date of prepayment based on the receivable’s annual percentage rate. 35. lien enforcement. each receivable provides for
+enforcement of the lien or the clear legal right of repossession, as applicable, on the financed vehicle securing such
+receivable. 36. prospectus supplement description. each receivable conforms, and all receivables in the aggregate
+conform, in all material respects to the description thereof set forth in the prospectus supplement. 37. risk of loss.
+each contract contains provisions requiring the obligor to assume all risk of loss or malfunction on the related
+financed vehicle, requiring the obligor to pay all sales, use, property, excise and other similar taxes imposed on or
+with respect to the financed vehicle and making the obligor liable for all payments required to be made thereunder,
+without any setoff, counterclaim or defense for any reason whatsoever, subject only to the obligor’s right of quiet
+enjoyment. 38. leasing business. to the best of the seller’s and the servicer’s knowledge, as appropriate, no obligor is
+a person involved in the business of leasing or selling equipment of a type similar to the obligor’s related financed
+vehicle. 39. consumer leases. no receivable constitutes a “consumer lease” under either (a) the ucc as in effect in the
+jurisdiction the law of which governs the receivable or (b) the consumer leasing act, 15 usc 1667. 40. perfection. the
+seller has taken all steps necessary to perfect its security interest against the related obligors in the property
+securing the receivables and will take all necessary steps on behalf of the issuer to maintain the issuer’s perfection
+of the security interest created by each receivable in the related financed vehicle. sch-b-7
+

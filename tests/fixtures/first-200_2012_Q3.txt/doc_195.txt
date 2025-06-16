@@ -1,0 +1,1409 @@
+
+execution version credit agreement dated as of august 24, 2012 by and between bacterin international, inc., as the
+borrower, and ros acquisition offshore lp as the lender article i definitions and accounting terms section 1.1 defined
+terms. 1 section 1.2 use of defined terms. 17 section 1.3 cross-references. 17 section 1.4 accounting and financial
+determinations. 17 article ii commitment and borrowing procedures section 2.1 commitment. 17 section 2.2 borrowing
+procedure. 17 section 2.3 funding. 17 section 2.4 reduction of the commitment amounts. 18 article iii repayments,
+prepayments, interest and fees section 3.1 repayments and prepayments; application. 18 section 3.2 repayments and
+prepayments. 18 section 3.3 application. 19 section 3.4 interest rate. 19 section 3.5 default rate. 19 section 3.6
+payment dates. 19 article iv libo rate and other provisions section 4.1 increased costs, etc. 19 section 4.2 increased
+capital costs. 20 section 4.3 taxes. 20 section 4.4 payments, computations; proceeds of collateral, etc. 21 section 4.5
+setoff. 22 section 4.6 libo rate not determinable. 22 article v conditions to making the loans section 5.1 credit
+extensions. 22 article vi representations and warranties section 6.1 organization, etc. 26 section 6.2 due
+authorization, non-contravention, etc. 26 section 6.3 government approval, regulation, etc. 26 section 6.4 validity,
+etc. 26 section 6.5 financial information. 26 section 6.6 no material adverse change. 26 section 6.7 litigation, labor
+matters and environmental matters. 27 section 6.8 subsidiaries. 27 section 6.9 ownership of properties. 27 section 6.10
+taxes. 27 section 6.11 benefit plans, etc. 28 section 6.12 accuracy of information. 28 section 6.13 regulations u and x.
+28 section 6.14 solvency. 28 section 6.15 intellectual property. 28 section 6.16 material agreements. 30 section 6.17
+permits. 30 section 6.18 regulatory matters. 30 - i - section 6.19 transactions with affiliates and affiliated entities.
+32 section 6.20 investment company act. 33 section 6.21 ofac. 33 section 6.22 holdings. 33 section 6.23 deposit and
+disbursement accounts. 33 article vii affirmative covenants section 7.1 financial information, reports, notices, etc. 34
+section 7.2 maintenance of existence; compliance with contracts, laws, etc. 36 section 7.3 maintenance of properties. 36
+section 7.4 insurance. 36 section 7.5 books and records. 37 section 7.6 environmental law covenant. 37 section 7.7 use
+of proceeds. 37 section 7.8 future guarantors, security, etc. 37 section 7.9 obtaining of permits, etc. 38 section 7.10
+product licenses. 38 section 7.11 maintenance of regulatory authorizations, contracts, intellectual property, etc. 38
+section 7.12 inbound licenses. 38 section 7.13 cash management. 39 section 7.14 holdings. 39 section 7.15 post-closing
+matters. 39 article viii negative covenants section 8.1 business activities. 40 section 8.2 indebtedness. 40 section 8.3
+liens. 40 section 8.4 financial covenants. 42 section 8.5 investments. 42 section 8.6 restricted payments, etc. 43
+section 8.7 consolidation, merger; permitted acquisitions, etc. 43 section 8.8 permitted dispositions. 43 section 8.9
+modification of certain agreements. 43 section 8.10 transactions with affiliates and affiliated entities. 43 section
+8.11 restrictive agreements, etc. 44 section 8.12 sale and leaseback. 44 section 8.13 product agreements. 44 section
+8.14 change in name, location, executive office, or executive management; change in fiscal year. 44 section 8.15 benefit
+plans. 45 section 8.16 holdings. 45 article ix events of default section 9.1 listing of events of default. 45 section
+9.2 action if bankruptcy. 47 section 9.3 action if other event of default. 48 article x miscellaneous provisions section
+10.1 waivers, amendments, etc. 48 section 10.2 notices; time. 48 section 10.3 payment of costs and expenses. 48 - ii -
+section 10.4 indemnification. 49 section 10.5 survival. 49 section 10.6 severability. 49 section 10.7 headings. 50
+section 10.8 execution in counterparts, effectiveness, etc. . 50 section 10.9 governing law; entire agreement. 50
+section 10.10 successors and assigns. 50 section 10.11 other transactions. 50 section 10.12 forum selection and consent
+to jurisdiction. 51 section 10.13 waiver of jury trial. 51 schedules: schedule 6.6 material adverse change schedule
+6.7(a) litigation schedule 6.7(b) labor controversies schedule 6.8 existing subsidiaries schedule 6.15(a) intellectual
+property schedule 6.15(b) intellectual property proceedings schedule 6.15(c) infringement notices sent schedule 6.15(e)
+infringement notices received schedule 6.16 material agreements schedule 6.18(a) regulatory authorizations schedule
+6.18(b) regulatory actions schedule 6.18(c) regulatory compliance schedule 6.18(d) organ transplant compliance schedule
+6.19(a) transactions with affiliates schedule 6.19(b) transactions with affiliated entities schedule 6.23 deposit and
+disbursement accounts schedule 7.7 use of proceeds schedule 7.15 post-closing matters schedule 8.2(b) indebtedness to be
+paid schedule 8.2(c) existing indebtedness schedule 8.3(c) existing liens schedule 8.5(a) investments schedule 10.2
+notice information exhibits: exhibit a - form of promissory note exhibit b - form of loan request exhibit c - form of
+compliance certificate exhibit d - form of guarantee exhibit e - form of security agreement - iii - credit agreement
+this credit agreement dated as of august 24, 2012 (as amended, supplemented or otherwise modified from time to time,
+this “agreement”), is by and between bacterin international, inc., a nevada corporation (the “borrower”) and ros
+acquisition offshore lp, a cayman islands exempted limited partnership (together with its affiliates, successors,
+transferees and assignees, the “lender”). witnesseth: whereas, the borrower has requested that the lender provide a
+senior term loan facility to the borrower in an aggregate principal amount of $25,000,000 (with $20,000,000 available at
+the closing and $5,000,000 available prior to december 31, 2013, subject to the terms and conditions set forth herein);
+and whereas, the lender is willing, on the terms and subject to the conditions hereinafter set forth, to extend the
+commitment and make the loans to the borrower; now, therefore, the parties hereto agree as follows. article i
+definitions and accounting terms section 1.1 defined terms. the following terms (whether or not underscored) when used
+in this agreement, including its preamble and recitals, shall, except where the context otherwise requires, have the
+following meanings (such meanings to be equally applicable to the singular and plural forms thereof): “361 product”
+means a human cellular or tissue-based product that meets the criteria under 21 c.f.r. § 1271.10 and is subject to
+regulation under section 361 of the public health services act and 21 c.f.r. part 1271, but is not regulated under
+section 351 of the public health services act or regulated as drug, biologic, or medical device. “affiliate” of any
+person means any other person which, directly or indirectly, controls, is controlled by or is under common control with
+such person. in addition, guy cook and any of his immediate family members, and any affiliate thereof, shall also be
+deemed to be an affiliate of holdings, the borrower and the subsidiaries. “control” (and its correlatives) by any person
+means the power of such person, directly or indirectly, (i) to vote 10% or more of the voting securities (determined on
+a fully diluted basis) of another person, or (ii) to direct or cause the direction of the management and policies of
+such other person (whether by contract or otherwise). “affiliated entity” means any person other than holdings, the
+borrower and the subsidiaries (i) that is controlled by any officer or director, or any immediate family member of any
+officer or director, of holdings, the borrower or any subsidiary or (ii) of which any officer or director, or any
+immediate family member of any officer or director, of holdings, the borrower or any subsidiary serves as a director,
+trustee or officer or in a similar management or oversight capacity. “agreement” is defined in the preamble. “applicable
+margin” means 12.13%. “authorized officer” means, relative to holdings, the borrower or any of the subsidiaries, those
+of its officers, general partners or managing members (as applicable) whose signatures and incumbency shall have been
+certified to the lender pursuant to section 5.1.1. “benefit plan” means any employee benefit plan, as defined in section
+3(3) of erisa, that either: (i) is a “multiemployer plan,” as defined in section 3(37) of erisa, (ii) is subject to
+section 412 of the code, section 302 of erisa or title iv of erisa, or (iii) provides welfare benefits to terminated
+employees, other than to the extent required by section 4980b(f) of the code and the corresponding provisions of erisa.
+“bla” means (a) (i) a biologics license application (as defined in the public health services act, 42 u.s.c. § 262) for
+authorization to introduce, or deliver for introduction, a biologic product into commerce in the u.s., or any successor
+application or procedure; and (ii) any similar application or functional equivalent relating to market authorization for
+biologics applicable to or required by any country, jurisdiction or governmental authority other than the u.s.; and (b)
+all supplements and amendments that may be filed with respect to the foregoing. “borrower” is defined in the preamble.
+“business day” means any day which is neither a saturday or sunday nor a legal holiday on which banks are authorized or
+required to be closed in new york, new york, or the cayman islands. “capital securities” means, with respect to any
+person, all shares of, interests or participations in, or other equivalents in respect of (in each case however
+designated, whether voting or non-voting), of such person’s capital stock, whether now outstanding or issued after the
+closing date. “capitalized lease liabilities” means, with respect to any person, all monetary obligations of such person
+and its subsidiaries under any leasing or similar arrangement which have been (or, in accordance with gaap, should be)
+classified as capitalized leases, and for purposes of each loan document the amount of such obligations shall be the
+capitalized amount thereof, determined in accordance with gaap, and the stated maturity thereof shall be the date of the
+last payment of rent or any other amount due under such lease prior to the first date upon which such lease may be
+terminated by the lessee without payment of a premium or a penalty. - 2 - “cash equivalent investment” means, at any
+time: (a) any direct obligation of (or unconditionally guaranteed by) the united states (or any agency or political
+subdivision thereof, to the extent such obligations are supported by the full faith and credit of the united states)
+maturing not more than one year after such time; (b) commercial paper maturing not more than 270 days from the date of
+issue, which is issued by a corporation (other than an affiliate of the borrower or any of its subsidiaries) organized
+under the laws of any state of the united states or of the district of columbia and rated a-1 or higher by s&p or p-1 or
+higher by moody’s; or (c) any certificate of deposit, time deposit or bankers acceptance, maturing not more than 180
+days after its date of issuance, which is issued by any bank organized under the laws of the united states (or any state
+thereof) and which has (x) a credit rating of a2 or higher from moody’s or a or higher from s&p and (y) a combined
+capital and surplus greater than $500,000,000. “casualty event” means the damage, destruction or condemnation, as the
+case may be, of property of any person or any of its subsidiaries. “cgtp” means current good tissue practices, including
+the requirements for registration, donor eligibility screening, and the processing and distribution of tissue-based
+products, as set forth in 21 c.f.r. § 1271 and guidance documents. “change in control” means and shall be deemed to have
+occurred if (i) any “person” or “group” (within the meaning of rule 13d-5 of the securities exchange act of 1934 as in
+effect on the date hereof) shall own, directly or indirectly, beneficially or of record, determined on a fully diluted
+basis, more than 35% of the voting securities of holdings; (ii) a majority of the seats (other than vacant seats) on the
+board of directors (or equivalent) of holdings shall at any time be occupied by persons who were neither (x) nominated
+by the board of directors of holdings nor (y) appointed by directors so nominated, or (iii) holdings shall cease to
+directly own, beneficially and of record, 100% of the issued and outstanding capital securities of the borrower or the
+subsidiaries. “change in law” means the occurrence, after the date of this agreement, of any of the following: (i) the
+adoption or taking effect of any law, rule, regulation or treaty, (ii) any change in any law, rule, regulation or treaty
+or in the administration, interpretation, implementation or application thereof by any governmental authority or (iii)
+the making or issuance of any request, rule, guideline or directive (whether or not having the force of law) by any
+governmental authority; provided that, notwithstanding anything herein to the contrary, (x) the dodd-frank wall street
+reform and consumer protection act and all requests, rules, guidelines or directives thereunder or issued in connection
+therewith and (y) all requests, rules, guidelines or directives promulgated by the bank for international settlements,
+the basel committee on banking supervision (or any successor or similar authority) or the united states or foreign
+regulatory authorities, in each case pursuant to basel iii, shall in each case be deemed to be a “change in law”,
+regardless of the date enacted, adopted or issued. “closing date” means the date of the making of the initial loan
+hereunder, which in no event shall be later than august 27, 2012. - 3 - “closing date certificate” means a closing date
+certificate executed and delivered by an authorized officer of the borrower in form and substance satisfactory to the
+lender. “code” means the internal revenue code of 1986, and the regulations thereunder, in each case as amended,
+reformed or otherwise modified from time to time. “commitment” means the lender’s obligation (if any) to make loans
+hereunder. “commitment amount” means the initial commitment amount plus the delayed draw commitment amount. “compliance
+certificate” means a certificate duly completed and executed by an authorized officer of the borrower, substantially in
+the form of exhibit c hereto, together with such changes thereto as the lender may from time to time request for the
+purpose of monitoring the borrower’s compliance with the financial covenants contained herein. “contingent liability”
+means any agreement, undertaking or arrangement by which any person guarantees, endorses or otherwise becomes or is
+contingently liable upon (by direct or indirect agreement, contingent or otherwise, to provide funds for payment, to
+supply funds to, or otherwise to invest in, a debtor, or otherwise to assure a creditor against loss) the indebtedness
+of any other person (other than by endorsements of instruments in the course of collection), or guarantees the payment
+of dividends or other distributions upon the capital securities of any other person. the amount of any person’s
+obligation under any contingent liability shall (subject to any limitation set forth therein) be deemed to be the
+outstanding principal amount of the debt, obligation or other liability guaranteed thereby. “control” is defined within
+the definition of “affiliate”. “controlled account” is defined in section 7.13. “copyrights” means all copyrights,
+whether statutory or common law, and all exclusive and nonexclusive licenses from third parties or rights to use
+copyrights owned by such third parties, along with any and all (i) renewals, revisions, extensions, derivative works,
+enhancements, modifications, updates and new releases thereof, (ii) income, royalties, damages, claims and payments now
+and hereafter due and/or payable with respect thereto, including, without limitation, damages and payments for past,
+present or future infringements thereof, (iii) rights to sue for past, present and future infringements thereof, and
+(iv) foreign copyrights and any other rights corresponding thereto throughout the world. “copyright security agreement”
+means any copyright security agreement executed and delivered by holdings, the borrower or any of the subsidiaries in
+substantially the form of exhibit c to the security agreement, as amended, supplemented, amended and restated or
+otherwise modified from time to time. “cta” means a clinical trial application filed with any regulatory authority in
+the european union. - 4 - “default” means any event of default or any condition, occurrence or event which, after notice
+or lapse of time or both, would constitute an event of default. “delayed draw closing date” means the date of the making
+of the delayed draw loan hereunder, which in no event shall be later than december 30, 2013. “delayed draw commitment
+amount” means $5,000,000. “delayed draw commitment termination date” means the earliest to occur of (i) the delayed draw
+closing date (immediately after the making of the delayed draw loan on such date), (ii) december 31, 2013, if the
+delayed draw loan shall not have been made hereunder prior to such date and (iii) august 27, 2012, if the initial loan
+shall not have been made hereunder prior to such date. “delayed draw loan” is defined in section 2.1. “designated
+jurisdiction” means any country or territory to the extent that such country or territory is the subject of any
+sanction. “device” means any instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other
+similar or related article, including any component, part, or accessory, which is (a) recognized in the official
+national formulary, or the united states pharmacopeia, or any supplement to them, (b) intended for use in the diagnosis
+of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, in man or other
+animals, or (c) intended to affect the structure or any function of the body of man or other animals; and which does not
+achieve its primary intended purposes through chemical action within or on the body of man or other animals and which is
+not dependent upon being metabolized for the achievement of its primary intended purposes. “device approval application”
+means a premarket approval application (pma) submitted under section 515 of the fd&c act (21 u.s.c. § 360e), a de novo
+request submitted under section 513(f) of the fd&c act (21 u.s.c. § 360c(f)), or premarket notification submitted under
+section 510(k) of the fd&c act (21 u.s.c. § 360(k)) seeking clearance from fda for a device that is substantially
+equivalent to a legally marketed predicate device (“510(k)”), as defined in the fd&c act, or any corresponding foreign
+application in the territory (as defined in the royalty agreement), including, with respect to the european union, a
+submission to a notified body for a certificate of conformity with an applicable council directive. “disposition” (or
+similar words such as “dispose”) means any sale, transfer, lease, license, contribution or other conveyance (including
+by way of merger) of, or the granting of options, warrants or other rights to, any of holdings, the borrower’s or the
+subsidiaries’ assets (including accounts receivable and capital securities of subsidiaries) to any other person (other
+than to the borrower or any of its subsidiaries) in a single transaction or series of transactions. - 5 - “disqualified
+capital securities” shall mean any capital securities that, by their terms (or by the terms of any security or other
+capital securities into which they are convertible or for which they are exchangeable) or upon the happening of any
+event or condition, (a) mature or are mandatorily redeemable (other than solely for qualified capital securities),
+pursuant to a sinking fund obligation or otherwise (except as a result of a change in control or asset sale so long as
+any rights of the holders thereof upon the occurrence of a change in control or asset sale event shall be subject to the
+prior repayment in full of the loans and all other obligations that are accrued and payable and the termination of the
+commitment), (b) are redeemable at the option of the holder thereof (other than solely for qualified capital securities)
+(except as a result of a change in control or asset sale so long as any rights of the holders thereof upon the
+occurrence of a change in control or asset sale event shall be subject to the prior repayment in full of the loans and
+all other obligations that are accrued and payable and the termination of the commitment), in whole or in part, (c)
+provide for the scheduled payment of dividends in cash or (d) are or become convertible into or exchangeable for
+indebtedness or any other capital securities that would constitute disqualified capital securities, in each case, prior
+to the date that is one hundred and eighty-one (181) days after the maturity date; provided that if such capital
+securities are issued pursuant to a plan for the benefit of employees of holdings or any of its subsidiaries, or by any
+such plan to such employees, such capital securities shall not constitute disqualified capital securities solely because
+they may be required to be repurchased by holdings or its subsidiaries in order to satisfy applicable statutory or
+regulatory obligations. “ema” means the european medicines agency or any successor entity. “environmental laws” means
+all federal, state, local or international laws, statutes, rules, regulations, codes, directives, treaties,
+requirements, ordinances, orders, decrees, judgments, injunctions, notices or binding agreements issued, promulgated or
+entered into by any governmental authority, relating in any way to the environment, natural resources, hazardous
+material or health and safety matters. “environmental liability” means any liability, loss, claim, suit, action,
+investigation, proceeding, damage, commitment or obligation, contingent or otherwise (including any liability for
+damages, costs of environmental remediation, fines, penalties or indemnities), of or affecting the borrower or any
+subsidiary directly or indirectly arising from, in connection with or based upon (i) any environmental law or
+environmental permit, (ii) the generation, use, handling, transportation, storage, treatment, recycling, presence,
+disposal, release or threatened release of, or exposure to, any hazardous materials, or (iii) any contract, agreement,
+penalty, order, decree, settlement, injunction or other arrangement (including operation of law) pursuant to which
+liability is assumed, entered into, inherited or imposed with respect to any of the foregoing. “environmental permit” is
+defined in section 6.7. “erisa” means the employee retirement income security act of 1974, as amended from time to time.
+“erisa affiliate” means, as applied to any person, (i) any corporation that is a member of a controlled group of
+corporations within the meaning of section 414(b) of the code of which that person is a member, (ii) any trade or
+business (whether or not incorporated) that is a member of a group of trades or businesses under common control within
+the meaning of section 414(c) of the code of which that person is a member, and (iii) any member of an affiliated
+service group within the meaning of section 414(m) or 414(o) of the code of which that person, any corporation described
+in clause (i) above or any trade or business described in clause (ii) above is a member. - 6 - “event of default” is
+defined in section 9.1 . “exchange act” means the securities exchange act of 1934, as amended. “fda” means the u.s. food
+and drug administration and any successor entity. “fd&c act” means the u.s. food, drug and cosmetic act (or any
+successor thereto), as amended from time to time, and the rules, regulations, guidelines, guidance documents and
+compliance policy guides issued or promulgated thereunder. for purposes of this agreement, “fd&c act” includes
+provisions of the public health services act that apply to biological products and products derived from human tissue.
+“fiscal quarter” means a quarter ending on the last day of march, june, september or december. “fiscal year” means any
+period of twelve consecutive calendar months ending on december 31; references to a fiscal year with a number
+corresponding to any calendar year (e.g., the “2011 fiscal year”) refer to the fiscal year ending on december 31 of such
+calendar year. “f.r.s. board” means the board of governors of the federal reserve system or any successor thereto.
+“governmental authority” means any national, supranational, federal, state, county, provincial, local, municipal or
+other government or political subdivision thereof (including any regulatory agency), whether domestic or foreign, and
+any agency, authority, commission, ministry, instrumentality, regulatory body, court, tribunal, arbitrator, central bank
+or other person exercising executive, legislative, judicial, taxing, regulatory or administrative powers or functions of
+or pertaining to any such government. “guarantee” means the guarantee executed and delivered by an authorized officer of
+holdings and each subsidiary, substantially in the form of exhibit d hereto, as amended, supplemented, amended and
+restated or otherwise modified from time to time. “guarantors” means, collectively, holdings and each subsidiary.
+“hazardous material” means any material, substance, chemical, mixture or waste which is capable of damaging or causing
+harm to any living organism, the environment or natural resources, including all explosive, special, hazardous,
+polluting, toxic, industrial, dangerous, biohazardous, medical, infectious or radioactive substances, materials or
+wastes, noise, odor, electricity or heat, and including petroleum or petroleum products, byproducts or distillates,
+asbestos or asbestos-containing materials, urea formaldehyde, polychlorinated biphenyls, radon gas, ozone-depleting
+substances, greenhouse gases, and all other substances or wastes of any nature regulated pursuant to any environmental
+law or as to which any governmental authority requires investigation, reporting or remedial action. - 7 - “hedging
+obligations” means, with respect to any person, all liabilities of such person under currency exchange agreements,
+interest rate swap agreements, interest rate cap agreements and interest rate collar agreements, and all other
+agreements or arrangements designed to protect such person against fluctuations in interest rates or currency exchange
+rates. “herein”, “hereof”, “hereto”, “hereunder” and similar terms contained in any loan document refer to such loan
+document as a whole and not to any particular section, paragraph or provision of such loan document. “holdings” means
+bacterin international holdings, inc., a delaware corporation. “gaap” means generally accepted accounting principles in
+the united states. “ide” means an application, including an application filed with a regulatory authority, for
+authorization to commence human clinical studies, including (a) an investigational device exemption as defined in the
+fd&c act or any successor application or procedure filed with the fda, (b) an abbreviated ide as specified in fda
+regulations in 21 c.f.r. § 812.2(b), (c) any equivalent of a united states ide in other countries or regulatory
+jurisdictions, (d) all amendments, variations, extensions and renewals thereof that may be filed with respect to the
+foregoing and (e) all related documents and correspondence thereto, including documents and correspondence with
+institutional review boards (irbs). “impermissible qualification” means any qualification or exception to the opinion or
+certification of any independent public accountant as to any financial statement of the borrower (i) which is of a
+“going concern” or similar nature, (ii) which relates to the limited scope of examination of matters relevant to such
+financial statement, or (iii) which relates to the treatment or classification of any item in such financial statement
+and which, as a condition to its removal, would require an adjustment to such item the effect of which would be to cause
+the borrower to be in default. “including” and “include” means including without limiting the generality of any
+description preceding such term, and, for purposes of each loan document, the parties hereto agree that the rule of
+ejusdem generis shall not be applicable to limit a general statement, which is followed by or referable to an
+enumeration of specific matters, to matters similar to the matters specifically mentioned. “ind” means (a) (i) an
+investigational new drug application (as defined in the fd&c act) that is required to be filed with the fda before
+beginning clinical testing in human subjects, or any successor application or procedure; and (ii) any similar
+application or functional equivalent relating to any investigational new drug application applicable to or required by
+any country, jurisdiction or governmental authority other than the u.s. (including any cta); and (b) all supplements and
+amendments that may be filed with respect to the foregoing. “indebtedness” of any person means: (a) all obligations of
+such person for borrowed money or advances and all obligations of such person evidenced by bonds, debentures, notes or
+similar instruments; - 8 - (b) all obligations, contingent or otherwise, relative to the face amount of all letters of
+credit, whether or not drawn, and banker’s acceptances issued for the account of such person; (c) all capitalized lease
+liabilities of such person and all obligations of such person arising under synthetic leases; (d) net hedging
+obligations of such person; (e) all obligations of such person in respect of disqualified capital securities; (f)
+whether or not so included as liabilities in accordance with gaap, all obligations of such person to pay the deferred
+purchase price of property or services (excluding trade accounts payable in the ordinary course of business which are
+not overdue for a period of more than 90 days or, if overdue for more than 90 days, as to which a dispute exists and
+adequate reserves in conformity with gaap have been established on the books of such person), and indebtedness secured
+by (or for which the holder of such indebtedness has an existing right, contingent or otherwise, to be secured by) a
+lien on property owned or being acquired by such person (including indebtedness arising under conditional sales or other
+title retention agreements), whether or not such indebtedness shall have been assumed by such person or is limited in
+recourse; and (g) all contingent liabilities of such person in respect of any of the foregoing. the indebtedness of any
+person shall include the indebtedness of any other person (including any partnership in which such person is a general
+partner) to the extent such person is liable therefor as a result of such person’s ownership interest in or other
+relationship with such person, except to the extent the terms of such indebtedness provide that such person is not
+liable therefor. “indemnified liabilities” is defined in section 10.4. “indemnified parties” is defined in section 10.4.
+“infringement” and “infringes” mean the misappropriation or other violation of know-how, trade secrets, confidential
+information, and/or intellectual property. “initial commitment amount” means $20,000,000. “initial commitment
+termination date” means the earliest to occur of (i) the closing date (immediately after the making of the initial loan
+on such date), and (ii) august 27, 2012, if the initial loan shall not have been made hereunder prior to such date.
+“initial loan” is defined in section 2.1. - 9 - “intellectual property” means all (i) patents; (ii) trademarks; (iii)
+copyrights and other works of authorship (registered or unregistered), and all applications, registrations and renewals
+therefor; (iv) product authorizations; (v) product agreements; (vi) computer software, databases, data and
+documentation; (vii) trade secrets and confidential business information, whether patentable or unpatentable and whether
+or not reduced to practice, know-how, inventions, manufacturing processes and techniques, research and development
+information, data and other information included in or supporting product authorizations; (vii) financial, marketing and
+business data, pricing and cost information, business, finance and marketing plans, customer and prospective customer
+lists and information, and supplier and prospective supplier lists and information; (viii) other intellectual property
+or similar proprietary rights; (ix) copies and tangible embodiments of any of the foregoing (in whatever form or
+medium); and (x) any and all improvements to any of the foregoing. “interest period” means, (a) initially, the period
+beginning on (and including) the date on which the initial loan is made hereunder pursuant to section 2.3 and ending on
+(and including) the last day of the fiscal quarter in which the loan was made, and (b) thereafter, the period beginning
+on (and including) the first day of each succeeding fiscal quarter and ending on the earlier of (and including) (x) the
+last day of such fiscal quarter and (y) the maturity date. “investment” means, relative to any person, (i) any loan,
+advance or extension of credit made by such person to any other person, including the purchase by such person of any
+bonds, notes, debentures or other debt securities of any other person, (ii) contingent liabilities in favor of any other
+person, and (iii) any capital securities held by such person in any other person. the amount of any investment shall be
+the original principal or capital amount thereof less all returns of principal or equity thereon and shall, if made by
+the transfer or exchange of property other than cash, be deemed to have been made in an original principal or capital
+amount equal to the fair market value of such property at the time of such investment. “key permits” means all permits
+relating to the products (including all product authorizations). “knowledge” of the borrower means the knowledge of any
+executive officer or the most senior legal officer of holdings, the borrower or any subsidiary. “lender” is defined in
+the preamble. “libo rate” means the three-month london interbank offered rate for deposits in u.s. dollars at
+approximately 11:00 a.m. (london, england time), quoted by the lender from the appropriate bloomberg or telerate page
+selected by the lender (or any successor thereto or similar source determined by the lender from time to time), which
+shall be that three-month london interbank offered rate for deposits in u.s. dollars in effect two business days prior
+to the last business day of the relevant fiscal quarter, adjusted for any reserve requirement and any subsequent costs
+arising from a change in governmental regulation, such rate to be rounded up to the nearest 1/16 of 1% and such rate to
+be reset quarterly as of the first business day of each fiscal quarter. if the initial loan is advanced other than on
+the first business day of a fiscal quarter, the initial libo rate shall be that three-month london interbank offered
+rate for deposits in u.s. dollars in effect two business days prior to the date of the initial loan, which rate shall be
+in effect until (and including) the last business day of the fiscal quarter next ending. the lender’s internal records
+of applicable interest rates shall be determinative in the absence of manifest error. - 10 - “lien” means any security
+interest, mortgage, pledge, hypothecation, assignment, deposit arrangement, encumbrance, lien (statutory or otherwise),
+charge against or interest in property, or other priority or preferential arrangement of any kind or nature whatsoever,
+to secure payment of a debt or performance of an obligation. “liquidity” means, at any time, an amount determined for
+the borrower equal to the sum of unrestricted cash-on-hand and cash equivalent investments of the borrower, to the
+extent held in a controlled account located in the united states. “loan documents” means, collectively, this agreement,
+the notes, the security agreement, the royalty agreement, each other agreement pursuant to which the lender is granted a
+lien to secure the obligations (including any mortgages entered into pursuant to section 7.8), the guarantee, and each
+other agreement, certificate, document or instrument delivered in connection with any loan document, whether or not
+specifically mentioned herein or therein. “loan request” means a loan request and certificate duly executed by an
+authorized officer of the borrower substantially in the form of exhibit b hereto. “loans” means the initial loan and the
+delayed draw loan. “maa” means a marketing authorization application filed with any regulatory authority in the european
+union. “material adverse effect” means a material adverse effect on (i) the business, condition (financial or
+otherwise), operations, performance, properties or prospects of the borrower or holdings, the borrower and the
+subsidiaries taken as a whole, (ii) the rights and remedies of the lender under any loan document or (iii) the ability
+of holdings, the borrower or any subsidiary to perform its obligations under any loan document. “material agreements”
+means (i) each contract or agreement to which holdings, the borrower or any subsidiary is a party involving annual
+aggregate payments of more than $150,000, whether such payments are being made by holdings, the borrower or any
+subsidiary to a non-affiliated person, or by a non-affiliated person to holdings, the borrower or any subsidiary; (ii)
+each consulting agreement, professional services agreement or similar agreement with a physician, scientist or other
+similar consultant, or an organization consisting of any such consultants, to which holdings, the borrower or any
+subsidiary is a party; and (iii) all other contracts or agreements, individually or in the aggregate, material to the
+business, operations, assets, prospects, conditions (financial or otherwise), performance or liabilities of holdings,
+the borrower or any subsidiary. “maturity date” means august 24, 2019. “moody’s” means moody’s investors service, inc.
+“nda” means (a) (i) a new drug application (as defined in the fd&c act); and (ii) any similar application or functional
+equivalent relating to any new drug application applicable to or required by any country, jurisdiction or governmental
+authority other than the u.s. (including any maa); and (b) all supplements and amendments that may be filed with respect
+to the foregoing. - 11 - “net casualty proceeds” means, with respect to any casualty event, the amount of any insurance
+proceeds or condemnation awards received by holdings, the borrower or any of the subsidiaries in connection with such
+casualty event in excess of $1,000,000, individually or in the aggregate through the termination date (net of all
+reasonable and customary collection expenses thereof), but excluding any proceeds or awards required to be paid to a
+creditor (other than the lender) which holds a first priority lien permitted by clause (e) of section 8.3 on the
+property which is the subject of such casualty event. “net equity proceeds” means with respect to the sale or issuance
+after the closing date by holdings to any person of any capital securities, warrants or options or the exercise of any
+such warrants or options, the excess of: (a) the gross cash proceeds received by holdings from such sale, exercise or
+issuance in excess of $15,000,000, individually or in the aggregate through the termination date, over (b) all
+reasonable and customary underwriting commissions and legal, investment banking, brokerage and accounting and other
+professional fees, sales commissions and disbursements actually incurred in connection with such sale or issuance which
+have not been paid to affiliates of holdings in connection therewith. “non-excluded taxes” means any taxes other than
+(i) net income and franchise taxes imposed with respect to the lender by any governmental authority under the laws of
+which the lender is organized or in which it maintains its applicable lending office and (ii) any other tax imposed on
+the lender and any business activity of the lender that is not directly related to the loans or the business of the
+borrower, holdings or any subsidiary. “note” means a promissory note of the borrower payable to the lender, in the form
+of exhibit a hereto (as such promissory note may be amended, endorsed or otherwise modified from time to time),
+evidencing the aggregate indebtedness of the borrower to the lender resulting from the outstanding amount of the loans,
+and also means all other promissory notes accepted from time to time in substitution therefor or renewal thereof.
+“obligations” means all obligations (monetary or otherwise, whether absolute or contingent, matured or unmatured) of
+holdings, the borrower and each subsidiary arising under or in connection with a loan document and the principal of and
+premium, if any, and interest (including interest accruing during the pendency of any proceeding of the type described
+in section 9.1.8, whether or not allowed in such proceeding) on the loans. “ofac” means the office of foreign assets
+control of the united states department of the treasury. “organic document” means, relative to holdings, the borrower or
+any subsidiary, its certificate of incorporation, by-laws, certificate of partnership, partnership agreement,
+certificate of formation, limited liability agreement, operating agreement and all shareholder agreements, voting trusts
+and similar arrangements applicable to holdings’, the borrower’s or any subsidiary’s capital securities. - 12 - “other
+taxes” means any and all stamp, documentary or similar taxes, or any other excise or property taxes or similar levies
+that arise on account of any payment made or required to be made under any loan document or from the execution,
+delivery, registration, recording or enforcement of any loan document. “other administrative proceeding” means any
+administrative proceeding relating to a dispute involving a patent office or other relevant intellectual property
+registry which relates to validity, opposition, revocation, ownership or enforceability of the relevant intellectual
+property. “patent” means any patent, patent application or invention disclosure, including all divisions, continuations,
+continuations in-part, provisionals, continued prosecution applications, substitutions, reissues, reexaminations,
+renewals, extensions, restorations, supplemental protection certificates and other additions in connection therewith,
+whether in or related to the united states or any foreign country or other jurisdiction. “patent security agreement”
+means any patent security agreement executed and delivered by holdings, the borrower or any of the subsidiaries in
+substantially the form of exhibit a to the security agreement, as amended, supplemented, amended and restated or
+otherwise modified from time to time. “permits” means all permits, licenses, registrations, certificates, orders,
+approvals, authorizations, consents, waivers, franchises, variances and similar rights issued by or obtained from any
+governmental authority or any other person, including, without limitation, those relating to environmental laws.
+“permitted subordinated indebtedness” means indebtedness incurred after the closing date by holdings, the borrower or
+the subsidiaries that is (i) subordinated to the obligations and all other indebtedness owing from holdings, the
+borrower or the subsidiaries to the lender pursuant to a written subordination agreement satisfactory to the lender in
+its sole discretion and (ii) in an amount and on terms approved by the lender in its sole discretion. “person” means any
+natural person, corporation, limited liability company, partnership, joint venture, association, trust or unincorporated
+organization, governmental authority or any other legal entity, whether acting in an individual, fiduciary or other
+capacity. “product” means any current or future product developed, manufactured, licensed, marketed, sold or otherwise
+commercialized by the borrower or any of its affiliates, including any such product in development or which may be
+developed. “product agreement” means each agreement, license, document, instrument, interest (equity or otherwise) or
+the like under which one or more parties grants or receives any right, title or interest with respect to any product
+development and commercialization activities in respect of one or more products specified therein or to exclude third
+parties from engaging in, or otherwise restricting any right, title or interest as to any product development and
+commercialization activities with respect thereto, including each contract or agreement with suppliers (including human
+tissue supply agreements), manufacturers, distributors, clinical research organizations, hospitals, group purchasing
+organizations, wholesalers, pharmacies or any other person related to any such entity. - 13 - “product authorizations”
+means any and all approvals (including applicable supplements, amendments, pre and post approvals, drug master files,
+governmental price and reimbursement approvals and approvals of applications for regulatory exclusivity), licenses,
+notifications, registrations or authorizations of any governmental authority necessary for the manufacture, development,
+distribution, use, storage, import, export, transport, promotion, marketing, sale or other commercialization of a
+product in any country or jurisdiction, including without limitation registration and listing (including registration
+and listing of 361 products), ides, inds, ndas, device approval applications and blas or similar applications. “product
+development and commercialization activities” means, with respect to any product, any combination of research,
+development, manufacture, import, use, sale, importation, storage, labeling, marketing, promotion, supply, distribution,
+testing, packaging, purchasing or other commercialization activities, receipt of payment in respect of any of the
+foregoing, or like activities the purpose of which is to commercially exploit such product. ”product standards” means
+all safety, quality and other specifications and standards applicable to any products, including all medical device and
+other standards promulgated by standard bodies. “qualified capital securities” shall mean any capital securities that
+are not disqualified capital securities. “regulatory agencies” means any governmental authority that is concerned with
+the use, control, safety, efficacy, reliability, manufacturing, marketing, distribution, sale or other product
+development and commercialization activities relating to any product of holdings, the borrower or any of the
+subsidiaries, including the fda and all similar agencies in other jurisdictions, and includes standard bodies.
+“regulatory authorizations” means all approvals, clearances, notifications, authorizations, orders, exemptions,
+registrations, certifications, licenses and permits granted by, submitted to or filed with any regulatory agencies,
+including all product authorizations. “related parties” means the partners, directors, officers, employees, agents,
+trustees, administrators, managers, advisors and representatives of holdings, the borrower and the subsidiaries.
+“release” means any releasing, disposing, discharging, injecting, spilling, leaking, leaching, pumping, pouring,
+dumping, depositing, emitting, escaping, emptying, seeping, dispersal, migrating or placing, including movement through,
+into or upon the environment or any natural or man-made structure. - 14 - “restricted payment” means (i) the declaration
+or payment of any dividend on, or the making of any payment or distribution on account of, or setting apart assets for a
+sinking or other analogous fund for the purchase, redemption, defeasance, retirement or other acquisition of, any class
+of capital securities of holdings, the borrower or any subsidiary or any warrants, options or other right or obligation
+to purchase or acquire any such capital securities, whether now or hereafter outstanding, or (ii) the making of any
+other distribution in respect of such capital securities, in each case either directly or indirectly, whether in cash,
+property or obligations of holdings, the borrower or any subsidiary or otherwise. “revenue base” means, with respect to
+any period, the net sales (as defined in the royalty agreement) of all products for such period. “royalty agreement”
+means the royalty agreement, dated as of the date hereof, among the borrower and the lender. “s&p” means standard &
+poor’s rating services, a division of the mcgraw-hill companies, inc. “sanctions” means any international economic
+sanction administered or enforced by the united states government (including, without limitation, ofac), the united
+nations security council, the european union, her majesty’s treasury or other relevant sanctions authority. “sec” means
+the securities and exchange commission. “security agreement” means the pledge and security agreement executed and
+delivered by each of the parties thereto, substantially in the form of exhibit e hereto, as amended, supplemented,
+amended and restated or otherwise modified from time to time. “solvent” means, with respect to any person on a
+particular date, that on such date (i) the fair value of the property of such person is greater than the total amount of
+liabilities, including contingent liabilities, of such person, (ii) the present fair saleable value of the assets of
+such person is not less than the amount that will be required to pay the probable liability of such person on its debts
+as they become absolute and matured, (iii) such person does not intend to, and does not believe that it will, incur
+debts or liabilities beyond its ability to pay as such debts and liabilities mature, (iv) such person is not engaged in
+a business or a transaction, and is not about to engage in a business or a transaction, for which the property of such
+person would constitute an unreasonably small capital and (v) such person has not executed this agreement or any other
+loan document, or made any transfer or incurred any obligations hereunder or thereunder, with actual intent to hinder,
+delay or defraud either present or future creditors. the amount of contingent liabilities at any time shall be computed
+as the amount that, in light of all the facts and circumstances existing at such time, can reasonably be expected to
+become an actual or matured liability. “standard bodies” means any of the organizations that create, sponsor or maintain
+safety, quality or other standards, including iso, ansi, cen and scc and the like. “subsidiary” means, with respect to
+any person, any other person of which more than 50% of the outstanding voting securities of such other person
+(irrespective of whether at the time capital securities of any other class or classes of such other person shall or
+might have voting power upon the occurrence of any contingency) is at the time directly or indirectly owned or
+controlled by such person, by such person and one or more other subsidiaries of such person, or by one or more other
+subsidiaries of such person. unless the context otherwise specifically requires, the term “subsidiary” shall be a
+reference to a subsidiary of holdings (other than the borrower). - 15 - “synthetic lease” means, as applied to any
+person, any lease (including leases that may be terminated by the lessee at any time) of any property (whether real,
+personal or mixed) (i) that is not a capital lease in accordance with gaap and (ii) in respect of which the lessee
+retains or obtains ownership of the property so leased for federal income tax purposes, other than any such lease under
+which that person is the lessor. “taxes” means all income, stamp or other taxes, duties, levies, imposts, charges,
+assessments, fees, deductions or withholdings, now or hereafter imposed, levied, collected, withheld or assessed by any
+governmental authority, and all interest, penalties or similar liabilities with respect thereto. “termination date”
+means the date on which all obligations have been paid in full in cash and the commitment shall have terminated.
+“trademark” means any trademark, service mark, trade name, logo, symbol, trade dress, domain name, corporate name or
+other indicator of source or origin, and all applications and registrations therefor, together with all of the goodwill
+associated therewith. “trademark security agreement” means any trademark security agreement executed and delivered by
+holdings, the borrower or any of the subsidiaries substantially in the form of exhibit b to any security agreement, as
+amended, supplemented, amended and restated or otherwise modified from time to time. “ucc” means the uniform commercial
+code as in effect from time to time in the state of new york; provided that, if, with respect to any financing statement
+or by reason of any provisions of law, the perfection or the effect of perfection or non-perfection of the security
+interests granted to the lender pursuant to the applicable loan document is governed by the uniform commercial code as
+in effect in a jurisdiction of the united states other than new york, then “ucc” means the uniform commercial code as in
+effect from time to time in such other jurisdiction for purposes of the provisions of each loan document and any
+financing statement relating to such perfection or effect of perfection or non-perfection. “united states” or “u.s.”
+means the united states of america, its fifty states and the district of columbia. “voting securities” means, with
+respect to any person, capital securities of any class or kind ordinarily having the power to vote for the election of
+directors, managers or other voting members of the governing body of such person. “wholly owned subsidiary” means any
+direct or indirect subsidiaries of holdings or the borrower, all of the outstanding capital securities of which (other
+than any director’s qualifying shares or investments by foreign nationals mandated by applicable laws) is owned directly
+or indirectly by holdings. - 16 - section 1.2 use of defined terms. unless otherwise defined or the context otherwise
+requires, terms for which meanings are provided in this agreement shall have such meanings when used in each other loan
+document and the schedules attached hereto. section 1.3 cross-references. unless otherwise specified, references in a
+loan document to any article or section are references to such article or section of such loan document, and references
+in any article, section or definition to any clause are references to such clause of such article, section or
+definition. section 1.4 accounting and financial determinations. unless otherwise specified, all accounting terms used
+in each loan document shall be interpreted, and all accounting determinations and computations thereunder (including
+under section 8.4 and the definitions used in such calculations) shall be made, in accordance with gaap, as in effect
+from time to time; provided that, if either the borrower or the lender requests an amendment to any provision hereof to
+eliminate the effect of any change occurring after the date hereof in gaap or the application thereof on the operation
+of such provision, regardless of whether any such notice is given before or after such change in gaap or the application
+thereof, then such provision shall be interpreted on the basis of gaap in effect and applied immediately before such
+change shall have become effective until such request shall have been withdrawn or such provision amended in accordance
+herewith. unless otherwise expressly provided, all financial covenants and defined financial terms shall be computed on
+a consolidated basis for holdings, the borrower and the subsidiaries, in each case without duplication. article ii
+commitment and borrowing procedures section 2.1 commitment. on the terms and subject to the conditions of this
+agreement, the lender agrees to make a term loan (the “initial loan”) to the borrower on the closing date in an amount
+equal to (but not less than) the initial commitment amount. on the terms and subject to the conditions of this
+agreement, the lender agrees to make a term loan (the “delayed draw loan”) to the borrower on the delayed draw closing
+date in an amount equal to (but not less than) the delayed draw commitment amount. no amounts paid or prepaid with
+respect to the loans may be reborrowed. section 2.2 borrowing procedure. the borrower may irrevocably request that the
+initial loan be made by delivering to the lender a loan request on or before 10:00 a.m. on a business day at least three
+business days prior to the proposed closing date. the borrower may irrevocably request that the delayed draw loan be
+made by delivering to the lender a loan request on or before 10:00 a.m. on a business day at least three business days
+prior to the proposed delayed draw closing date. section 2.3 funding. after receipt of the loan request for the initial
+loan, the lender shall, on the closing date and subject to the terms and conditions hereof, make the requested proceeds
+of the initial loan available to the borrower by wire transfer to the account the borrower shall have specified in its
+loan request. after receipt of the loan request for the delayed draw loan, the lender shall, on the delayed draw closing
+date and subject to the terms and conditions hereof, make the requested proceeds of the delayed draw loan available to
+the borrower by wire transfer to the account the borrower shall have specified in its loan request. - 17 - section 2.4
+reduction of the commitment amounts. the initial commitment amount shall automatically and permanently be reduced to
+zero on the initial commitment termination date. the delayed draw commitment amount shall automatically and permanently
+be reduced to zero on the delayed draw commitment termination date. article iii repayments, prepayments, interest and
+fees section 3.1 repayments and prepayments; application. the borrower agrees that the loans, and any fees or interest
+accrued or accruing thereon, shall be repaid and prepaid solely in u.s. dollars pursuant to the terms of this article
+iii. section 3.2 repayments and prepayments. the borrower shall repay in full the unpaid principal amount of the loans
+on the maturity date. prior thereto, payments and prepayments of the loans shall be made as set forth below. (a) except
+as set forth in the royalty agreement and as otherwise provided in this section 3.2, no payments or prepayments,
+including voluntary prepayments, of principal of the loan shall be permitted. (b) commencing with the fiscal quarter
+ending on september 30, 2016, the borrower shall, on the last business day of each fiscal quarter, unless waived by the
+lender at least three business days prior to such date, make a scheduled principal payment of $1,666,667 (or such lesser
+amount as the lender may specify at least three business days prior to such date) of the initial loan and $416,667 (or
+such lesser amount as the lender may specify at least three business days prior to such date) of the delayed draw loan,
+or, in each case if less, the remaining outstanding principal amount of such loan. (c) within three business days of
+receipt by holdings of any net equity proceeds, or receipt by holdings, the borrower or any subsidiary of any net
+casualty proceeds, the borrower shall notify the lender thereof. if requested by the lender, the borrower shall within
+three business days of such request make a mandatory prepayment of the loans, in an amount equal to 50% of such net
+equity proceeds or 100% of such net casualty proceeds (or, in each case, such lesser amount as the lender may specify on
+the date of such request), as the case may be, to be applied as set forth in section 3.3. (d) the borrower shall repay
+the loans in full immediately upon any acceleration of the maturity date thereof pursuant to section 9.2 or section 9.3,
+unless, pursuant to section 9.3, only a portion of the loans is so accelerated (in which case the portion so accelerated
+shall be so repaid). each prepayment of the loans made hereunder shall be without premium or penalty. - 18 - section 3.3
+application. except as provided in section 4.4(b), amounts repaid or prepaid in respect of the outstanding principal
+amount of the loans pursuant to clauses (c) or (d) of section 3.2 shall be applied pro rata to the initial loan and
+delayed draw term loan, and in reverse order of the scheduled repayments set forth in clause (b) of section 3.2. section
+3.4 interest rate. during any applicable interest period, the loans shall accrue interest during such interest period at
+a rate per annum equal to the sum of (i) the applicable margin plus (ii) the higher of (x) the libo rate for such
+interest period and (y) 1.00%. the interest rate shall be recalculated and, if necessary, adjusted for each interest
+period, in each case pursuant to the terms hereof. section 3.5 default rate. at all times commencing upon the date any
+event of default occurs, and continuing until such event of default is no longer continuing, the applicable margin shall
+be increased by 3% per annum. section 3.6 payment dates. interest accrued on the loans shall be payable in cash, without
+duplication: (a) on the maturity date therefor; (b) on the date of any payment or prepayment, in whole or in part, of
+principal outstanding on such loan on the principal amount so paid or prepaid; (c) on the last day of each fiscal
+quarter; provided that if such day is not a business day, then such payment shall be made on the next succeeding
+business day; and (d) on that portion of the loans that is accelerated pursuant to section 9.2 or section 9.3,
+immediately upon such acceleration. interest accrued on the loans or other monetary obligations after the date such
+amount is due and payable (whether on the maturity date, upon acceleration or otherwise) shall be payable upon demand.
+article iv libo rate and other provisions section 4.1 increased costs, etc. the borrower agrees to reimburse the lender
+for any increase in the cost to the lender of, or any reduction in the amount of any sum receivable by the lender in
+respect of, the lender’s commitment and the making, continuation or maintaining of the loans hereunder that may arise in
+connection with any change in law, except for such changes with respect to increased capital costs and taxes which are
+governed by section 4.2 and section 4.3, respectively. the lender shall notify the borrower in writing of the occurrence
+of any such event, stating the reasons therefor and the additional amount required fully to compensate the lender for
+such increased cost or reduced amount. such additional amounts shall be payable by the borrower directly to the lender
+within five days of its receipt of such notice, and such notice shall, in the absence of manifest error, be conclusive
+and binding on the borrower. - 19 - section 4.2 increased capital costs. if any change in law affects or would affect
+the amount of capital required or expected to be maintained by the lender or any person controlling the lender, and the
+lender determines (in good faith but in its sole and absolute discretion) that the rate of return on its or such
+controlling person’s capital as a consequence of the commitment or the loans made by it hereunder is reduced to a level
+below that which the lender or such controlling person could have achieved but for the occurrence of any such
+circumstance, then upon notice from time to time by the lender to the borrower, the borrower shall within five days
+following receipt of such notice pay directly to the lender additional amounts sufficient to compensate the lender or
+such controlling person for such reduction in rate of return. a statement of the lender as to any such additional amount
+or amounts shall, in the absence of manifest error, be conclusive and binding on the borrower. in determining such
+amount, the lender may use any method of averaging and attribution that it (in its sole and absolute discretion) shall
+deem applicable. section 4.3 taxes. the borrower covenants and agrees as follows with respect to taxes. (a) any and all
+payments by the borrower under each loan document shall be made without setoff, counterclaim or other defense, and free
+and clear of, and without deduction or withholding for or on account of, any non-excluded taxes. in the event that any
+taxes are imposed and required to be deducted or withheld from any payment required to be made by holdings, the borrower
+or any of the subsidiaries to or on behalf of the lender under any loan document, then: (i) the amount of such payment
+shall be increased as may be necessary so that such payment is made, after withholding or deduction for or on account of
+such non-excluded taxes, in an amount that is not less than the amount provided for in such loan document; and (ii) the
+borrower shall withhold the full amount of such non-excluded taxes from such payment (as increased pursuant to clause
+(a)(i) and shall pay such amount to the governmental authority imposing such taxes in accordance with applicable law.
+(b) in addition, the borrower shall pay all other taxes imposed to the relevant governmental authority imposing such
+other taxes in accordance with applicable law. (c) as promptly as practicable after the payment of any non-excluded
+taxes or other taxes, and in any event within 45 days of any such payment being due, the borrower shall furnish to the
+lender a copy of an official receipt (or a certified copy thereof) evidencing the payment of such non-excluded taxes or
+other taxes. - 20 - (d) the borrower shall indemnify the lender for any non-excluded taxes and other taxes levied,
+imposed or assessed on (and whether or not paid directly by) the lender whether or not such non-excluded taxes or other
+taxes are correctly or legally asserted by the relevant governmental authority. promptly upon having knowledge that any
+such non-excluded taxes or other taxes have been levied, imposed or assessed, and promptly upon notice thereof by the
+lender, the borrower shall pay such non-excluded taxes or other taxes directly to the relevant governmental authority
+(provided that, the lender shall not be under any obligation to provide any such notice to the borrower). in addition,
+the borrower shall indemnify the lender for any incremental non-excluded taxes that may become payable by the lender as
+a result of any failure of the borrower to pay any non-excluded taxes when due to the appropriate governmental authority
+or to deliver to the lender, pursuant to clause (c), documentation evidencing the payment of non-excluded taxes or other
+taxes. with respect to indemnification for non-excluded taxes and other taxes actually paid by the lender or the
+indemnification provided in the immediately preceding sentence, such indemnification shall be made within 30 days after
+the date the lender makes written demand therefor. the borrower acknowledges that any payment made to the lender or to
+any governmental authority in respect of the indemnification obligations of the borrower provided in this clause shall
+constitute a payment in respect of which the provisions of clause (a) and this clause shall apply. section 4.4 payments,
+computations; proceeds of collateral, etc. (a) unless otherwise expressly provided in a loan document, all payments by
+the borrower pursuant to each loan document shall be made without setoff, deduction or counterclaim not later than 1:00
+p.m. on the date due in same day or immediately available funds to such account as the lender shall specify from time to
+time by notice to the borrower. funds received after 1:00 p.m. on any day shall be deemed to have been received by the
+lender on the next succeeding business day. all interest and fees shall be computed on the basis of the actual number of
+days (including the first day but excluding the last day) occurring during the period for which such interest or fee is
+payable over a year comprised of 360 days. payments due on other than a business day shall be made on the next
+succeeding business day and such extension of time shall be included in computing interest and fees in connection with
+that payment. (b) all amounts received as a result of the exercise of remedies under the loan documents (including from
+the proceeds of collateral securing the obligations) or under applicable law shall be applied upon receipt to the
+obligations as follows: (i) first, to the payment in full in cash of all interest (including interest accruing after the
+commencement of a proceeding in bankruptcy, insolvency or similar law, whether or not permitted as a claim under such
+law) and fees owing under the loan documents, and all costs and expenses owing to the lender pursuant to the terms of
+the loan documents, until paid in full in cash, (ii) second, after payment in full in cash of the amounts specified in
+clause (b)(i), to the payment of the principal amount of the loans then outstanding, (iii) third, after payment in full
+in cash of the amounts specified in clauses (b)(i) and (b)(ii), to the payment of all other obligations owing to the
+lender, and (iv) fourth, after payment in full in cash of the amounts specified in clauses (b)(i) through (b)(iii), and
+following the termination date, to the borrower or any other person lawfully entitled to receive such surplus. - 21 -
+section 4.5 setoff. the lender shall, upon the occurrence and during the continuance of any default described in clauses
+(a) through (d) of section 9.1.8 or, upon the occurrence and during the continuance of any other event of default, have
+the right to appropriate and apply to the payment of the obligations owing to it (whether or not then due), and (as
+security for such obligations) the borrower hereby grants to the lender a continuing security interest in, any and all
+balances, credits, deposits, accounts or moneys of the borrower then or thereafter maintained with or on behalf of the
+lender. the lender agrees promptly to notify the borrower after any such appropriation and application made by the
+lender; provided that, the failure to give such notice shall not affect the validity of such setoff and application. the
+rights of the lender under this section are in addition to other rights and remedies (including other rights of setoff
+under applicable law or otherwise) which the lender may have. section 4.6 libo rate not determinable. if prior to the
+commencement of any interest period, adequate and reasonable means do not exist for ascertaining the libo rate for such
+interest period, then the lender shall give notice thereof to the borrower as promptly as practicable. in the event of
+any such determination, the loans shall, until the lender has advised the borrower that the circumstances giving rise to
+such notice no longer exist, bear interest at the interest rate in effect for the immediately preceding interest period.
+article v conditions to making the loans section 5.1 credit extensions. the obligation of the lender to make the initial
+loan shall be subject to the execution and delivery of this agreement by the parties hereto, the delivery of a loan
+request as requested pursuant to section 2.3, and the satisfaction of each of the conditions precedent set forth below
+in this article (other than sections 5.1.17 and 5.1.18). the obligation of the lender to make the delayed draw loan
+shall be subject to the prior making of the initial loan, the delivery of a loan request as requested pursuant to
+section 2.3, and the satisfaction of each of the conditions precedent set forth below in sections 5.1.2, 5.1.7, 5.1.17
+and 5.1.18. section 5.1.1 secretary’s certificate, etc. the lender shall have received from holdings, the borrower and
+each subsidiary party to a loan document, (i) a copy of a good standing certificate, dated a date reasonably close to
+the closing date, for each such person and (ii) a certificate, dated as of the closing date, duly executed and delivered
+by such person’s secretary or assistant secretary, managing member or general partner, as applicable, as to (a)
+resolutions of each such person’s board of directors (or other managing body, in the case of other than a corporation)
+then in full force and effect authorizing the execution, delivery and performance of each loan document to be executed
+by such person and the transactions contemplated hereby and thereby; (b) the incumbency and signatures of those of its
+officers, managing member or general partner, as applicable, authorized to act with respect to each loan document to be
+executed by such person; and (c) the full force and validity of each organic document of such person and copies thereof;
+upon which certificates the lender may conclusively rely until it shall have received a further certificate of the
+secretary, assistant secretary, managing member or general partner, as applicable, of any such person canceling or
+amending the prior certificate of such person. - 22 - section 5.1.2 closing date certificate. the lender shall have
+received a closing date certificate, dated as of the closing date or delayed draw closing date, as the case may be, and
+duly executed and delivered by an authorized officer of the borrower, in which certificate the borrower shall agree and
+acknowledge that the statements made therein shall be deemed to be true and correct representations and warranties of
+the borrower as of such date, and, at the time such certificate is delivered, such statements shall in fact be true and
+correct, and such statements shall include that (i) the representations and warranties set forth in each loan document
+shall, in each case, be true and correct, (ii) no default shall have then occurred and be continuing, or would result
+from the loan to be advanced on the closing date or delayed draw closing date, as the case may be, and (c) all of the
+conditions set forth in this article v have been satisfied. all documents and agreements required to be appended to the
+closing date certificate, if any, shall be in form and substance satisfactory to the lender, shall have been executed
+and delivered by the requisite parties, and shall be in full force and effect. section 5.1.3 payment of outstanding
+indebtedness, etc. on the closing date, all indebtedness identified in schedule 8.2(b), together with all interest, all
+prepayment premiums and all other amounts due and payable with respect thereto, shall have been paid in full from the
+proceeds of the loan and the commitments and obligations in respect of such indebtedness (other than any continuing
+reimbursement and indemnification obligations under the agreements governing such indebtedness) shall have been
+terminated, and all liens securing payment of any such indebtedness shall have been released and the lender shall have
+received all uniform commercial code form ucc-3 termination statements or other instruments (including customary payoff
+letters) as may be suitable or appropriate in connection therewith. section 5.1.4 delivery of note. the lender shall
+have received a note duly executed and delivered by an authorized officer of the borrower. section 5.1.5 financial
+information, etc. the lender shall have received (a) audited consolidated financial statements of holdings, the borrower
+and the subsidiaries for each of the fiscal years ended december 31, 2009, december 31, 2010 and december 31, 2011; (b)
+unaudited consolidated balance sheets of holdings, the borrower and the subsidiaries for each fiscal quarter ended after
+december 31, 2011, together with the related consolidated statement of operations, shareholder’s equity and cash flows
+for the twelve months then ended; and (c) such other financial information as to holdings, the borrower and the
+subsidiaries and their respective businesses, assets and liabilities as the lender may reasonably request. section 5.1.6
+compliance certificate. the lender shall have received an initial compliance certificate on a pro forma basis as if the
+initial loan had been made as of june 30, 2012 and as to such items therein as the lender reasonably requests, dated as
+of the closing date, duly executed (and with all schedules thereto duly completed) and delivered by the chief financial
+or accounting authorized officer of the borrower. - 23 - section 5.1.7 solvency, etc. the lender shall have received a
+solvency certificate duly executed and delivered by the chief financial or accounting authorized officer of the
+borrower, dated as of the closing date or delayed draw closing date, as the case may be, in form and substance
+satisfactory to the lender. section 5.1.8 guarantee. the lender shall have received executed counterparts of the
+guarantee, dated as of the date hereof, duly executed and delivered by holdings and each subsidiary. section 5.1.9
+security agreements. the lender shall have received executed counterparts of the security agreement, dated as of the
+date hereof, duly executed and delivered by holdings, the borrower and each subsidiary, together with (a) certificates
+(in the case of capital securities that are securities (as defined in the ucc)) evidencing all of the issued and
+outstanding capital securities owned by holdings, the borrower or any subsidiary in the borrower and the subsidiaries,
+which certificates in each case shall be accompanied by undated instruments of transfer duly executed in blank, or, in
+the case of capital securities that are uncertificated securities (as defined in the ucc), confirmation and evidence
+satisfactory to the lender that the security interest therein has been transferred to and perfected by the lender in
+accordance with articles 8 and 9 of the ucc and all laws otherwise applicable to the perfection of the pledge of such
+capital securities. (b) financing statements suitable in form for naming holdings, the borrower and each subsidiary as a
+debtor and the lender as the secured party, or other similar instruments or documents to be filed under the ucc of all
+jurisdictions as may be necessary or, in the opinion of the lender, desirable to perfect the security interests of the
+lender pursuant to the security agreement; (c) ucc form ucc-3 termination statements, if any, necessary to release all
+liens and other rights of any person (i) in any assets of holdings, the borrower or any subsidiary, and (ii) securing
+any of the indebtedness identified in schedule 8.2(b), together with such other ucc form ucc-3 termination statements as
+the lender may reasonably request from holdings, the borrower or any subsidiary; (d) landlord access agreements and
+bailee letters in form and substance satisfactory to the lender from each landlord to and mortgagee of holdings, the
+borrower or any subsidiary; and (e) evidence that all deposit accounts, lockboxes, disbursement accounts, investment
+accounts or other similar accounts of holdings, the borrower and each subsidiary are controlled accounts. section 5.1.10
+intellectual property security agreements. the lender shall have received a patent security agreement, a copyright
+security agreement and a trademark security agreement, as applicable, each dated as of the closing date, duly executed
+and delivered by the borrower or any subsidiary that, pursuant to the security agreement, is required to provide such
+intellectual property security agreements to the lender. - 24 - section 5.1.11 royalty agreement. the lender shall have
+received an executed counterpart of the royalty agreement, dated as of the date hereof, executed and delivered by an
+authorized officer of the borrower. section 5.1.12 opinions of counsel. the lender shall have received opinions, dated
+the closing date and addressed to the lender, from (a) bryan cave hro, special counsel to holdings and the borrower, in
+form and substance satisfactory to the lender; and (b) jill gilpin, vp and legal counsel for holdings and the borrower,
+in form and substance satisfactory to the lender. section 5.1.13 insurance. the lender shall have received certified
+copies of the insurance policies (or binders in respect thereof), from one or more insurance companies satisfactory to
+the lender, evidencing coverage required to be maintained pursuant to each loan document, with the lender named as loss
+payee or additional insured, as applicable. section 5.1.14 closing fees, expenses, etc. the lender shall have received
+for its own account all fees, costs and expenses due and payable pursuant to section 10.3. section 5.1.15 anti-terrorism
+laws. the lender shall have received, as applicable, all documentation and other information required by bank regulatory
+authorities under applicable “know your customer” and anti-money laundering rules and regulations, including the u.s.a.
+patriot act. section 5.1.16 satisfactory legal form. all documents executed or submitted pursuant hereto by or on behalf
+of holdings, the borrower or any subsidiary shall be satisfactory in form and substance to the lender and its counsel,
+and the lender and its counsel shall have received all information, approvals, resolutions, opinions, documents or
+instruments as the lender or its counsel may reasonably request. section 5.1.17 revenue base. the lender shall be
+satisfied that the revenue base for the three full calendar months prior to the delayed draw closing date was at least
+$12,500,000 and the revenue base for the six full calendar months prior to the delayed draw closing date was at least
+$25,000,000. section 5.1.18 disclosure schedules. immediately prior to the delayed draw closing date, the borrower shall
+deliver to the lender updates to schedules 6.15(a), 6.16, 6.18(a) and 6.23, each such updated schedule to be complete
+and accurate as of the delayed draw closing date. article vi representations and warranties in order to induce the
+lender to enter into this agreement and to make the loans hereunder, the borrower represents and warrants to the lender
+as set forth in this article. - 25 - section 6.1 organization, etc. holdings, the borrower and each subsidiary is
+validly organized and existing and in good standing under the laws of the jurisdiction of its incorporation or
+organization, is duly qualified to do business and is in good standing as a foreign entity in each jurisdiction where
+the nature of its business requires such qualification, and has full power and authority and holds all requisite
+governmental licenses, permits and other approvals to enter into and perform its obligations under each loan document to
+which it is a party, to own and hold under lease its property and to conduct its business substantially as currently
+conducted by it. section 6.2 due authorization, non-contravention, etc. the execution, delivery and performance by
+holdings, the borrower and each subsidiary of each loan document executed or to be executed by it are in each case
+within such person’s powers, have been duly authorized by all necessary action, and do not (a) contravene (i) holdings’,
+the borrower’s or any subsidiary’s organic documents, (ii) any court decree or order binding on or affecting holdings,
+the borrower or any subsidiary or (iii) any law or governmental regulation binding on or affecting holdings, the
+borrower or any subsidiary; or (b) result in (i) or require the creation or imposition of any lien on holdings’, the
+borrower’s or any subsidiary’s properties (except as permitted by this agreement) or (ii) a default under any contract,
+agreement, or instrument binding on or affecting holdings, the borrower or any subsidiary. section 6.3 government
+approval, regulation, etc. no authorization or approval or other action by, and no notice to or filing with, any
+governmental authority or other person (other than those that have been, or on the closing date will be, duly obtained
+or made and which are, or on the closing date will be, in full force and effect) is required for the due execution,
+delivery or performance by holdings, the borrower or any subsidiary of any loan document to which it is a party. section
+6.4 validity, etc. each loan document to which holdings, the borrower or any subsidiary is a party constitutes the
+legal, valid and binding obligations of such person enforceable against such person in accordance with its respective
+terms (except, in any case, as such enforceability may be limited by applicable bankruptcy, insolvency, reorganization
+or similar laws affecting creditors’ rights generally and by principles of equity). section 6.5 financial information.
+the financial statements of holdings, the borrower and the subsidiaries furnished to the lender pursuant to sections
+5.1.5 and 7.1 have been prepared in accordance with gaap, consistently applied, and present fairly the consolidated
+financial condition of the persons covered thereby as at the dates thereof and the results of their operations for the
+periods then ended. section 6.6 no material adverse change. except as set forth on schedule 6.6, there has been no
+material adverse change in the business, financial performance or condition, operations (including the results thereof),
+assets, properties or prospects of holdings, the borrower or any subsidiary since december 31, 2011. - 26 - section 6.7
+litigation, labor matters and environmental matters. (a) except as described on schedule 6.7(a), there are no actions,
+suits or proceedings by or before any arbitrator or governmental authority pending against or, to the knowledge of the
+borrower, threatened against or affecting holdings, the borrower or any subsidiary (i) as to which there is a reasonable
+likelihood of an adverse determination and that, if adversely determined, would reasonably be expected, individually or
+in the aggregate, to result in liabilities to holdings, the borrower and/or any subsidiary in excess of $250,000 or (ii)
+that would reasonably be likely to adversely affect this agreement or the transactions contemplated hereby. (b) except
+as described on schedule 6.7(b), there are no labor controversies pending against or, to the knowledge of the borrower,
+threatened against or affecting holdings, the borrower or any subsidiary (i) that would reasonably be expected,
+individually or in the aggregate, to result in liabilities to holdings, the borrower and/or any subsidiary in excess of
+$250,000 or (ii) that would reasonably be likely to adversely affect this agreement or the transaction contemplated
+hereby. (c) none of holdings, the borrower or any subsidiary (i) has failed to comply with any environmental law or to
+obtain, maintain or comply with any permit under or in connection with any environmental law (“environmental permit”)
+where such failure to comply would reasonably be expected, individually or in the aggregate, to result in liabilities to
+holdings, the borrower and/or any subsidiary in excess of $250,000, (ii) is or has been subject to any environmental
+liability, (iii) has received notice of any environmental liability, or (iv) knows of any basis for any environmental
+liability that would reasonably be expected, individually or in the aggregate, to result in liabilities to holdings, the
+borrower and/or any subsidiary in excess of $250,000. section 6.8 subsidiaries. holdings has no subsidiaries except
+those subsidiaries which are identified in schedule 6.8 (which schedule also identifies the direct and indirect owners
+of the capital stock of such subsidiaries) or which are permitted to have been organized or acquired after the closing
+date in accordance with section 8.5 or section 8.7. section 6.9 ownership of properties. holdings, the borrower and each
+subsidiary owns (i) in the case of owned real property, good and marketable fee title to, and (ii) in the case of owned
+personal property, good and valid title to, or, in the case of leased real or personal property, valid and enforceable
+leasehold interests (as the case may be) in, all of its properties and assets, tangible and intangible, of any nature
+whatsoever, free and clear in each case of all liens or claims, except for liens permitted pursuant to section 8.3.
+section 6.10 taxes. holdings, the borrower and each subsidiary has filed all tax returns and reports required by law to
+have been filed by it and has paid all taxes due and owing, except (i) any such taxes which are being diligently
+contested in good faith by appropriate proceedings and for which adequate reserves in accordance with gaap shall have
+been set aside on its books and (ii) any taxes that do not exceed, individually or in the aggregate, $250,000. - 27 -
+section 6.11 benefit plans, etc. none of holdings, the borrower or any of the subsidiaries or any of their respective
+erisa affiliates sponsors, maintains, contributes to, is required to contribute to, or has any actual or potential
+liability with respect to, any benefit plan. none of holdings, the borrower or any of the subsidiaries is a party to any
+collective bargaining agreement, and none of the employees of holdings, the borrower or any of the subsidiaries are
+subject to any collective bargaining agreement. each “employee benefit plan” as defined in section 3(3) of erisa that
+provides retirement benefits and that is sponsored by holdings, the borrower or any of their erisa affiliates intended
+to be tax qualified under section 401 or 501 of the code has a determination letter or opinion letter from the internal
+revenue service on which it is entitled to rely, and no assets of any such plan are invested in capital securities of
+holdings or the borrower. each employee benefit plan, program or arrangement sponsored, maintained, contributed to or
+required to be contributed to by holdings, the borrower or any subsidiary has complied in all material respects with its
+terms and applicable law. section 6.12 accuracy of information. none of the information heretofore or contemporaneously
+furnished in writing to the lender by or on behalf of holdings, the borrower or any subsidiary in connection with any
+loan document or any transaction contemplated hereby contains any untrue statement of a material fact, or omits to state
+any material fact necessary to make any information not misleading. section 6.13 regulations u and x. none of holdings,
+the borrower or any subsidiary is engaged in the business of extending credit for the purpose of buying or carrying
+margin stock, and no proceeds of the loans will be used to purchase or carry margin stock or otherwise for a purpose
+which violates, or would be inconsistent with, f.r.s. board regulation u or regulation x. terms for which meanings are
+provided in f.r.s. board regulation u or regulation x or any regulations substituted therefor, as from time to time in
+effect, are used in this section with such meanings. section 6.14 solvency. the borrower, individually, and holdings,
+the borrower and the subsidiaries, taken as a whole, on a consolidated basis, both before and after giving effect to the
+loans, are solvent. section 6.15 intellectual property. (a) schedule 6.15(a) sets forth a complete and accurate list as
+of the closing date or delayed draw closing date, as the case may be, of all (i) patents, (ii) registered and material
+unregistered trademarks (including domain names) and any pending registrations for trademarks and (iii) any other
+registered intellectual property, in each case owned or licensed by holdings, the borrower or any of the subsidiaries.
+for each item of intellectual property listed on schedule 6.15(a), the borrower has, where relevant, indicated (a) the
+countries in each case in which such item is registered, (b) the application numbers, (c) the registration or patent
+numbers, (d) with respect to the patents, the expected expiration date of the issued patents, (e) the owner of such item
+of intellectual property and (f) with respect to intellectual property owned by any third party, the agreement pursuant
+to which that intellectual property is licensed to holdings, the borrower or any subsidiary. - 28 - (b) with respect to
+all intellectual property listed on schedule 6.15(a): (i) holdings, the borrower or a subsidiary owns or has a valid
+license to such intellectual property free and clear of any and all liens other than liens permitted pursuant to section
+8.3 and all such intellectual property are in full force and effect, and have not expired, lapsed or been forfeited,
+cancelled or abandoned; (ii) each of holdings, the borrower and the subsidiaries, as applicable, has taken commercially
+reasonable actions to maintain and protect such intellectual property and, to the borrower’s knowledge, there are no
+unpaid maintenance or renewal fees payable by holdings, the borrower or any of the subsidiaries that are currently
+overdue for any of such registered intellectual property; (iii) except as described on schedule 6.15(b), there is no
+proceeding challenging the validity or enforceability of any such intellectual property, none of holdings, the borrower
+or any of the subsidiaries is involved in any such proceeding with any person and none of the intellectual property is
+the subject of any other administrative proceeding; (iv) to the knowledge of the borrower, (a) such intellectual
+property is valid, enforceable and subsisting and (b) no event has occurred, and nothing has been done or omitted to
+have been done, that would affect the validity or enforceability of such intellectual property; and (v) except as
+otherwise indicated on schedule 6.15(a), each of holdings, the borrower and each subsidiary is the sole and exclusive
+owner of all right, title and interest in and to all such intellectual property that is owned by it. (c) except as
+described on schedule 6.15(c), the borrower has not given notice to any third party alleging that such third party is
+committing any act of infringement of any intellectual property listed on schedule 6.15(a). (d) with respect to each
+license agreement listed on schedule 6.15(a), such license agreement (i) is in full force and effect and is binding upon
+and enforceable against holdings, the borrower and the subsidiaries party thereto and all other parties thereto in
+accordance with its terms, (ii) has not been amended or otherwise modified and (iii) has not suffered a default or
+breach thereunder. to the borrower’s knowledge, none of holdings, the borrower or any of the subsidiaries has taken any
+action that would permit any other person party to any such license agreement to have, and no such person otherwise has,
+any defenses, counterclaims or rights of setoff thereunder. (e) except as set forth on schedule 6.15(e), none of
+holdings, the borrower or any of the subsidiaries has received written notice from any third party alleging that the
+conduct of its business (including the development, manufacture, use, sale or other commercialization of any product)
+infringes any intellectual property of that third party and, to the knowledge of the borrower, the conduct of its
+business and the business of holdings and the subsidiaries (including the development, manufacture, use, sale or other
+commercialization of any product) does not infringe any intellectual property of any third party. - 29 - (f) holdings,
+the borrower and the subsidiaries have used commercially reasonable efforts and precautions to protect their respective
+commercially significant unregistered intellectual property. section 6.16 material agreements. set forth on schedule
+6.16 is a complete and accurate list as of the closing date or delayed draw closing date, as the case may be, of all
+material agreements of holdings, the borrower or any of the subsidiaries, with an adequate description of the parties
+thereto, subject matter thereof and amendments and modifications thereto. each such material agreement (i) is in full
+force and effect and is binding upon and enforceable against holdings, the borrower and the subsidiaries party thereto
+and all other parties thereto in accordance with its terms, (ii) has not been amended or otherwise modified and (iii)
+has not suffered a material breach or a default thereunder. section 6.17 permits. holdings, the borrower and the
+subsidiaries have all permits, including environmental permits, necessary or required for the ownership, operation and
+conduct of their business and the distribution of the products. all such permits are validly held and there are no
+defaults thereunder. section 6.18 regulatory matters. (a) set forth on schedule 6.18(a) is a complete and accurate list
+as of the closing date or delayed draw closing date, as the case may be, of all material regulatory authorizations
+relating to holdings, the borrower or any subsidiary, the conduct of their business and the products (on a per product
+basis). all such regulatory authorizations are (i) legally and beneficially owned exclusively by holdings, the borrower
+or one of the subsidiaries, free and clear of all liens other than liens permitted pursuant to section 8.3, and (ii)
+validly registered and on file with the applicable governmental authority, in compliance with all filing and maintenance
+requirements (including any fee requirements) thereof, and are in good standing, valid and enforceable with the
+applicable governmental authority. all required notices, registrations and listings, supplemental applications or
+notifications, reports (including field alerts, medical device reports or other reports of adverse experiences) and
+other required filings with respect to the products have been filed with the fda and all other applicable governmental
+authority. - 30 - (b) except as set forth on schedule 6.18(b) and without limiting the generality of any other
+representations and warranties made by the borrower, (i) the products comply in all material respects with (a) all
+applicable laws, rules, regulations, orders, injunctions and decrees of the fda and other applicable governmental
+authority, including all applicable requirements of state authorities and the fd&c act and (b) all product
+authorizations and other regulatory authorizations; (ii) holdings, the borrower, the subsidiaries and their respective
+suppliers have not received any notification from any governmental authority asserting that any 361 product lacks a
+required product authorization; (iii) there is no pending regulatory action, investigation or inquiry (other than
+non-material routine or periodic inspections or reviews) against holdings, the borrower or any of the subsidiaries or
+any of their respective suppliers with respect to the products, and to the borrower’s knowledge there is no basis for
+any adverse regulatory action against holdings, the borrower or any of the subsidiaries or, to the knowledge of the
+borrower, their respective suppliers with respect to the products; and (iv) without limiting the foregoing, (a) no
+product recalls, safety alerts, corrections, withdrawals, marketing suspensions, removals or the like have been
+requested, demanded or ordered by any governmental authority with respect to any products, and there is no basis for the
+issuance of any such product recalls, safety alerts, corrections, withdrawals, marketing suspensions, removals or the
+like by any person with respect to any products, and (b) no criminal, injunctive, seizure, detention or civil penalty
+actions have at any time been commenced or threatened in writing by any governmental authority with respect to or in
+connection with any products, there are no consent decrees (including plea agreements) which relate to any products, and
+there is no basis for the commencement for any criminal injunctive, seizure, detention or civil penalty actions by any
+governmental authority relating to the products or for the issuance of any consent decrees. none of holdings, the
+borrower, any of the subsidiaries or, to the borrower’s knowledge, any of their respective suppliers is employing or
+utilizing the services of any individual who has been debarred or temporarily suspended under any applicable law, rule
+or regulation. (c) except as set forth in schedule 6.18(c), in all material respects with respect to products, (i) all
+design, manufacturing, storage, distribution, packaging, labeling, recordkeeping and other supply activities by
+holdings, the borrower, the subsidiaries and, to the borrower’s knowledge, their respective suppliers relating to such
+products have been conducted, and are currently being conducted, in compliance with the applicable requirements of the
+fd&c act and other requirements of the fda and all other governmental authorities, including current good manufacturing
+practices, cgtps and quality system regulations, (ii) none of holdings, the borrower, any of the subsidiaries, or, to
+the knowledge of the borrower, any of their respective suppliers has received written notice or threat of commencement
+of action by any governmental authority to withdraw its approval of or to enjoin production of the products at any
+facility, and (iii) all applicable post-approval and post-clearance procedures and activities have been carried out, and
+have been carried out in accordance with the requirements of the regulatory authorizations and all applicable laws,
+rules and regulations. no product sold by or in the inventory of holdings, the borrower or any of the subsidiaries is
+adulterated or misbranded, all labeling, packaging (including inserts), product information, advertising and promotional
+materials and activities are in compliance in all material respects with applicable fda and other governmental authority
+requirements, and the products are in compliance with all classification, registration, listing, marking, tracking and
+audit requirements of the fda and any other governmental authority. (d) except as set forth in schedule 6.18(d), all
+activities of holdings, the borrower, the subsidiaries and, to the borrower’s knowledge, their respective suppliers
+related to the procurement, use, and transplantation of tissue, including allograft bone tissue, have been conducted,
+and are currently being conducted in compliance with the applicable requirements of the national organ transplant act. -
+31 - (e) the borrower has made available to the lender complete and accurate copies of all product authorizations and
+regulatory dossiers relating thereto, all medical device reports and communications to or from fda and other relevant
+governmental authorities, including inspection reports, warning letters, and material reports, studies and other
+correspondence, other than opinions of counsel that are attorney-client privileged, with respect to regulatory matters
+relating to holdings, the borrower or any of the subsidiaries, the conduct of their business and the products. (f) all
+studies, tests and preclinical and clinical trials conducted relating to the products, in all material respects, by or
+on behalf of holdings, the borrower and the subsidiaries and, to the knowledge of the borrower, their respective
+licensees, licensors and third party services providers and consultants, have been conducted, and are currently being
+conducted, in accordance with experimental protocols, procedures and controls pursuant to, where applicable, current
+good clinical practices and current good laboratory practices and other applicable laws, rules regulations. all results
+of such studies, tests and trials, and all other material information related to such studies, tests and trials, have
+been made available to the lender. the summaries and descriptions of any of the foregoing provided to the lender are
+accurate and contain no material omissions. none of holdings, the borrower, any of the subsidiaries, or, to the
+knowledge of the borrower, any of their respective licensees, licensors or third party services providers or
+consultants, has received from the fda or other applicable governmental authority any notices or correspondence
+requiring the termination, suspension, material modification or clinical hold of any studies, tests or clinical trials
+in any material respect with respect to or in connection with the products. (g) there has been no material untrue
+statement of fact and no fraudulent statement made by holdings, the borrower, any of the subsidiaries, or any of their
+respective agents or representatives to the fda or any other governmental authority, and there has been no failure to
+disclose any material fact required to be disclosed to the fda or any other regulatory agency. (h) the transactions
+contemplated by the loan documents (or contemplated by the conditions to effectiveness of any loan document) will not
+impair holdings’, the borrower’s or any of the subsidiaries’ ownership of or rights under (or the license or other right
+to use, as the case may be) any regulatory authorizations relating to the products in any material manner. section 6.19
+transactions with affiliates and affiliated entities. (a) except as set forth on schedule 6.19(a), (i) none of holdings,
+the borrower or any subsidiary has entered into, renewed, extended or been a party to, any transaction (including the
+purchase, sale, lease, transfer or exchange of property or assets of any kind or the rendering of services of any kind)
+with any of its affiliates during the two-year period immediately prior to the closing date and (ii) no such transaction
+is in existence as of the date hereof. - 32 - (b) except as set forth on schedule 6.19(b), (i) none of holdings, the
+borrower or any subsidiary has entered into, renewed, extended or been a party to, any transaction (including the
+purchase, sale, lease, transfer or exchange of property or assets of any kind or the rendering of services of any kind)
+with any affiliated entity during the two-year period immediately prior to the closing date and (ii) no such transaction
+is in existence as of the date hereof. section 6.20 investment company act. none of holdings, the borrower or any
+subsidiary is an “investment company” or is “controlled” by an “investment company,” as such terms are defined in, or
+subject to regulation under, the investment company act of 1940, as amended. section 6.21 ofac. none of holdings, the
+borrower, any subsidiary or, to the knowledge of the borrower, any related party (a) is currently the subject of any
+sanctions, (b) is located, organized or residing in any designated jurisdiction, or (c) is or has been (within the
+previous five (5) years) engaged in any transaction with any person who is now or was then the subject of sanctions or
+who is located, organized or residing in any designated jurisdiction. no loan, nor the proceeds from any loan, has been
+or will be used, directly or indirectly, to lend, contribute or provide to, or has been or will be otherwise made
+available to fund, any activity or business in any designated jurisdiction or to fund any activity or business of any
+person located, organized or residing in any designated jurisdiction or who is the subject of any sanctions, or in any
+other manner that will result in any violation by any person (including the lender and its affiliates) of sanctions.
+section 6.22 holdings. holdings (i) is a holding company with no activities (other than activities customarily carried
+out or required of a publicly-owned passive holding company, including the entry into agreements concerning the capital
+securities of holdings), (ii) has no operations, assets (other than capital securities of the borrower and subsidiaries)
+or liabilities (other than obligations under the loan documents) and (iii) is not party to any contracts or agreements,
+in each case other than activities, operations, assets, liabilities, contracts and agreements that do not exceed, and
+would not reasonably be expected to result in liabilities to holdings, the borrower and any subsidiaries that exceed,
+$150,000 individually, except for the material agreements to which holdings is listed as a party on schedule 6.16.
+section 6.23 deposit and disbursement accounts. set forth on schedule 6.23 is a complete and accurate list as of the
+closing date or delayed draw closing date, as the case may be, of all banks and other financial institutions at which
+holdings, the borrower or any subsidiary maintains deposit accounts, lockboxes, disbursement accounts, investment
+accounts or other similar accounts, such schedule correctly identifies the name, address and telephone number of each
+bank or financial institution, the name in which each such account is held, the type of each such account, and the
+complete account number for each such account, and each such account is a controlled account. - 33 - article vii
+affirmative covenants the borrower covenants and agrees with the lender that until the termination date has occurred,
+the borrower and holdings will, and will cause the subsidiaries to, perform or cause to be performed the obligations set
+forth below. section 7.1 financial information, reports, notices, etc. the borrower will furnish the lender copies of
+the following financial statements, reports, notices and information: (a) as soon as available and in any event within
+30 days after the end of each calendar month, in each case with supporting detail and certified as complete and correct
+by the chief financial or accounting authorized officer of the borrower (subject to normal year-end audit adjustments),
+(i) unaudited reports of the revenue base for such calendar month and the liquidity of the borrower at the end of such
+calendar month and (ii) beginning with the calendar month of january 2013, unaudited reports of (x) the revenue base for
+the period commencing at the end of the previous fiscal year and ending with the end of such calendar month, and
+including in comparative form the figures for the corresponding calendar month in, and the year to date portion of, the
+immediately preceding fiscal year and (y) the liquidity of the borrower for the corresponding calendar month in the
+preceding fiscal year, in comparative form; (b) as soon as available and in any event within 45 days after the end of
+each of the first three fiscal quarters of each fiscal year, an unaudited consolidated balance sheet of holdings, the
+borrower and the subsidiaries as of the end of such fiscal quarter and consolidated statements of income and cash flow
+of holdings, the borrower and the subsidiaries for such fiscal quarter and for the period commencing at the end of the
+previous fiscal year and ending with the end of such fiscal quarter, and including (in each case) in comparative form
+the figures for the corresponding fiscal quarter in, and the year to date portion of, the immediately preceding fiscal
+year, certified as complete and correct by the chief financial or accounting authorized officer of the borrower (subject
+to normal year-end audit adjustments); provided, that information in this clause (b) shall be deemed furnished to the
+lender when holdings files with the sec a publicly available quarterly report on form 10-q containing such information;
+(c) as soon as available and in any event within 90 days after the end of each fiscal year, a copy of the consolidated
+balance sheet of holdings, the borrower and the subsidiaries, and the related consolidated statements of income and cash
+flow of holdings, the borrower and the subsidiaries for such fiscal year, setting forth in comparative form the figures
+for the immediately preceding fiscal year, audited (without any impermissible qualification) by independent public
+accountants acceptable to the lender (for the avoidance of doubt, the current independent public accountant of holdings
+and the borrower shall be considered acceptable to the lender), which shall include a calculation of the financial
+covenants set forth in section 8.4 and stating that, in performing the examination necessary to deliver the audited
+financial statements of the borrower, no knowledge was obtained of any event of default; provided, that information in
+this clause (c) shall be deemed furnished to the lender when holdings files with the sec a publicly available annual
+report on form 10-k containing such information; - 34 - (d) concurrently with the delivery of the financial information
+pursuant to clauses (a), (b) or (c), a compliance certificate, executed by the chief financial or accounting authorized
+officer of the borrower, (i) showing compliance with the financial covenants set forth in section 8.4 and stating that
+no default has occurred and is continuing (or, if a default has occurred, specifying the details of such default and the
+action that holdings, the borrower or any of the subsidiaries has taken or proposes to take with respect thereto), (ii)
+stating that no subsidiary has been formed or acquired since the delivery of the last compliance certificate (or, if a
+subsidiary has been formed or acquired since the delivery of the last compliance certificate, a statement that such
+subsidiary has complied with section 7.8) and (iii) stating that no real property has been acquired by holdings, the
+borrower or any of the subsidiaries since the delivery of the last compliance certificate (or, if any real property has
+been acquired since the delivery of the last compliance certificate, a statement that the borrower has complied with
+section 7.8 with respect to such real property); (e) as soon as possible and in any event within three days after the
+borrower obtains knowledge of the occurrence of a default, a statement of an authorized officer of the borrower setting
+forth details of such default and the action which holdings, the borrower or any of the subsidiaries has taken or
+proposes to take with respect thereto; (f) as soon as possible and in any event within ten days after the borrower
+obtains knowledge of (i) the occurrence of any material adverse development with respect to any litigation, action,
+proceeding or labor controversy described in schedule 6.7(a) or schedule 6.7(b) or (ii) the commencement of any
+litigation, action, proceeding or labor controversy of the type and materiality described in section 6.7, notice thereof
+and, to the extent the lender requests, copies of all documentation relating thereto; provided, that information in this
+clause (f) shall be deemed furnished to the lender when holdings files with the sec a publicly available quarterly
+report on form 10-q or annual report on form 10-k containing such information; (g) as soon as possible and in any event
+within ten days after the borrower obtains knowledge of any return, recovery, dispute or claim related to product or
+inventory that involves more than $250,000; (h) as soon as possible and in any event within ten days after the borrower
+obtains knowledge of (i) any claim that holdings, the borrower, any of the subsidiaries or one of their erisa affiliates
+has actual or potential liability under a benefit plan, (ii) any effort to unionize the employees of holdings, the
+borrower or any subsidiary, or (iii) correspondence with the internal revenue service regarding the qualification of a
+retirement plan under section 401(a) of the code; (i) promptly upon receipt thereof, copies of all “management letters”
+(or equivalent) submitted to holdings, the borrower or any of the subsidiaries by the independent public accountants
+referred to in clause (b) in connection with each audit made by such accountants; and - 35 - (j) such other financial
+and other information as the lender may from time to time reasonably request (including information and reports in such
+detail as the lender may request with respect to the terms of and information provided pursuant to the compliance
+certificate). section 7.2 maintenance of existence; compliance with contracts, laws, etc. each of holdings, the
+borrower, and each subsidiary will preserve and maintain its legal existence (except as otherwise permitted by section
+8.7), perform in all material respects its obligations under material agreements to which holdings, the borrower or any
+of the subsidiaries is a party, and comply in all material respects with all applicable laws, rules, regulations and
+orders, including the payment (before the same become delinquent), of all taxes, imposed upon holdings, the borrower or
+any of the subsidiaries or upon their property except to the extent being diligently contested in good faith by
+appropriate proceedings and for which adequate reserves in accordance with gaap have been set aside on the books of
+holdings, the borrower or any of the subsidiaries, as applicable. section 7.3 maintenance of properties. each of
+holdings, the borrower and the subsidiaries will maintain, preserve, protect and keep its and their respective
+properties in good repair, working order and condition (ordinary wear and tear excepted), and make necessary repairs,
+renewals and replacements so that the business carried on by holdings, the borrower or any of the subsidiaries may be
+properly conducted at all times, unless holdings, the borrower or any of the subsidiaries determines in good faith that
+the continued maintenance of such property is no longer economically desirable, necessary or useful to the business of
+holdings, the borrower or any of the subsidiaries or the disposition of such property is otherwise permitted by section
+8.7 or section 8.8. section 7.4 insurance. each of holdings, the borrower and each of the subsidiaries will maintain:
+(a) insurance on its property with financially sound and reputable insurance companies against business interruption,
+loss and damage in at least the amounts (and with only those deductibles) customarily maintained, and against such risks
+as are typically insured against in the same general area, by persons of comparable size engaged in the same or similar
+business as holdings, the borrower and the subsidiaries; and (b) all worker’s compensation, employer’s liability
+insurance or similar insurance as may be required under the laws of any state or jurisdiction in which it may be engaged
+in business. without limiting the foregoing, all insurance policies required pursuant to this section shall (i) name the
+lender as mortgagee and loss payee (in the case of property insurance) and additional insured (in the case of liability
+insurance), as applicable, and provide that no cancellation or modification of the policies will be made without the
+prior written consent of the lender and (ii) be in addition to any requirements to maintain specific types of insurance
+contained in the other loan documents. - 36 - section 7.5 books and records. each of holdings, the borrower and each of
+the subsidiaries will keep books and records in accordance with gaap which accurately reflect all of its business
+affairs and transactions and permit the lender or any of its representatives, at reasonable times and intervals upon
+reasonable notice to the borrower, to visit holdings’, the borrower’s or any of the subsidiaries’ offices, to discuss
+holdings’, the borrower’s or any of the subsidiaries’ financial or other matters with its officers and employees, and
+its independent public accountants (and the borrower hereby authorizes such independent public accountant to discuss
+holdings’, the borrower’s and any of the subsidiaries’ financial and other matters with the lender or its
+representatives whether or not any representative of holdings, the borrower or any of the subsidiaries is present) and
+to examine (and photocopy extracts from) any of its books and records. the borrower shall pay any fees of such
+independent public accountant incurred in connection with the lender’s exercise of its rights pursuant to this section.
+section 7.6 environmental law covenant. each of holdings, the borrower and each of the subsidiaries will (i) use and
+operate all of its and their businesses, facilities and properties in material compliance with all environmental laws,
+and keep and maintain all environmental permits and remain in compliance therewith, and (ii) promptly notify the lender
+of, and provide the lender with copies of all material claims, complaints, notices or inquiries relating to, any actual
+or alleged non-compliance with any environmental laws or environmental permits or any actual or alleged environmental
+liabilities. holdings, the borrower and each of the subsidiaries will promptly resolve, remedy and mitigate any such
+non-compliance or environmental liabilities, and shall keep the lender informed as to the progress of same. section 7.7
+use of proceeds. the borrower will apply the proceeds of the loans in accordance with schedule 7.7. section 7.8 future
+guarantors, security, etc. holdings, the borrower and each subsidiary will execute any documents, financing statements,
+agreements and instruments, and take all further action that may be required under applicable law, or that the lender
+may reasonably request, in order to effectuate the transactions contemplated by the loan documents and in order to
+grant, preserve, protect and perfect the validity and first priority (subject to liens permitted by section 8.3) of the
+liens created or intended to be created by the loan documents. the borrower will promptly cause any subsequently
+acquired or organized subsidiary to execute a supplement (in form and substance satisfactory to the lender) to the
+guarantee, security agreement and each other applicable loan document in favor of the lender. the borrower will promptly
+notify the lender of any subsequently acquired real property and will provide the lender with a description of such real
+property, the acquisition date thereof and the purchase price therefor. in addition, from time to time, each of
+holdings, the borrower and each of the subsidiaries will, at its cost and expense, promptly secure the obligations by
+pledging or creating, or causing to be pledged or created, perfected liens with respect to such of its assets and
+properties as the lender shall designate, it being agreed that it is the intent of the parties that the obligations
+shall be secured by, among other things, substantially all the assets of holdings, the borrower and the subsidiaries
+(including real property and personal property acquired subsequent to the closing date). such liens will be created
+under the loan documents in form and substance satisfactory to the lender, and holdings, the borrower and each of the
+subsidiaries shall deliver or cause to be delivered to the lender all such instruments and documents (including
+mortgages, legal opinions, title insurance policies and lien searches) as the lender shall reasonably request to
+evidence compliance with this section. - 37 - section 7.9 obtaining of permits, etc. with respect to products, each of
+holdings, the borrower and each of the subsidiaries will obtain, maintain and preserve, and take all necessary action to
+timely renew all permits and accreditations which are necessary in the proper conduct of its business. section 7.10
+product licenses. holdings, the borrower and each of the subsidiaries shall (i) maintain each permit, including each
+regulatory authorization, from, or file any notice or registration in, each jurisdiction in which holdings, the borrower
+or any of the subsidiaries are required to obtain any permit or regulatory authorization or to file any notice or
+registration, in order to sell or distribute the products and (ii) promptly provide evidence of same to the lender upon
+request. section 7.11 maintenance of regulatory authorizations, contracts, intellectual property, etc. with respect to
+the products, each of holdings, the borrower and each of the subsidiaries will (i) maintain in full force and effect all
+regulatory authorizations (including the product authorizations), contract rights, authorizations or other rights
+necessary for the operations of its business; (ii) notify the lender, promptly after learning thereof, of any product
+recalls, safety alerts, corrections, withdrawals, marketing suspensions, removals or the like conducted, to be
+undertaken or issued, by holdings, the borrower, any of the subsidiaries or their respective suppliers whether or not at
+the request, demand or order of any governmental authority or otherwise with respect to any product, or any basis for
+undertaking or issuing any such action or item; (iii) maintain in full force and effect, and pay all costs and expenses
+relating to, all intellectual property owned or controlled by holdings, the borrower or any of the subsidiaries and all
+material agreements; (iv) notify the lender, promptly after learning thereof, of any infringement or other material
+violation by any person of its intellectual property; (v) use commercially reasonable efforts to pursue and maintain in
+full force and effect legal protection for all material new intellectual property developed or controlled by holdings,
+the borrower or any of the subsidiaries; and (vi) notify the lender, promptly after learning thereof, of any claim by
+any person that the conduct of holdings’, the borrower’s or any of the subsidiaries’ business (including the
+development, manufacture, use, sale or other commercialization of any product) infringes any intellectual property of
+that person. section 7.12 inbound licenses. each of holdings, the borrower and the subsidiaries will, promptly after
+entering into or becoming bound by any material inbound license or agreement (other than over-the-counter software that
+is commercially available to the public): (i) provide written notice to the lender of the material terms of such license
+or agreement with a description of its anticipated and projected impact on holdings’, the borrower’s and the
+subsidiaries’ business and financial condition; and (ii) take such commercially reasonable actions as the lender may
+reasonably request to obtain the consent of, or waiver by, any person whose consent or waiver is necessary for the
+lender to be granted and perfect a valid security interest in such license or agreement and to fully exercise its rights
+under any of the loan documents in the event of a disposition or liquidation of the rights, assets or property that is
+the subject of such license or agreement. - 38 - section 7.13 cash management. each of holdings, the borrower and the
+subsidiaries will: (a) maintain a current and complete list of all accounts (of the type initially set forth on schedule
+6.23) and promptly deliver any updates to such list to the lender; execute and maintain an account control agreement for
+each such account, in form and substance reasonably acceptable to the lender (each such account, a “controlled
+account”); and maintain each such account as a cash collateral account, with all cash, checks and other similar items of
+payment in such account securing payment of the obligations (and in which holdings, the borrower and the subsidiaries
+shall have granted a lien to the lender); (b) deposit promptly, and in any event no later than two business days after
+the date of receipt thereof, all cash, checks, drafts or other similar items of payment relating to or constituting
+payments made in respect of any and all accounts and other rights and interests into controlled accounts; and (c) at any
+time after the occurrence and during the continuance of an event of default, at the request of the lender, promptly
+cause all payments constituting proceeds of accounts to be directed into lockbox accounts under agreements in form and
+substance satisfactory to the lender. section 7.14 holdings. on or before january 31, 2013, to the extent that holdings
+has engaged in any activity (other than activities customarily carried out or required of a publicly-owned passive
+holding company, including the entry into agreements concerning the capital securities of holdings, and other than being
+a party to a non-disclosure agreement), has any operations, owns any asset (other than capital securities of the
+borrower and the subsidiaries), has incurred any liability (other than the obligations under the loan documents) or is
+party to any contract or agreement (other than non-disclosure agreements), holdings, the borrower and the subsidiaries
+shall use their best efforts to transfer such activity, operations, asset, liability, contract or agreement from
+holdings to the borrower or any subsidiary. section 7.15 post-closing matters. the borrower shall take, and shall cause
+holdings to take, each action described on schedule 7.15 within the time period provided for that action on schedule
+7.15 (or by such later date as the lender may agree in its sole discretion). article viii negative covenants the
+borrower covenants and agrees with the lender that until the termination date has occurred, holdings, the borrower and
+the subsidiaries will perform or cause to be performed the obligations set forth below. - 39 - section 8.1 business
+activities. none of holdings, the borrower or any of the subsidiaries will engage in any business activity except those
+business activities engaged in on the date of this agreement and activities reasonably related thereto. section 8.2
+indebtedness. none of holdings, the borrower or any of the subsidiaries will create, incur, assume or permit to exist
+any indebtedness, other than: (a) indebtedness in respect of the obligations; (b) until the closing date, indebtedness
+that is to be repaid in full as further identified in schedule 8.2(b); (c) indebtedness existing as of the closing date
+which is identified in schedule 8.2(c), and refinancing of such indebtedness in a principal amount not in excess of that
+which is outstanding on the closing date (as such amount has been reduced following the closing date); (d) unsecured
+indebtedness in respect of performance, surety or appeal bonds provided in the ordinary course of business in an
+aggregate amount at any time outstanding not to exceed $1,000,000; (e) purchase money indebtedness and capitalized lease
+liabilities in an aggregate amount at any time outstanding not to exceed $500,000; (f) permitted subordinated
+indebtedness; (g) indebtedness of any subsidiary, holdings or the borrower owing to holdings, the borrower or any
+subsidiary; and (h) other indebtedness of holdings, the borrower and the subsidiaries in an aggregate amount at any time
+outstanding not to exceed $500,000; provided that, no indebtedness otherwise permitted by clauses (c), (e), (f), (g) or
+(h) shall be assumed, created or otherwise incurred if a default has occurred and is then continuing or would result
+therefrom. section 8.3 liens. none of holdings, the borrower or any of the subsidiaries will create, incur, assume or
+permit to exist any lien upon any of its property (including capital securities of any person), revenues or assets,
+whether now owned or hereafter acquired, except: (a) liens securing payment of the obligations; (b) until the closing
+date, liens securing payment of indebtedness of the type described in clause (b) of section 8.2; - 40 - (c) liens
+existing as of the closing date and disclosed in schedule 8.3(c) securing indebtedness described in clause (c) of
+section 8.2, and refinancings of such indebtedness; provided that, no such lien shall encumber any additional property
+and the amount of indebtedness secured by such lien is not increased from that existing on the closing date (as such
+indebtedness may have been permanently reduced subsequent to the closing date); (d) liens securing payment of permitted
+subordinated indebtedness that are (i) subordinate to the liens securing payment of the obligations and all other
+indebtedness owing from holdings, the borrower or the subsidiaries to the lender and (ii) subject to a written
+subordination agreement satisfactory to the lender in its sole discretion; (e) liens securing indebtedness of holdings,
+the borrower or the subsidiaries permitted pursuant to section 8.2(e) (provided that (i) such liens shall be created
+within 180 days of the acquisition of the assets financed with such indebtedness and (ii) such liens do not at any time
+encumber any property other than the property so financed); (f) liens in favor of carriers, warehousemen, mechanics,
+materialmen and landlords granted in the ordinary course of business for amounts not overdue or being diligently
+contested in good faith by appropriate proceedings and for which adequate reserves in accordance with gaap shall have
+been set aside on its books; (g) liens incurred or deposits made in the ordinary course of business in connection with
+worker’s compensation, unemployment insurance or other forms of governmental insurance or benefits, or to secure
+performance of tenders, statutory obligations, bids, leases or other similar obligations (other than for borrowed money)
+entered into in the ordinary course of business or to secure obligations on surety and appeal bonds or performance
+bonds; (h) judgment liens in existence for less than 45 days after the entry thereof or with respect to which execution
+has been stayed or the payment of which is covered in full (subject to a customary deductible) by insurance maintained
+with responsible insurance companies and which do not otherwise result in an event of default under section 9.1.6; (i)
+easements, rights-of-way, zoning restrictions, minor defects or irregularities in title and other similar encumbrances
+not interfering in any material respect with the value or use of the property to which such lien is attached; and (j)
+liens for taxes not at the time delinquent or thereafter payable without penalty or being diligently contested in good
+faith by appropriate proceedings and for which adequate reserves in accordance with gaap shall have been set aside on
+its books. - 41 - section 8.4 financial covenants. section 8.4.1 minimum revenue base. the revenue base for any fiscal
+quarter shall not be less than the amount set forth below for such fiscal quarter: fiscal quarter ending minimum revenue
+base september 30, 2012 $7,500,000 december 31, 2012 $7,500,000 march 31, 2013 $8,500,000 june 30, 2013 $8,500,000
+september 30, 2013 $10,500,000 december 31, 2013 $11,000,000 march 31, 2014 $12,500,000 june 30, 2014 $12,500,000
+september 30, 2014 $12,500,000 december 31, 2014 $12,500,000 march 31, 2015 and thereafter $15,000,000 section 8.4.2
+minimum liquidity. the liquidity of the borrower shall not be less than $1,500,000 at any time. the borrower shall
+maintain an amount equal to the amount required under this section 8.4.2, along with its other cash and cash equivalent
+investments, in a controlled account. section 8.5 investments. none of holdings, the borrower or any of the subsidiaries
+will purchase, make, incur, assume or permit to exist any investment in any other person, except: (a) investments
+existing on the closing date and identified in schedule 8.5(a); (b) cash equivalent investments; (c) investments
+received in connection with the bankruptcy or reorganization of, or settlement of delinquent accounts and disputes with,
+customers and suppliers, in each case in the ordinary course of business; (d) investments consisting of any deferred
+portion of the sales price received by holdings, the borrower or any of the subsidiaries in connection with any
+disposition permitted under section 8.8; (e) investments constituting (i) accounts receivable arising, (ii) trade debt
+granted, or (iii) deposits made in connection with the purchase price of goods or services, in each case in the ordinary
+course of business; and (f) other investments in an aggregate amount not to exceed $500,000 over the term of this
+agreement; provided that, (g) any investment which when made complies with the requirements of the definition of the
+term “cash equivalent investment” may continue to be held notwithstanding that such investment if made thereafter would
+not comply with such requirements; and (h) no investment otherwise permitted by clause (f) shall be permitted to be made
+if any default has occurred and is continuing or would result therefrom. - 42 - section 8.6 restricted payments, etc.
+none of holdings, the borrower or any of the subsidiaries will declare or make a restricted payment, or make any deposit
+for any restricted payment, other than restricted payments made by the borrower or subsidiaries to holdings, the
+borrower or any subsidiaries. section 8.7 consolidation, merger; permitted acquisitions, etc. none of holdings, the
+borrower or any of the subsidiaries will liquidate or dissolve, consolidate with, or merge into or with, any other
+person, or purchase or otherwise acquire all or substantially all of the assets of any person (or any division thereof),
+except that, so long as no event of default has occurred and is continuing (or would occur), any subsidiary may
+liquidate or dissolve voluntarily into, and may merge with and into, the borrower or any subsidiary. section 8.8
+permitted dispositions. none of holdings, the borrower or any of the subsidiaries will dispose of any of its assets
+(including accounts receivable and capital securities of the borrower or subsidiaries) to any person in one transaction
+or series of transactions, except: (a) dispositions of inventory or obsolete, damaged, worn out or surplus property in
+the ordinary course of its business; (b) dispositions permitted by section 8.7; (c) dispositions of overdue accounts
+receivable arising in the ordinary course of business, but only in connection with the compromise or collection thereof;
+and (d) other dispositions of assets with an aggregate fair market value not to exceed $1,000,000 over the term of this
+agreement. section 8.9 modification of certain agreements. none of holdings, the borrower or any of the subsidiaries
+will consent to any amendment, supplement, waiver or other modification of, or enter into any forbearance from
+exercising any rights with respect to, the terms or provisions contained in (i) any organic documents of holdings, the
+borrower or any of the subsidiaries, if the result would have an adverse effect on the rights or remedies of the lender
+or (ii) any agreement governing any permitted subordinated indebtedness, if the result would shorten the maturity date
+thereof or advance the date on which any cash payment is required to be made thereon or would otherwise change any terms
+thereof in a manner adverse to the lender. section 8.10 transactions with affiliates and affiliated entities. (a) none
+of holdings, the borrower or any of the subsidiaries will enter into or cause or permit to exist any arrangement,
+transaction or contract (including for the purchase, lease or exchange of property or the rendering of services) with
+any of its affiliates, unless such arrangement, transaction or contract (i) is on fair and reasonable terms no less
+favorable to holdings, the borrower or any subsidiary than it could obtain in an arm’s-length transaction with a person
+that is not one of its affiliates and (ii) is of the kind which would be entered into by a reasonably prudent person in
+its position with a person that is not one of its affiliates. - 43 - (b) other than the arrangements, transactions and
+contracts set forth on schedule 6.19(b), none of holdings, the borrower or any of the subsidiaries will enter into or
+cause or permit to exist any arrangement, transaction or contract (including for the purchase, lease or exchange of
+property or the rendering of services) with any affiliated entity, unless such arrangement, transaction or contract is
+approved in advance in writing by the lender in the lender’s sole discretion. section 8.11 restrictive agreements, etc.
+none of holdings, the borrower or any of the subsidiaries will enter into any agreement prohibiting (i) the creation or
+assumption of any lien upon its properties, revenues or assets, whether now owned or hereafter acquired, (ii) the
+ability of holdings, the borrower or any of the subsidiaries to amend or otherwise modify any loan document, or (iii)
+the ability of the borrower or any subsidiary to make any payments, directly or indirectly, to the borrower or holdings,
+including by way of dividends, advances, repayments of loans, reimbursements of management and other intercompany
+charges, expenses and accruals or other returns on investments. the foregoing prohibitions shall not apply to
+restrictions contained (x) in any loan document, or (y) in the case of clause (i), any agreement governing any
+indebtedness permitted by clause (e) of section 8.2 as to the assets financed with the proceeds of such indebtedness.
+section 8.12 sale and leaseback. none of holdings, the borrower or any of the subsidiaries will directly or indirectly
+enter into any agreement or arrangement providing for the sale or transfer by it of any property (now owned or hereafter
+acquired) to a person and the subsequent lease or rental of such property or other similar property from such person.
+section 8.13 product agreements. none of holdings, the borrower or any of the subsidiaries will enter into any amendment
+with respect to any existing product agreement or enter into any new product agreement that contains (a) any provision
+which restricts or penalizes a security interest in, or the assignment of, any product agreements, upon the sale, merger
+or other disposition of all or a material portion of a product to which such product agreement relates, or (b) any other
+provision that has or is likely to adversely effect, in any material respect, any product to which such agreement
+relates or to the lender’s rights hereunder. section 8.14 change in name, location, executive office, or executive
+management; change in fiscal year. none of holdings, the borrower or any of the subsidiaries will (i) change its legal
+name or any trade name used to identify it in the conduct of its business or ownership of its properties, (ii) change
+its jurisdiction of organization or legal structure, (iii) relocate its chief executive office, principal place of
+business or any office in which it maintains books or records relating to its business, (iv) change its federal taxpayer
+identification number or organizational number (or equivalent) without 30 days’ prior written notice to the lender, (v)
+replace its chief executive officer or chief financial officer without written notification to the lender within 30 days
+thereafter, or (vi) change its fiscal year or any of its fiscal quarters. - 44 - section 8.15 benefit plans. none of
+holdings, the borrower or any subsidiary will (i) become the sponsor of, incur any responsibility to contribute to or
+otherwise incur actual or potential liability with respect to, any benefit plan, (ii) allow any “employee benefit plan”
+as defined in section 3(3) of erisa that provides retirement benefits and that is sponsored by holdings, the borrower,
+any subsidiary or any of their erisa affiliates intended to be tax qualified under section 401 or 501 of the code to
+cease to be tax qualified, (iii) allow the assets of any tax qualified retirement plan to become invested in capital
+securities of holdings, the borrower or any subsidiary or (iv) allow any employee benefit plan, program or arrangement
+sponsored, maintained, contributed to or required to be contributed to by holdings, the borrower or any subsidiary to
+fail to comply in all material respects with its terms and applicable law. section 8.16 holdings. holdings shall not
+engage in any activities (other than activities customarily carried out or required of a publicly-owned passive holding
+company, including the entry into agreements concerning the capital securities of holdings), have any operations, own
+any assets (other than capital securities of the borrower and subsidiaries), incur any liabilities (other than the
+obligations under the loan documents) or be party to any contract or agreement, in each case other than activities,
+operations, assets, liabilities, contracts and agreements that do not exceed, and would not reasonably be expected to
+result in liabilities to holdings, the borrower and any subsidiaries that exceed, $150,000 individually or, with respect
+to any such activities, operations, assets, liabilities, contracts or agreements entered into or incurred after the
+closing date, $250,000 in the aggregate, in each case except for the material agreements to which holdings is listed as
+a party on schedule 6.16. article ix events of default section 9.1 listing of events of default. each of the following
+events or occurrences described in this article shall constitute an “event of default”. section 9.1.1 non-payment of
+obligations. the borrower shall default in the payment or prepayment when due of (i) any principal of or interest on any
+loan, or (ii) any fee described in article iii or any other monetary obligation, and in the case of clause (ii) such
+default shall continue unremedied for a period of two business days after such amount was due. section 9.1.2 breach of
+warranty. any representation or warranty made or deemed to be made by holdings, the borrower or any of the subsidiaries
+in any loan document (including any certificates delivered pursuant to article v) is or shall be incorrect when made or
+deemed to have been made in any material respect. section 9.1.3 non-performance of certain covenants and obligations.
+holdings, the borrower or any subsidiary shall default in the due performance or observance of any of its obligations
+under section 7.1, section 7.7, section 7.15 or article viii. section 9.1.4 non-performance of other covenants and
+obligations. holdings, the borrower or any subsidiary shall default in the due performance and observance of any other
+covenant, obligation or agreement contained in any loan document executed by it, and such default shall continue
+unremedied for a period of 30 days after the earlier to occur of (i) notice thereof given to the borrower by the lender
+or (ii) the date on which holdings, the borrower or any subsidiary has knowledge of such default. - 45 - section 9.1.5
+default on other indebtedness. a default shall occur in the payment of any amount when due (subject to any applicable
+grace period), whether by acceleration or otherwise, of any principal or stated amount of, or interest or fees on, any
+indebtedness (other than indebtedness permitted under section 9.1.1) of holdings, the borrower or any of the
+subsidiaries having a principal or stated amount, individually or in the aggregate, in excess of $250,000, or a default
+shall occur in the performance or observance of any obligation or condition with respect to such indebtedness if the
+effect of such default is to accelerate the maturity of any such indebtedness or such default shall continue unremedied
+for any applicable period of time sufficient to permit the holder or holders of such indebtedness, or any trustee or
+agent for such holders, to cause or declare such indebtedness to become due and payable or to require such indebtedness
+to be prepaid, redeemed, purchased or defeased, or require an offer to purchase or defease such indebtedness to be made,
+prior to its expressed maturity. section 9.1.6 judgments. any judgment or order for the payment of money individually or
+in the aggregate in excess of $250,000 (exclusive of any amounts fully covered by insurance (less any applicable
+deductible) and as to which the insurer has acknowledged its responsibility to cover such judgment or order) shall be
+rendered against holdings, the borrower or any of the subsidiaries and such judgment shall not have been vacated or
+discharged or stayed or bonded pending appeal within 30 days after the entry thereof or enforcement proceedings shall
+have been commenced by any creditor upon such judgment or order. section 9.1.7 change in control. any change in control
+shall occur. section 9.1.8 bankruptcy, insolvency, etc. holdings, the borrower, or any of the subsidiaries shall (a)
+become insolvent or generally fail to pay, or admit in writing its inability or unwillingness generally to pay, debts as
+they become due; (b) apply for, consent to, or acquiesce in the appointment of a trustee, receiver, sequestrator or
+other custodian for any substantial part of the property of any thereof, or make a general assignment for the benefit of
+creditors; (c) in the absence of such application, consent or acquiescence in or permit or suffer to exist the
+appointment of a trustee, receiver, sequestrator or other custodian for a substantial part of the property of any
+thereof, and such trustee, receiver, sequestrator or other custodian shall not be discharged within 60 days; provided
+that, holdings, the borrower and each subsidiary hereby expressly authorizes the lender to appear in any court
+conducting any relevant proceeding during such 60-day period to preserve, protect and defend its rights under the loan
+documents; (d) permit or suffer to exist the commencement of any bankruptcy, reorganization, debt arrangement or other
+case or proceeding under any bankruptcy or insolvency law or any dissolution, winding up or liquidation proceeding, in
+respect thereof, and, if any such case or proceeding is not commenced by holdings, the borrower or any subsidiary, such
+case or proceeding shall be consented to or acquiesced in by holdings, the borrower or such subsidiary, as the case may
+be, or shall result in the entry of an order for relief or shall remain for 60 days undismissed; provided that,
+holdings, the borrower and each subsidiary hereby expressly authorizes the lender to appear in any court conducting any
+such case or proceeding during such 60-day period to preserve, protect and defend its rights under the loan documents;
+or - 46 - (e) take any action authorizing, or in furtherance of, any of the foregoing. section 9.1.9 impairment of
+security, etc. any loan document or any lien granted thereunder shall (except in accordance with its terms), in whole or
+in part, terminate, cease to be effective or cease to be the legally valid, binding and enforceable obligation of
+holdings, the borrower or any subsidiary thereto; holdings, the borrower, any subsidiary or any other party shall,
+directly or indirectly, contest in any manner such effectiveness, validity, binding nature or enforceability; or, except
+as permitted under any loan document, any lien securing any obligation shall, in whole or in part, cease to be a
+perfected first priority lien other than due to the lender’s failure to file any financing statement or continuation
+statement required to perfect such lien. section 9.1.10 key permit events. any key permit or any of holdings’, the
+borrower’s or any subsidiary’s material rights or interests thereunder is terminated or amended in any manner adverse to
+holdings, the borrower or any subsidiary in any material respect. section 9.1.11 material adverse change. any
+circumstance occurs that could reasonably be expected to have a material adverse effect. section 9.1.12 key person
+event. if either of guy s. cook or john p. gandolfo ceases to be employed full time by holdings and the borrower and
+actively working, unless within 90 days after such individual ceases to be employed full time and actively working,
+holdings and the borrower hire a replacement for such individual approved by the lender. section 9.1.13 regulatory
+matters. if any of the following occurs: (i) the fda, the ema or any other governmental authority (a) issues a letter or
+other communication asserting that any product lacks a required product authorization (including an assertion that a 361
+product fails to meet the criteria of 21 c.f.r. 1271.10) or (b) initiates enforcement action against, or issues a
+warning letter with respect to, holdings, the borrower or any of the subsidiaries, or any of their products or the
+manufacturing facilities therefor, that causes holdings, the borrower or such subsidiary to discontinue marketing or
+withdraw any of its material products, or causes a delay in the manufacture of any of its material products, which
+discontinuance, withdrawal or delay could reasonably be expected to last for more than three months; (ii) a recall which
+could reasonably be expected to result in liability to holdings, the borrower and the subsidiaries in excess of
+$250,000; or (iii) holdings, the borrower or any of the subsidiaries enters into a settlement agreement with the fda,
+the ema or any other governmental authority that results in aggregate liability as to any single or related series of
+transactions, incidents or conditions in excess of $250,000. section 9.2 action if bankruptcy. if any event of default
+described in clauses (a) through (d) of section 9.1.8 with respect to the borrower shall occur, the commitments (if not
+theretofore terminated) shall automatically terminate and the outstanding principal amount of the loans and all other
+obligations shall automatically be and become immediately due and payable, without notice or demand to any person. - 47
+- section 9.3 action if other event of default. if any event of default (other than any event of default described in
+clauses (a) through (d) of section 9.1.8) shall occur for any reason, whether voluntary or involuntary, and be
+continuing, the lender may, by notice to the borrower declare all or any portion of the outstanding principal amount of
+the loans and other obligations to be due and payable and/or the commitments (if not theretofore terminated) to be
+terminated, whereupon the full unpaid amount of the loans and other obligations which shall be so declared due and
+payable shall be and become immediately due and payable, without further notice, demand or presentment, and the
+commitments shall terminate. article x miscellaneous provisions section 10.1 waivers, amendments, etc. the provisions of
+each loan document may from time to time be amended, modified or waived, if such amendment, modification or waiver is in
+writing and consented to by the lender and the borrower. no failure or delay on the part of the lender in exercising any
+power or right under any loan document shall operate as a waiver thereof, nor shall any single or partial exercise of
+any such power or right preclude any other or further exercise thereof or the exercise of any other power or right. no
+notice to or demand on holdings, the borrower or any of the subsidiaries in any case shall entitle it or any of them to
+any notice or demand in similar or other circumstances. no waiver or approval by the lender under any loan document
+shall, except as may be otherwise stated in such waiver or approval, be applicable to subsequent transactions. no waiver
+or approval hereunder shall require any similar or dissimilar waiver or approval thereafter to be granted hereunder.
+section 10.2 notices; time. all notices and other communications provided under any loan document shall be in writing or
+by facsimile and addressed, delivered or transmitted, if to the borrower or the lender, to the applicable person at its
+address or facsimile number set forth on schedule 10.2 hereto, or at such other address or facsimile number as may be
+designated by such party in a notice to the other parties. any notice, if mailed and properly addressed with postage
+prepaid or if properly addressed and sent by pre-paid courier service, shall be deemed given when received; any notice,
+if transmitted by facsimile, shall be deemed given when the confirmation of transmission thereof is received by the
+transmitter. unless otherwise indicated, all references to the time of a day in a loan document shall refer to new york
+city time. section 10.3 payment of costs and expenses. the borrower agrees to pay on demand all expenses of the lender
+(including the fees and out-of-pocket expenses of covington & burling llp, counsel to the lender, and of local counsel,
+if any, who may be retained by or on behalf of the lender) in connection with (a) the negotiation, preparation,
+execution and delivery of each loan document, including schedules and exhibits, and any amendments, waivers, consents,
+supplements or other modifications to any loan document as may from time to time hereafter be required, whether or not
+the transactions contemplated hereby are consummated; - 48 - (b) the filing or recording of any loan document (including
+any financing statements) and all amendments, supplements, amendment and restatements and other modifications to any
+thereof, searches made following the closing date in jurisdictions where financing statements (or other documents
+evidencing liens in favor of the lender) have been recorded and any and all other documents or instruments of further
+assurance required to be filed or recorded by the terms of any loan document; and (c) the preparation and review of the
+form of any document or instrument relevant to any loan document. the borrower further agrees to pay, and to hold the
+lender harmless from all liability for, any stamp or other taxes which may be payable in connection with the execution
+or delivery of each loan document, the loans or the issuance of the note. the borrower also agrees to reimburse the
+lender upon demand for all reasonable out-of-pocket expenses (including reasonable attorneys’ fees and legal expenses of
+counsel to the lender) incurred by the lender in connection with (x) the negotiation of any restructuring or “work-out”
+with the borrower, whether or not consummated, of any obligations and (y) the enforcement of any obligations. the lender
+acknowledges receipt of a $125,000 expense deposit from the borrower which will be applied by the lender to satisfy a
+portion of the expenses due hereunder. section 10.4 indemnification. in consideration of the execution and delivery of
+this agreement by the lender, the borrower hereby indemnifies, agrees to defend, exonerates and holds the lender and
+each of its officers, directors, employees and agents (collectively, the “indemnified parties”) free and harmless from
+and against any and all actions, causes of action, suits, losses, costs, liabilities, obligations and damages, and
+expenses incurred in connection therewith (irrespective of whether any such indemnified party is a party to the action
+for which indemnification hereunder is sought), including reasonable attorneys’ and professionals’ fees and
+disbursements, whether incurred in connection with actions between the parties hereto or the parties hereto and third
+parties (collectively, the “indemnified liabilities”), including, without limitation, indemnified liabilities arising
+out of or relating to (i) the entering into and performance of any loan document by any of the indemnified parties
+(including any action brought by or on behalf of the borrower as the result of any determination by the lender pursuant
+to article v not to fund any loan), and (ii) any environmental liability. if and to the extent that the foregoing
+indemnification may be unenforceable for any reason, the borrower agrees to make the maximum contribution to the payment
+and satisfaction of each of the indemnified liabilities which is permissible under applicable law. section 10.5
+survival. the obligations of the borrower under section 4.1, section 4.2, section 4.3, section 10.3 and section 10.4,
+shall in each case survive any assignment by the lender and the occurrence of the termination date. the representations
+and warranties made by the borrower in each loan document shall survive the execution and delivery of such loan
+document. section 10.6 severability. any provision of any loan document which is prohibited or unenforceable in any
+jurisdiction shall, as to such provision and such jurisdiction, be ineffective to the extent of such prohibition or
+unenforceability without invalidating the remaining provisions of such loan document or affecting the validity or
+enforceability of such provision in any other jurisdiction. - 49 - section 10.7 headings. the various headings of each
+loan document are inserted for convenience only and shall not affect the meaning or interpretation of such loan document
+or any provisions thereof. section 10.8 execution in counterparts, effectiveness, etc. this agreement may be executed by
+the parties hereto in several counterparts, each of which shall be an original and all of which shall constitute
+together but one and the same agreement. this agreement shall become effective when counterparts hereof executed on
+behalf of the borrower and the lender, shall have been received by the lender. delivery of an executed counterpart of a
+signature page to this agreement by email (e.g. “pdf” or “tiff”) or telecopy shall be effective as delivery of a
+manually executed counterpart of this agreement. section 10.9 governing law; entire agreement. each loan document and
+any claims, controversy, dispute or cause of action (whether in contract or tort or otherwise) based upon, arising out
+of or relating to this agreement or any other loan document contemplated hereby and thereby shall be governed by, and
+construed in accordance with, the internal laws of the state of new york (including for such purpose sections 5-1401 and
+5-1402 of the general obligations law of the state of new york). the loan documents constitute the entire understanding
+among the parties hereto with respect to the subject matter thereof and supersede any prior agreements, written or oral,
+with respect thereto. section 10.10 successors and assigns. this agreement shall be binding upon and shall inure to the
+benefit of the parties hereto and their respective successors and assigns; provided that, the borrower may not assign or
+transfer its rights or obligations hereunder without the consent of the lender. section 10.11 other transactions.
+nothing contained herein shall preclude the lender, from engaging in any transaction, in addition to those contemplated
+by the loan documents, with the borrower or any of its affiliates in which the borrower or such affiliate is not
+restricted hereby from engaging with any other person. - 50 - section 10.12 forum selection and consent to jurisdiction.
+any litigation based hereon, or arising out of, under, or in connection with, any loan document, or any course of
+conduct, course of dealing, statements (whether oral or written) or actions of the lender or the borrower in connection
+herewith or therewith shall be brought and maintained in the courts of the borough of manhattan in the city of new york
+in the state of new york or in the united states district court for the southern district of new york; provided that,
+any suit seeking enforcement against any collateral or other property may be brought, at the lender’s option, in the
+courts of any jurisdiction where such collateral or other property may be found. the borrower irrevocably consents to
+the service of process by registered mail, postage prepaid, or by personal service within or without the state of new
+york at the address for notices specified in section 10.2. the borrower hereby expressly and irrevocably waives, to the
+fullest extent permitted by law, any objection which it may have or hereafter may have to the laying of venue of any
+such litigation brought in any such court referred to above and any claim that any such litigation has been brought in
+an inconvenient forum. to the extent that the borrower has or hereafter may acquire any immunity from jurisdiction of
+any court or from any legal process (whether through service or notice, attachment prior to judgment, attachment in aid
+of execution or otherwise) with respect to itself or its property, the borrower hereby irrevocably waives to the fullest
+extent permitted by law such immunity in respect of its obligations under the loan documents. section 10.13 waiver of
+jury trial. the lender and the borrower hereby knowingly, voluntarily and intentionally waive to the fullest extent
+permitted by law any rights they may have to a trial by jury in respect of any litigation based hereon, or arising out
+of, under, or in connection with, each loan document, or any course of conduct, course of dealing, statements (whether
+oral or written) or actions of the lender or the borrower in connection therewith. the borrower acknowledges and agrees
+that it has received full and sufficient consideration for this provision (and each other provision of each other loan
+document to which it is a party) and that this provision is a material inducement for the lender entering into the loan
+documents. [signature page follows] - 51 - in witness whereof, the parties hereto have caused this agreement to be
+executed by their respective officers thereunto duly authorized as of the day and year first above written. bacterin
+international, inc., as the borrower by: /s/ john p. gandolfo name: john p. gandolfo title: chief financial officer ros
+acquisition offshore lp, as the lender by ros acquisition offshore gp ltd., its general partner by orbimed advisors llc,
+its investment manager by: /s/ samuel d. isaly name: samuel d. isaly title: managing member signature page to credit
+agreement
+

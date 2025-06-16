@@ -14,10 +14,12 @@ a newer note (the old file is then removed to avoid confusion).
 | **goal_alignment.md** | Describes deduplication of goals via embedding similarity & ontology alignment. |
 | **goal_setter_best_practices.md** | Practical tips for prompt iteration, golden-file tests, and CLI flags. |
 | **goal_setter_llm_memory.md** | Design for storing/retrieving multiple schema records using only LLM reasoning (no embeddings). |
-| **northstar_spec.md** | The original project “North-Star” manifesto—moved here from the repo root for archival. |
+| **northstar_spec.md**  | The original project “North-Star” manifesto—moved here from the repo root for archival. |
+| **persona_execution_plan.md** | Roadmap for implementing Critic, Tutor, Governor, and Breaker personas |
 | **pipeline_fork_merge.md** | How the pipeline forks objectives when Critic detects a mismatch, and later re-merges. |
 | **referee_merge_strategy.md** | Pros/cons of a “merge-then-referee” variant selection flow and a hybrid fallback strategy. |
 | **schema_evolution.md** | Mechanism for automatically promoting new concepts into official schemas over time. |
+| **local_development.md** | Local development using Docker Compose Gateway and Edgar‑AI CLI |
 
 ---
 

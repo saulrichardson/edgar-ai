@@ -1,0 +1,268 @@
+
+form of storage services agreement (tank farms) exhibit 10.13 storage services agreement (tank farms) this storage
+services agreement (this “agreement”) is dated as of [ ], 2012, by and between marathon pipe line llc (“mpl”), a
+delaware limited liability company, with offices at 539 south main street, findlay, ohio 48540 and marathon petroleum
+company lp (“mpc”), a delaware limited partnership, with offices at 539 south main street, findlay, ohio 45840, both
+referred to jointly as the “parties” and individually as a “party”. recitals whereas, mpl owns and operates storage
+tanks or shell capacity (the “storage tanks”) at its facility located in [ ] (the “tank farm”); whereas, mpc desires mpl
+to provide storage services with respect to [ ] barrels of mpc’s crude petroleum (the “commitment”); and whereas, mpl
+and mpc desire to enter into this agreement, subject to the terms and conditions set forth herein, now therefore, in
+consideration of the premises and mutual covenants set forth herein, the parties hereby agree as follows: 1. definitions
+“agreement” has the meaning set forth in the preamble. “applicable law” means any applicable statute, law, regulation,
+ordinance, rule, determination, judgment, rule of law, order, decree, permit, approval, concession, grant, franchise,
+license, requirement, or any similar form of decision of, or any provision or condition of any permit, license or other
+operating authorization issued by any governmental authority having or asserting jurisdiction over the matter or matters
+in question, whether now or hereafter in effect. “barrel” means 42 u.s. gallons measured at 60 degrees fahrenheit.
+“commitment” has the meaning set forth in the recitals. “confidential information” means any proprietary or confidential
+information that is competitively sensitive material or otherwise of value to a party or its affiliates and not
+generally known to the public, including trade secrets, scientific or technical information, design, invention, process,
+procedure, formula, improvements, product planning information, marketing strategies, financial information, information
+regarding operations, consumer and/or customer relationships, consumer and/or customer identities and profiles, sales
+estimates, business plans, and internal performance results relating to the past, present or future business activities
+of a party or its affiliates and the consumers, customers, clients and suppliers of any of the foregoing. confidential
+information includes such information as may be contained in or embodied by documents, substances, engineering and
+laboratory notebooks, reports, data, specifications, computer source code and object code, flow charts, databases,
+drawings, pilot plants or demonstration or operating facilities, diagrams, specifications, bills of material, equipment,
+prototypes and models, and any other tangible manifestation (including data in computer or other digital format) of the
+foregoing; provided, however, that confidential information does not include information that a receiving party can show
+(a) has been published or has otherwise become available to the general public as part of the public domain without
+breach of this agreement, (b) has been furnished or made known to the receiving party without any obligation to keep it
+confidential by a third party under circumstances which are not known to the receiving party to involve a breach of the
+third party’s obligations to a party or (c) was developed independently of information furnished or made available to
+the receiving party as contemplated under this agreement. “control” means the possession, directly or indirectly, of the
+power to direct or cause the direction of the management and policies of a person, whether through ownership of voting
+securities, by contract, or otherwise. “crude petroleum” means either the direct liquid products of oil wells, or a
+mixture of the direct liquid products of oil wells with the indirect liquid products of oil or gas wells, including
+gasoline and liquefied petroleum gases, all of which are of merchantable quality when the american petroleum institute
+(“api”) gravity is 50.9 degrees or less. “current rate” is determined pursuant to section 4. “day” means a period of
+twenty-four (24) consecutive hours commencing 12:00 a.m. central standard time, or such other period upon which the
+parties may agree. “effective date” has the meaning set forth in section 3. “force majeure” means acts of god, fires,
+floods, storms; compliance with orders of courts or governmental authorities; explosions, wars, terrorist acts, riots,
+strikes, lockouts or other industrial disturbances; accidental disruption of service; breakdown of machinery, storage
+tanks or pipelines and inability to obtain or unavoidable delays in obtaining material or equipment; and similar events
+or circumstances that prevent a party’s ability to perform its obligations under this agreement, so long as such events
+or circumstances are beyond the party’s reasonable control and could not have been prevented by the party’s due
+diligence; provided, however, that a party’s failure to pay any amounts due hereunder shall not constitute a force
+majeure event. “force majeure notice” has the meaning set forth in section 15. “force majeure period” has the meaning
+set forth in section 15. “governmental authority” means any federal, state, local or foreign government or any
+provincial, departmental or other political subdivision thereof, or any entity, body or authority exercising executive,
+legislative, judicial, regulatory, administrative or other governmental functions or any court, department, commission,
+board, bureau, agency, instrumentality or administrative body of any of the foregoing. 2 “initial term” has the meaning
+set forth in section 3. “losses” has the meaning set forth in section 13.1. “month” means the period commencing on the
+effective date and ending on the last day of the calendar month in which service begins and each successive calendar
+month thereafter. “mpc” has the meaning set forth in the preamble. “mpl” has the meaning set forth in the preamble.
+“notice period” has the meaning set forth in section 15. “operating procedures” has the meaning set forth in section 9.
+“partnership change of control” means marathon petroleum corporation ceases to control the general partner of mplx lp.
+“person” means any individual, partnership, limited partnership, joint venture, corporation, limited liability company,
+limited liability partnership, trust, unincorporated organization or governmental authority or any department or agency
+thereof. “renewal term” has the meaning set forth in section 3. “storage and transportation fee” has the meaning set
+forth in section 4.1. “storage tank” or “storage tanks” has the meaning set forth in the recitals. “tank farm” has the
+meaning set forth in the recitals. “taxes” has the meaning set forth in section 10. “term” has the meaning set forth in
+section 3. “termination notice” has the meaning set forth in section 15. “receiving party personnel” has the meaning set
+forth in section 18. 2. storage commitment subject to the terms and conditions of this agreement, during the term, mpl
+shall store, up to the commitment, all crude petroleum tendered by mpc in one or more storage tanks at the tank farm. at
+any time after any such crude petroleum has been received at the tank farm, mpl may, for operational, environmental or
+safety reasons, move such crude petroleum to one or more other storage tanks. 3 3. term this agreement shall commence on
+october 1, 2012 (the “effective date”) and shall continue through december 31, 2015 (the “initial term”). this agreement
+will automatically renew for successive one (1) year renewal terms (each a “renewal term”) unless either party provides
+the other party with written notice of its intent to terminate at least six (6) months prior to the end of the term or
+any renewal term. the initial term together with all renewal terms, if any, shall be referred to in this agreement as
+the “term”. 4. storage and transportation fee 4.1 storage and transportation fee. during the term, mpc shall pay a
+monthly fee (the “storage and transportation fee”), for storage and transportation services equal to (a) the current
+rate multiplied by (b) the commitment; provided, however, that the fee owed during the month in which the effective date
+occurs shall be prorated in accordance with the ratio of (i) the number of days in such month during which this
+agreement is effective to (ii) the total number of days in such month. the initial current rate shall be $[ ] per
+barrel. on january 1, 2014 and annually thereafter, the current rate shall be increased (but not decreased) by the same
+percentage, if any, equal to any upward change in the producer price index for finished goods, as reported by the u.s.
+bureau of labor statistics, during the preceding year. each month during the term, mpl shall issue an invoice to mpc for
+amounts due for the preceding month, and payment shall be due and payable within fifteen (15) days from the date of
+invoice. any past due amounts owed by mpc to mpl shall accrue interest, payable on demand, at the rate of eight percent
+(8%) per annum from the due date of the payment through the actual date of payment. 4.2 adjustments to the commitment.
+the commitment will be decreased due to any of the following: (a) with respect to any period in which mpl is required to
+provide any of the storage tanks’ capacity to any third party in order to comply with any applicable law, the commitment
+shall be reduced to equal the volume of capacity in the storage tanks that is available for mpc’s use during such
+period; (b) with respect to any period in which mpl is unable to provide storage services with respect to the entire
+commitment due to the occurrence of a force majeure event, then the commitment shall be reduced to equal the volume of
+capacity in the storage tanks that is available for mpc’s use during the period of such force majeure event; and (c)
+with respect to any period in which mpl is unable to provide storage services with respect to the entire commitment due
+to mpl’s repair or maintenance activities, then the commitment shall be reduced to equal the volume of capacity in the
+storage tanks that is available for mpc’s use during the period of any such repair or maintenance activity. 4 4.3
+negotiated storage and transportation fee. within six (6) months prior to the expiration of the initial term or any
+renewal term, the parties will negotiate in good faith to agree on the storage and transportation fee for the following
+renewal term. if the parties cannot agree on the storage and transportation fee for any renewal term prior to the
+commencement of such renewal term, the storage and transportation fee in effect immediately prior to the commencement of
+such renewal term shall remain in effect for the duration of such renewal term, unless the parties otherwise mutually
+agree. 4.4 additional charges. the storage and transportation fee does not include any loading, handling, transfer and
+other charges as stated in mpl’s applicable tariffs. 5. capabilities of facilities 5.1 service interruptions. mpl shall
+use reasonable commercial efforts to minimize the interruption of service at the tank farm and storage tanks. mpl shall
+promptly inform mpc’s operational personnel of any anticipated partial or complete interruption of service at the tank
+farm or storage tanks, including relevant information about the nature, extent, cause and expected duration of the
+interruption and the actions mpl is taking to resume full operations; provided, however, that mpl shall not have any
+liability for any failure to notify, or delay in notifying, mpc of any such matters except to the extent mpc has been
+materially prejudiced or damaged by such failure or delay. 5.2 maintenance and repair standards. subject to force
+majeure and interruptions for routine repair and maintenance consistent with customary storage tank industry standards,
+mpl shall maintain the tank farm and storage tanks in a condition and with a capacity sufficient to store the
+commitment. if any event (including a force majeure event) occurs that reduces the capacity of the tank farm and, as a
+result of such event, mpl is unable to provide storage for the entire commitment, then within a reasonable period of
+time following such event, mpl shall make all necessary repairs to restore the capacity of the storage tanks. all such
+restoration of capacity of the storage tanks shall be at mpl’s cost and expense unless the damage creating the need for
+such repairs was caused by the negligence or willful misconduct of mpc, its employees, agents or customers. for the
+avoidance of doubt, nothing in this section 5.2 shall require mpl to increase the aggregate capacity of the tank farm or
+refuse to provide storage services to a third party that mpl is required to provide pursuant to applicable law or any
+existing agreement with such third party. 6. scheduling all scheduling of crude petroleum delivery into and redelivery
+out of the tank farm will be made pursuant to mpl’s applicable tariff procedures for nominating movements within mpl’s
+crude systems and mpl’s effective pipeline operation schedules. 5 7. services; volume losses (a) services. the services
+provided by mpl pursuant to this agreement shall only consist of receipt, storage and redelivery of crude petroleum at
+the tank farm. (b) volume losses. mpl shall have no obligation to measure volume gains and losses and shall have no
+liability whatsoever for physical losses that may result from the storage of crude petroleum at the tank farm. mpc will
+bear any volume losses that may result from the storage of crude petroleum at the tank farm. 8. custody, transfer and
+title while mpl shall have physical custody of mpc’s crude petroleum while in storage at the tank farm, at no time shall
+mpl acquire or be deemed to acquire title to crude petroleum. mpc hereby warrants that it shall have good title to and
+the right to deliver, store and receive crude petroleum pursuant to the terms of this agreement. mpc acknowledges that,
+notwithstanding anything to the contrary contained in this agreement, mpc acquires no right, title or interest in or to
+any of the storage tanks, except the right to store and receive crude petroleum to, at and from the storage tanks as set
+forth herein. mpl shall retain ownership and operational control of the tank farm, all storage tanks, associated
+facilities and equipment used in connection with the provision of the storage services at all times. 9. operating
+procedures 9.1 operating procedures for mpc. mpc hereby agrees to be subject to the direction of mpl and to strictly
+abide by any and all applicable laws and mpl policies and procedures relating to the operation and use of the storage
+tanks that generally apply to receipt, delivery, redelivery and storage of crude petroleum in the storage tanks
+(collectively, the “operating procedures”). 9.2 operating procedures for mpl. mpl shall direct and carry out the
+handling of crude petroleum at the storage tanks in accordance with the operating procedures. 10. taxes mpc shall pay or
+cause to be paid all taxes, levies, royalties, assessments, fees, charges, surcharges and sums due of any nature
+whatsoever (other than income taxes, gross receipt taxes, property or ad valorem taxes and similar taxes) imposed by any
+governmental authority (collectively, “taxes”) that mpl incurs in connection with the services provided by mpl under
+this agreement. if mpl is required to pay any of the foregoing, mpc shall promptly reimburse mpl in accordance with the
+payment terms set forth in this agreement. 6 11. compliance with law and government regulations 11.1 compliance with
+law. mpc hereby certifies that none of the crude petroleum covered by this agreement was or will be derived from crude
+petroleum that was produced or withdrawn from storage in violation of any applicable law. 11.2 licenses and permits. mpl
+shall maintain all necessary licenses and permits for the ownership and operation of the tank farm. 11.3 applicable law.
+each party shall comply with all applicable laws associated with such party’s respective performance hereunder and the
+operation of such party’s facilities. 11.4 new or changed applicable law. if during the term, any new applicable law
+becomes effective or any existing applicable law or its interpretation is materially changed, which change is not
+addressed by another provision of this agreement and which has a material adverse economic impact upon a party, then
+either party, acting in good faith, shall have the option to request renegotiation of the relevant provisions of this
+agreement with respect to future performance. the parties shall then meet and negotiate in good faith amendments to this
+agreement that will conform this agreement to the new applicable law while preserving the parties’ economic,
+operational, commercial and competitive arrangements in accordance with the understandings set forth herein. 12.
+limitation on liability notwithstanding anything to the contrary contained herein, neither party shall be liable or
+responsible to the other party or such other party’s affiliated persons for any consequential, incidental, or punitive
+damages, or for loss of profits or revenues (collectively referred to as “special damages”) incurred by such party or
+its affiliated persons that arise out of or relate to this agreement, regardless of whether any such claim arises under
+or results from contract, tort, or strict liability; provided that the foregoing limitation is not intended and shall
+not affect damages imposed in favor of any third party not affiliated with a party to this agreement. 13.
+indemnification 13.1 notwithstanding anything else contained in this agreement, mpl shall defend, indemnify, and hold
+harmless mpc and each of its respective affiliates, officers, directors, shareholders, agents, employees,
+successors-in-interest, and assignees from and against any and all demands, claims (including third-party claims),
+losses, costs, suits, or causes of action (including, but not limited to, any judgments, losses, liabilities, fines,
+penalties, expenses, interest, reasonable legal fees, costs of suit, and damages, whether in law or equity and whether
+in contract, tort, or otherwise) (collectively, “losses”) for or relating to (i) personal or bodily injury to, or death
+of the employees of mpc and, as applicable, its customers, representatives, and agents, (ii) loss of or damage to any
+property, products, material, and/or equipment belonging to mpc and, as applicable, its customers, representatives, and
+agents, and each of their respective affiliates, contractors, and subcontractors (except for any volume losses of crude
+petroleum), (iii) loss of 7 or damage to any other property, products, material, and/or equipment of any other
+description (except for any volume losses of crude petroleum), and/or personal or bodily injury to, or death of any
+other person or persons; and with respect to clauses (i) through (iii) above, which is caused by or resulting in whole
+or in part from the acts and omissions of mpl or its employees, representatives or agents in connection with the
+ownership or operation of the tank farm and storage tanks and the services provided hereunder;and (iv) any losses
+incurred by mpc due to a breach of this agreement by mpl, or, as applicable, its customers (other than mpc),
+representatives, and agents; provided, however, that mpl shall not be obligated to indemnify or hold harmless mpc from
+and against any losses to the extent they result from the breach of contract, gross negligence or willful misconduct of
+mpc. 13.2 notwithstanding anything else contained in this agreement, mpc shall defend, indemnify, and hold harmless mpl
+and each of its respective affiliates, officers, directors, shareholders, agents, employees, successors-in-interest, and
+assignees from and against any and all losses for or relating to (i) personal or bodily injury to, or death of the
+employees of mpl and, as applicable, its customers, representatives, and agents; (ii) loss of or damage to any property,
+products, material, and/or equipment belonging to mpl and, as applicable, its customers, representatives, and agents,
+and each of their respective affiliates, contractors, and subcontractors; (iii) loss of or damage to any other property,
+products, material, and/or equipment of any other description, and/or personal or bodily injury to, or death of any
+other person or persons; and with respect to clauses (i) through (iii) above, which is caused by or resulting in whole
+or in part from the acts and omissions of mpc or its employees, representatives or agents, in connection with mpc’s use
+of the tank farm and storage tanks and the services provided hereunder and mpc’s crude petroleum stored hereunder; and
+(iv) any losses incurred by mpl due to a breach of this agreement by mpc, or, as applicable, its carriers, customers,
+representatives, and agents; provided, however, that mpc shall not be obligated to indemnify or hold harmless mpl from
+and against any losses to the extent they result from the breach of contract, gross negligence or willful misconduct of
+mpl. 14. default and termination 14.1 termination for default. a party shall be in default under this agreement if: (a)
+the party materially breaches any provision of this agreement and such breach is not cured within fifteen (15) days
+after notice thereof (which notice shall describe such breach in reasonable detail) is received by such party; or (b)
+the party (a) files a petition or otherwise commences, authorizes or acquiesces in the commencement of a proceeding or
+cause of action under any bankruptcy, insolvency, reorganization or similar applicable law, or has any such petition
+filed or commenced against it, (b) makes general assignment for the benefit of creditors, (c) otherwise becomes bankrupt
+or insolvent (however evidenced) or (d) has a liquidator, administrator, receiver, trustee, conservator or similar
+official appointed with respect to it or any substantial portion of its property or assets. 8 if a party is in default
+as described above, then the other party may: (i) terminate this agreement upon notice to the defaulting party; (ii)
+withhold any payments due to the defaulting party under this agreement; and/or (iii) pursue any other remedy at law or
+in equity. 14.2 obligations at termination. upon the expiration or termination of this agreement, mpc shall promptly
+take delivery of all of its crude petroleum from the storage tanks within thirty (30) days of such expiration or
+termination. in the event mpc does not take delivery of all of the crude petroleum within such thirty (30) day period,
+mpc shall be assessed a monthly holdover storage fee on all crude petroleum held in storage more than thirty (30) days
+beyond the termination or expiration of this agreement until such time the entire volume of mpc’s crude petroleum is
+removed from the storage tanks. the monthly holdover storage fee, if any, will be calculated on the same basis as the
+storage and transportation fee. 15. force majeure as soon as possible upon the occurrence of a force majeure, mpl shall
+provide mpc with written notice of the occurrence of such force majeure (a “force majeure notice”). mpl shall identify
+in such force majeure notice the approximate length of time that mpl believes in good faith such force majeure shall
+continue (the “force majeure period”). if mpl advises in any force majeure notice that it reasonably believes in good
+faith that the force majeure period shall continue for more than six (6) consecutive months, then, at any time after mpl
+delivers such force majeure notice, either party may terminate this agreement upon delivery of a written notice to the
+other party (a “termination notice”) six (6) months (the “notice period”) after receipt of such termination notice;
+provided further; that such termination notice shall be deemed canceled and of no effect if the force majeure period
+ends prior to the expiration of notice period. for the avoidance of doubt, neither party may exercise its right under
+this section 15 to terminate this agreement as a result of a force majeure event if the tank farm’s ability to store the
+commitment has been unaffected by the applicable force majeure event. 16. assignment; partnership change in control 16.1
+assignment. neither party may assign its rights under this agreement without prior written consent from the other party,
+which consent shall not be unreasonably withheld; provided, however, that either party may assign its rights under this
+agreement to a successor-in-interest resulting from any merger, reorganization, consolidation or as part of a sale of
+all or substantially all of such party’s assets. this agreement shall inure to the benefit of, and be binding upon, the
+successors and assigns of both parties. 16.2 partnership change in control. mpc’s obligations hereunder shall not
+terminate in connection with a partnership change of control. mpl shall provide mpc with notice of any partnership
+change of control at least sixty (60) days prior to the effective date thereof. 9 17. insurance during the term, mpl
+shall maintain, at its expense, property and liability insurance coverage or self-insurance retentions that are, in its
+good faith judgment, commercially reasonable and otherwise adequate for its ownership and operation of the tank farm.
+18. notice any notice, statement or invoice provided for in this agreement shall be in writing and shall be considered
+as having been delivered if hand-carried, transmitted via facsimile or email, or mailed by united states mail, postage
+prepaid, to the following, respectively: mpl: name: marathon pipe line llc 539 s. main street findlay, oh 45840
+attention: president fax: (419) 421-3125 email: copierson@marathonpetroleum.com mpc: name: marathon petroleum company lp
+539 s. main street findlay, oh 45840 attention: president fax: (419) 421-3837 email: 19. confidential information 19.1
+confidentiality. (a) from and after the effective date, each party shall hold, and shall cause its affiliates and its
+and their respective directors, managers, officers, employees, agents, consultants, advisors, contractors, and other
+representatives (collectively, “representatives”) to hold all confidential information of the other party in strict
+confidence, with at least the same degree of care that applies to such party’s confidential and proprietary information
+and shall not use such confidential information except in connection with its performance or acceptance of services
+hereunder and shall not release or disclose such confidential information to any other person, except its
+representatives. each party shall be responsible for any breach of this section by any of its representatives. 10 (b) if
+a party receives a subpoena or other demand for disclosure of confidential information received from any other party or
+must disclose to a governmental authority any confidential information received from such other party in order to obtain
+or maintain any required governmental approval, the receiving party shall, to the extent legally permissible, provide
+notice to the providing party before disclosing such confidential information. upon receipt of such notice, the
+providing party shall promptly either seek an appropriate protective order, waive the receiving party’s confidentiality
+obligations hereunder to the extent necessary to permit the receiving party to respond to the demand, or otherwise fully
+satisfy the subpoena or demand or the requirements of the applicable governmental authority. if the receiving party is
+legally compelled to disclose such confidential information or if the providing party does not promptly respond as
+contemplated by this section, the receiving party may disclose that portion of confidential information covered by the
+notice or demand. (c) each party acknowledges that the disclosing party would not have an adequate remedy at law for the
+breach by the receiving party of any one or more of the covenants contained in this section 19 and agrees that, in the
+event of such breach, the disclosing party may, in addition to the other remedies that may be available to it, apply to
+a court for an injunction to prevent breaches of this section 19 and to enforce specifically the terms and provisions of
+this section 19. notwithstanding any other section hereof, the provisions of this section 19 shall survive the
+termination of this agreement. 20. miscellaneous 20.1 modification; waiver. this agreement may be terminated, amended or
+modified only by a written instrument executed by the parties. any of the terms and conditions of this agreement may be
+waived in writing at any time by the party entitled to the benefits thereof. no waiver of any of the terms and
+conditions of this agreement, or any breach thereof, will be effective unless in writing signed by a duly authorized
+individual on behalf of the party against which the waiver is sought to be enforced. no waiver of any term or condition
+or of any breach of this agreement will be deemed or will constitute a waiver of any other term or condition or of any
+later breach (whether or not similar), nor will such waiver constitute a continuing waiver unless otherwise expressly
+provided. 20.2 entire agreement. this agreement constitutes the entire agreement among the parties pertaining to the
+subject matter hereof and supersedes all prior agreements and understandings of the parties in connection therewith.
+20.3 governing law; jurisdiction. this agreement shall be governed by the laws of the state of ohio without giving
+effect to its conflict of laws principles. 20.4 severability. whenever possible, each provision of this agreement will
+be interpreted in such manner as to be valid and effective under applicable law, but if any provision of this agreement
+or the application of any such provision to any person or circumstance will be held invalid, illegal or unenforceable in
+any respect by a court of competent jurisdiction, such 11 invalidity, illegality or unenforceability will not affect any
+other provision hereof, and the parties will negotiate in good faith with a view to substitute for such provision a
+suitable and equitable solution in order to carry out, so far as may be valid and enforceable, the intent and purpose of
+such invalid, illegal or unenforceable provision. 20.5 no third party beneficiaries. it is expressly understood that the
+provisions of this agreement do not impart enforceable rights in anyone who is not a party or successor or permitted
+assignee of a party. 20.6 waiver of jury trial. each party waives, to the fullest extent permitted by applicable law,
+any right it may have to a trial by jury in respect of any proceedings relating to this agreement or any performance or
+failure to perform of any obligation hereunder. in witness whereof, the parties hereto have duly executed this agreement
+as of the date first written above. marathon pipe line llc marathon petroleum company lp by: mpc investment llc, its
+general partner by: by: name: name: title: title: 12
+

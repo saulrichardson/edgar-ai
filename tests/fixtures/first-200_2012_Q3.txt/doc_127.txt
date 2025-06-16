@@ -1,0 +1,750 @@
+
+subscription and investor rights agreement exhibit 99.7 dated 24 july 2012 mr. cheng chung hing and mr. leung moon lam
+and willis plus limited and pa universal opportunity vii limited subscription and investor’s rights agreement relating
+to us$60 million secured bonds due 2017 10th floor, alexandra house chater road hong kong telephone (852) 2842 4888
+facsimile (852) 2810 8133/2810 1695 ref l-202213 contents clause heading page 1 issue and subscription 2 2 security 3 3
+representations, warranties and indemnity 3 4 undertakings of the issuer and the major shareholders 23 5 conditions
+precedent 24 6 closing 26 7 expenses and payments 27 8 termination 28 9 survival of representations and obligations 29
+10 communications 29 11 assignment 31 12 entire agreement 31 13 currency indemnity 31 14 confidentiality 32 15 governing
+law and jurisdiction 34 16 variation 35 17 counterparts 35 schedule 1 form of officer’s certificate 38 schedule 2 terms
+and conditions 40 schedule 3 major shareholder guarantee 41 schedule 4 deed of undertakings 42 i this agreement is made
+on 24 july 2012 between: 1 mr. cheng chung hing, a natural person whose hong kong identification number is g297436(2)
+and whose address is flat b, 20/f mayfair, 1 may road, mid-levels, hong kong (“mr. cheng”); 2 mr. leung moon lam, a
+natural person whose hong kong identification number is d150200(0) and whose address is 5/f, 28 hung to road, kwun tong,
+new territories, hong kong (“mr. leung”; and together with mr. cheng, the “major shareholders”); 3 willis plus limited,
+a limited liability company incorporated under the laws of the british virgin islands, whose registered office is at
+quastisky building, p.o. box 4389, road town, tortola, british virgin islands (the “issuer”); and 4 pa universal
+opportunity vii limited, a limited liability company incorporated under the laws of the british virgin islands, whose
+registered office is at commence chambers, p.o. box 2208, road town, tortola, british virgin islands (the “investor”).
+whereas: (a) the major shareholders, the issuer and the investor wish to record the arrangements agreed between them in
+relation to an issue by the issuer of 60,000,000 united states dollars (“us$” or “us dollars”) in aggregate principal
+amount of secured bonds due 2017 guaranteed by the major shareholders (the “bonds”). (b) the proceeds of the bonds will
+be used by the issuer to purchase convertible bonds due 2017 (the “convertible bonds”) issued by china metro-rural
+holdings limited (“cnr”). cnr will also issue to the issuer 6,000,000 warrants (the “warrants”) exercisable, into fully
+paid ordinary shares of us$0.001 each of cnr (the “shares”). the shares are, or will be at the time of conversion of the
+convertible bonds and exercise of the warrants, listed on the nyse mkt llc (formerly known as nyse amex llc) (“nyse
+mkt”) under the symbol of “cnr”. (c) the convertible bonds will be convertible into shares (the “conversion shares”) at
+an initial conversion price of us$1.0811 per share, and the warrants will be exercisable into shares (the “exercise
+shares”) at an initial exercise price of us$1.2973 per share. the major shareholders, the issuer and the investor are
+collectively referred to herein as the “parties” and each individually as, a “party”. references to: (i) a contract or
+document in this agreement is to that contract or document as amended, novated, supplemented, restated or replaced from
+time to time; (ii) any person shall include its successors in title, permitted assigns and permitted transferees; and
+(iii) any statute or statutory provision or stock exchange listing rules include: (a) that statute or provision or
+listing rules as from time to time modified, re-enacted or consolidated whether before or after the date of this
+agreement; (b) any past statute or statutory provision or listing rules (as from time to time modified, re-enacted or
+consolidated) which that statute or provision has directly or indirectly replaced; and (c) any subordinate legislation
+made from time to time under that statute or statutory provision. 1 1 issue and subscription 1.1 agreement to issue
+bonds: the issuer agrees to issue the bonds to the investor and/or any of its affiliates nominated by it in writing in
+the aggregate principal amount of us$60,000,000 on 15 august 2012, or such later date as the issuer and the investor may
+agree (the “closing date”) for completion of the subscription in accordance with clause 6 (“closing”). the bonds will be
+subscribed at a price equal to 100% of the principal amount of the bonds. for the purposes of this agreement, (a)
+“affiliate” means, (x) with respect to any party, any company which is a subsidiary, or a holding company of that party,
+or any subsidiary of any such holding company, or which it directly or indirectly controls, is controlled by or under
+direct or indirect control with such party or company; and (y) with respect to the investor only, those persons referred
+to in (x) above together with any fund or person advised or managed by pacific alliance investment management limited
+(or its successor) or pacific alliance investment management (hk) limited (or its successor) and (b) “control” means
+possession, directly or indirectly, of the power to direct or cause the direction of the operations and management or
+policies of a person, whether through the ownership of voting securities, by contract or otherwise, and “controlled” and
+“controls” shall be construed accordingly. 1.2 subscription: subject to the satisfaction (or waiver) of the conditions
+set forth in clause 5, the investor agrees to, on the closing date, subscribe and pay for, or procure to be subscribed
+and paid for, the bonds, in accordance with the provisions of this agreement. 1.3 transaction documents and contracts:
+1.3.1 the major shareholders, the issuer and the investor shall enter into this agreement in respect of the bonds. 1.3.2
+upon closing: (i) the terms and conditions of the bonds shall be substantially in the form set out in schedule 2 (the
+“terms and conditions”); (ii) the major shareholders shall enter into a deed of guarantee with the investor in
+substantially the form set out in schedule 3 (the “major shareholder guarantee”); (iii) the major shareholders, the
+issuer and the investor shall enter into a deed of undertakings in substantially the form set out in schedule 4 (the
+“deed of undertakings”); 2 (iv) the major shareholders, kind far international limited, zagat international limited and
+kind united holdings limited shall enter into the charges in a form reasonably satisfactory to the parties over 50.10%,
+61.15%, 53.85% and 26.56% of the issued share capital of kind far international limited, zagat international limited,
+kind united holdings limited and cnr respectively, beneficially held by the major shareholders (the “share charges”);
+and (v) the issuer shall enter into: (a) a pledge over all of the convertible bonds, the warrants and any shares
+received on conversion or exercise of the convertible bonds or warrants, respectively in a form reasonably satisfactory
+to the parties (the “pledge”); (b) an assignment in favour of the investor of the issuer’s right, title and interest in
+all collateral provided to it in relation to the convertible bonds and warrants in a form reasonably satisfactory to the
+parties (the “assignment”); and (c) an account charge over the issuer’s bank account in a form reasonably satisfactory
+to the parties (the “account charge”) and together with the share charges, the pledge and the assignment, the “security
+documents”. this agreement, the terms and conditions, the security documents, the major shareholder guarantee, the deed
+of undertakings and each of the other agreements entered into by the parties in connection with the transactions
+contemplated by this agreement are together referred to as the “contracts”. the contracts and the bonds are together
+referred to as the “transaction documents”. 2 security the obligations of the issuer and the major shareholders under
+the transaction documents shall be secured in accordance with, and subject to, the terms of the security documents. 3
+representations, warranties and indemnity 3.1 issuer and major shareholders representations and warranties: the major
+shareholders and the issuer represent, warrant and undertake to the investor that: 3.1.1 incorporation: the issuer is a
+company duly incorporated and validly existing under the laws of the british virgin islands, is in compliance with all
+laws and regulations to which it is subject, is not in liquidation or receivership, has full power and authority to
+enter into and perform its obligations under the transaction documents to which it is a party; 3 3.1.2 validity,
+authorisation and enforcement of contracts: the contracts to which it is a party have been duly authorised, executed and
+delivered by the issuer and constitute valid and legally binding obligations of the issuer and are enforceable against
+the issuer in accordance with their respective terms; 3.1.3 validity of the bonds: the bonds have been duly authorised
+by the issuer and, when delivered on the closing date in accordance with the transaction documents, the bonds will be
+duly executed, authenticated and delivered, and constitute valid and legally binding obligations of the issuer,
+enforceable against the issuer in accordance with its terms; 3.1.4 status of the bonds: the bonds will constitute
+direct, secured, unconditional and unsubordinated obligations of the issuer and will at all times rank at least pari
+passu with all other present and future unsecured obligations of the issuer other than those preferred by statute or
+applicable law; 3.1.5 beneficial ownership of the issuer: the major shareholders together hold 100 per cent. of the
+shares in and beneficial ownership of the issuer; 3.1.6 issuer’s activities: the issuer has been specifically
+incorporated for the purposes of this transaction and has not conducted any business activities other than in connection
+with the issue of the bonds and the acquisition of the convertible bonds and warrants; 3.1.7 consents: no consent,
+clearance, approval, authorisation, order, registration or qualification of or with any court, governmental agency or
+regulatory or self-regulatory body having jurisdiction over the major shareholders or the issuer is required and no
+other action or thing is required to be taken, fulfilled or done (including without limitation the obtaining of any
+consent or licence or the making of any filing or registration) for the execution and delivery by each of the major
+shareholders and the issuer of the contracts to which it is party, the issue, sale and delivery of the bonds or the
+carrying out of the other transactions contemplated by the transaction documents; 4 3.1.8 compliance: the execution,
+delivery and performance of the contracts, the issue and delivery of the bonds, the carrying out of the other
+transactions contemplated by the transaction documents and the compliance by the issuer with the terms and conditions do
+not and will not: (i) conflict with or result in a breach of any of the terms or provisions of, or constitute a default
+(nor has any event occurred which, with the giving of notice and/or the passage of time and/or the fulfilment of any
+other requirement would result in a default by the issuer) under, (a) the documents constituting the issuer, or (b) any
+indenture, contract, lease, mortgage, deed of trust, note agreement, loan agreement or other agreement, obligation,
+condition, covenant or instrument to which the major shareholders or the issuer is a party or by which any of their
+respective assets are bound (collectively, the “existing obligations”); or (ii) infringe any existing applicable law,
+rule, regulation (including foreign, federal and state securities laws and regulations), judgment, order, authorisation
+or decree of any government, governmental or regulatory body or court, domestic or foreign, having jurisdiction over the
+major shareholders or the issuer or any of their respective assets; 3.1.9 taxes/duties: no tax or duty (including any
+stamp or issuance or transfer tax or duty, any service tax and any tax or duty on capital gains or income, whether
+chargeable on a withholding basis or otherwise) is assessable or payable in, and no withholding or deduction for any
+taxes, duties, assessments or governmental charges of whatever nature is imposed or made for or on account of any
+income, registration, transfer, service or turnover taxes, customs or other duties or taxes of any kind, levied,
+collected, withheld or assessed by or within, the united states, the british virgin islands or hong kong or any other
+relevant jurisdiction or by any sub-division of or authority therein or thereof having power to tax, in connection with
+the creation, issue or offering of the bonds or the execution or delivery of the contracts, or the performance of the
+obligations hereunder or thereunder; 3.1.10 events of default: no event has occurred or circumstance arisen which, had
+the bonds already been issued, could reasonably be expected to (whether or not with the giving of notice and/or the
+passage of time and/or the fulfilment of any other requirement) constitute an event described under “events of default”
+in the terms and conditions; and 5 3.1.11 no registration required: the offer and issuance by the issuer of the bonds in
+the manner contemplated by this agreement is being made pursuant to regulation s under the u.s. securities act of 1933
+(the “securities act”) and is therefore exempt from registration under the securities act. 3.2 cnr representations and
+warranties: the major shareholders represent, warrant and undertake to the investor that: 3.2.1 incorporation: (i) each
+of cnr and each of its subsidiaries (collectively, the “group”, and each, a “group company”) is a company duly
+incorporated or established and validly existing under the laws of its jurisdiction of incorporation, is in compliance
+with all laws and regulations to which it is subject, is not in liquidation or receivership, has full power and
+authority to own its properties and to conduct its business and is lawfully qualified to do business in those
+jurisdictions in which business is conducted by it and (ii) each of cnr and each subsidiary guarantor (as defined in the
+cnr subscription agreement) has full power and authority to enter into and perform its obligations under the cnr
+transaction documents; in this agreement, “cnr contracts” has the meaning given to “contracts” in the subscription
+agreement entered into between cnr and the issuer dated the date of this agreement (the “cnr subscription agreement”)
+and “cnr transaction documents” has the meaning given to “transaction documents” in the cnr subscription agreement.
+3.2.2 validity, authorisation and enforcement of cnr contracts: the cnr contracts have been duly authorised, executed
+and delivered by each of cnr and the subsidiary guarantors to which it is party and constitute valid and legally binding
+obligations of cnr and subsidiary guarantors, respectively, and enforceable against cnr and each subsidiary guarantor in
+accordance with their respective terms; 3.2.3 validity of the convertible bonds and the warrants: the convertible bonds
+and the warrants have been duly authorised by cnr and, when delivered on the closing date in accordance with the cnr
+transaction documents, the convertible bonds and the warrants will be duly executed, authenticated and delivered, and
+constitute valid and legally binding obligations of cnr, enforceable against cnr in accordance with its terms; 3.2.4
+status of the convertible bonds: the convertible bonds will constitute direct, secured, unconditional and unsubordinated
+obligations of cnr and will at all times rank at least pari passu with all other present and future unsecured
+obligations of cnr other than those preferred by statute or applicable law; 6 3.2.5 authorised share capital: cnr has,
+or prior to the closing date will have, sufficient authorised but unissued share capital to satisfy (a) the issue of
+such number of conversion shares as would be required to be issued on conversion of all the convertible bonds at the
+initial conversion price and (b) the issue of such number of exercise shares as would be required to be issued on
+exercise of all the warrants at the initial exercise price. cnr shall maintain at all times sufficient authorised but
+unissued share capital to satisfy the issue of conversion shares at the prevailing conversion price of the convertible
+bonds and exercise shares at the prevailing exercise price of the warrants; 3.2.6 conversion shares and exercise shares:
+the conversion shares and the exercise shares, when allotted, issued and delivered in the manner contemplated by the
+convertible bonds and the warrants respectively (and in the case of the exercise shares, upon receipt by the issuer of
+the exercise price called for in the warrants): (i) will be duly and validly issued, fully-paid and non-assessable; (ii)
+will rank pari passu and carry the same rights and privileges in all respects as any other class of the ordinary share
+capital of cnr and shall be entitled to all dividends and other distributions declared, paid or made thereon; (iii)
+subject to any restriction under the us securities laws, will be freely transferable, free and clear of all liens,
+charges, encumbrances, security interests or claims of third parties and will not be subject to calls for further funds;
+and (iv) subject to registration pursuant to the registration rights agreement, duly listed, and admitted to trading, on
+the nyse mkt; 3.2.7 pre-emptive rights and options: (i) the issue of the convertible bonds, the warrants, the conversion
+shares and the exercise shares will not be subject to any pre-emptive or similar rights; 7 (ii) except for the
+unexercised warrants issued on 11 may 2011 by cnr to the public where a form f-3 has been filed and to zhong ying on 16
+august 2011 which issue was made pursuant to regulation s under the securities act: (a) there are no outstanding
+securities issued by cnr or any other group company convertible into or exchangeable for, or warrants, rights or
+options, or agreements to grant warrants, rights or options, to purchase or to subscribe for, shares of cnr or any other
+group company; (b) save for the employee stock option scheme as approved by cnr, there are no other or similar
+arrangements approved by the board of directors of cnr or any other group company or a general meeting of shareholders
+of cnr or any other group company providing for the issue or purchase of, or subscription for, shares or securities
+issued by cnr or any other group company convertible into or exchangeable for, or warrants, rights or options, or
+agreements to grant warrants, rights or options, to purchase or to subscribe for, shares of cnr or any other group
+company; and (c) no unissued share capital of cnr or any other group company is under option or agreed conditionally or
+unconditionally to be put under option; 3.2.8 restrictions: there are no restrictions on transfers of the convertible
+bonds or the warrants or the voting or transfer of any of the shares (including conversion shares and exercise shares)
+or payments of dividends with respect to the shares (including conversion shares and exercise shares) pursuant to cnr’s
+constitutional documents, or pursuant to any agreement or other instrument to which cnr is a party or by which it may be
+bound; 3.2.9 capitalisation: all the outstanding shares, capital stock and other equity interests of cnr and each other
+group company have been duly and validly authorised and issued, are fully paid and non-assessable, and were issued in
+compliance with applicable laws; all such shares, capital stock and equity interests of the other group companies are
+owned directly or indirectly by cnr, free and clear of all liens, charges, encumbrances, security interests, claims of
+any third party, restrictions on transfer or restrictions on voting; and all such shares, capital stock and equity
+interests of cnr were issued in accordance with the registration or qualification provisions of the securities act and
+any relevant blue sky laws of the united states or pursuant to valid exemptions therefrom and were issued in compliance
+with other applicable laws; 8 3.2.10 laws and listing rules: each of cnr and the other group companies, and their
+respective directors and officers is in compliance with and will comply with all applicable laws (including, but not
+limited to, federal and state securities laws) and the applicable rules and regulations of the nyse mkt (the “listing
+rules”) and cnr will comply with all applicable laws and the applicable requirements of the listing rules in connection
+with the issue, offering and sale of the convertible bonds and the warrants and the issue of the conversion shares and
+the exercise shares except where breach of this provision would not have a material adverse effect (as defined in clause
+3.2.19 below); 3.2.11 consents: subject to the relief from shareholders approval to be obtained from the nyse mkt under
+the amex company guide, no consent, clearance, approval, authorisation, order, registration or qualification of or with
+any court, governmental agency or regulatory or self-regulatory body having jurisdiction over cnr is required and no
+other action or thing is required to be taken, fulfilled or done (including without limitation the obtaining of any
+consent or licence or the making of any filing or registration) for the execution and delivery by each of cnr and the
+subsidiary guarantors of the cnr contracts to which it is party, the issue, sale and delivery of the convertible bonds
+or the warrants, the issue of the conversion shares or the exercise shares to the investor, the carrying out of the
+other transactions contemplated by the cnr transaction documents, the convertible bonds or the warrants, or the
+compliance by cnr with the terms and conditions or the terms of the warrant instrument, except for (a) all of those
+which have been, or will prior to the closing date be, obtained and are, or will on the closing date be, in full force
+and effect, (b) the filing with the u.s. securities and exchange commission (the “sec”) of one or more registration
+statements in accordance with the requirements of the registration rights agreement, (c) the filing, as applicable, with
+the financial industry regulatory authority in connection with the such registration statement, (d) the filing of a
+listing application for the conversion shares and the exercise shares, as may apply, with the nyse mkt, which shall be
+done pursuant to the rules and regulations of nyse mkt; and (e) such filings as may be required under blue sky or state
+securities laws. to the best knowledge, information and belief of cnr (after due inquiry), cnr is unaware of any facts
+or circumstances that might prevent cnr from obtaining or effecting any of the registration, application or filings
+pursuant to the preceding sentence. cnr is not in violation of the listing requirements of the nyse mkt and has no
+knowledge of any facts that would reasonably lead to delisting or suspension of the shares in the foreseeable future.
+the issuance by cnr of the conversion shares and the exercise shares shall not have the effect of delisting or
+suspending the shares from the nyse mkt; 9 3.2.12 compliance: the execution, delivery and performance of the cnr
+contracts, the issue and delivery of the convertible bonds and the warrants, the issue of the conversion shares and the
+exercise shares, the carrying out of the other transactions contemplated by the cnr transaction documents and the
+compliance by cnr with the terms and conditions and the terms of the warrant instrument do not and will not: (i)
+conflict with or result in a breach of any of the terms or provisions of, or constitute a default (nor has any event
+occurred which, with the giving of notice and/or the passage of time and/or the fulfilment of any other requirement
+would result in a default by cnr or any other group company under, (a) the documents constituting cnr or the subsidiary
+guarantors, or (b) any indenture, contract, lease, mortgage, deed of trust, note agreement, loan agreement or other
+agreement, obligation, condition, covenant or instrument to which cnr or any other group company is a party or by which
+any of their respective assets are bound (collectively, the “existing obligations”) which, in the case of (b) only, has
+had or reasonably could be expected to have a material adverse effect; or (ii) infringe any existing applicable law,
+rule, regulation (including foreign, federal and state securities laws and regulations), judgment, order, authorisation
+or decree of any government, governmental or regulatory body or court, domestic or foreign, having jurisdiction over cnr
+or any other group company or any of their respective assets; or (iii) infringe the rules and regulations of any stock
+exchange on which securities of cnr are listed; 3.2.13 constitution: the copy of cnr’s memorandum and articles of
+association (“constitution”) attached to the form 20-f filed with the sec on 16 july 2012 is a true, accurate and
+up-to-date copy of the original, which has been validly adopted in accordance with the laws of the british virgin
+islands; 10 3.2.14 financial statements: during the three (3) years prior to the date hereof, cnr has timely filed all
+reports, schedules, forms, statements and other documents required to be filed by it with the sec pursuant to the
+reporting requirements of the u.s. securities exchange act of 1934, as amended (the “exchange act”) (all of the
+foregoing filed prior to the date hereof or prior to the date of the closing, and all exhibits included therein and
+financial statements, notes and schedules thereto and documents incorporated by reference therein being hereinafter
+referred to as the “sec documents”). cnr has delivered to the investor or its representatives true, correct and complete
+copies of the sec documents not available on the edgar system. as of their respective filing dates, the sec documents
+complied in all material respects with the requirements of the exchange act and the rules and regulations of the sec
+promulgated thereunder applicable to the sec documents, and none of the sec documents, at the time they were filed with
+the sec, contained any untrue statement of a material fact or omitted to state a material fact required to be stated
+therein or necessary in order to make the statements therein, in the light of the circumstances under which they were
+made, not misleading. as of their respective filing dates, the financial statements of cnr included in the sec documents
+complied as to form in all material respects with applicable accounting requirements and the published rules and
+regulations of the sec with respect thereto as in effect at the time of filing. such financial statements have been
+prepared in accordance with the international financial reporting standards (“ifrs”), during the periods involved
+(except (i) as may be otherwise indicated in such financial statements or the notes thereto, or (ii) in the case of
+unaudited interim statements, to the extent they may exclude footnotes or may be condensed or summary statements) and
+fairly present in all material respects the financial position of cnr as of the dates thereof and the results of its
+operations and cash flows for the periods then ended (subject, in the case of unaudited statements, to normal year-end
+audit adjustments); except as disclosed in the sec documents, neither cnr nor any of the group companies has, since 31
+march 2012, (a) entered into any transactions, (b) entered into or assumed any contract, (c) incurred, assumed or
+acquired any liability (including contingent liability) or other obligation, (d) acquired or disposed of, or agreed to
+acquire or dispose of, any business or any other asset, (e) cancelled, waived, released or discounted in whole or in
+part any debts or claims, or (f) taken on or become subject to any contingent liability, in each case, which were not in
+the ordinary course of business. since 31 march 2012, there has not been any event or condition of any type that has had
+or reasonably could be expected to have a material adverse effect; 3.2.15 internal accounting and disclosure controls:
+cnr and each other group company maintain a system of internal control and accounting controls sufficient to provide
+reasonable assurances that: (i) transactions are executed in accordance with management’s general or specific
+authorisations and in compliance with applicable laws, rules and regulations (including without limitation the listing
+rules); 11 (ii) transactions are recorded as necessary to permit preparation of financial statements in conformity with
+ifrs and to maintain asset accountability; (iii) access to material assets is permitted only in accordance with
+management’s general or specific authorisation; (iv) the recorded accountability for material assets is compared with
+the existing assets at reasonable intervals and appropriate action is taken with respect to any differences; and (v)
+each of cnr and each other group company has made and kept books, records and accounts which, in reasonable detail,
+accurately and fairly reflect the transactions and dispositions of assets of such entity and provide a sufficient basis
+for the preparation of cnr’s consolidated financial statements in accordance with ifrs. cnr maintains disclosure
+controls and procedures (as such term is defined in rule 13a-14 under the exchange act) that are effective in ensuring
+that information required to be disclosed by cnr in the reports that it files or submits under the exchange act is
+recorded, processed, summarised and reported, within the time periods specified in the rules and forms of the sec,
+including, without limitation, controls and procedures designed in to ensure that information required to be disclosed
+by cnr in the reports that it files or submits under the exchange act is accumulated and communicated to cnr’s
+management, including its principal executive officer or officers and its principal financial officer or officers, as
+appropriate, to allow timely decisions regarding required disclosure; 3.2.16 contingent liabilities: there are no
+outstanding guarantees or contingent payment obligations of cnr and each other group company in respect of indebtedness
+of third parties other than those disclosed in the financial statements referred to in clause 3.2.14; cnr and each other
+group company is in compliance with all of its obligations under any outstanding guarantees or contingent payment
+obligations as disclosed in the financial statements referred to in clause 3.2.14. there are no outstanding guarantees
+or contingent payment obligations that is required to be disclosed by cnr in its exchange act filings and is not so
+disclosed or that otherwise would be reasonably likely to have a material adverse effect; 3.2.17 off-balance sheet
+arrangements: neither cnr nor any other group company has any off-balance sheet transactions which, individually or in
+the aggregate, would, or is likely to, have a material adverse effect and neither cnr nor any other group company has
+any relationships with unconsolidated entities that are contractually 12 limited to narrow activities that facilitate
+the transfer of or access to assets by cnr, or any other group company, such as structured finance entities and special
+purpose entities that could have a material adverse effect on the liquidity of cnr or any other group company or the
+availability thereof or the requirements of cnr or any other group company for capital resources. there is no
+transaction, arrangement, or other relationship between cnr and an unconsolidated or other off balance sheet entity that
+is required to be disclosed by cnr in its exchange act filings and is not so disclosed or that otherwise would be
+reasonably likely to have a material adverse effect; 3.2.18 title: each of cnr and each other group company has good
+title to all real property, personal property and any other assets owned by it or any rights or interests thereto, in
+each case as is necessary to conduct the business now operated by it (“assets”); and there are no charges, liens,
+encumbrances or other security interests or third party rights or interests, conditions, planning consents, orders,
+regulations, defects or other restrictions affecting any of such assets which could have a material adverse effect on
+the value of such assets, or limit, restrict or otherwise have a material adverse effect on the ability of cnr or any
+other relevant group company to utilise or develop any such assets and, where any such assets are held under lease, each
+lease is a legal, valid, subsisting and enforceable lease; 3.2.19 approvals: (i) save for the listing approval of the
+shares to be issued on conversion of the convertible bonds and the exercise of the warrants, the issuer, cnr and each
+other group company possess all certificates, authorisations, licences, orders, consents, approvals and permits
+(“approvals”) issued by, and has made all declarations and filings with, all appropriate national, state, local and
+other governmental and regulatory or self-regulatory agencies and bodies, all exchanges and all courts and other
+tribunals, domestic and foreign, necessary to own or lease, as the case may be, and to operate its assets and to conduct
+the business now operated by them; (ii) cnr and each other group company are in compliance with the terms and conditions
+of all such approvals; (iii) all of such approvals are valid and in full force and effect; and 13 (iv) neither cnr nor
+any other group company has received any notice of proceedings relating to the revocation or modification of any such
+approvals or is otherwise aware that any such revocation or modification is contemplated or threatened, except for any
+non-possession, non-compliance, invalidity, revocation, modification or proceedings (that if determined adversely to cnr
+or any other group company) would not individually or in the aggregate (a) have a material adverse effect on the
+condition (financial or otherwise), prospects, results of operations, general affairs or assets of cnr or of any other
+group company taken as a whole, or (b) materially and adversely affect the ability of cnr or any subsidiary guarantor to
+perform any of their obligations under the transaction documents (a “material adverse effect”); 3.2.20 no suspension:
+during the three (3) years prior to the date hereof, (i) the shares have been listed on the nyse mkt, (ii) trading in
+the shares has not been suspended by the sec or the nyse mkt since the listing on the nyse mkt and (iii) cnr has
+received no communication, written or oral, from the sec or the nyse mkt regarding the suspension or delisting of the
+shares from the nyse mkt; 3.2.21 taxes and assessments: (i) all returns, reports and filings which ought to have been
+made by or in respect of cnr and each other group company for taxation purposes have been made and all such returns,
+reports and filings are correct in all material respects and on a proper basis and are not the subject of any dispute
+with the relevant revenue or other appropriate authorities and to the best knowledge, information and belief of cnr
+(after due inquiry) do not reveal any circumstances likely to give rise to any such dispute and the provisions, charges,
+accruals and reserves included in the financial statements are sufficient to cover all taxation of cnr and each other
+group company existing in all accounting periods ended on or before the accounting reference date to which the financial
+statements relate whether payable then or at any time thereafter. no liability for tax which has not been provided for
+in the financial statements of cnr or any other group company has arisen or has been asserted by the tax authorities
+against cnr or any other group company which would have a material adverse effect; 14 (ii) cnr and each other group
+company have duly and in a timely manner paid all taxes that have become due, including, without limitation, all taxes
+reflected in the tax returns referred to in sub-clause (i) above, or any assessment, proposed assessment, or notice,
+either formal or informal, received by the relevant group company except for any such taxes that are being contested in
+good faith and by appropriate proceedings or where the failure to file or make payment would not, individually or in the
+aggregate, have a material adverse effect; 3.2.22 taxes/duties: no tax or duty (including any stamp or issuance or
+transfer tax or duty, any service tax and any tax or duty on capital gains or income, whether chargeable on a
+withholding basis or otherwise) is assessable or payable in, and no withholding or deduction for any taxes, duties,
+assessments or governmental charges of whatever nature is imposed or made for or on account of any income, registration,
+transfer, service or turnover taxes, customs or other duties or taxes of any kind, levied, collected, withheld or
+assessed by or within, the united states, the british virgin islands or hong kong or any other relevant jurisdiction or
+by any sub-division of or authority therein or thereof having power to tax, in connection with the creation, issue or
+offering of the convertible bonds, the conversion shares, the warrants or the exercise shares or the execution or
+delivery of the cnr contracts, the convertible bonds or the warrants or the performance of the obligations hereunder or
+thereunder (including, without limitation, issuance of the conversion shares and the exercise shares and payment of any
+bonus thereunder); 3.2.23 litigation: there are no pending actions, suits or proceedings against or affecting cnr or any
+other group company or any of their respective assets, which if determined adversely to cnr or any other group company
+would individually or in the aggregate have a material adverse effect and, to the best knowledge, information and belief
+of cnr (after due enquiry), no such actions, suits or proceedings are threatened or contemplated; 3.2.24 investigation:
+to the best knowledge, information and belief of cnr (after due enquiry), there are no police, legal, governmental, nyse
+mkt, regulatory or self-regulatory inquiry or investigations nor any pending actions, suits or proceedings against or
+affecting cnr or any other group company or any of their respective directors or officers 15 (in their capacities as
+such), or assets, which, if determined adversely to cnr or any other group company or any of their respective directors,
+officers or assets, would individually or in the aggregate have a material adverse effect, or which are otherwise
+material in the context of the issue of the convertible bonds and the warrants and no such investigations, actions,
+suits or proceedings are threatened or contemplated; 3.2.25 environmental laws: cnr and each other group company (i) has
+received, is in compliance with and will comply with all necessary permits, licences or other approvals required of it
+under applicable environmental laws to conduct its businesses and (ii) has not received notice of any actual or
+potential liability under any environmental law, except where such non-compliance with environmental laws, failure to
+receive required permits, licences or other approvals, or liability would not, individually or in the aggregate, have a
+material adverse effect. for the purpose of this clause 3.2.25, “environmental laws” means any and all supra-national,
+national, state, local and foreign statutes, laws, regulations, ordinances, rules, judgments, orders, decrees, permits,
+concessions, grants, franchises, licences, agreements or other governmental restrictions relating to the protection of
+the environment (including, without limitation, human, animal and plant life, ambient air, surface water, ground water,
+or land), the protection of property and proprietary rights or for the compensation of harm to the environment whether
+by clean-up, remediation, containment or other treatment or the payment of monies to any competent authority. in the
+ordinary and usual course of its business cnr and each other group company periodically reviews the effect of
+environmental laws on its business, operations and properties, in the course of which it identifies and evaluates
+associated costs and liabilities (including, without limitation, any capital or operating expenditures required for
+clean-up, closure of properties or compliance with environmental laws, or any permit, licence or approval, any related
+constraints on operating activities and any potential liabilities to third parties); on the basis of such review, cnr
+has reasonably concluded that such associated costs and liabilities would not, individually or in the aggregate, have a
+material adverse effect. 3.2.26 insurance: cnr and each other group company have in place all insurance policies
+necessary for the conduct of their businesses as currently operated and for compliance with all requirements of law,
+such policies are in full force and effect, and all premiums with respect thereto have been paid, and no notice of
+cancellation or termination has been received with respect to any such policy, and cnr and each other group company have
+complied in all material respects with the terms and conditions of such policies, except where breach of this provision
+would not have a material adverse effect; 16 3.2.27 intellectual property: cnr and each other group company own or
+possess, or can acquire on reasonable terms, adequate patents, patent rights, licences, inventions, copyrights, know-how
+(including trade secrets and other unpatented and/or unpatentable proprietary or confidential information, systems or
+procedures), trademarks, service marks, trade names or other intellectual property (collectively, “intellectual
+property”) necessary to carry on the business now operated by them in each country in which they operate, and neither
+cnr nor any other group company has received any notice or, to the best knowledge, information and belief of cnr (after
+due enquiry), is otherwise aware of any infringement of or conflict in any jurisdiction with asserted rights of others
+with respect to any intellectual property or of any facts or circumstances which would render any intellectual property
+invalid or inadequate to protect the interest of cnr or any other group company therein, and which infringement or
+conflict (if the subject of any unfavourable decision, ruling or finding) or invalidity or inadequacy, individually or
+in the aggregate, would have a material adverse effect; 3.2.28 related party transactions: neither cnr nor any other
+group company is engaged in any transactions with any related party on terms that are less favourable to cnr or the
+other relevant group company than those available from other parties on an arm’s-length basis and such transactions as
+described in the audited consolidated financial statements of cnr are true, complete and accurate and not misleading in
+any material respect. all related party transactions, as defined in regulation s-k under the exchange act, required to
+be disclosed in the form 20-f filed with the sec on 16 july 2012 have been so disclosed. all related party transactions
+have been negotiated in good faith and on an arm’s length basis; 3.2.29 events of default: no event has occurred or
+circumstance arisen which, had the convertible bonds or the warrants already been issued, could reasonably be expected
+to (whether or not with the giving of notice and/or the passage of time and/or the fulfilment of any other requirement):
+(i) constitute an event described under “events of default” in the terms and conditions; or (ii) require an adjustment
+of the initial conversion price of the convertible bonds or the initial exercise price of the warrants; 17 3.2.30 labour
+disputes: no material labour dispute with the employees of cnr or any other group company exists or, to the best
+knowledge, information and belief of cnr (after due inquiry), is imminent. to the best knowledge, information and belief
+of cnr (after due inquiry), cnr is not aware of any existing or labour disturbance by the employees of any of the group
+company’s principal suppliers, manufacturers or contractors which could result in a material adverse effect; 3.2.31
+information: all information supplied or disclosed in writing or orally by cnr, each other group company and their
+respective representatives to the issuer or the investor, its agents or professional advisers is in every material
+respect true and accurate and not misleading in any respect and all forecasts, opinions and estimates relating to cnr
+and each other group company so supplied or disclosed have been made after due, careful and proper consideration, are
+based on reasonable assumptions and represent reasonable and fair expectations honestly held based on facts known to
+such persons (or any of them); there has been no development or occurrence relating to the financial or business
+condition or prospects of cnr or any other group company (including, without limitation, with respect to any corporate
+event, acquisition, disposal or related matter) which is not in the public domain and which would reasonably be expected
+to be material to the issuer or the investor; and cnr has disclosed all information regarding the financial or business
+condition or prospects of the group, which is relevant and material in relation to the group, in the context of the
+issue or offering of the convertible bonds or the warrants; 3.2.32 anti-money laundering: the operations of cnr and each
+other group company are and have been conducted at all times in compliance with all applicable anti-money laundering
+laws, regulations, rules and guidelines in its jurisdiction of incorporation and in each other jurisdiction in which
+such entity, as the case may be, conducts business (collectively, the “money laundering laws”) and no action, suit or
+proceeding by or before any court or governmental or regulatory agency, authority or body or any arbitrator involving
+cnr or any other group company with respect to any of the money laundering laws is pending or, to the best knowledge,
+information and belief of cnr (after due enquiry), threatened or contemplated; 18 3.2.33 foreign corrupt practices:
+neither cnr nor any other group company nor, any director, officer or to the best knowledge, information and belief of
+cnr (after due enquiry), any director, officer, agent, employee, affiliate or other person acting on behalf of cnr or
+any other group company, is aware of or has taken any action, directly or indirectly, that would result in a violation
+by such persons of: (i) the foreign corrupt practices act of 1977, as amended, and the rules and regulations thereunder
+(the “fcpa”), including, without limitation, making use of the mails or any means or instrumentality of interstate
+commerce corruptly in furtherance of an offer, payment, promise to pay or authorisation of the payment of any money, or
+other property, gift, promise to give, or authorisation of the giving of anything of value to any “foreign official” (as
+such term is defined in the fcpa) or any foreign political party or official thereof or any candidate for foreign
+political office, in contravention of the fcpa; or (ii) any provision of equivalent laws of any other jurisdiction in
+which cnr or any other group company conducts its business or operations, and, to the best knowledge, information and
+belief of cnr (after due enquiry), its affiliates have conducted their businesses in compliance with the fcpa and such
+other equivalent laws and have instituted and maintain policies and procedures designed to ensure, and which are
+reasonably expected to continue to ensure, continued compliance therewith; 3.2.34 sanctions administered by ofac:
+neither cnr nor any other group company nor, to the best knowledge, information and belief of cnr (after due enquiry),
+any director, officer, agent, employee, affiliate or other person acting on behalf of cnr or any other group company, is
+an individual or entity (“person”) that is, or is owned or controlled by a person that is currently subject to any u.s.
+sanctions administered by the office of foreign assets control of the u.s. department of the treasury (“ofac”) or any
+sanctions administered by the european union or the united nations (collectively, the “sanctions”) or located, organised
+or resident in a country or territory that is the subject of sanctions; 3.2.35 other transactions: neither cnr nor any
+other group company are party to any other transaction which, if executed in accordance with its terms, has or would
+have a material adverse effect; 19 3.2.36 use of proceeds: the use by cnr or any other group company of the proceeds
+from the issue of the convertible bonds and the warrants for general corporate purposes of cnr will not violate any
+existing laws or regulations of any relevant jurisdiction; 3.2.37 manipulation of price: cnr has not, and to the best of
+the major shareholders’ knowledge, information and belief (after due inquiry) no one acting on its behalf has, (i)
+taken, directly or indirectly, any action designed to cause or to result, or that could reasonably be expected to cause
+or result, in the stabilisation or manipulation of the price of any security of cnr to facilitate the sale or resale of
+any of the convertible bonds, warrants, conversion shares or exercise shares, (ii) sold, bid for, purchased, or paid any
+compensation for soliciting purchases of, any of the convertible bonds, the warrants, the conversion shares or the
+exercise shares or (iii) paid or agreed to pay to any person any compensation for soliciting another to purchase any
+other securities of cnr; 3.2.38 no general solicitation: neither cnr, nor any of its affiliates, nor any person acting
+on its or their behalf, has engaged in any form of general solicitation or general advertising (within the meaning of
+regulation d under the securities act (“regulation d”)) in connection with the offer or sale of the convertible bonds,
+the warrants, the conversion shares or the exercise shares; 3.2.39 no integrated offering: neither cnr, nor any of its
+affiliates, nor any person acting on their behalf has, directly or indirectly, made any offers or sales of any security
+or solicited any offers to buy any security, under circumstances that would require registration of any of the
+convertible bonds, the warrants, the conversion shares or the exercise shares under the securities act or cause this
+issue of convertible bonds, the warrants, the conversion shares and the exercise shares to be integrated with prior
+offerings by cnr for purposes of the securities act or any applicable shareholder approval provisions, including,
+without limitation, under the rules and regulations of any exchange or automated quotation system on which any of the
+securities of cnr are listed or designated. neither cnr, nor any of its affiliates, nor any person acting on their
+behalf will take any action or steps referred to in the preceding sentence that would require registration of any of the
+convertible bonds, the warrants, the conversion shares and the exercise shares under the securities act or cause the
+issue of the convertible bonds, the warrants, the conversion shares and the exercise shares to be integrated with other
+offerings; 20 3.2.40 no registration required: the offer and issuance by cnr of the convertible bonds, warrants,
+conversion shares or exercise shares, as applicable, to the issuer in the manner contemplated by the cnr subscription
+agreement is exempt from registration under the securities act; 3.2.41 investment company status: cnr is not, and upon
+consummation of the sale of the securities contemplated herein will not be, an “investment company”, a company
+controlled by an “investment company” or an “affiliated person” of, or “promoter” or “principal underwriter” for, an
+“investment company” as such terms are defined in the u.s. investment company act of 1940, as amended; 3.2.42 u.s. real
+property holding corporation: cnr is not, has never been, and so long as any convertible bonds or warrants remain
+outstanding, shall not become a u.s. real property holding corporation within the meaning of section 897 of the united
+states internal revenue code of 1986, as amended, and cnr shall so certify upon the investor’s request; 3.2.43
+compliance with the sarbanes-oxley act of 2002: cnr is in compliance with any and all applicable requirements of the
+sarbanes-oxley act of 2002 that are effective as to cnr as of the date hereof, and any and all applicable rules and
+regulations promulgated by the sec thereunder that are effective as of the date hereof; and 3.2.44 form f-3 eligibility:
+for so long as the shares are listed on the nyse mkt and except in the circumstances referred to in condition
+6(f)(1)(vii) of the terms and conditions of the convertible bonds, cnr is eligible to register the conversion shares and
+the exercise shares for resale by the investor using form f-3 promulgated under the securities act which is contemplated
+in the registration rights agreement. 3.3 repetition: subject to clause 9, the representations and warranties contained
+in, or given pursuant to, clauses 3.1 and 3.2 shall be made on the date of this agreement and be deemed to have been
+repeated on the closing date taking into account facts and circumstances subsisting on the closing date. 21 3.4
+indemnity: the commitment of the investor under this agreement is being made on the basis of the foregoing
+representations, warranties, undertakings and agreements of the major shareholders and the issuer with the intention
+that such representations and warranties shall be and remain true and accurate in all respects on the date of this
+agreement and on the closing date with reference to the facts and circumstances then subsisting and that the
+undertakings and agreements shall have been performed on or before the closing date and the issuer undertakes (failing
+whom the major shareholders each undertakes) to pay, to the maximum extent permitted under all applicable laws, the
+investor on demand an amount, on an after tax basis, which is equal to any liability, damages, cost, claim, loss or
+expenses (including, without limitation, legal fees, costs and expenses) (a “loss”) which equals or exceeds rmb1,000,000
+or its equivalent in other currencies incurred by the investor or any of its subsidiaries, affiliates or any person who
+controls any of them or any of their respective directors, officers, employees or agents (each a “relevant party”,
+together the “relevant parties”) in respect of or in connection with any breach or alleged breach of any of the
+representations, warranties, undertakings or agreements contained in, or deemed to be made pursuant to, this agreement
+or any certificate issued by the major shareholders or the issuer; or respective directors or officers to comply with
+any requirements of statute or regulation in relation to the sale of the bonds. a loss shall include (without
+limitation) all losses which a relevant party may incur in investigating, preparing, disputing or defending, or
+providing evidence in connection with, any litigation, claim, action, proceeding, investigation, demand, judgment or
+award (each a “claim”) (whether or not a relevant party is an actual or potential party to such claim) or in
+establishing any claim or mitigating any loss on its part or otherwise enforcing its rights under this clause 3.4, which
+shall be additional and without prejudice to any rights which a relevant party may have at common law or otherwise
+except, only in the case of a loss incurred in relation to a relevant party’s investigation, preparation or defence of a
+claim, to the extent that such loss was caused by the relevant party’s own gross negligence, wilful misconduct or fraud.
+the investor shall not have any duty or obligation, whether as fiduciary or trustee for any relevant party or otherwise,
+to recover any such payment or to account to any other person for any amounts paid to it under this clause. 22 4
+undertakings of the issuer and the major shareholders the major shareholders and the issuer undertake with the investor
+to comply with the following obligations: 4.1 taxes: the issuer (failing whom the major shareholders) shall pay: (i) any
+stamp, issue, registration, documentary or other taxes and duties, including interest and penalties in the hong kong,
+united states and the british virgin islands and all other relevant jurisdictions payable on or in connection with the
+creation, issue and offering of the bonds or the execution or delivery of this agreement or the bonds; and (ii) in
+addition to any amount payable by it under this agreement, any value added, service, turnover or similar tax payable in
+respect thereof (and references in this agreement to such amount shall be deemed to include any such taxes so payable in
+addition to it); 4.2 warranties: the major shareholders and the issuer shall forthwith notify the investor if at any
+time prior to payment of the subscription price (as defined below) to the issuer on the closing date anything occurs
+which renders or may render untrue or incorrect in any respect any of its representations, warranties, undertakings,
+agreements and indemnities herein and will forthwith take such steps as the investor may reasonably require to remedy
+and/or publicise the fact; 4.3 use of proceeds: the issuer shall use the net proceeds from the issue of the bonds to
+fund the subscription price of the convertible bonds and the issuance of the convertible bonds; 4.4 announcements:
+subject to clause 5.1.3, between the date hereof and a period of the earlier of (a) 20 days after the closing date and
+(b) the termination date (both dates inclusive), the major shareholders and the issuer shall, and shall cause the other
+group companies and their affiliates and all other parties acting on its or their behalf to, notify and consult with the
+investor (unless prevented by applicable law or regulations) prior to issuing any announcement concerning, or which
+could be material in the context of, the offering and distribution of the bonds, the convertible bonds or the warrants,
+and shall take into account such requests as the investor shall reasonably make with respect to such announcements; 4.5
+form d and blue sky laws: the major shareholders will procure that (a) cnr shall file a form d as required under the
+applicable requirements of regulation d with respect to the convertible bonds, the warrants, the conversion shares and
+the exercise shares and shall provide a copy thereof to the investor promptly after such filing; and (b) cnr shall make
+all filings and reports relating to the offer and sale of the convertible bonds, the warrants, the conversion shares and
+the exercise shares required under applicable securities or blue sky laws of the states of the united states following
+the closing date; 23 4.6 form f-3 eligibility and reporting status: the major shareholders will procure that, until the
+date on which the issuer shall have sold all the conversion shares and the exercise shares and none of the convertible
+bonds or warrants is outstanding, (a) for so long as the shares are listed on the nyse mkt and except in the
+circumstances referred to in condition 6(f)(1)(vii) of the terms and conditions of the convertible bonds, cnr shall
+timely file all reports required to be filed with the sec pursuant to the exchange act; and cnr shall take all actions
+necessary to maintain its eligibility to register the conversion shares and the exercise shares for resale by the issuer
+on form f-3 promulgated under the securities act which is contemplated in the registration rights agreement; and (b) for
+so long as the shares are listed on a relevant stock exchange as defined in the terms and conditions of the convertible
+bonds, cnr shall timely comply with all filing and reporting requirements and take all actions necessary to maintain its
+eligibility to register the conversion shares and exercise shares, for resale under relevant regulations. 5 conditions
+precedent 5.1 the obligations of the investor to subscribe and pay for the bonds are subject to the fulfilment, prior to
+or simultaneously at closing, of the following conditions to the satisfaction of the investor: 5.1.1 compliance: at the
+closing date: (i) the representations and warranties of the major shareholders and the issuer in this agreement being
+true, accurate and correct in all respects and not misleading in any respect at, and as if made on, such date; (ii) the
+major shareholders and the issuer having performed all of their respective obligations under this agreement to be
+performed on or before such date; and (iii) there having been delivered to the investor a certificate in the form
+attached as schedule 1, dated as of such date, of a duly authorised officer of the issuer to such effect; 5.1.2
+security: on the closing date, the investor shall have received the security documents in each case in form and
+substance satisfactory to the investor, each duly executed by the relevant parties except for the investor; 24 5.1.3
+disclosure of the transaction: on or before 8:30 a.m., new york city time, on the first business day following the date
+of this agreement, cnr shall issue a press release and file a report on a form 6-k describing the terms of the
+transactions contemplated by the transaction documents in the form required by the exchange act and attaching the
+material transaction documents (including, without limitation, the form of the convertible bonds, the form of the
+warrant instrument and the form of the registration rights agreement) as exhibits to such filing (including all
+attachments, the “6-k filing”). for the purpose of this agreement, “business day” means a day on which banks are open
+for business in hong kong, british virgin islands and new york city (excluding saturdays, sundays and public holidays).
+5.1.4 listing: the nyse mkt having agreed to list the conversion shares upon conversion of the convertible bonds and the
+exercise shares upon exercise of the warrants subject to any conditions reasonably satisfactory to the investor; 5.1.5
+no suspension of trading: the shares (i) shall be listed on the nyse mkt and (ii) shall not have been suspended, as of
+the closing date, by the sec or the nyse mkt from trading on the nyse mkt nor shall suspension by the sec or the nyse
+mkt have been threatened, as of the closing date, either (a) in writing by the sec or the nyse mkt or (b) by falling
+below the minimum listing maintenance requirements of the nyse mkt; 5.1.6 material adverse change: up to the closing
+date, there shall not have occurred any change (nor any development or event involving a prospective change), which is
+materially adverse to the condition (financial or other), prospects, results of operations or general affairs of the
+issuer, cnr or of any of the other group companies; 5.1.7 other consents: on or prior to the closing date, there shall
+have been delivered to the investor copies of all consents and approvals required on the part of the issuer in relation
+to the issue of the bonds and the performance of its obligations under the bonds and all the transactions contemplated
+under the transaction documents (including, without limitation, in relation to providing security for the bonds and
+ensuring the unfettered right of the investor to enforce such security), in each case in form and substance satisfactory
+to the investor (including, without limitation, approval by the issuer’s board of directors, shareholders and any
+relevant governmental or regulatory authorities); 25 5.1.8 contracts: on or before the closing date, there having been
+delivered to the investor each of the contracts other than this agreement, duly executed by each party thereto other
+than the investor and copies of the cnr contracts in the form reasonably satisfactory to the investor; 5.1.9 legal
+opinions: on or before the closing date, there having been delivered to the investor opinions, in form and substance
+satisfactory to the investor, dated the closing date of: (i) legal opinions of reed smith richards butler, legal
+advisers to the issuer as to the law of the united states; (ii) legal opinions of conyers dill & pearman, legal advisers
+to the issuer as to the law of the british virgin islands; and (iii) legal opinions of reed smith richards butler, legal
+advisers to the issuer as to the law of hong kong. 5.2 fulfilment: the issuer shall use its best endeavours to ensure
+the fulfilment of the conditions set out in clause 5.1 as soon as reasonably practicable. 5.3 waiver: the investor may,
+at its discretion and upon such terms as it thinks fit, waive compliance with the whole or any part of this clause 5. 6
+closing 6.1 obligations of the issuer 6.1.1 on the closing date, the issuer shall: (i) duly issue the bonds in the
+aggregate principal amount of us$60,000,000 to the investor; and (ii) procure entry in the issuer’s register of
+bondholders of the name of the investor to be the holder of the bonds and deliver to or to the order of the investor (i)
+a certificate, duly executed, representing the aggregate principal amount of the bonds; and (ii) a certified true copy
+by an authorised signatory of the issuer of the issuer’s duly completed register of bondholders as at the closing date.
+26 6.2 obligations of the investor against compliance with clause 6.1 by the issuer, the investor shall pay an amount
+equal to 100 per cent. of the aggregate principal amount of the bonds (the “subscription price”) less the issuing
+expenses (as defined in clause 7.1 below) by wire transfer to the us dollar bank account in hong kong designated by the
+issuer by notice in writing delivered to the investor at least five business days prior to the closing date. evidence of
+such payment shall be satisfied by the delivery to the issuer of an irrevocable wiring instruction giving effect to the
+above and shall constitute a complete discharge of the investor’s payment obligations hereunder. 7 expenses and payments
+7.1 general expenses: the issuer (failing whom the major shareholders) is responsible for paying the (i) fees and
+expenses of the legal, accountancy and other professional advisers instructed by the issuer in connection with the
+offer, creation and issue of the bonds; and (ii) the costs incurred by it in connection with the preparation and
+execution of the contracts. the fees and expenses incurred by the investor (including, but not limited to, the due
+diligence costs conducted on the issuer and cnr and all fees and expenses of the legal, accountancy, financial and other
+professional advisers instructed by the investor) (such amount as notified in writing by the investor to the issuer
+prior to the closing date, the “issuing expenses”) shall be reimbursed by the issuer to the investor by way of a
+deduction to the amount payable by the investor on closing pursuant to clause 6.2. 7.2 payment: all payments due under
+this agreement are to be made in us dollars and are stated exclusive of any applicable tax whether income taxes,
+withholding taxes, value added taxes, goods and services taxes, business or services taxes or similar taxes other than
+taxes imposed in respect of net income by a taxing jurisdiction wherein the recipient is incorporated or resident for
+tax purposes (“taxes”). if any deduction or withholding for or on account of taxes is required to be made from any
+payment to the investor, then the issuer shall pay an additional amount so that the investor receives, free from any
+such withholding, deduction, assessment or levy, the full amount of the payments set out herein. the issuer shall make
+appropriate payments and returns in respect of such taxes and provide the investor with an original or authenticated
+copy of the tax receipt. 27 8 termination 8.1 ability of investor to terminate: at any time prior to payment of the
+subscription price to the issuer: 8.1.1 if there shall have come to the notice of the investor any breach of, or any
+event rendering untrue or incorrect in any respect, any of the warranties, representations and undertakings contained in
+this agreement or any failure to perform any of the major shareholders’ or the issuer’s undertakings or agreements in
+this agreement; 8.1.2 if any of the conditions specified in clause 5 has not been satisfied, or waived by the investor,
+on or prior to the closing date or if the cnr subscription agreement is terminated for any reason; 8.1.3 if in the
+reasonable opinion of the investor, there shall have been, since the date of this agreement, any change, or any
+development involving a prospective change, in national or international monetary, financial, political or economic
+conditions (including any disruption to trading generally, or trading in any securities of the issuer on the nyse mkt or
+currency exchange rates or foreign exchange controls such as would in its view, be likely to prejudice materially the
+success of the issue of the bonds and distribution of the bonds or dealings in the bonds in the secondary market; 8.1.4
+if, in the reasonable opinion of the investor, there shall have occurred any of the following events: (i) a suspension
+or a material limitation in trading in securities generally on the nyse mkt, and/or any other stock exchange on which
+cnr’s securities are traded; (ii) a suspension or a material limitation in trading in the issuer’s securities on the
+nyse mkt and/or any other stock exchange on which cnr’s securities are traded; (iii) a general moratorium on commercial
+banking activities in the united states, hong kong and/or the united kingdom declared by the relevant authorities or a
+material disruption in commercial banking or securities settlement or clearance services in the united states, hong kong
+or the united kingdom; or (iv) a change or development involving a prospective change in taxation affecting the issuer,
+cnr, the bonds, the convertible bonds, the warrants, the conversion shares and the exercise shares or the transfer
+thereof; 8.1.5 if, in the reasonable opinion of the investor, there shall have occurred any event or series of events
+(including the occurrence of any local, national or international outbreak or escalation of disaster, hostility,
+insurrection, armed conflict, act of terrorism, act of god or epidemic) as would in their view be likely to prejudice
+materially the success of the issue and distribution of the bonds or dealings in the bonds in the secondary market, then
+the investor shall be entitled (but not bound) by notice to the major shareholders and the issuer to elect to treat such
+event, breach or failure as terminating this agreement notwithstanding any other provisions of this agreement. 28 8.2
+ability of issuer to terminate: at any time prior to payment of the subscription price to the issuer if there shall have
+come to the notice of the issuer any breach of, or any event rendering untrue or incorrect in any respect, any of the
+warranties, representations and undertakings provided by the investor in this agreement or any failure to perform any of
+the investor’s undertakings or agreements in this agreement, then the issuer shall be entitled (but not bound) by notice
+to the investor to elect to treat such event, breach or failure as terminating this agreement notwithstanding any other
+provisions of this agreement. 8.3 consequences of termination: upon such notice being given by the investor or the
+issuer pursuant to clause 8.1 or clause 8.2, this agreement shall terminate and be of no further effect and no party
+shall be under any liability to any other in respect of this agreement, except that the major shareholders and the
+issuer, shall remain liable under clause 14 which would have continued had the arrangements for the subscription and
+issue of the bonds been completed. any termination of this agreement after the closing date shall not release a party
+from any liability which at the time of termination has already accrued to another party or which thereafter may accrue
+in respect of any act or omission prior to such termination and shall be without prejudice to any liability or
+obligation in respect of any matters, undertakings or conditions which shall not have been observed or performed by the
+relevant party prior to such termination. 9 survival of representations and obligations the representations, warranties,
+agreements, undertakings and indemnities in this agreement shall continue in full force and effect despite completion of
+the arrangements for the subscription and issue of the bonds or any investigation made by or on behalf of the investor.
+10 communications 10.1 addresses: any communication shall be given by letter or fax in the case of notices to the
+issuer, to it at: willis plus limited suite 2208-14, 22/f sun life tower the gateway 29 15 canton road tsim sha tsui,
+kowloon hong kong fax no.: +852 2317 5372 attention: claudia lee and in the case of notices to the major shareholders
+at: suite 2208-14, 22/f sun life tower the gateway 15 canton road tsim sha tsui, kowloon hong kong fax no.: +852 2317
+5372 attention: claudia lee and in the case of notices to the investor at: pa universal opportunity vii limited commence
+chambers, p.o. box 2208 road town, tortola british virgin islands fax no.: +1 284 494 2889 attention: board of directors
+with a copy to: c/o 15/f, aia central 1 connaught road central hong kong fax no.: +852 2918 0881 attention: jon lewis
+10.2 effectiveness: any such communication shall take effect, in the case of a letter, at the time of delivery, and in
+the case of fax, at the time of despatch. 30 10.3 confirmations: any communication not by letter shall be confirmed by
+letter but failure to send or receive the letter of confirmation shall not invalidate the original communication. 11
+assignment the investor may, upon giving written notice to the major shareholders and the issuer, assign any or all of
+its rights and delegate or transfer any or all of its obligations under this agreement to any person without the consent
+of the other party to this agreement. no party may otherwise assign any of its rights or delegate or transfer any of its
+obligations under this agreement without the prior written consent of the other party to this agreement. 12 entire
+agreement this agreement, together with any documents referred to in it, constitutes the whole agreement between the
+parties relating to the issue of and the subscription for the bonds and supersedes and extinguishes any other prior
+drafts, agreements, undertakings, representations, warranties and arrangements of any nature, whether in writing or
+oral, relating to the issue of and the subscription for the bonds. 13 currency indemnity 13.1 currency of account and
+payment: us dollars (the “contractual currency”) is the sole currency of account and payment for all sums payable by the
+major shareholders and the issuer under or in connection with this agreement, including damages. 13.2 extent of
+discharge: an amount received or recovered in a currency other than the contractual currency (whether as a result of, or
+of the enforcement of, a judgment or order of a court of any jurisdiction, in the insolvency, winding-up or dissolution
+of the issuer or otherwise), by the investor in respect of any sum expressed to be due to it from the major shareholders
+and the issuer will only discharge the major shareholders and the issuer to the extent of the contractual currency
+amount which the recipient is able to purchase with the amount so received or recovered in that other currency on the
+date of that receipt or recovery (or, if it is not practicable to make that purchase on that date, on the first date on
+which it is practicable to do so). 13.3 indemnity: if that contractual currency amount able to be so purchased as
+provided for in clause 13.2 is less than the contractual currency amount expressed to be due to the recipient under this
+agreement, the major shareholders and the issuer will indemnify it, to the maximum extent permitted under all applicable
+laws, against any loss sustained by it as a result. in any event, the major shareholders and the issuer will indemnify
+the recipient against the cost of making any such purchase. 31 13.4 indemnity separate: the indemnities in this clause
+13 and in clause 3.4 constitute separate and independent obligations from the other obligations in this agreement, will
+give rise to a separate and independent cause of action, will apply irrespective of any indulgence granted by the
+investor and will continue in full force and effect despite any judgment, order, claim or proof for a liquidated amount
+in respect of any sum due under this agreement or any other judgment or order. 14 confidentiality 14.1 obligations of
+confidentiality: subject to clause 14.3, each party shall keep strictly confidential and not disclose or use, and shall
+ensure that its affiliates and its officers, employees, agents and professional and other advisers keep strictly
+confidential and not disclose or use, any documents, materials and other information in whatever form received or
+obtained by it in connection with the entering into of this agreement or any other transaction documents which relates
+to: 14.1.1 the business, financial or other affairs (including future plans and targets) of a party of its affiliates;
+14.1.2 the existence or terms of any transaction document or any transaction contemplated by the transaction documents
+or the identities of the parties and their respective affiliates; or 14.1.3 any discussions or negotiations with regard
+to any transaction document or any transaction contemplated by the transaction documents. 14.2 confidential information:
+for the purpose of this agreement, “confidential information” includes the information referred to in clause 14.1 except
+for any document, material or other information that: 14.2.1 was lawfully in the possession of the receiving party prior
+to its disclosure by the disclosing party and had not been obtained from the disclosing party; 14.2.2 is or becomes
+generally known to the public (other than by breach of this agreement or any other obligation of confidentiality owed
+between the parties); 32 14.2.3 is or becomes available to the receiving party other than as a result of a disclosure by
+a person known by the receiving party to be bound by an obligation of secrecy to the disclosing party; or 14.2.4 is
+independently developed by the receiving party without reference to the confidential information. 14.3 permitted
+disclosure and use: clause 14.1 shall not prohibit disclosure or use of any information if and to the extent that:
+14.3.1 the disclosure or use is required by law or by any securities exchange or regulatory or governmental body having
+jurisdiction over the receiving party or its affiliates, whether or not the requirement has the force of law; 14.3.2 the
+disclosure or use is required to vest the full benefit of this agreement or any other transaction document in the
+receiving party, as the case may be; 14.3.3 the disclosure or use is required for the purpose of any judicial
+arbitration or other similar proceedings arising out of this agreement or any other transaction document, the disclosure
+is reasonably required to be made to a taxing or other authority competent to impose any liability in respect of any and
+all applicable taxes (“taxation”) or responsible for the administration and/or collection of taxation or enforcement of
+any tax laws (“tax authority”) in connection with the taxation affairs of the receiving party or the disclosure is
+reasonably required for the purpose of preparing any statutory accounts of the receiving party; 14.3.4 the disclosure is
+made to the affiliates of the receiving party, or to the officers, employees, agents and professional and other advisers
+of the receiving party or its affiliates, where such person has a business-related need to have access to or use the
+confidential information on terms that such person undertakes to comply with the provisions of clause 14.1 in respect of
+such information as if they were a party to this agreement and the party disclosing such information to such person
+shall be liable for any breach of this clause 14 by such person; 14.3.5 the disclosure is made by the investor to the
+respective stockholders, limited partners, members or other owners of the investor or any of its affiliates, as the case
+may be, regarding the general status of its investment in the issuer; 33 14.3.6 the disclosure is made by the investor
+to persons reasonably determined by the investor to be potential stockholders, limited partners, or members of other
+investor in the investor in any media, including in connection with any marketing materials distributed for or on behalf
+of the investor or any of its affiliates, regarding the general status of its investment in the issuer, including the
+name of the issuer, cnr and other group companies, and a description of the business conducted by the issuer, cnr and
+other group companies and the actual or estimated return on investment realised by the investor resulting from or
+relating to its investment in the issuer; 14.3.7 the disclosure is made by the investor to persons reasonably determined
+by the investor to be potential transferees of the bonds, whether in whole or in part, in respect of information
+reasonably required for the purpose of evaluating the bonds to be transferred, including in connection with the
+business, liabilities and financial position of the issuer, cnr and the other group companies; or 14.3.8 the disclosing
+party has given prior written approval to the disclosure or use, provided that prior to disclosure or use of any
+information pursuant to clause 14.3.3 (except in the case of disclosure to a tax authority), to the extent permitted by
+law and without compromising any privileges, the receiving party shall give reasonable prior written notice to the
+disclosing party (including a copy of any relevant written request which may exist) and the information is disclosed in
+a manner that is designed to preserve its confidential nature. if on the receipt of such a notice a party wishes to take
+action to oppose or limit such potential disclosure or seek a protective order in respect of the information required to
+be disclosed, it may do so at its own cost and the receiving party shall provide it with any reasonable assistance
+required. 15 governing law and jurisdiction 15.1 governing law: this agreement, as to which time shall be of the
+essence, it shall be governed by and construed in accordance with hong kong laws. 15.2 jurisdiction: 15.2.1 the courts
+of the hong kong are to have exclusive jurisdiction to settle any disputes which may arise out of or in connection with
+this agreement and accordingly any legal action or proceedings arising out of or in connection with this agreement
+(“proceedings”) may be brought in such courts. the major shareholders and the issuer each 34 irrevocably submits to the
+jurisdiction of such courts and waives any objection to proceedings in such courts whether on the ground of venue or on
+the ground that the proceedings have been brought in an inconvenient forum. this submission is made for the benefit of
+the investor and shall not limit the right of the investor to take proceedings in any other court of competent
+jurisdiction nor shall the taking of proceedings in one or more jurisdictions preclude the taking of proceedings in any
+other jurisdiction (whether concurrently or not). 15.2.2 the major shareholders and the issuer each agrees that the
+process by which any proceedings in hong kong are begun may be served on it by being delivered to it at suite 2208-14,
+22/f, sun life tower, the gateway, 15 canton road, tsim sha tsui, kowloon, hong kong. if the major shareholders or the
+issuer ceases to have an agent to accept service of process in hong kong, it shall forthwith appoint a further agent in
+hong kong to accept service of process on its behalf in hong kong and notify the investor of such appointment, and,
+failing such appointment within fifteen days, the investor shall be entitled to appoint such an agent by notice to the
+issuer. nothing in this agreement shall affect the right to serve process in any other manner permitted by law. 16
+variation no variation of this agreement shall be effective unless approved by the investor in writing. 17 counterparts
+this agreement may be executed in any number of counterparts, each of which shall be deemed an original. 35 this
+agreement has been entered into on the date stated at the beginning. by ) mr. cheng chung hing ) in the presence of: )
+/s/ cheng chung hing witness’ signature: /s/ chris fam name: chris fam address: suite 2204, 22/f sun life tower, the
+gateway, 15 canton road, tsimshatsui, hong kong by ) mr. leung moon lam ) in the presence of: ) /s/ leung moon lam
+witness’ signature: /s/ alex lung name: alex lung address: suite 2204, 22/f sun life tower, the gateway, 15 canton road,
+tsimshatsui, hong kong subscription and investor’s rights agreement – signature page willis plus limited by /s/ cheng
+chung hing name: chang chung hing title: chairman pa universal opportunity vii limited, for and on behalf of pax
+secretaries limited by /s/ jon robert lewis name: jon robert lewis title: director subscription and investor’s rights
+agreement – signature page schedule 1 form of officer’s certificate [on the letterhead of the issuer] to: pa universal
+opportunity vii limited commence chambers, p.o. box 2208 road town, tortola british virgin islands [date] 2012 dear sirs
+subscription agreement relating to subscription of us$60 million secured bonds due 2017 pursuant to the subscription
+agreement dated 24 july 2012 (the “agreement”) made between mr. cheng chung hing and mr. leung moon lam (the “major
+shareholders”), willis plus limited (the “issuer”) and yourselves as investor, i hereby confirm, on behalf of the major
+shareholders and the issuer, that as at today’s date: a) the representations and warranties of the major shareholders
+and the issuer set forth in the agreement are true, accurate and correct in all respects and not misleading in any
+respect at, and as if made on, today’s date; b) the major shareholders and the issuer have performed all of their
+respective obligations under the agreement to be performed on or before today’s date; c) there has been no change (nor
+any development or event involving a prospective change) which is materially adverse to the condition (financial or
+other), prospects, results of operations or general affairs of the issuer, cnr or of any of the other group companies
+(as defined in the agreement); and d) neither the issuer, cnr nor any of the other group companies is in breach of or in
+default (nor has any event occurred which, with the giving of notice and/or the passage of time and/or the fulfilment of
+any other requirement would result in a default by cnr or any of the other group companies) under the terms of any
+indenture, contract, lease, mortgage, deed of trust, note agreement, loan agreement or other agreement, obligation,
+condition, covenant or instrument to which cnr or any other group company is a party or to which their respective assets
+are bound. yours faithfully 38 for and on behalf of [cheung chung hing/leung moon lam/willis plus limited] [name]
+director/[title of authorised officer] 39 schedule 2 terms and conditions 40 schedule 3 major shareholder guarantee 41
+schedule 4 deed of undertakings 42
+

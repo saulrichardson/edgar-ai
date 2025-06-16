@@ -12,6 +12,8 @@ from typing import Any, Dict, List
 
 import openai
 from fastapi import FastAPI, HTTPException
+from fastapi import Request
+from starlette.responses import Response
 from pydantic import BaseModel, field_validator
 
 
@@ -37,6 +39,35 @@ class ChatCompletionRequest(BaseModel):
 
 
 app = FastAPI(title="LLM Gateway", version="0.1.0", debug=True)
+
+
+@app.middleware("http")
+async def log_llm_traffic(request: Request, call_next):
+    """Log chat/completions request & response when recording is enabled."""
+    # Only log when flagged by client via header
+    if request.url.path != "/v1/chat/completions" or request.headers.get("X-EdgarAI-Record-Session") != "1":
+        return await call_next(request)
+
+    from datetime import datetime
+    from ..utils.paths import get_data_dir
+
+    timestamp = datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
+    body = await request.body()
+    req_dir = get_data_dir() / "llm-traffic" / "requests"
+    req_dir.mkdir(parents=True, exist_ok=True)
+    (req_dir / f"{timestamp}.json").write_bytes(body)
+
+    # Forward to handler and capture response body
+    response = await call_next(request)
+    resp_body = b""
+    async for chunk in response.body_iterator:
+        resp_body += chunk
+
+    resp_dir = get_data_dir() / "llm-traffic" / "responses"
+    resp_dir.mkdir(parents=True, exist_ok=True)
+    (resp_dir / f"{timestamp}.json").write_bytes(resp_body)
+
+    return Response(content=resp_body, status_code=response.status_code, headers=dict(response.headers), media_type=response.media_type)
 
 # Provider selection -----------------------------------------------------
 

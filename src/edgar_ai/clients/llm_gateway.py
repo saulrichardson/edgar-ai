@@ -9,6 +9,7 @@ from __future__ import annotations
 import json
 from typing import Any, Dict, List
 
+import os
 import requests
 from tenacity import retry, stop_after_attempt, wait_exponential
 
@@ -36,6 +37,15 @@ def chat_completions(model: str, messages: List[Dict[str, str]], **kwargs: Any) 
         **kwargs,
     }
 
-    resp = requests.post(url, json=payload, timeout=settings.gateway_timeout)
+    # Inject recording header if requested via environment
+    headers: Dict[str, str] = {}
+    if os.getenv("EDGAR_AI_RECORD_SESSION") == "1":
+        headers["X-EdgarAI-Record-Session"] = "1"
+    resp = requests.post(
+        url,
+        json=payload,
+        timeout=settings.gateway_timeout,
+        headers=headers or None,
+    )
     resp.raise_for_status()
     return resp.json()

@@ -1,0 +1,20 @@
+services:
+  llm-gateway:
+    build:
+      context: .
+      dockerfile: Dockerfile.gateway
+    image: edgar-ai-llm-gateway:latest
+    ports:
+      - '9000:9000'
+    environment:
+      # Forward your OpenAI key and provider setting to the container
+      - EDGAR_AI_OPENAI_API_KEY=${EDGAR_AI_OPENAI_API_KEY}
+      - LLM_PROVIDER=openai
+    # Mount code for hot-reload when editing gateway.service
+    # Remove volumes in production to bake code into the image
+    volumes:
+      - ./:/app:ro
+
+# Example:
+#   docker-compose up -d llm-gateway
+#   docker-compose logs -f llm-gateway
