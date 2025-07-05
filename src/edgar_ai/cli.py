@@ -220,5 +220,33 @@ def main(argv: List[str] | None = None) -> None:  # noqa: D401
             console.print_json(_json.dumps(row.data))
 
 
+    elif args.command == "schemas":
+        from edgar_ai.memory import FileMemoryStore
+
+        memory = FileMemoryStore()
+        action = args.action
+        if action == "list":
+            for record in memory.list_schema_records():
+                console.print(record.schema_id)
+        elif action == "show":
+            if not args.schema_id:
+                print("Error: schema_id is required for show", file=sys.stderr)
+                sys.exit(1)
+            records = [r for r in memory.list_schema_records() if r.schema_id == args.schema_id]
+            if not records:
+                print(f"Error: schema '{args.schema_id}' not found", file=sys.stderr)
+                sys.exit(1)
+            record = records[0]
+            console.print_json(json.dumps(record.model_dump(mode="json")))
+        elif action == "delete":
+            if not args.schema_id:
+                print("Error: schema_id is required for delete", file=sys.stderr)
+                sys.exit(1)
+            deleted = memory.delete_schema_record(args.schema_id)
+            if not deleted:
+                print(f"Error: schema '{args.schema_id}' not found", file=sys.stderr)
+                sys.exit(1)
+            console.print(f"Deleted schema '{args.schema_id}'")
+
 if __name__ == "__main__":  # pragma: no cover
     main()

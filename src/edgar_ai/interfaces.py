@@ -12,6 +12,7 @@ from __future__ import annotations
 from typing import Any, Dict, List, Optional
 
 from pydantic import BaseModel, Field
+from datetime import datetime
 
 
 class Document(BaseModel):
@@ -69,6 +70,16 @@ class CriticNote(BaseModel):
 
     message: str
     severity: str = "info"
+
+
+class SchemaCritique(BaseModel):
+    """A critique of a JSON schema against high-level design principles."""
+
+    principle: str
+    score: float
+    message: str
+    schema_id: str
+    created_at: datetime
 
 
 class GovernorDecision(BaseModel):

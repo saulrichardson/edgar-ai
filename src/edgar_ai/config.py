@@ -55,6 +55,16 @@ class Settings(BaseSettings):
     prompt_builder_temperature: float = 0.3
     simulate: bool = False  # offline / deterministic mode
 
+    # Schema-Critic LLM model & high-level design principles for schema review
+    model_schema_critic: str = "o4-mini"
+    schema_critic_principles: list[str] = [
+        "completeness (covers all necessary fields without omissions)",
+        "orthogonality (fields are non-overlapping and independent)",
+        "conciseness (no redundant or overly verbose fields)",
+        "consistency with exhibit structure (logical grouping)",
+        "robustness to missing data (graceful degradation)",
+    ]
+
     # HTTP timeout (seconds) for calls to the LLM gateway – default 5 minutes
     gateway_timeout: int = 300
 
