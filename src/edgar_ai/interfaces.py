@@ -64,6 +64,13 @@ class Row(BaseModel):
     data: Dict[str, Any]
     doc_id: Optional[str] = None
 
+    # Optional attachments used by downstream personas (Critic, Governor, etc.)
+    # They are kept optional so existing callers that only care about the raw
+    # data do not need to pass them.  Critic will fall back gracefully if they
+    # are missing but having them here avoids dynamic attribute hacks.
+    schema: Optional["Schema"] = None  # forward-declared above
+    metadata: Dict[str, Any] = Field(default_factory=dict)
+
 
 class CriticNote(BaseModel):
     """Feedback from the critic persona on extracted rows."""

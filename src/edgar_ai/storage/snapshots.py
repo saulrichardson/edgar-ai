@@ -45,6 +45,25 @@ def save_prompt(prompt: Prompt, schema_hash: str) -> Path:  # noqa: D401
 
     file_path = _ensure_dir("prompts").joinpath(f"{schema_hash}.txt")
     file_path.write_text(prompt.text, encoding="utf-8")
+
+    # ------------------------------------------------------------------
+    # Phase-4 requirement: write side-car metadata JSON next to the prompt
+    # file.  The meta filename mirrors the prompt file but with a *.meta.json*
+    # suffix so tooling can glob both easily.
+    # ------------------------------------------------------------------
+    meta_path = file_path.with_suffix(".meta.json")
+    try:
+        import json as _json
+        from ..config import settings  # local import to avoid cycles
+
+        meta_payload = {
+            "schema_hash": schema_hash,
+            "goal_overview": prompt.text.split("\n", 1)[0][:280],
+            "model": settings.model_prompt_builder,
+        }
+        meta_path.write_text(_json.dumps(meta_payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    except Exception:  # pragma: no cover – meta failure should not abort
+        pass
     return file_path
 
 

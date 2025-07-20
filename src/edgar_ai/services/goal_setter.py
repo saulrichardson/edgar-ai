@@ -15,7 +15,7 @@ from __future__ import annotations
 
 from typing import List
 
-from ..clients import llm_gateway
+from ..llm import chat_completions, is_simulate_mode
 from ..config import settings
 from ..interfaces import Document
 
@@ -47,7 +47,7 @@ Return ONLY valid JSON—no additional text or explanation.
 """
 
 def _call_llm(snippet: str) -> str:
-    rsp = llm_gateway.chat_completions(
+    rsp = chat_completions(
         model=settings.model_goal_setter,
         messages=[
             {"role": "system", "content": _SYSTEM_PROMPT},
@@ -61,7 +61,7 @@ def _call_llm(snippet: str) -> str:
 def run(documents: List[Document]) -> str:  # noqa: D401
     """Return a goal sentence for *documents*."""
 
-    if not settings.llm_gateway_url:
+    if not settings.llm_gateway_url and not is_simulate_mode():
         raise RuntimeError("LLM gateway URL not configured; cannot run Goal-Setter")
 
     # Pipeline processes **one exhibit at a time**; pass the entire text to the

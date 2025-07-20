@@ -1,3 +1,6 @@
+# ⚠️ *Archived note* – The strategy below predates the unified Critic ↔ Tutor
+# feedback loop and is kept only for historical reference.
+#
 # Automatic Detection of Schema Over- and Under-Compression
 
 Status: concept – Critic/Tutor/Governor loop not yet implemented

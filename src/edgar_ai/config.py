@@ -53,6 +53,34 @@ class Settings(BaseSettings):
     # Prompt-Builder LLM model & temperature for dynamic prompt engineering
     model_prompt_builder: str = "o4-mini"
     prompt_builder_temperature: float = 0.3
+
+    # ---------------------------------------------------------------------
+    # Phase-4 additions
+    # ---------------------------------------------------------------------
+    # Upper bound on the number of tokens Prompt-Builder is allowed to
+    # generate when crafting the extraction prompt.  The builder should trim
+    # or otherwise compact the text to remain within this budget.  We expose
+    # it as a setting so experiments can tune the prompt length without code
+    # changes.
+    prompt_builder_max_tokens: int = 4096
+
+    # The Extractor may retry transient gateway/validation failures.  This is
+    # the maximum number of attempts before raising.  By default we keep it
+    # very small as most failures are deterministic model errors.  Increase
+    # in production deployments if gateway connectivity is flaky.
+    extractor_max_retries: int = 3
+
+    # Toggle to disable the Extractor validation layer altogether (for
+    # debugging or rapid experimentation).  When *False* the extractor will
+    # accept whatever JSON the LLM returns and map it into a Row object
+    # without checks.
+    extractor_validation: bool = True
+
+    # Discoverer / Schema-Synth
+    model_discoverer: str = "o4-mini"
+    model_schema_synth: str = "o4-mini"
+    discoverer_temperature: float = 0.3
+    schema_synth_temperature: float = 0.3
     simulate: bool = False  # offline / deterministic mode
 
     # Schema-Critic LLM model & high-level design principles for schema review
