@@ -8,7 +8,6 @@ from importlib import import_module as _import_module
 _service_names = [
     "intake",
     "goal_setter",
-    "discoverer",
     "schema_synth",
     "prompt_builder",
     "extractor",
@@ -18,6 +17,7 @@ _service_names = [
     "governor",
     "explainer",
     "document_provider",
+    "schema_variants",
 ]
 
 for _name in _service_names:

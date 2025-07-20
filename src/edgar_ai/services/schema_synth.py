@@ -12,7 +12,7 @@ from ..config import settings
 from ..llm import chat_completions, is_simulate_mode
 
 
-_SYSTEM_PROMPT = """You are a schema synthesis assistant.\n\nGiven an array of field names, design a JSON Schema (draft-07) object that describes a flat object containing exactly those fields.\n\nFor each field, infer a likely JSON type (string, number, integer, boolean) and add a short description.\n\nReturn ONLY the JSON Schema object.\n"""
+_SYSTEM_PROMPT = """You are a schema synthesis assistant.\n\nGiven an array of field names, design a JSON Schema (draft-07) object that describes a flat object containing exactly those fields.\n\nFor each field you MUST:\n  • infer the most likely JSON primitive type (string, number, integer, boolean)\n  • add a short human-readable *description*\n  • add a brief *rationale* that explains why analysts care about the field (use the custom key **x-rationale** so the JSON Schema remains valid).\n\nExample for one field:\n  "borrower": {\n    "type": "string",\n    "description": "Legal entity that incurs the debt",\n    "x-rationale": "Identifies exposure by issuer"\n  }\n\nReturn ONLY the JSON Schema object – no additional text or explanation.\n"""
 
 
 def _synth_via_llm(fields: List[str]) -> Schema:  # noqa: D401
@@ -47,7 +47,8 @@ def _synth_via_llm(fields: List[str]) -> Schema:  # noqa: D401
         field_meta.append(
             FieldMeta(
                 name=name,
-                description=prop.get("description"),
+                description=prop.get("description", ""),
+                rationale=prop.get("x-rationale", ""),
                 json_schema=prop if prop else None,
                 required=name in schema_json.get("required", []),
             )

@@ -78,7 +78,8 @@ def run(schema: Schema, goal: dict) -> Prompt:  # noqa: D401
     for f in schema.fields:
         field_type = (f.json_schema or {}).get("type", "string")
         req_flag = "required" if f.required else "optional"
-        lines.append(f"- {f.name} ({field_type}, {req_flag}): {f.description}")
+        rationale_part = f" – {f.rationale}" if f.rationale else ""
+        lines.append(f"- {f.name} ({field_type}, {req_flag}): {f.description}{rationale_part}")
 
     fields_block = "\n".join(lines)
 

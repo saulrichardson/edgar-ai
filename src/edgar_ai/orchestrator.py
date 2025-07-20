@@ -23,7 +23,6 @@ from .interfaces import (
 from .services import (
     breaker,
     critic,
-    discoverer,
     extractor,
     goal_setter,
     governor,
@@ -59,16 +58,77 @@ def run_once(
     for doc in documents:
         raw_lake.put(doc.doc_id, doc.text)
 
-    # 2. Goal setting: determine the extraction objective for downstream prompts
+    # ------------------------------------------------------------------
+    # 2. Goal setting – lightweight (overview, topics, bare field list)
+    # ------------------------------------------------------------------
     goal = goal_setter.run(documents)
 
-    # 3. Discoverer
-    candidates = discoverer.run(documents)
+    # ------------------------------------------------------------------
+    # 2b. Schema exploration – generate min / max / balanced variants and
+    #     an additional *blended* schema that merges the best aspects.  This
+    #     operates independently from the Discoverer so we can still use the
+    #     statistical candidate signals for type inference later.
+    # ------------------------------------------------------------------
+    from edgar_ai.services import schema_variants  # noqa: WPS433 – local import
 
-    # 4. Schema synthesis (variant generation + referee happens inside the service)
-    schema = schema_synth.run(candidates)
+    variants = schema_variants.generate_variants(documents[0])
 
+    # Blend the three variants into a consolidated proposal via LLM.
+    try:
+        blended_schema_dict = schema_variants.blend_schema(variants, documents[0])  # type: ignore[attr-defined]
+    except AttributeError:
+        # Backward-compat: function may not exist if running older deploy; fall back to first variant
+        blended_schema_dict = variants[0]
+
+    # Map blended schema into {field_name: meta_dict}
+    _blended_fields_by_name: dict[str, dict] = {}
+    fields_obj = blended_schema_dict.get("fields")
+    if isinstance(fields_obj, dict):
+        for fname, meta in fields_obj.items():
+            if fname:
+                _blended_fields_by_name[fname] = meta if isinstance(meta, dict) else {}
+    elif isinstance(fields_obj, list):
+        for itm in fields_obj:
+            if isinstance(itm, dict):
+                name = itm.get("name") or itm.get("field_name")
+                if name:
+                    _blended_fields_by_name[name] = itm
+
+    # ------------------------------------------------------------------
+    # 3. Schema synthesis – purely LLM-driven; no regex discoverer hints.
+    # ------------------------------------------------------------------
+    schema = schema_synth.run([])  # pass empty candidate list
+
+    # ------------------------------------------------------------------
+    # 4b. Merge description & rationale from blended schema into synthesised
+    #     schema.  Add any missing fields from the blended proposal so that
+    #     downstream steps still see them.
+    # ------------------------------------------------------------------
+    from edgar_ai.interfaces import FieldMeta
+
+    existing_names = {f.name for f in schema.fields}
+    for f in schema.fields:
+        if f.name in _blended_fields_by_name:
+            meta = _blended_fields_by_name[f.name]
+            f.description = meta.get("description", f.description)
+            f.rationale = meta.get("rationale", getattr(f, "rationale", ""))
+
+    # Add fields present in blended but not in synthesised schema
+    for name, meta in _blended_fields_by_name.items():
+        if name not in existing_names:
+            schema.fields.append(
+                FieldMeta(
+                    name=name,
+                    description=meta.get("description", ""),
+                    rationale=meta.get("rationale", ""),
+                    required=meta.get("required", True),
+                    json_schema=meta.get("json_schema"),
+                )
+            )
+
+    # ------------------------------------------------------------------
     # 5. Build prompt
+    # ------------------------------------------------------------------
     prompt = prompt_builder.run(schema, goal)
 
 

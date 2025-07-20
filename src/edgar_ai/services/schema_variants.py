@@ -344,3 +344,52 @@ def referee(candidates: List[dict], doc: Document) -> Tuple[int, str]:  # noqa: 
         raise RuntimeError("Referee JSON missing 'winner_index'")
 
     return int(payload["winner_index"]), str(payload.get("reason", ""))
+
+# ------------------------------------------------------------
+# Blending helper – merge three candidate schemas into one improved version
+# ------------------------------------------------------------
+
+_BLEND_SYSTEM_PROMPT = """You are a senior data architect. Given three candidate extraction schemas for the *same* SEC exhibit, design a **single best-of-all-worlds schema**.\n\nYour goal is to create the most analytically useful schema possible. You MAY:\n  • keep existing fields you deem valuable,\n  • merge or rename duplicates,\n  • remove low-value or redundant fields, **and**\n  • **add brand-new fields** if important information is not yet captured.\n\nAdditional requirements:\n  • Resolve naming conflicts (choose clear snake_case).\n  • Every field must include *description* and *rationale*.\n  • Preserve any provided json_schema definitions for repeating structures; feel free to create new ones if you invent a new array/object field.\n\nReturn ONLY valid JSON with the keys: overview, topics, fields (object mapping field_name → {description, rationale, json_schema?}). Do NOT wrap in triple back-ticks or add commentary.\n"""
+
+
+def blend_schema(variants: List[dict], doc: Document) -> dict:  # noqa: D401
+    """Blend *variants* into a consolidated schema via LLM."""
+
+    if not settings.llm_gateway_url:
+        raise RuntimeError("LLM gateway URL not configured; cannot blend schemas")
+
+    import json as _json
+
+    user_payload = {
+        "candidate_schemas": variants,
+        "exhibit_text": doc.text[:10000],  # clip for token safety
+    }
+
+    rsp = llm_gateway.chat_completions(
+        model=settings.model_goal_setter,
+        messages=[
+            {"role": "system", "content": _BLEND_SYSTEM_PROMPT},
+            {"role": "user", "content": _json.dumps(user_payload, ensure_ascii=False)},
+        ],
+        temperature=settings.goal_setter_temperature,
+    )
+
+    raw = rsp["choices"][0]["message"].get("content", "").strip()
+
+    # Strip fences if model adds them
+    import re
+
+    m = re.match(r"```(?:json)?\s*(.*)\s*```", raw, flags=re.S | re.I)
+    if m:
+        raw = m.group(1)
+
+    try:
+        blended = json.loads(raw)
+    except Exception as exc:  # noqa: BLE001 – re-raise with context
+        raise RuntimeError(f"Blender returned non-JSON: {raw!r}") from exc
+
+    for key in ("overview", "topics", "fields"):
+        if key not in blended:
+            raise RuntimeError(f"Blended schema missing key '{key}'")
+
+    return blended
