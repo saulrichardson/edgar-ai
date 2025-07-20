@@ -5,12 +5,37 @@ archive/
 tmp*/
 pytest-of-*/
 .pytest_cache/
+# Cache and build directories
+build/
+dist/
+.mypy_cache/
+coverage*/
+
+# Distribution / packaging
+*.egg-info/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs and runtime files
+*.log
+*.tmp
+*.temp
+logs/
+
+# Temporary directories and files
+temp*/
+.DS_Store
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-
-.env
 
 # VSCode dev container cache
 .devcontainer/
