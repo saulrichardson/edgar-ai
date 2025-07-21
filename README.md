@@ -41,12 +41,15 @@ the data, critiques itself, and learns from every document it touches.
                                 │  JSON rows + lineage
                                 ▼
                ┌──────────────────────────┐
-               │ Row-level Critic (LLM)   │
+               │ Critic (LLM)             │
                └──────────────────────────┘
                                 │  feedback
                                 ▼
                          Tutor
                                 │  improved prompt / schema
+                                ▼
+                         Governor
+                                │  approves / flags issues
                                 └──► Memory   (learning loop)
 
         Breaker (adversarial docs) feeds synthetic edge cases into Intake →
@@ -80,7 +83,7 @@ more accurate**—all by prompt evolution, never by re-training model weights.
 5. **Extractor** – Large-context model returns structured JSON rows.  All
    prompts, model SHAs, and raw outputs are logged for provenance.
 
-6. **Row-level Critic + Memory** – Another persona re-reads the document and grades each
+6. **Critic + Memory** – Another persona re-reads the document and grades each
    cell, referencing past mistakes stored in Memory.  Feedback is appended to
    the row’s lineage.
 
@@ -88,7 +91,11 @@ more accurate**—all by prompt evolution, never by re-training model weights.
    prompt section and submits a pull-request-style patch for human or automated
    approval (champion–challenger logic).
 
-8. **Breaker** – Generates synthetic edge cases designed to fail current
+8. **Governor** – Applies policy checks and decides whether the extracted
+   dataset is acceptable for publication or should be routed back for further
+   refinement.
+
+9. **Breaker** – Generates synthetic edge cases designed to fail current
    prompts, feeding them back into the pipeline and forcing continual
    hardening.
 
