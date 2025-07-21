@@ -1,7 +1,0 @@
-# Runs the Edgar-AI extraction pipeline on a sample exhibit that already
-# ships with the repository.  Make sure the gateway (port 9000) is running
-# and that EDGAR_AI_OPENAI_API_KEY is exported before executing.
-
-export EDGAR_AI_LLM_GATEWAY_URL=http://localhost:9000/v1/chat/completions
-python -m edgar_ai.cli extract tests/fixtures/credit_agreement.txt --verbose --record-llm
-
