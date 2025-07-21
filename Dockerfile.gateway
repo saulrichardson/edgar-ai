@@ -14,12 +14,14 @@ WORKDIR /app
 # during metadata generation.  Without it `pip install -e .` fails inside the
 # container build.  Include the README explicitly so the editable install
 # succeeds even when we copy only the minimal build inputs.
-COPY pyproject.toml pyproject.lock* README.md ./
-RUN pip install --no-cache-dir pip setuptools wheel \
-    && pip install --no-cache-dir -e .
-
-# Copy the rest of the code
+# Copy full source into image first so the package can be installed normally.
 COPY . .
+
+# Install package in *non-editable* mode so runtime does not rely on source
+# mounts.  This avoids import errors when the container is started without the
+# volume or with a different working directory.
+RUN pip install --no-cache-dir pip setuptools wheel \
+    && pip install --no-cache-dir .
 
 # Expose the Gateway port and launch uvicorn
 EXPOSE 9000

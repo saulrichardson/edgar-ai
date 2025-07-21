@@ -14,10 +14,18 @@ services:
       - EDGAR_AI_OPENAI_API_KEY=${EDGAR_AI_OPENAI_API_KEY}
       - OPENAI_API_KEY=${EDGAR_AI_OPENAI_API_KEY}
       - LLM_PROVIDER=openai
-    # Mount code for hot-reload when editing gateway.service
-    # Remove volumes in production to bake code into the image
-    volumes:
-      - ./:/app:ro
+# ---------------------------------------------------------------------
+# Health-check: fail fast on wrong port mapping or server crash
+# ---------------------------------------------------------------------
+    healthcheck:
+      test: ["CMD", "sh", "-c", "curl -sf http://localhost:9000/healthz || exit 1"]
+      interval: 10s
+      retries: 3
+      start_period: 5s
+    # Code is baked into the image; no need to mount in production.  Uncomment
+    # the volume below only when actively developing the gateway.
+#    volumes:
+#      - ./:/app:ro
 
 # Example:
 #   docker-compose up -d llm-gateway

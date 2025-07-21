@@ -44,12 +44,42 @@ gateway-down:
 gateway-logs:
 	docker compose logs -f llm-gateway
 
-# Run the full extraction pipeline on the bundled credit-agreement exhibit
+# ---------------------------------------------------------------------------
+# Smoke-test target: verifies .env URL and OpenAI key by calling the gateway.
+# ---------------------------------------------------------------------------
+
+.PHONY: smoke
+
+smoke:  ## Ping the LLM gateway and print short response
+	$(activate) && python - <<'PY'
+	import sys, json, os
+	from edgar_ai.config import settings
+	from edgar_ai.llm import chat_completions
+	
+	print('Gateway URL:', settings.llm_gateway_url or '(not set)')
+	
+	try:
+	    rsp = chat_completions(
+	        model="o4-mini",
+	        messages=[{"role": "system", "content": "You are a ping bot."}, {"role": "user", "content": "ping"}],
+	        temperature=0.0,
+	    )
+	except Exception as exc:
+	    print('Smoke-test FAILED:', exc)
+	    sys.exit(1)
+	
+# Print first part of the reply to confirm success
+	print('Gateway responded:', rsp["choices"][0]["message"]["content"][:80])
+	PY
+
+# ---------------------------------------------------------------------------
+# Sample extraction convenience target
+# ---------------------------------------------------------------------------
 # Requires:
 #   * gateway to be up ("make gateway-up")
 #   * EDGAR_AI_OPENAI_API_KEY exported in the shell
 # Sets EDGAR_AI_LLM_GATEWAY_URL for this invocation only.
 extract-sample: gateway-up
 	$(activate) && \
-	  EDGAR_AI_LLM_GATEWAY_URL=http://localhost:9000/v1/chat/completions \
+	  EDGAR_AI_LLM_GATEWAY_URL=http://localhost:9000 \
 	  python -m edgar_ai.cli extract tests/fixtures/credit_agreement.txt --verbose --record-llm

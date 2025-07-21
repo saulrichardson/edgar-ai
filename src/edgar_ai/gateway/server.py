@@ -40,6 +40,17 @@ class ChatCompletionRequest(BaseModel):
 
 app = FastAPI(title="LLM Gateway", version="0.1.0", debug=True)
 
+# ---------------------------------------------------------------------------
+# Basic health route so container orchestration can verify readiness.
+# ---------------------------------------------------------------------------
+
+
+@app.get("/healthz", tags=["internal"])
+async def healthz():  # noqa: D401
+    """Return 200 OK when the server is up – used by docker healthcheck."""
+
+    return {"status": "ok"}
+
 
 @app.middleware("http")
 async def log_llm_traffic(request: Request, call_next):
