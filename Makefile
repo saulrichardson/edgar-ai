@@ -31,7 +31,6 @@ clean:
 
 .PHONY: gateway-up gateway-down gateway-logs extract-sample
 
-
 # Bring up the gateway container (rebuild to ensure latest code)
 gateway-up:
 	docker compose up -d --build llm-gateway
@@ -50,27 +49,8 @@ gateway-logs:
 
 .PHONY: smoke
 
-smoke:  ## Ping the LLM gateway and print short response
-	$(activate) && python - <<'PY'
-	import sys, json, os
-	from edgar_ai.config import settings
-	from edgar_ai.llm import chat_completions
-	
-	print('Gateway URL:', settings.llm_gateway_url or '(not set)')
-	
-	try:
-	    rsp = chat_completions(
-	        model="o4-mini",
-	        messages=[{"role": "system", "content": "You are a ping bot."}, {"role": "user", "content": "ping"}],
-	        temperature=0.0,
-	    )
-	except Exception as exc:
-	    print('Smoke-test FAILED:', exc)
-	    sys.exit(1)
-	
-# Print first part of the reply to confirm success
-	print('Gateway responded:', rsp["choices"][0]["message"]["content"][:80])
-	PY
+smoke: install ## Ping the LLM gateway and print short response
+	PYTHONPATH=src $(activate) && python -m edgar_ai.smoke
 
 # ---------------------------------------------------------------------------
 # Sample extraction convenience target
