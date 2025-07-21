@@ -36,7 +36,11 @@ the data, critiques itself, and learns from every document it touches.
           │                    │  Schema-Critic│◄─┐  evaluate each variant
           │                    └──────────────┘  │
           │                           │           │ scores
-          │                    Referee  (uses ◄───┘
+          │                    ┌──────────────┐  │
+          │                    │ Schema-Refiner│──┤  improve each variant using
+          │                    └──────────────┘  │  critic feedback
+          │                           │           │
+          │                    Referee  (uses ◄───┘  refined variants + scores
           │                    critic scores)
           │                           ▼
           └────────────── winning schema ─────────────┐

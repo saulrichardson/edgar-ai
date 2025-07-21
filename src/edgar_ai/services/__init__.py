@@ -18,6 +18,7 @@ _service_names = [
     "explainer",
     "document_provider",
     "schema_variants",
+    "schema_refiner",
 ]
 
 for _name in _service_names:
