@@ -105,9 +105,10 @@ changes.
 | Goal-Setter        | LLM    | Generate JSON goal via LLM based on exhibit text |
 | Field-Discoverer   | LLM    | Generate field candidates (`name`, `description`, `rationale`) via LLM (schema_variants) |
 | Schema-Synthesizer | LLM    | Refine and merge candidates into JSON schema via LLM (schema_variants referee/merge_referee) |
+| Schema-Critic      | LLM    | Score each candidate schema against design principles before selection |
 | Prompt-Writer      | LLM    | Generate extraction prompt via LLM based on goal and schema |
 | Extractor          | LLM    | Extract via function-calling and parse real `tool_calls` JSON into rows |
-| Critic             | STUB   | LLM grades rows, pulls memory    |
+| Row-level Critic   | STUB   | LLM grades rows, pulls memory    |
 | Tutor              | NOP    | LLM rewrites challenger prompt   |
 | Governor           | STUB   | LLM promotes based on critic avg |
 | Breaker            | STUB   | LLM crafts adversarial filings   |

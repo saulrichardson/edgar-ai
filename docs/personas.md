@@ -13,7 +13,8 @@ chain-of-thought internally as long as the I/O contract remains stable.
 | Schema-Synth | Field candidates | JSON Schema object | 🏗️ experimental |
 | Prompt-Builder | Goal + Schema | Extraction prompt | ✅ production |
 | Extractor | Prompt + Docs | `List[Row]` | ✅ production |
-| Critic | `List[Row]` | Graded notes | 🏗️ PoC |
+| Schema-Critic | Schema + Exhibit excerpt | `List[SchemaCritique]` | ✅ production |
+| Critic (row-level) | `List[Row]` | Graded notes | 🏗️ PoC |
 | Tutor | Critic notes | Challenger prompt | 💤 stub |
 | Governor | Rows + Notes | Decision enum | 💤 stub |
 | Breaker | Champion prompt | Boolean pass/fail | 💤 stub |
@@ -33,4 +34,3 @@ Debugging tips
   canned answers.
 * Pass `--record-llm` to the CLI to write request/response JSON under
   `~/.cache/edgar-ai/llm-traffic/` for inspection.
-
