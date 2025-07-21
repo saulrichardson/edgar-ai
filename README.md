@@ -32,23 +32,22 @@ the data, critiques itself, and learns from every document it touches.
           ▼                           ▼
   Prompt-Builder (warm)      Schema Evolution Engine
           │                           │
-          └────────── selected schema ─┘
-                         │
-                         ▼
-                  Prompt-Builder
-                                                     │
-                                                     ▼
-                                               Extractor
-                                                     │  JSON rows + lineage
-                                                     ▼
+          └────────── selected schema ─┐
+                                       ▼
+                                Prompt-Builder
+                                │
+                                ▼
+                         Extractor
+                                │  JSON rows + lineage
+                                ▼
                ┌──────────────────────────┐
                │ Row-level Critic (LLM)   │
                └──────────────────────────┘
-                                                     │  feedback
-                                                     ▼
-                                                Tutor
-                                                     │  improved prompt / schema
-                                                     └──► Memory   (learning loop)
+                                │  feedback
+                                ▼
+                         Tutor
+                                │  improved prompt / schema
+                                └──► Memory   (learning loop)
 
         Breaker (adversarial docs) feeds synthetic edge cases into Intake →
 ```
