@@ -11,23 +11,16 @@ from typing import Optional
 
 
 # ---------------------------------------------------------------------------
-# Ensure *pydantic_settings* import is available either from the real package
-# or from the internal vendor shim.
+# Pydantic-settings configuration
+# ---------------------------------------------------------------------------
+# The real *pydantic-settings* package is now declared as a hard dependency
+# in pyproject.toml, so the previous fallback to an internal vendored stub is
+# no longer required.  We simply import the objects directly and allow the
+# usual Python import-error to propagate if the package is missing.
 # ---------------------------------------------------------------------------
 
 
-try:
-    import pydantic_settings  # noqa: F401
-except ModuleNotFoundError:  # pragma: no cover
-    # Insert vendored shim into sys.modules so subsequent imports work.
-    from edgar_ai._vendor import pydantic_settings as _shim
-
-    sys.modules["pydantic_settings"] = _shim  # type: ignore
-
-
-# Now import the (real or shimmed) objects.
-
-from pydantic_settings import BaseSettings, SettingsConfigDict  # type: ignore  # noqa: E402
+from pydantic_settings import BaseSettings, SettingsConfigDict  # type: ignore
 
 
 class Settings(BaseSettings):
