@@ -5,10 +5,13 @@ VENV ?= .venv
 
 activate = . $(VENV)/bin/activate
 
-venv:
+# Create the virtual-env *only if it doesn't already exist*.
+$(VENV)/bin/activate:
 	python3 -m venv --prompt edgar $(VENV)
 
-install: venv
+venv: $(VENV)/bin/activate
+
+install: venv ## Install project & deps into the existing venv
 	$(activate) && pip install --upgrade pip && pip install -e ".[test]"
 
 test:
@@ -49,7 +52,7 @@ gateway-logs:
 
 .PHONY: smoke
 
-smoke: install ## Ping the LLM gateway and print short response
+smoke: | venv ## Ping the LLM gateway and print short response
 	PYTHONPATH=src $(activate) && python -m edgar_ai.smoke
 
 # ---------------------------------------------------------------------------
