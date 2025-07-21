@@ -40,9 +40,7 @@ the data, critiques itself, and learns from every document it touches.
                          Extractor
                                 │  JSON rows + lineage
                                 ▼
-               ┌──────────────────────────┐
-               │ Critic (LLM)             │
-               └──────────────────────────┘
+                         Critic (LLM)
                                 │  feedback
                                 ▼
                          Tutor

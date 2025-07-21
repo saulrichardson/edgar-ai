@@ -24,7 +24,7 @@ import json as _json
 
 class ExtractorValidationError(RuntimeError):
     """Raised when the LLM returns data that does not respect the schema."""
-from ..llm import chat_completions, is_simulate_mode
+from ..llm import chat_completions
 
 
 def _call_gateway(documents: List[Document], prompt: Prompt) -> List[Row]:
@@ -106,7 +106,7 @@ def _call_gateway(documents: List[Document], prompt: Prompt) -> List[Row]:
 def run(documents: List[Document], prompt: Prompt) -> List[Row]:  # noqa: D401
     """Extractor that prefers calling the LLM gateway; falls back to stub."""
 
-    if not settings.llm_gateway_url and not is_simulate_mode():
+    if not settings.llm_gateway_url:
         raise RuntimeError("LLM gateway URL not configured; cannot run Extractor")
 
     return _call_gateway(documents, prompt)

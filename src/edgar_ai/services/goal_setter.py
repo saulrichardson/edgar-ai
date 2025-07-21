@@ -13,7 +13,7 @@ from __future__ import annotations
 
 from typing import List
 
-from ..llm import chat_completions, is_simulate_mode
+from ..llm import chat_completions
 from ..config import settings
 from ..interfaces import Document
 
@@ -59,7 +59,7 @@ def _call_llm(snippet: str) -> str:
 def run(documents: List[Document]) -> str:  # noqa: D401
     """Return a goal sentence for *documents*."""
 
-    if not settings.llm_gateway_url and not is_simulate_mode():
+    if not settings.llm_gateway_url:
         raise RuntimeError("LLM gateway URL not configured; cannot run Goal-Setter")
 
     # We handle one exhibit at a time; send the full text so the LLM has full context.

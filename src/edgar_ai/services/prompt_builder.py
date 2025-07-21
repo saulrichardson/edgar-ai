@@ -8,7 +8,7 @@ from __future__ import annotations
 
 import json
 
-from ..llm import chat_completions, is_simulate_mode
+from ..llm import chat_completions
 from ..config import settings
 from ..interfaces import Prompt, Schema
 
@@ -32,7 +32,7 @@ _SYSTEM_PROMPT = (
 
 def run(schema: Schema, goal: dict) -> Prompt:  # noqa: D401
     """Generate an extraction prompt for the provided goal and schema via LLM."""
-    if not settings.llm_gateway_url and not is_simulate_mode():
+    if not settings.llm_gateway_url:
         raise RuntimeError("LLM gateway URL not configured; cannot run Prompt-Builder")
 
     # Render goal and schema placeholders first

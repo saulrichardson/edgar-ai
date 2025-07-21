@@ -73,8 +73,17 @@ class Row(BaseModel):
 
 
 class CriticNote(BaseModel):
-    """Feedback from the critic persona on extracted rows."""
+    """Feedback from the critic persona on an extracted row.
 
+    The schema purposefully matches the structure produced by
+    ``services.critic.run`` so downstream actors (Governor, Tutor, Memory)
+    can rely on the presence of every attribute.  Keeping the model here in
+    *interfaces.py* avoids circular imports and provides runtime validation
+    across the application.
+    """
+
+    row_id: str
+    code: str
     message: str
     severity: str = "info"
 

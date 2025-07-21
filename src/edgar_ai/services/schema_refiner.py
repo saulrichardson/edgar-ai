@@ -14,7 +14,7 @@ import json
 from typing import List, Dict, Any
 
 from ..config import settings
-from ..llm import chat_completions, is_simulate_mode
+from ..llm import chat_completions
 from ..interfaces import Document, SchemaCritique
 
 
@@ -56,9 +56,8 @@ def run(
     original *schema* so downstream code continues to work in offline mode.
     """
 
-    # Fast exit if gateway missing – useful for unit-tests without network.
     if not settings.llm_gateway_url:
-        return schema
+        raise RuntimeError("LLM gateway URL not configured; cannot run Schema-Refiner")
 
     user_msg = (
         "CURRENT SCHEMA:\n" + json.dumps(schema, ensure_ascii=False, indent=2) + "\n\n"  # original schema
@@ -66,10 +65,6 @@ def run(
         "EXHIBIT EXCERPT (for grounding, truncated):\n" + doc.text[:4000]
     )
 
-    # If simulate mode active, always return original schema unchanged so that
-    # deterministic test runs stay stable.
-    if is_simulate_mode():
-        return schema
 
     resp = chat_completions(
         model=settings.model_goal_setter,

@@ -27,7 +27,6 @@ from .services import (
     governor,
     intake,
     prompt_builder,
-    schema_synth,
     tutor,
     document_provider,
 )
@@ -36,7 +35,6 @@ from .services import (
 from .storage import ledger, raw_lake
 
 # Simulate flag helper for conditional skips
-from edgar_ai.llm import is_simulate_mode
 
 
 def run_once(
@@ -63,66 +61,20 @@ def run_once(
     goal = goal_setter.run(documents)
 
     # ------------------------------------------------------------------
-    # 2b. Schema exploration – generate min / max / balanced variants and
-    #     an additional *blended* schema that merges the best aspects.  This
-    #     operates independently from the Discoverer so we can still use the
-    #     statistical candidate signals for type inference later.
+    # 2b. Build a minimal working Schema directly from the goal’s field list.
+    #     This keeps Phase-1 of the pipeline self-contained and avoids the
+    #     heavier *schema_variants* and *schema_synth* personas that still
+    #     depend on a live LLM gateway.
     # ------------------------------------------------------------------
-    from edgar_ai.services import schema_variants  # noqa: E402  local import
 
-    variants = schema_variants.generate_variants(documents[0])
+    goal_fields = goal.get("fields", []) if isinstance(goal, dict) else []
+    if not isinstance(goal_fields, list) or not all(isinstance(f, str) for f in goal_fields):
+        raise RuntimeError("Goal-Setter returned unexpected 'fields' format – expected list of strings")
 
-    # Blend the three variants into a consolidated proposal via LLM.
-    try:
-        blended_schema_dict = schema_variants.blend_schema(variants, documents[0])  # type: ignore[attr-defined]
-    except AttributeError:
-        # Backward-compat: function may not exist if running older deploy; fall back to first variant
-        blended_schema_dict = variants[0]
-
-    # Map blended schema into {field_name: meta_dict}
-    _blended_fields_by_name: dict[str, dict] = {}
-    fields_obj = blended_schema_dict.get("fields")
-    if isinstance(fields_obj, dict):
-        for fname, meta in fields_obj.items():
-            if fname:
-                _blended_fields_by_name[fname] = meta if isinstance(meta, dict) else {}
-    elif isinstance(fields_obj, list):
-        for itm in fields_obj:
-            if isinstance(itm, dict):
-                name = itm.get("name") or itm.get("field_name")
-                if name:
-                    _blended_fields_by_name[name] = itm
-
-    # ------------------------------------------------------------------
-    # 3. Schema synthesis – purely LLM-driven; no regex discoverer hints.
-    # ------------------------------------------------------------------
-    schema = schema_synth.run([])  # pass empty candidate list
-
-    # ------------------------------------------------------------------
-    # 4b. Merge description & rationale from blended schema into synthesised
-    #     schema.  Add any missing fields from the blended proposal so that
-    #     downstream steps still see them.
-    # ------------------------------------------------------------------
-    # Reuse already imported FieldMeta for clarity
-    existing_names = {f.name for f in schema.fields}
-    for f in schema.fields:
-        if f.name in _blended_fields_by_name:
-            meta = _blended_fields_by_name[f.name]
-            f.description = meta.get("description", f.description)
-            f.rationale = meta.get("rationale", getattr(f, "rationale", ""))
-
-    # Add fields present in blended but not in synthesised schema
-    for name, meta in _blended_fields_by_name.items():
-        if name not in existing_names:
-            schema.fields.append(
-                FieldMeta(
-                    name=name,
-                    description=meta.get("description", ""),
-                    rationale=meta.get("rationale", ""),
-                    required=meta.get("required", True),
-                    json_schema=meta.get("json_schema"),
-                )
-            )
+    schema = Schema(
+        name="phase1_schema",
+        fields=[FieldMeta(name=f, description="", rationale="", required=True) for f in goal_fields],
+    )
 
     # ------------------------------------------------------------------
     # 5. Build prompt
@@ -154,21 +106,12 @@ def run_once(
         if row.doc_id:
             ledger.add_row(row.doc_id, row)
 
-    if not is_simulate_mode():
-        # 7. Critic feedback
-        notes: List[CriticNote] = critic.run(rows)
-
-        # 8. Tutor training loop (noop for scaffold)
-        tutor.run(notes)
-
-        # 9. Breaker tests (noop boolean)
-        _ = breaker.run(rows)
-
-        # 10. Governor decision
-        decision: GovernorDecision = governor.run(rows, notes)
-
-        # 11. Explainer (result ignored for now)
-        _ = _publish_explanation(decision)
+    # ------------------------------------------------------------------
+    # Early-return: Phase-1 pipeline ends after extraction.  Downstream
+    # personas (Critic, Tutor, Breaker, Governor, Explainer) are intentionally
+    # skipped until their implementations are promoted from stub status to
+    # full logic.
+    # ------------------------------------------------------------------
 
     return rows
 

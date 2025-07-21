@@ -1,6 +1,0 @@
-Master Credit Agreement (the "Agreement") dated effective January 1, 2024, by
-and between Acme Corporation ("Borrower") and Widget Bank, N.A. ("Lender"),
-whereby Lender agrees to extend a revolving credit facility in the principal
-amount of $12,500,000. Interest shall accrue at an annual rate equal to SOFR +
-200 basis points. The maturity date shall be December 31, 2025. This Agreement
-is governed by the laws of the State of New York.

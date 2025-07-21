@@ -24,7 +24,6 @@ from ..memory import FileMemoryStore, SchemaRecord
 # Core services
 from ..services import schema_variants
 
-from edgar_ai.llm import is_simulate_mode
 
 # Additional services for critic-driven refinement
 from ..services.schema_critic import run as _schema_critic_run  # noqa: E402  local import
@@ -69,19 +68,16 @@ def choose_schema(doc: Document, memory: FileMemoryStore, *, verbose: bool = Fal
         #      so the decision stage works with improved candidates.
         # -----------------------------------------------------------------
 
-        if is_simulate_mode():
-            refined_variants = variants
-        else:
-            refined_variants: list[dict] = []
-            for idx, v in enumerate(variants):
-                try:
-                    schema_id = f"variant_{idx}"
-                    critiques = _schema_critic_run(schema_id, v, doc)
-                    refined = _schema_refiner_run(v, critiques, doc)
-                    refined_variants.append(refined)
-                except Exception as exc:  # noqa: BLE001 – soft-fail, keep original
-                    _log(f"Critic/refiner failed for variant {idx}: {exc}. Using original.")
-                    refined_variants.append(v)
+        refined_variants: list[dict] = []
+        for idx, v in enumerate(variants):
+            try:
+                schema_id = f"variant_{idx}"
+                critiques = _schema_critic_run(schema_id, v, doc)
+                refined = _schema_refiner_run(v, critiques, doc)
+                refined_variants.append(refined)
+            except Exception as exc:  # noqa: BLE001 – soft-fail, keep original
+                _log(f"Critic/refiner failed for variant {idx}: {exc}. Using original.")
+                refined_variants.append(v)
 
         if _USE_MERGE:
             _log("Running merge referee…")
@@ -115,20 +111,17 @@ def choose_schema(doc: Document, memory: FileMemoryStore, *, verbose: bool = Fal
     # -------------------------------------------------------------------
 
     all_raw_candidates = stored_schemas + challenger_variants
-    if is_simulate_mode():
-        refined_candidates = all_raw_candidates
-    else:
-        refined_candidates: list[dict] = []
+    refined_candidates: list[dict] = []
 
-        for idx, cand in enumerate(all_raw_candidates):
-            try:
-                schema_id = f"cand_{idx}"
-                critiques = _schema_critic_run(schema_id, cand, doc)
-                refined = _schema_refiner_run(cand, critiques, doc)
-                refined_candidates.append(refined)
-            except Exception as exc:  # noqa: BLE001
-                _log(f"Critic/refiner failed for candidate {idx}: {exc}. Using original.")
-                refined_candidates.append(cand)
+    for idx, cand in enumerate(all_raw_candidates):
+        try:
+            schema_id = f"cand_{idx}"
+            critiques = _schema_critic_run(schema_id, cand, doc)
+            refined = _schema_refiner_run(cand, critiques, doc)
+            refined_candidates.append(refined)
+        except Exception as exc:  # noqa: BLE001
+            _log(f"Critic/refiner failed for candidate {idx}: {exc}. Using original.")
+            refined_candidates.append(cand)
 
     if _USE_MERGE:
         _log("Running merge referee with stored + challenger schemas…")
