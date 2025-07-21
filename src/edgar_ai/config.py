@@ -1,9 +1,4 @@
 """Central configuration using *pydantic-settings*.
-
-The project requires this dependency.  For offline unit-test environments a
-small stub is vendored under ``edgar_ai._vendor.pydantic_settings`` so imports
-always succeed, but production installs SHOULD add the real package to ensure
-full behaviour (env-var parsing, .env loading, etc.).
 """
 
 from __future__ import annotations
