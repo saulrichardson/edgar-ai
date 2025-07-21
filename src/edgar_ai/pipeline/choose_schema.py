@@ -27,8 +27,8 @@ from ..services import schema_variants
 from edgar_ai.llm import is_simulate_mode
 
 # Additional services for critic-driven refinement
-from ..services.schema_critic import run as _schema_critic_run  # noqa: WPS433 – local import
-from ..services.schema_refiner import run as _schema_refiner_run  # noqa: WPS433 – local import
+from ..services.schema_critic import run as _schema_critic_run  # noqa: E402  local import
+from ..services.schema_refiner import run as _schema_refiner_run  # noqa: E402  local import
 
 # Env flag to toggle merge referee
 _USE_MERGE = bool(os.getenv("EDGAR_AI_MERGE_REFEREE"))

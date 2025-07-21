@@ -1,14 +1,12 @@
-"""Goal-Setter persona.
+"""Generate a high-level extraction goal for a single exhibit.
 
-Pipeline unit = **one exhibit**.  Goal-Setter receives the full text of that
-exhibit and returns a rich JSON objective containing:
+The function asks an LLM to return a JSON payload with:
+  • overview – short purpose statement
+  • topics   – list of thematic areas
+  • fields   – list of snake_case candidate field names
 
-* overview   – 1-2 sentences describing *why* we care about this exhibit.
-* topics     – thematic areas (array of strings).
-* fields     – candidate field names for extraction.
-
-No simulation or stub paths: if the LLM gateway is mis-configured, an explicit
-RuntimeError is raised so failures are visible.
+If the LLM gateway is not configured (and we are not in simulation mode) the
+code fails fast with *RuntimeError*.
 """
 
 from __future__ import annotations
@@ -64,8 +62,7 @@ def run(documents: List[Document]) -> str:  # noqa: D401
     if not settings.llm_gateway_url and not is_simulate_mode():
         raise RuntimeError("LLM gateway URL not configured; cannot run Goal-Setter")
 
-    # Pipeline processes **one exhibit at a time**; pass the entire text to the
-    # LLM so it can reason with full context.
+    # We handle one exhibit at a time; send the full text so the LLM has full context.
     snippet = documents[0].text
 
     import json as _json

@@ -78,7 +78,14 @@ if PROVIDER != "openai":  # pragma: no cover
     raise RuntimeError(f"Unsupported LLM_PROVIDER: {PROVIDER}")
 
 # Instantiate once – thread-safe in FastAPI context
-_openai_client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# Honour either the standard `OPENAI_API_KEY` or the project-specific
+# `EDGAR_AI_OPENAI_API_KEY` environment variable so users following the
+# Quick-start guide (which exports the latter) don’t hit authentication
+# failures when running through the Gateway.
+
+_api_key = os.getenv("OPENAI_API_KEY") or os.getenv("EDGAR_AI_OPENAI_API_KEY")
+
+_openai_client = openai.OpenAI(api_key=_api_key)
 
 
 @app.post("/v1/chat/completions")

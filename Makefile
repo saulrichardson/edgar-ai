@@ -24,3 +24,32 @@ lint:
 
 clean:
 	rm -rf $(VENV)
+
+# ---------------------------------------------------------------------------
+# Convenience targets for the LLM Gateway & demo extraction pipeline
+# ---------------------------------------------------------------------------
+
+.PHONY: gateway-up gateway-down gateway-logs extract-sample
+
+
+# Bring up the gateway container (rebuild to ensure latest code)
+gateway-up:
+	docker compose up -d --build llm-gateway
+
+# Stop the gateway container
+gateway-down:
+	docker compose stop llm-gateway || true
+
+# Tail gateway logs (Ctrl-C to detach)
+gateway-logs:
+	docker compose logs -f llm-gateway
+
+# Run the full extraction pipeline on the bundled credit-agreement exhibit
+# Requires:
+#   * gateway to be up ("make gateway-up")
+#   * EDGAR_AI_OPENAI_API_KEY exported in the shell
+# Sets EDGAR_AI_LLM_GATEWAY_URL for this invocation only.
+extract-sample: gateway-up
+	$(activate) && \
+	  EDGAR_AI_LLM_GATEWAY_URL=http://localhost:9000/v1/chat/completions \
+	  python -m edgar_ai.cli extract tests/fixtures/credit_agreement.txt --verbose --record-llm

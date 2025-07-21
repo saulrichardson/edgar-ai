@@ -27,7 +27,7 @@ def run_pipeline(doc: Document, memory: FileMemoryStore) -> list[dict]:
     # 3. Generate an *improved* schema that addresses the critiques
     # ------------------------------------------------------------------
     try:
-        from ..services.schema_refiner import run as schema_refiner_run  # noqa: WPS433 – local import
+        from ..services.schema_refiner import run as schema_refiner_run  # noqa: E402  local import
 
         refined_schema = schema_refiner_run(schema, critiques, doc)
 

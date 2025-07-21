@@ -8,7 +8,11 @@ services:
       - '9000:9000'
     environment:
       # Forward your OpenAI key and provider setting to the container
+      # The gateway honours both EDGAR_AI_OPENAI_API_KEY (used throughout the
+      # project) and the standard OPENAI_API_KEY.  Forward the former so either
+      # variable is available inside the container.
       - EDGAR_AI_OPENAI_API_KEY=${EDGAR_AI_OPENAI_API_KEY}
+      - OPENAI_API_KEY=${EDGAR_AI_OPENAI_API_KEY}
       - LLM_PROVIDER=openai
     # Mount code for hot-reload when editing gateway.service
     # Remove volumes in production to bake code into the image

@@ -1,29 +1,12 @@
-"""Goal-Setter v2 – generate multiple schema variants and let an LLM referee.
+"""Create several schema proposals and pick the best one via LLM.
 
-The module exposes two public helpers used by the pipeline:
+Public helpers
+==============
+generate_variants(doc)   -> list[dict]   # 2–3 candidate schemas
+referee(candidates, doc) -> (int, str)   # winning index and rationale
 
-* generate_variants(doc: Document, minimal_only: bool = False) -> list[dict]
-    – Calls the LLM 2–3 times with different prompts (maximalist, minimalist,
-      balanced).
-    – Returns a list of **schema objects** (`dict`) each containing:
-
-        {
-          "overview": str,
-          "topics": [str],
-          "fields": {
-              field_name: {
-                  "description": str,
-                  "rationale": str
-              }, ...
-          }
-        }
-
-* referee(candidates: list[dict], doc: Document) -> tuple[int, str]
-    – Calls the LLM once with all candidate schemas + exhibit text, asking for
-      a JSON response `{ "winner_index": n, "reason": "..." }` (0-based).
-
-Both helpers raise *RuntimeError* if the LLM gateway URL is missing so that
-callers fail fast in misconfigured environments.
+All helpers raise *RuntimeError* when the LLM gateway is not configured so
+mis-configurations fail fast.
 """
 
 from __future__ import annotations
@@ -34,10 +17,11 @@ import sys
 from typing import List, Tuple
 import os
 
+# Direct client to the LLM gateway – raises if the URL is missing.
 from ..clients import llm_gateway
 
 def _vlog(msg: str) -> None:  # noqa: D401
-    """Print *msg* to stderr if EDGAR_AI_VERBOSE=1 in the environment."""
+    """Debug log controlled by `EDGAR_AI_VERBOSE=1`."""
 
     if os.getenv("EDGAR_AI_VERBOSE") == "1":
         print(f"[schema_variants] {msg}", file=sys.stderr)
@@ -60,17 +44,13 @@ from ..interfaces import Document
 # ---------------------------------------------------------------------------
 
 
-# ---------------------------------------------------------------------------
-# NOTE: The following design principles used to be injected directly into the
-# LLM system prompt but have been removed to allow the model more freedom in
-# enumerating fields.  They are preserved here for documentation/reference:
-#   • Information-Completeness – capture every distinct observable fact.
-#   • Observability – prefer verbatim values.
-#   • Normal-form – avoid redundant fields; normalise repeating sub-structures.
-#   • Stability – field names should remain valid as exhibits evolve.
-#   • Granularity – one field per independent concept.
-#   • Avoid merging unrelated concepts into one composite field.
-# ---------------------------------------------------------------------------
+# Historical note – these principles were once included in the prompt but are
+# now kept only for reference:
+#   • Information-Completeness
+#   • Observability
+#   • Normal-form
+#   • Stability
+#   • Granularity
 
 _VARIANT_SYSTEM_TEMPLATE = """You are a research strategist charged with creating a **comprehensive extraction schema** that converts an SEC exhibit into a standardized tabular format.
 
@@ -115,9 +95,6 @@ _MODE_INSTRUCTIONS = {
 
 
 def _call_llm(system_prompt: str, exhibit: str, *, attempt: int = 1) -> dict:  # noqa: D401 – helper
-    if not settings.llm_gateway_url:
-        raise RuntimeError("LLM gateway URL not configured; cannot generate schema variants")
-
     if os.getenv("EDGAR_AI_VERBOSE") == "1":
         _vlog("LLM call attempt %d – system prompt:\n%s\n[EXHIBIT TEXT OMITTED]" % (attempt, system_prompt))
 
@@ -215,19 +192,17 @@ def generate_variants(doc: Document, *, minimal_only: bool = False) -> List[dict
 
             new_fields.append(field_dict)
 
-        # ------ end for fname loop ------
+    # end for fname loop
 
         schema_obj["fields"] = new_fields
         variants.append(schema_obj)
 
-    # ------ end for mode loop ------
+    # end for mode loop
 
     return variants
 
 
-# ---------------------------------------------------------------------------
-# Merge-Referee – synthesise a new schema from all candidates
-# ---------------------------------------------------------------------------
+# --- Merge referee: combine multiple candidate schemas into one ---
 
 
 def merge_referee(candidates: List[dict], doc: Document) -> dict:  # noqa: D401
@@ -235,6 +210,7 @@ def merge_referee(candidates: List[dict], doc: Document) -> dict:  # noqa: D401
 
     if not settings.llm_gateway_url:
         raise RuntimeError("LLM gateway URL not configured; cannot run merge referee")
+
 
     if os.getenv("EDGAR_AI_VERBOSE") == "1":
         for i, c in enumerate(candidates):
@@ -286,9 +262,7 @@ def merge_referee(candidates: List[dict], doc: Document) -> dict:  # noqa: D401
         raise RuntimeError("Merge-Referee returned invalid JSON") from exc
 
 
-# ---------------------------------------------------------------------------
-# Referee – pick the winning schema
-# ---------------------------------------------------------------------------
+# --- Referee: pick the single best schema ---
 
 _REFEREE_PROMPT = (
     "You are a meticulous reviewer. Choose the BEST extraction schema for the exhibit.\n\n"
@@ -309,6 +283,7 @@ def referee(candidates: List[dict], doc: Document) -> Tuple[int, str]:  # noqa: 
 
     if not settings.llm_gateway_url:
         raise RuntimeError("LLM gateway URL not configured; cannot run schema referee")
+
 
     numbered = [f"Schema {i}:\n```json\n{json.dumps(c, ensure_ascii=False, indent=2)}\n```" for i, c in enumerate(candidates)]
 
@@ -345,9 +320,7 @@ def referee(candidates: List[dict], doc: Document) -> Tuple[int, str]:  # noqa: 
 
     return int(payload["winner_index"]), str(payload.get("reason", ""))
 
-# ------------------------------------------------------------
-# Blending helper – merge three candidate schemas into one improved version
-# ------------------------------------------------------------
+# --- Blend helper: merge three variants into an improved schema ---
 
 _BLEND_SYSTEM_PROMPT = """You are a senior data architect. Given three candidate extraction schemas for the *same* SEC exhibit, design a **single best-of-all-worlds schema**.\n\nYour goal is to create the most analytically useful schema possible. You MAY:\n  • keep existing fields you deem valuable,\n  • merge or rename duplicates,\n  • remove low-value or redundant fields, **and**\n  • **add brand-new fields** if important information is not yet captured.\n\nAdditional requirements:\n  • Resolve naming conflicts (choose clear snake_case).\n  • Every field must include *description* and *rationale*.\n  • Preserve any provided json_schema definitions for repeating structures; feel free to create new ones if you invent a new array/object field.\n\nReturn ONLY valid JSON with the keys: overview, topics, fields (object mapping field_name → {description, rationale, json_schema?}). Do NOT wrap in triple back-ticks or add commentary.\n"""
 
@@ -357,6 +330,7 @@ def blend_schema(variants: List[dict], doc: Document) -> dict:  # noqa: D401
 
     if not settings.llm_gateway_url:
         raise RuntimeError("LLM gateway URL not configured; cannot blend schemas")
+
 
     import json as _json
 
@@ -385,7 +359,7 @@ def blend_schema(variants: List[dict], doc: Document) -> dict:  # noqa: D401
 
     try:
         blended = json.loads(raw)
-    except Exception as exc:  # noqa: BLE001 – re-raise with context
+    except Exception as exc:  # noqa: BLE001 – preserve context
         raise RuntimeError(f"Blender returned non-JSON: {raw!r}") from exc
 
     for key in ("overview", "topics", "fields"):

@@ -92,15 +92,15 @@ def main(argv: List[str] | None = None) -> None:  # noqa: D401
 
     if args.command == "run":
         # Import orchestrator **after** potentially setting simulation env var
-        from .orchestrator import run_once  # noqa: WPS433 (runtime import)
+        from .orchestrator import run_once  # noqa: E402  runtime import
 
         text_batch = _read_html_source(args.source)
         rows = run_once(text_batch)
         console.print_json(json.dumps([row.data for row in rows]))
 
     elif args.command == "goal":
-        from edgar_ai.interfaces import Document  # noqa: WPS433 (runtime import)
-        from edgar_ai.services import goal_setter  # noqa: WPS433
+        from edgar_ai.interfaces import Document  # noqa: E402  runtime import
+        from edgar_ai.services import goal_setter  # noqa: E402
 
         text = _read_html_source(args.source)[0]
         doc = Document(doc_id="cli", text=text, metadata={})
@@ -113,7 +113,7 @@ def main(argv: List[str] | None = None) -> None:  # noqa: D401
             console.print(goal)
 
     elif args.command == "extract":
-        from edgar_ai.orchestrator import run_for_filing as _run_for_filing  # noqa: WPS433
+        from edgar_ai.orchestrator import run_for_filing as _run_for_filing  # noqa: E402
 
         rows = _run_for_filing(
             args.path,

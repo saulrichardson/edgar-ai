@@ -91,17 +91,35 @@ def chat_completions(
     # Flatten all message contents for simple heuristics
     full_prompt = "\n".join(m["content"] for m in messages if m.get("content"))
 
-    # 2. Goal-Setter detection
-    if "\"overview\"" in full_prompt and "\"topics\"" in full_prompt and "\"fields\"" in full_prompt:
+    # 2. Goal-Setter / Schema-Variant detection: look for the three mandatory
+    #    keys anywhere in the prompt (quotes optional).  This broader check
+    #    covers both the original Goal-Setter and the newer schema variant
+    #    generator used by *schema_variants.generate_variants*.
+    lowered = full_prompt.lower()
+    if all(k in lowered for k in ("overview", "topics", "fields")):
+        # Distinguish between Goal-Setter (expects *array* of strings) and
+        # Schema-Variant/Goal-Setter-v2 (expects *object* mapping) based on
+        # the wording of the prompt.
+        is_mapping = "object" in lowered and "mapping" in lowered
+
+        if is_mapping:
+            fields_value: Any = {
+                "sim_field": {
+                    "description": "Simulated description.",
+                    "rationale": "Simulated rationale.",
+                }
+            }
+        else:
+            fields_value = ["sim_field1", "sim_field2", "sim_field3"]
+
         content = json.dumps(
             {
-                "overview": "Simulated extraction goal for testing.",
+                "overview": "Simulated schema overview for offline tests.",
                 "topics": ["sim_topic1", "sim_topic2"],
-                "fields": ["sim_field1", "sim_field2", "sim_field3"],
+                "fields": fields_value,
             }
         )
         return _reply(content)
 
     # 3. Fallback – treat as prompt-builder or any other plain text
     return _reply("SIMULATED_PROMPT_TEXT")
-

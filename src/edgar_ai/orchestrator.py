@@ -18,7 +18,6 @@ from .interfaces import (
 )
 
 # Service imports
-# Service imports
 
 from .services import (
     breaker,
@@ -69,7 +68,7 @@ def run_once(
     #     operates independently from the Discoverer so we can still use the
     #     statistical candidate signals for type inference later.
     # ------------------------------------------------------------------
-    from edgar_ai.services import schema_variants  # noqa: WPS433 – local import
+    from edgar_ai.services import schema_variants  # noqa: E402  local import
 
     variants = schema_variants.generate_variants(documents[0])
 
@@ -104,8 +103,7 @@ def run_once(
     #     schema.  Add any missing fields from the blended proposal so that
     #     downstream steps still see them.
     # ------------------------------------------------------------------
-    from edgar_ai.interfaces import FieldMeta
-
+    # Reuse already imported FieldMeta for clarity
     existing_names = {f.name for f in schema.fields}
     for f in schema.fields:
         if f.name in _blended_fields_by_name:
@@ -137,7 +135,7 @@ def run_once(
 
     # Persist prompt & rows snapshots (best-effort; ignore failures)
     try:
-        from edgar_ai.storage.snapshots import save_prompt, save_rows  # noqa: WPS433
+        from edgar_ai.storage.snapshots import save_prompt, save_rows  # noqa: E402  local import
 
         # Use simple stable hash based on schema JSON for directory grouping
         import json as _json, hashlib
