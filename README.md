@@ -30,22 +30,12 @@ the data, critiques itself, and learns from every document it touches.
         yes ──┘                     └── no
           │                           │
           ▼                           ▼
-  Prompt-Builder (warm)         Schema Variants  (max / mini / bal)
+  Prompt-Builder (warm)      Schema Evolution Engine
           │                           │
-          │                    ┌──────────────┐
-          │                    │  Schema-Critic│◄─┐  evaluate each variant
-          │                    └──────────────┘  │
-          │                           │           │ scores
-          │                    ┌──────────────┐  │
-          │                    │ Schema-Refiner│──┤  improve each variant using
-          │                    └──────────────┘  │  critic feedback
-          │                           │           │
-          │                    Referee  (uses ◄───┘  refined variants + scores
-          │                    critic scores)
-          │                           ▼
-          └────────────── winning schema ─────────────┐
-                                                     ▼
-                                            Prompt-Builder
+          └────────── selected schema ─┘
+                         │
+                         ▼
+                  Prompt-Builder
                                                      │
                                                      ▼
                                                Extractor
@@ -75,38 +65,31 @@ more accurate**—all by prompt evolution, never by re-training model weights.
 
 2. **Schema lookup (warm-start)** – If Memory already holds a schema whose
    `goal_id` matches the current document, we reuse it and jump **directly to
-   extraction** – saving four LLM calls.  Otherwise we enter the cold-start
-   path:
+   extraction** – saving several LLM calls.
 
-   **Schema Variants** – With the new prompt rules (observability, granularity,
-   normal-form arrays), three candidate schemas are generated.
+3. **Schema Evolution Engine** – Cold-start path only.  Internally generates
+   candidate schemas, critiques them against design principles, refines, and
+   selects a champion. (This condenses the former *Variants → Critic →
+   Refiner → Referee* loop into a single conceptual step. See
+   `docs/schema_evolution.md` for the full breakdown.) The champion schema is
+   persisted in Memory.
 
-3. **Schema-Critic (per variant)** – Each candidate is scored against a set of
-   design principles (normal-form modelling, observability, naming clarity…).
-   The numeric scores are passed downstream so poor schemas can be rejected
-   *before* any extraction work.
+4. **Prompt-Builder** – Converts the selected schema into a deterministic
+   extraction prompt, surfacing any nested `json_schema` so the LLM knows when
+   to emit arrays of objects.
 
-4. **Referee** – Combines its own reasoning with the Schema-Critic score
-   vectors to pick the winner (or trigger a merge path). The champion is
-   persisted in Memory.  See `docs/referee_merge_strategy.md` for optional
-   merge logic.
-
-5. **Prompt-Builder** – Converts the schema into a deterministic extraction
-   prompt, surfacing any nested `json_schema` so the LLM knows when to emit
-   arrays of objects.
-
-6. **Extractor** – Large-context model returns structured JSON rows.  All
+5. **Extractor** – Large-context model returns structured JSON rows.  All
    prompts, model SHAs, and raw outputs are logged for provenance.
 
-7. **Row-level Critic + Memory** – Another persona re-reads the document and grades each
+6. **Row-level Critic + Memory** – Another persona re-reads the document and grades each
    cell, referencing past mistakes stored in Memory.  Feedback is appended to
    the row’s lineage.
 
-8. **Tutor** – When critic notes accumulate, the Tutor rewrites the schema or
+7. **Tutor** – When critic notes accumulate, the Tutor rewrites the schema or
    prompt section and submits a pull-request-style patch for human or automated
    approval (champion–challenger logic).
 
-9. **Breaker** – Generates synthetic edge cases designed to fail current
+8. **Breaker** – Generates synthetic edge cases designed to fail current
    prompts, feeding them back into the pipeline and forcing continual
    hardening.
 
