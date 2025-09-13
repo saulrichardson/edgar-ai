@@ -1,0 +1,382 @@
+MAXIMALIST SCHEMA VARIANT FOR CREDIT AGREEMENTS
+==============================================
+
+This schema represents the most exhaustive extraction approach, capturing every conceivable
+field that might appear in any credit agreement document.
+
+{
+  "overview": "Exhaustive extraction schema for credit agreements capturing all observable financial terms, legal provisions, party relationships, and operational mechanics across all possible credit facility types",
+  "topics": [
+    "lending",
+    "finance", 
+    "legal",
+    "corporate",
+    "debt",
+    "security",
+    "covenants",
+    "bankruptcy",
+    "derivatives",
+    "regulatory"
+  ],
+  "fields": {
+    "parties": {
+      "description": "All parties involved in the credit agreement including borrowers, lenders, agents, guarantors, and other participants",
+      "rationale": "Critical for understanding counterparty risk, legal relationships, and enforcement rights",
+      "structure": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "role": {"type": "string"},
+            "name": {"type": "string"},
+            "jurisdiction": {"type": "string"},
+            "entity_type": {"type": "string"},
+            "ownership_percentage": {"type": "number"},
+            "tax_id": {"type": "string"},
+            "address": {"type": "string"}
+          }
+        }
+      }
+    },
+    "commitments": {
+      "description": "All loan commitments including term loans, revolving facilities, letters of credit, and other credit products",
+      "rationale": "Defines total credit exposure, availability timeline, and facility structure",
+      "structure": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "type": {"type": "string"},
+            "amount": {"type": "string"},
+            "currency": {"type": "string"},
+            "termination_date": {"type": "string"},
+            "availability_period": {"type": "string"},
+            "commitment_fee": {"type": "string"},
+            "fronting_fee": {"type": "string"},
+            "utilization_fee": {"type": "string"}
+          }
+        }
+      }
+    },
+    "loan_maturities": {
+      "description": "Maturity dates for all loan types and tranches",
+      "rationale": "Essential for debt service modeling and refinancing planning",
+      "structure": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "loan_type": {"type": "string"},
+            "maturity_date": {"type": "string"},
+            "bullet_payment": {"type": "boolean"},
+            "extension_options": {"type": "string"}
+          }
+        }
+      }
+    },
+    "scheduled_repayments": {
+      "description": "Amortization schedules and mandatory repayment amounts",
+      "rationale": "Required for cash flow projections and debt service coverage analysis",
+      "structure": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "loan_type": {"type": "string"},
+            "amount": {"type": "string"},
+            "period_start": {"type": "string"},
+            "period_end": {"type": "string"},
+            "payment_frequency": {"type": "string"},
+            "business_day_convention": {"type": "string"}
+          }
+        }
+      }
+    },
+    "interest_rate_schedule": {
+      "description": "Complete interest rate grid including base rates, margins, floors, and leverage-based pricing",
+      "rationale": "Core economic terms affecting borrowing costs under various scenarios",
+      "structure": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "leverage_ratio_min": {"type": "string"},
+            "leverage_ratio_max": {"type": "string"},
+            "base_rate_margin": {"type": "string"},
+            "libo_rate_margin": {"type": "string"},
+            "sofr_margin": {"type": "string"},
+            "euribor_margin": {"type": "string"},
+            "floor_rate": {"type": "string"},
+            "default_rate": {"type": "string"}
+          }
+        }
+      }
+    },
+    "commitment_fee_schedule": {
+      "description": "Fees on undrawn commitments with leverage-based pricing grids",
+      "rationale": "Impacts total financing costs and optimal facility utilization",
+      "structure": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "fee_rate": {"type": "string"},
+            "leverage_ratio_min": {"type": "string"},
+            "leverage_ratio_max": {"type": "string"},
+            "utilization_threshold": {"type": "string"}
+          }
+        }
+      }
+    },
+    "prepayment_events": {
+      "description": "Voluntary and mandatory prepayment terms including premiums and application rules",
+      "rationale": "Affects refinancing flexibility and breakage costs",
+      "structure": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "event_type": {"type": "string"},
+            "percentage": {"type": "string"},
+            "notice_required": {"type": "string"},
+            "conditions": {"type": "string"},
+            "application_rule": {"type": "string"},
+            "no_call_period": {"type": "string"},
+            "make_whole_premium": {"type": "string"}
+          }
+        }
+      }
+    },
+    "borrowing_procedures": {
+      "description": "Detailed procedures for loan requests including notice periods and minimum amounts",
+      "rationale": "Operational requirements affecting liquidity access timing"
+    },
+    "conversion_continuation_procedures": {
+      "description": "Procedures for converting between rate types and continuing interest periods",
+      "rationale": "Flexibility in managing interest rate exposure"
+    },
+    "issuance_procedures": {
+      "description": "Letter of credit and bank guarantee issuance procedures",
+      "rationale": "Critical for trade finance and performance security needs"
+    },
+    "use_of_proceeds": {
+      "description": "Permitted uses of loan proceeds with specific restrictions",
+      "rationale": "Regulatory compliance and covenant monitoring"
+    },
+    "conditions_precedent": {
+      "description": "All conditions required before initial and subsequent borrowings",
+      "rationale": "Closing checklist and ongoing availability requirements"
+    },
+    "financial_reporting_requirements": {
+      "description": "Detailed financial reporting obligations including timing and content",
+      "rationale": "Information rights and early warning indicators"
+    },
+    "representations_and_warranties": {
+      "description": "All representations made by borrowers with bringdown provisions",
+      "rationale": "Baseline assumptions and potential default triggers",
+      "structure": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "category": {"type": "string"},
+            "description": {"type": "string"},
+            "qualifiers": {"type": "string"},
+            "survival_period": {"type": "string"}
+          }
+        }
+      }
+    },
+    "affirmative_covenants": {
+      "description": "All obligations to take specific actions",
+      "rationale": "Operational requirements and lender protections",
+      "structure": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "covenant_name": {"type": "string"},
+            "details": {"type": "string"},
+            "reporting_requirement": {"type": "string"},
+            "grace_period": {"type": "string"}
+          }
+        }
+      }
+    },
+    "negative_covenants": {
+      "description": "All restrictions on borrower actions",
+      "rationale": "Risk mitigation through operational limitations",
+      "structure": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "covenant_name": {"type": "string"},
+            "details": {"type": "string"},
+            "carveouts": {"type": "string"},
+            "baskets": {"type": "string"},
+            "grower_components": {"type": "string"}
+          }
+        }
+      }
+    },
+    "financial_covenant_schedules": {
+      "description": "Time-based financial ratio requirements with step-downs",
+      "rationale": "Key performance indicators and default triggers",
+      "structure": {
+        "leverage": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "period_start": {"type": "string"},
+              "period_end": {"type": "string"},
+              "max_ratio": {"type": "string"},
+              "calculation_method": {"type": "string"}
+            }
+          }
+        },
+        "fixed_charge_coverage": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "period_start": {"type": "string"},
+              "period_end": {"type": "string"},
+              "min_ratio": {"type": "string"},
+              "calculation_method": {"type": "string"}
+            }
+          }
+        },
+        "interest_coverage": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "period_start": {"type": "string"},
+              "period_end": {"type": "string"},
+              "min_ratio": {"type": "string"}
+            }
+          }
+        },
+        "minimum_liquidity": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "test_date": {"type": "string"},
+              "minimum_amount": {"type": "string"}
+            }
+          }
+        }
+      }
+    },
+    "events_of_default": {
+      "description": "Comprehensive list of all default triggers with grace periods and cross-default provisions",
+      "rationale": "Critical risk factors requiring immediate attention",
+      "structure": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "default_type": {"type": "string"},
+            "description": {"type": "string"},
+            "grace_period": {"type": "string"},
+            "materiality_threshold": {"type": "string"},
+            "cure_rights": {"type": "string"}
+          }
+        }
+      }
+    },
+    "administrative_agent_provisions": {
+      "description": "Powers, duties, protections, and succession provisions for agents",
+      "rationale": "Operational mechanics and liability allocation"
+    },
+    "guaranty_terms": {
+      "description": "Guarantee scope, waivers, and subrogation provisions",
+      "rationale": "Credit enhancement and structural subordination analysis"
+    },
+    "security_collateral": {
+      "description": "All pledged assets with perfection requirements and release provisions",
+      "rationale": "Recovery analysis and structural protections",
+      "structure": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "collateral_description": {"type": "string"},
+            "jurisdiction": {"type": "string"},
+            "perfection_status": {"type": "string"},
+            "priority": {"type": "string"},
+            "valuation": {"type": "string"},
+            "insurance_requirements": {"type": "string"}
+          }
+        }
+      }
+    },
+    "subsidiary_guarantors": {
+      "description": "List of all guarantor entities with joinder requirements",
+      "rationale": "Understanding of credit support structure"
+    },
+    "assignments_provisions": {
+      "description": "Lender assignment rights, restrictions, and consent requirements",
+      "rationale": "Secondary market liquidity and relationship management"
+    },
+    "participation_provisions": {
+      "description": "Participation sale rights and voting restrictions",
+      "rationale": "Risk distribution mechanics"
+    },
+    "governing_law": {
+      "description": "Choice of law provisions for agreement and collateral",
+      "rationale": "Legal enforceability and conflict resolution framework"
+    },
+    "forum_selection": {
+      "description": "Jurisdiction and venue for disputes with consent provisions",
+      "rationale": "Litigation strategy and enforcement planning"
+    },
+    "jury_waiver": {
+      "description": "Waiver of jury trial rights by all parties",
+      "rationale": "Dispute resolution efficiency"
+    },
+    "amendment_provisions": {
+      "description": "Required lender consent levels for various amendments",
+      "rationale": "Flexibility for future modifications"
+    },
+    "voting_provisions": {
+      "description": "Required lender and class voting thresholds",
+      "rationale": "Decision-making mechanics and blocking rights"
+    },
+    "defaulting_lender_provisions": {
+      "description": "Treatment of non-performing lenders including voting restrictions",
+      "rationale": "Syndicate management and decision paralysis prevention"
+    },
+    "yield_protection": {
+      "description": "Increased costs, tax gross-up, and break funding provisions",
+      "rationale": "Lender economic protection mechanisms"
+    },
+    "libor_transition_provisions": {
+      "description": "Benchmark replacement mechanics and spread adjustments",
+      "rationale": "Interest rate benchmark reform compliance"
+    },
+    "esg_provisions": {
+      "description": "Sustainability-linked pricing and reporting requirements",
+      "rationale": "ESG compliance and green finance incentives"
+    },
+    "sanctions_provisions": {
+      "description": "Anti-money laundering, sanctions, and FCPA representations",
+      "rationale": "Regulatory compliance and reputational risk"
+    },
+    "bail_in_provisions": {
+      "description": "EU bail-in acknowledgments and contractual recognition",
+      "rationale": "European regulatory compliance"
+    },
+    "erisa_provisions": {
+      "description": "ERISA representations and prohibited transaction covenants",
+      "rationale": "Pension plan investment compliance"
+    },
+    "patriot_act_provisions": {
+      "description": "USA PATRIOT Act compliance and beneficial ownership certification",
+      "rationale": "U.S. anti-terrorism compliance"
+    }
+  }
+}

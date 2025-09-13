@@ -1,0 +1,304 @@
+{
+  "schema_name": "Universal Debt Economics Extraction Schema - Final Version",
+  "version": "2.0",
+  "description": "A comprehensive schema for extracting all economic terms from any debt instrument, from simple IOUs to complex syndicated facilities, with enhanced numeric extraction rules",
+  
+  "core_extraction_principles": [
+    "Extract ALL economic terms found in the document",
+    "Use standardized formats for consistency across documents", 
+    "Preserve source context when numeric extraction is ambiguous",
+    "Distinguish between missing information (null) and zero values (0)",
+    "Adapt structure to document complexity - simple docs have fewer populated fields"
+  ],
+
+  "critical_number_extraction_rules": {
+    "general_rules": [
+      "ALWAYS extract numeric values, not text descriptions",
+      "Preserve calculation formulas when present alongside values",
+      "Use null for missing information, 0 only when explicitly stated as zero"
+    ],
+    "amounts": {
+      "instruction": "Extract as raw numbers without currency symbols, commas, or text",
+      "standardization": "Convert all amounts to base units (dollars, not millions)",
+      "examples": [
+        "$12.5 million → 12500000",
+        "twelve million five hundred thousand dollars → 12500000",
+        "EUR 50mm → 50000000 (with currency: 'EUR' captured separately)"
+      ]
+    },
+    "rates_and_spreads": {
+      "instruction": "Convert ALL interest rates and spreads to basis points for consistency",
+      "standardization": "100 basis points = 1.00%",
+      "examples": [
+        "2.00% → 200",
+        "LIBOR + 2.5% → spread_bps: 250",
+        "200 basis points → 200",
+        "L + 225 → spread_bps: 225"
+      ]
+    },
+    "ratios_and_multiples": {
+      "instruction": "Extract as decimal numbers",
+      "examples": [
+        "3.5x → 3.5",
+        "350% → 3.5",
+        "three and a half times → 3.5",
+        "3.50:1.00 → 3.5"
+      ]
+    },
+    "dates": {
+      "instruction": "Convert all dates to YYYY-MM-DD format",
+      "examples": [
+        "December 31, 2025 → 2025-12-31",
+        "12/31/25 → 2025-12-31",
+        "the last day of 2025 → 2025-12-31",
+        "the fifth anniversary of the Closing Date → calculate and provide date"
+      ]
+    },
+    "percentages": {
+      "instruction": "Context determines if percentage should be basis points or decimal",
+      "examples": [
+        "commitment fee of 0.50% → 50 (basis points for fees/rates)",
+        "65% of outstanding → 0.65 (decimal for portions/shares)",
+        "50% prepayment → 0.50 (decimal for portions)"
+      ]
+    }
+  },
+
+  "structured_fallback_rules": {
+    "when_numeric_extraction_uncertain": {
+      "format": {
+        "value": "number or null if cannot extract",
+        "source_text": "original text from document",
+        "interpretation_notes": "any assumptions made"
+      },
+      "example": {
+        "value": null,
+        "source_text": "customary rate",
+        "interpretation_notes": "specific rate not provided in document"
+      }
+    }
+  },
+
+  "term_definitions": {
+    "obligations": {
+      "description": "The core borrowing commitments and parties involved",
+      "instruction": "Extract all lending commitments and every party mentioned with a role",
+      "fields": {
+        "parties": {
+          "format": {
+            "role": "string (borrower, lender, administrative agent, collateral agent, guarantor, etc.)",
+            "name": "string (full legal name as stated)",
+            "entity_type": "string (corporation, LLC, individual, etc.)",
+            "jurisdiction": "string (state/country of organization if stated)"
+          },
+          "extraction_notes": "Include ALL parties mentioned, even if role seems minor"
+        },
+        "commitments": {
+          "format": {
+            "facility_type": "string (term loan A/B, revolver, delayed draw, letter of credit, etc.)",
+            "amount": "number (convert to base currency units)",
+            "currency": "string (USD, EUR, etc.)",
+            "availability_period": "string (describe when funds can be drawn)",
+            "purpose": "string (use of proceeds if stated)"
+          },
+          "extraction_notes": "Create separate entries for each facility/tranche"
+        }
+      }
+    },
+    
+    "pricing": {
+      "description": "All terms affecting the cost of borrowing now or in the future",
+      "instruction": "Capture current rates AND conditional pricing mechanisms",
+      "fields": {
+        "base_interest_rate": {
+          "format": {
+            "rate_type": "string (floating, fixed)",
+            "benchmark": "string (SOFR, LIBOR, Prime, Fixed, etc.)",
+            "spread_bps": "number (basis points over benchmark)",
+            "floor_bps": "number (minimum rate in basis points, null if none)",
+            "cap_bps": "number (maximum rate in basis points, null if none)",
+            "day_count": "string (Act/360, 30/360, etc. if stated)"
+          },
+          "extraction_notes": "This is the CURRENT applicable rate structure"
+        },
+        "performance_pricing": {
+          "format": {
+            "metric": "string (leverage_ratio, debt_rating, etc.)",
+            "pricing_grid": [
+              {
+                "condition": "string (e.g., 'leverage > 4.0x')",
+                "spread_adjustment_bps": "number (positive for increase, negative for decrease)"
+              }
+            ],
+            "test_frequency": "string (quarterly, annual, etc.)"
+          },
+          "extraction_notes": "Include ALL pricing grids and ratchets"
+        },
+        "default_pricing": {
+          "format": {
+            "trigger": "string (event of default, payment default, etc.)",
+            "rate_increase_bps": "number",
+            "application": "string (automatic, upon notice, etc.)"
+          }
+        }
+      }
+    },
+    
+    "repayment": {
+      "description": "When and how the debt must be repaid",
+      "instruction": "Include both scheduled and conditional repayment terms",
+      "fields": {
+        "maturity": {
+          "format": {
+            "final_maturity_date": "YYYY-MM-DD",
+            "extension_options": "string (describe any extension rights)"
+          }
+        },
+        "scheduled_amortization": {
+          "format": {
+            "schedule_type": "string (bullet, straight-line, custom, etc.)",
+            "payments": [
+              {
+                "date": "YYYY-MM-DD",
+                "amount": "number",
+                "percentage": "number (if stated as % of original)"
+              }
+            ]
+          },
+          "extraction_notes": "null if bullet payment (no amortization)"
+        },
+        "mandatory_prepayments": {
+          "format": {
+            "trigger": "string (asset sale, equity issuance, excess cash flow, etc.)",
+            "percentage": "number (portion that must be prepaid, as decimal)",
+            "application": "string (pro rata, waterfall, reverse order, etc.)"
+          },
+          "extraction_notes": "Create separate entry for each prepayment trigger"
+        },
+        "voluntary_prepayment": {
+          "format": {
+            "permitted": "boolean",
+            "minimum_amount": "number",
+            "premium": "string (describe any make-whole or prepayment premium)",
+            "notice_days": "number"
+          }
+        }
+      }
+    },
+    
+    "conditions": {
+      "description": "Requirements, restrictions, and triggers",
+      "instruction": "Capture all borrower obligations and lender protections",
+      "fields": {
+        "financial_covenants": {
+          "format": {
+            "metric": "string (leverage_ratio, coverage_ratio, etc.)",
+            "requirement": "string (e.g., '< 4.5x', '> 1.25x')",
+            "threshold_value": "number (extract the numeric threshold)",
+            "test_frequency": "string",
+            "cure_rights": "string (equity cure, grace period, etc. if any)"
+          },
+          "extraction_notes": "Include both maintenance and incurrence tests"
+        },
+        "negative_covenants": {
+          "format": {
+            "restriction_type": "string (indebtedness, liens, dividends, investments, etc.)",
+            "description": "string (what is prohibited)",
+            "exceptions": "string (permitted amounts, baskets, carve-outs)"
+          }
+        },
+        "conditions_precedent": {
+          "format": {
+            "condition": "string",
+            "timing": "string (initial funding, each borrowing, etc.)",
+            "waivable_by": "string (if waiver provisions stated)"
+          }
+        },
+        "events_of_default": {
+          "format": {
+            "event_type": "string",
+            "description": "string",
+            "grace_period": "string",
+            "materiality_threshold": "number (if applicable, e.g., cross-default threshold)"
+          }
+        }
+      }
+    },
+    
+    "fees_and_costs": {
+      "description": "All payments beyond principal and interest",
+      "instruction": "Include upfront, ongoing, and exit fees",
+      "fields": {
+        "fees": {
+          "format": {
+            "fee_type": "string (commitment, arrangement, agency, prepayment, etc.)",
+            "amount_or_rate": "number",
+            "rate_basis": "string (% of commitment, % of usage, fixed amount, etc.)",
+            "payment_timing": "string (upfront, quarterly, annually, etc.)",
+            "recipient": "string (if not going to lenders)"
+          },
+          "extraction_notes": "Convert percentage fees to basis points for consistency"
+        }
+      }
+    },
+    
+    "security_and_guarantees": {
+      "description": "What backs the obligations",
+      "instruction": "Critical for recovery analysis - capture all credit support",
+      "fields": {
+        "security": {
+          "format": {
+            "secured": "boolean",
+            "collateral_description": "string (all assets, specific assets, etc.)",
+            "lien_priority": "string (first, second, etc.)",
+            "perfection_requirements": "string (UCC filings, mortgages, etc.)"
+          }
+        },
+        "guarantees": {
+          "format": {
+            "guarantor": "string (name of guaranteeing entity)",
+            "guarantee_type": "string (full, limited, payment, collection, etc.)",
+            "guarantee_cap": "number (maximum liability if limited)"
+          }
+        }
+      }
+    },
+    
+    "administrative": {
+      "description": "Legal and administrative terms",
+      "instruction": "Include governing law and key operational provisions",
+      "fields": {
+        "governing_terms": {
+          "format": {
+            "governing_law": "string (state/country)",
+            "jurisdiction": "string (courts with jurisdiction)",
+            "waiver_of_jury_trial": "boolean",
+            "amendment_threshold": "string (e.g., 'majority of lenders', '66.67%')"
+          }
+        }
+      }
+    }
+  },
+
+  "output_format": {
+    "document_type": "string (term loan, revolver, note, bond, credit agreement, etc.)",
+    "effective_date": "YYYY-MM-DD",
+    "obligations": "array of entries per term_definitions",
+    "pricing": "array of entries per term_definitions",
+    "repayment": "array of entries per term_definitions",
+    "conditions": "array of entries per term_definitions",
+    "fees_and_costs": "array of entries per term_definitions",
+    "security_and_guarantees": "array of entries per term_definitions",
+    "administrative": "array of entries per term_definitions"
+  },
+
+  "final_extraction_instructions": [
+    "1. Read the entire document before beginning extraction",
+    "2. Use empty arrays [] for categories with no relevant information",
+    "3. Include source_text field when numeric extraction is uncertain", 
+    "4. Create multiple entries when multiple instances exist (e.g., multiple facilities)",
+    "5. Preserve exact legal language for complex provisions",
+    "6. Apply number extraction rules consistently throughout",
+    "7. When in doubt about categorization, include the information in the most relevant category with a note"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "document_type": "commercial loan agreement",
+  "effective_date": "2009-04-13",
+  "obligations": {
+    "parties": [
+      {
+        "role": "lender",
+        "name": "Viewpoint Bank",
+        "entity_type": "federal savings bank",
+        "jurisdiction": "Texas"
+      },
+      {
+        "role": "borrower",
+        "name": "RF Monolithics, Inc.",
+        "entity_type": "corporation",
+        "jurisdiction": "Delaware"
+      }
+    ],
+    "commitments": [
+      {
+        "facility_type": "single advance loan",
+        "amount": 900000,
+        "currency": "USD",
+        "availability_period": "single advance",
+        "purpose": "refinance commercial real estate"
+      }
+    ]
+  },
+  "pricing": {
+    "base_interest_rate": {
+      "rate_type": "floating",
+      "benchmark": "Prime",
+      "spread_bps": 100,
+      "floor_bps": 650,
+      "cap_bps": null,
+      "day_count": null
+    }
+  },
+  "repayment": {
+    "maturity": {
+      "final_maturity_date": "2014-04-23",
+      "extension_options": null
+    },
+    "scheduled_amortization": null,
+    "mandatory_prepayments": [],
+    "voluntary_prepayment": {
+      "permitted": true,
+      "minimum_amount": null,
+      "premium": null,
+      "notice_days": null
+    }
+  },
+  "conditions": {
+    "financial_covenants": [],
+    "negative_covenants": [
+      {
+        "restriction_type": "additional indebtedness",
+        "description": "Borrower will not incur, assume or permit any debt evidenced by notes, bonds or similar obligations secured by a lien on the Property except subordinated in payment to Lender on conditions and terms acceptable to Lender."
+      },
+      {
+        "restriction_type": "disposition of assets",
+        "description": "Borrower will not sell, lease, assign, transfer, dispose of or otherwise distribute all or substantially all of Borrower\u2019s assets without Lender\u2019s prior written consent or as the Loan Documents permit."
+      },
+      {
+        "restriction_type": "other liens",
+        "description": "Borrower will not create, permit or suffer any lien or encumbrance upon the Property for or by anyone, other than Lender, except for nonconsensual liens imposed by law arising out of the ordinary course of business on obligations that are not overdue or which Borrower is contesting in good faith after making appropriate reserves, or any other liens specifically agreed to by Lender in writing."
+      }
+    ],
+    "events_of_default": [
+      {
+        "event_type": "payment default",
+        "description": "Borrower fails to make a payment in full when due.",
+        "grace_period": null,
+        "materiality_threshold": null
+      },
+      {
+        "event_type": "insolvency or bankruptcy",
+        "description": "The death, dissolution or insolvency of, appointment of a receiver by or on behalf of, application of any debtor relief law, the assignment for the benefit of creditors by or on behalf of, the voluntary or involuntary termination of existence by, or the commencement of any proceeding under any present or future federal or state insolvency, bankruptcy, reorganization, composition or debtor relief law by or against Borrower or any co-signer, endorser, surety or guarantor of this Agreement or any other obligations Borrower has with Lender."
+      },
+      {
+        "event_type": "business termination",
+        "description": "Borrower merges, dissolves, reorganizes or ends Borrower\u2019s business or existence."
+      },
+      {
+        "event_type": "failure to perform",
+        "description": "Borrower fails to perform any condition or to keep any promise or covenant of this Agreement within ten days after notice of such failure."
+      }
+    ]
+  },
+  "fees_and_costs": {
+    "fees": [
+      {
+        "fee_type": "collection expenses and attorneys' fees",
+        "amount_or_rate": null,
+        "rate_basis": null,
+        "payment_timing": "on or after any default",
+        "recipient": "Lender"
+      }
+    ]
+  },
+  "security_and_guarantees": {
+    "security": {
+      "secured": true,
+      "collateral_description": "all property, real, personal or mixed, that secures the payment and performance of the Loan and the Loan Documents",
+      "lien_priority": null,
+      "perfection_requirements": null
+    },
+    "guarantees": []
+  },
+  "administrative": {
+    "governing_terms": {
+      "governing_law": "Texas",
+      "jurisdiction": "United States of America",
+      "waiver_of_jury_trial": true,
+      "amendment_threshold": null,
+      "required_lenders_definition": null
+    }
+  }
+}

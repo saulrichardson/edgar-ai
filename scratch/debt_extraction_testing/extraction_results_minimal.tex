@@ -1,0 +1,88 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[margin=0.8in]{geometry}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{tcolorbox}
+\usepackage{fontspec}
+\setmonofont{Courier New}
+
+% JSON syntax highlighting
+\definecolor{json-delim}{RGB}{20,105,176}
+\definecolor{json-string}{RGB}{163,21,21}
+\definecolor{json-number}{RGB}{0,128,0}
+\definecolor{json-property}{RGB}{0,0,139}
+\definecolor{background}{RGB}{248,248,248}
+
+\lstdefinelanguage{json}{
+    basicstyle=\footnotesize\ttfamily,
+    numbers=left,
+    numberstyle=\tiny\color{gray},
+    stepnumber=1,
+    numbersep=8pt,
+    showstringspaces=false,
+    breaklines=true,
+    frame=lines,
+    backgroundcolor=\color{background},
+    string=[s]{"}{"},
+    stringstyle=\color{json-string},
+    literate=
+        *{0}{{{\color{json-number}0}}}{1}
+        {1}{{{\color{json-number}1}}}{1}
+        {2}{{{\color{json-number}2}}}{1}
+        {3}{{{\color{json-number}3}}}{1}
+        {4}{{{\color{json-number}4}}}{1}
+        {5}{{{\color{json-number}5}}}{1}
+        {6}{{{\color{json-number}6}}}{1}
+        {7}{{{\color{json-number}7}}}{1}
+        {8}{{{\color{json-number}8}}}{1}
+        {9}{{{\color{json-number}9}}}{1}
+        {:}{{{\color{json-delim}:}}}{1}
+        {,}{{{\color{json-delim},}}}{1}
+        {\{}{{{\color{json-delim}\{}}}{1}
+        {\}}{{{\color{json-delim}\}}}}{1}
+        {[}{{{\color{json-delim}[}}}{1}
+        {]}{{{\color{json-delim}]}}}{1}
+        {true}{{{\color{json-property}true}}}{4}
+        {false}{{{\color{json-property}false}}}{5}
+        {null}{{{\color{gray}null}}}{4},
+}
+
+\lstdefinestyle{prompt}{
+    basicstyle=\tiny\ttfamily,
+    frame=single,
+    backgroundcolor=\color{gray!5},
+    breaklines=true,
+    breakatwhitespace=true,
+    numbers=none
+}
+
+\title{\textbf{Debt Document Extraction System}}
+\author{GPT-4.1-nano}
+\date{August 2025}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\thepage}
+\cfoot{}
+
+\begin{document}
+
+\maketitle
+
+\section{Extraction Prompt}
+
+\input{full_prompt_section}
+
+\newpage
+\section{Example 1: Commercial Loan}
+
+\lstinputlisting[language=json]{extractions/rf_monolithics_clean/extracted_terms.json}
+
+\newpage
+\section{Example 2: Syndicated Credit Agreement}
+
+\lstinputlisting[language=json]{extractions/syndicated_clean/extracted_terms.json}
+
+\end{document}

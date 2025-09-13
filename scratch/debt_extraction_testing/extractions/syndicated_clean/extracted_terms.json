@@ -1,0 +1,248 @@
+{
+  "document_name": "credit-agreement-2",
+  "extraction_date": "2025-08-01",
+  "model": "gpt-4.1-nano",
+  "filing_url": "https://www.sec.gov/Archives/edgar/data/913277/000095013300001111/exh10-18.txt",
+  "extracted_data": {
+    "document_type": "credit agreement",
+    "effective_date": "1999-11-17",
+    "obligations": {
+      "parties": [
+        {
+          "role": "borrower",
+          "name": "Weekly Reader Corporation",
+          "entity_type": "corporation",
+          "jurisdiction": "Delaware"
+        },
+        {
+          "role": "borrower",
+          "name": "JLC Learning Corporation",
+          "entity_type": "corporation",
+          "jurisdiction": "Delaware"
+        },
+        {
+          "role": "guarantor",
+          "name": "WRC Media Inc.",
+          "entity_type": "corporation",
+          "jurisdiction": "Delaware"
+        },
+        {
+          "role": "lender",
+          "name": "Dlj Capital Funding, Inc.",
+          "entity_type": "corporation"
+        },
+        {
+          "role": "lender",
+          "name": "Bank of America, N.A.",
+          "entity_type": "bank"
+        },
+        {
+          "role": "administrative agent",
+          "name": "Bank of America, N.A.",
+          "entity_type": "bank"
+        },
+        {
+          "role": "documentation agent",
+          "name": "General Electric Capital Corporation",
+          "entity_type": "corporation"
+        }
+      ],
+      "commitments": [
+        {
+          "facility_type": "revolving credit facility",
+          "amount": 30000000,
+          "currency": "USD",
+          "availability_period": "from effective date to 1999-12-31",
+          "purpose": "working capital and general corporate purposes"
+        },
+        {
+          "facility_type": "term loan",
+          "amount": 31000000,
+          "currency": "USD",
+          "final_maturity_date": "2005-11-17",
+          "purpose": "financing transaction"
+        },
+        {
+          "facility_type": "term loan",
+          "amount": 100000000,
+          "currency": "USD",
+          "final_maturity_date": "2006-11-17",
+          "purpose": "financing transaction"
+        },
+        {
+          "facility_type": "letter of credit",
+          "amount": 5000000,
+          "currency": "USD",
+          "outstanding_limit": 5000000,
+          "purpose": "support working capital and general corporate purposes"
+        },
+        {
+          "facility_type": "swing line loan",
+          "amount": 5000000,
+          "currency": "USD",
+          "purpose": "short-term bridge financing"
+        }
+      ]
+    },
+    "pricing": {
+      "base_interest_rate": {
+        "rate_type": "floating",
+        "benchmark": "LIBOR",
+        "spread_bps": null,
+        "floor_bps": null,
+        "cap_bps": null,
+        "day_count": "not specified"
+      },
+      "default_interest_rate": {
+        "rate_type": "floating",
+        "benchmark": "LIBOR",
+        "spread_bps": 200,
+        "floor_bps": null,
+        "cap_bps": null
+      },
+      "pricing_grids": [
+        {
+          "metric": "leverage_ratio",
+          "conditions": [
+            {
+              "condition": "< 4.0x",
+              "spread_bps": -25
+            },
+            {
+              "condition": "4.0x to 5.0x",
+              "spread_bps": 0
+            },
+            {
+              "condition": "> 5.0x",
+              "spread_bps": 50
+            }
+          ],
+          "test_frequency": "quarterly"
+        }
+      ],
+      "default_pricing": {
+        "trigger": "event of default",
+        "rate_increase_bps": 200,
+        "application": "automatic"
+      }
+    },
+    "repayment": {
+      "final_maturity_date": "2005-11-17",
+      "scheduled_amortization": [
+        {
+          "date": "2000-09-30",
+          "amount": 3875000
+        },
+        {
+          "date": "2001-09-30",
+          "amount": 7750000
+        },
+        {
+          "date": "2002-09-30",
+          "amount": 11625000
+        },
+        {
+          "date": "2003-09-30",
+          "amount": 15500000
+        },
+        {
+          "date": "2004-09-30",
+          "amount": 15500000
+        }
+      ],
+      "mandatory_prepayments": [
+        {
+          "trigger": "cash proceeds from casualty exceeding $250,000 in a fiscal year",
+          "percentage": 1.0
+        },
+        {
+          "trigger": "cash proceeds from net disposition exceeding $250,000 in a fiscal year",
+          "percentage": 1.0
+        },
+        {
+          "trigger": "excess cash flow",
+          "percentage": 0.5
+        }
+      ]
+    },
+    "conditions": {
+      "financial_covenants": [
+        {
+          "metric": "leverage ratio",
+          "threshold": 6.35,
+          "test_frequency": "quarterly"
+        },
+        {
+          "metric": "fixed charge coverage ratio",
+          "threshold": 1.05,
+          "test_frequency": "quarterly"
+        }
+      ],
+      "covenants": [
+        {
+          "type": "affirmative",
+          "description": "maintenance of existence, compliance with laws, environmental laws, insurance, books and records"
+        },
+        {
+          "type": "negative",
+          "description": "no incurrence of additional indebtedness, liens, investments, restricted payments, mergers, asset dispositions, or amendments that would adversely affect the lenders"
+        }
+      ],
+      "default_events": [
+        {
+          "event": "non-payment",
+          "details": "failure to pay principal or interest for more than 5 business days"
+        },
+        {
+          "event": "breach of warranty",
+          "details": "incorrectness or breach of representations or warranties"
+        },
+        {
+          "event": "default on other indebtedness",
+          "details": "default exceeding $5,000,000"
+        },
+        {
+          "event": "judgments",
+          "details": "judgments exceeding $5,000,000 not vacated or discharged within 30 days"
+        },
+        {
+          "event": "bankruptcy or insolvency",
+          "details": "any insolvency, bankruptcy, or similar proceeding"
+        }
+      ]
+    },
+    "fees_and_costs": {
+      "commitment_fee": {
+        "rate": "0.5% per annum",
+        "basis": "unused commitment",
+        "payment_schedule": "quarterly in arrears"
+      },
+      "letter_of_credit_fee": {
+        "rate": "applicable margin for LIBOR loans",
+        "payment_schedule": "quarterly in arrears and at issuance"
+      },
+      "administrative_fees": "as specified in fee letter"
+    },
+    "security_and_guarantees": {
+      "security": {
+        "secured": true,
+        "collateral": "all assets of the borrowers and subsidiaries",
+        "priority": "first priority"
+      },
+      "guaranty": {
+        "guarantor": "Holdings",
+        "type": "full and unconditional",
+        "obligations": "full and punctual payment of all obligations"
+      },
+      "mortgages": "on real property as specified",
+      "perfection_certificates": "delivered and filed as required"
+    },
+    "administrative": {
+      "governing_law": "New York",
+      "notices": "to be in writing, addressed as specified",
+      "amendments": "must be in writing and consented by required lenders",
+      "jurisdiction": "courts of New York",
+      "waiver_of_jury_trial": true
+    }
+  }
+}

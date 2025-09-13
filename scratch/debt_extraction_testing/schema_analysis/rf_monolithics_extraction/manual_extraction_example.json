@@ -1,0 +1,106 @@
+{
+  "extraction_notes": "Based on the RF Monolithics loan document header, here's what the extraction system would capture:",
+  
+  "extracted_data": {
+    "document_type": "commercial loan agreement",
+    "effective_date": "2009-04-13",
+    
+    "obligations": {
+      "parties": [
+        {
+          "role": "borrower",
+          "name": "RF Monolithics, Inc.",
+          "entity_type": "corporation",
+          "jurisdiction": null
+        },
+        {
+          "role": "lender",
+          "name": "Viewpoint Bank",
+          "entity_type": "federal savings bank",
+          "jurisdiction": "Texas"
+        }
+      ],
+      "commitments": [
+        {
+          "facility_type": "term loan",
+          "amount": 900000,
+          "currency": "USD",
+          "availability_period": "single advance",
+          "purpose": "commercial"
+        }
+      ]
+    },
+    
+    "pricing": {
+      "base_interest_rate": {
+        "rate_type": "floating",
+        "benchmark": "Wall Street Journal Prime",
+        "spread_bps": 100,
+        "floor_bps": 650,
+        "cap_bps": null,
+        "day_count": null
+      },
+      "performance_pricing": [],
+      "default_pricing": null
+    },
+    
+    "repayment": {
+      "maturity": {
+        "final_maturity_date": "2014-04-23",
+        "extension_options": null
+      },
+      "scheduled_amortization": null,
+      "mandatory_prepayments": [],
+      "voluntary_prepayment": null
+    },
+    
+    "conditions": {
+      "financial_covenants": [],
+      "negative_covenants": [],
+      "events_of_default": []
+    },
+    
+    "fees_and_costs": {
+      "fees": []
+    },
+    
+    "security_and_guarantees": {
+      "security": null,
+      "guarantees": []
+    },
+    
+    "administrative": {
+      "governing_terms": {
+        "governing_law": "Texas",
+        "jurisdiction": null,
+        "waiver_of_jury_trial": null,
+        "amendment_threshold": null
+      }
+    }
+  },
+  
+  "key_extractions_demonstrated": {
+    "number_standardization": {
+      "amount": "$900,000.00 → 900000",
+      "rate": "Prime plus 1% → spread_bps: 100",
+      "floor": "6.5% → floor_bps: 650"
+    },
+    "date_formatting": {
+      "note_date": "04/13/09 → 2009-04-13",
+      "maturity": "04/23/14 → 2014-04-23"
+    },
+    "entity_extraction": {
+      "borrower": "RF Monolithics, Inc. → corporation type inferred",
+      "lender": "VIEWPOINT BANK, a federal savings bank → entity type captured"
+    }
+  },
+  
+  "benefits_of_new_prompt": [
+    "Clear numeric conversion (1% → 100 basis points)",
+    "Proper date standardization (MM/DD/YY → YYYY-MM-DD)",
+    "Structured entity information with roles",
+    "Floor rate properly captured as basis points",
+    "Single advance noted in availability period",
+    "Commercial purpose preserved"
+  ]
+}

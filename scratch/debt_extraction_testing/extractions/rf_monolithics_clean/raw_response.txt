@@ -1,0 +1,91 @@
+{
+  "document_type": "credit agreement",
+  "effective_date": "2009-04-13",
+  "obligations": {
+    "parties": [
+      {
+        "role": "lender",
+        "name": "VIEWPOINT BANK",
+        "entity_type": "federal savings bank",
+        "jurisdiction": "Texas"
+      },
+      {
+        "role": "borrower",
+        "name": "RF MONOLITHICS, INC.",
+        "entity_type": "Delaware corporation",
+        "jurisdiction": "Delaware"
+      }
+    ],
+    "commitments": [
+      {
+        "facility_type": "single advance",
+        "amount": 900000,
+        "currency": "USD",
+        "availability_period": "one time at closing",
+        "purpose": "Commercial"
+      }
+    ]
+  },
+  "pricing": {
+    "interest_rate": {
+      "rate_type": "floating",
+      "benchmark": "Wall Street Journal",
+      "spread_bps": 150, 	"Prime plus 1%" 
+     		: "Prime plus 1%",
+      "floor_bps": null,
+      "cap_bps": null,
+      "day_count": null
+    },
+    "additional_terms": [
+      {
+        "term": "index with margin",
+        "value": "6.5%"
+      }
+    ]
+  },
+  "repayment": {
+    "maturity": {
+      "final_maturity_date": "2014-04-23"
+    }
+  },
+  "conditions": {
+    "covenants": [
+      {
+        "type": "financial",
+        "metric": null,
+        "requirement": null
+      }
+    ],
+    "defaults": [
+      {
+        "type": "payment default",
+        "description": "failure to make full payment when due"
+      },
+      {
+        "type": "insolvency",
+        "description": "bankruptcy, dissolution, insolvency, or appointment of receiver"
+      }
+    ]
+  },
+  "fees_and_costs": {
+    "fees": [
+      {
+        "fee_type": "none specified",
+        "amount_or_rate": null,
+        "rate_basis": null,
+        "payment_timing": null,
+        "recipient": null
+      }
+    ]
+  },
+  "security_and_guarantees": {
+    "secured": false,
+    "collateral_description": null,
+    "lien_priority": null,
+    "guarantors": []
+  },
+  "administrative": {
+    "governing_law": "Texas",
+    "notice_provisions": "by mail to addresses listed in the agreement"
+  }
+}

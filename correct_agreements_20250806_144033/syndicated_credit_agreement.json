@@ -1,0 +1,274 @@
+{
+  "document_type": "credit agreement",
+  "effective_date": "1999-11-17",
+  "obligations": {
+    "parties": [
+      {
+        "role": "borrower",
+        "name": "Weekly Reader Corporation",
+        "entity_type": "corporation",
+        "jurisdiction": "Delaware"
+      },
+      {
+        "role": "borrower",
+        "name": "JLC Learning Corporation",
+        "entity_type": "corporation",
+        "jurisdiction": "Delaware"
+      },
+      {
+        "role": "guarantor",
+        "name": "WRC Media Inc.",
+        "entity_type": "corporation",
+        "jurisdiction": "Delaware"
+      },
+      {
+        "role": "syndication agent",
+        "name": "DLJ Capital Funding, Inc.",
+        "entity_type": "corporation",
+        "jurisdiction": "New York"
+      },
+      {
+        "role": "administrative agent",
+        "name": "Bank of America, N.A.",
+        "entity_type": "bank",
+        "jurisdiction": "North Carolina"
+      },
+      {
+        "role": "documentation agent",
+        "name": "General Electric Capital Corporation",
+        "entity_type": "corporation",
+        "jurisdiction": "Illinois"
+      }
+    ],
+    "commitments": [
+      {
+        "facility_type": "term a loan",
+        "amount": 31000000,
+        "currency": "USD",
+        "availability_period": "on or prior to the applicable commitment termination date",
+        "purpose": "finance the consummation of the transaction and pay transaction fees and expenses"
+      },
+      {
+        "facility_type": "term b loan",
+        "amount": 100000000,
+        "currency": "USD",
+        "availability_period": "on or prior to the applicable commitment termination date",
+        "purpose": "finance the consummation of the transaction and pay transaction fees and expenses"
+      },
+      {
+        "facility_type": "revolving loan",
+        "amount": 30000000,
+        "currency": "USD",
+        "availability_period": "from and after the effective date but prior to the revolving loan commitment termination date",
+        "purpose": "post-closing working capital and general corporate purposes"
+      },
+      {
+        "facility_type": "swing line loan",
+        "amount": 5000000,
+        "currency": "USD",
+        "availability_period": "from and after the effective date but prior to the revolving loan commitment termination date",
+        "purpose": "post-closing working capital and general corporate purposes"
+      },
+      {
+        "facility_type": "letter of credit",
+        "amount": 5000000,
+        "currency": "USD",
+        "availability_period": "from and after the effective date but prior to the revolving loan commitment termination date",
+        "purpose": "support working capital and general corporate purposes"
+      }
+    ]
+  },
+  "pricing": {
+    "base_interest_rate": {
+      "rate_type": "floating",
+      "benchmark": "LIBO Rate",
+      "benchmark_definition": "interest rate per annum for deposits in dollars for a period equal to the relevant interest period which appears on Telerate Page 3750",
+      "spread_bps": 300,
+      "floor_bps": null,
+      "cap_bps": null,
+      "day_count": "Actual/360"
+    },
+    "performance_pricing": [
+      {
+        "metric": "Leverage Ratio",
+        "definition": "Total Debt divided by EBITDA for the period consisting of such fiscal quarter and each of the three immediately preceding fiscal quarters",
+        "pricing_grid": [
+          {
+            "condition": "> 5.50:1.0",
+            "spread_adjustment_bps": 225
+          },
+          {
+            "condition": "5.00:1.0 to 5.50:1.0",
+            "spread_adjustment_bps": 200
+          },
+          {
+            "condition": "4.50:1.0 to 5.00:1.0",
+            "spread_adjustment_bps": 175
+          },
+          {
+            "condition": "4.00:1.0 to 4.50:1.0",
+            "spread_adjustment_bps": 150
+          },
+          {
+            "condition": "3.50:1.0 to 4.00:1.0",
+            "spread_adjustment_bps": 125
+          },
+          {
+            "condition": "<= 3.50:1.0",
+            "spread_adjustment_bps": 100
+          }
+        ],
+        "test_frequency": "quarterly"
+      }
+    ],
+    "default_pricing": {
+      "trigger": "event of default",
+      "rate_increase_bps": 200,
+      "application": "automatic upon occurrence"
+    }
+  },
+  "repayment": {
+    "maturity": {
+      "final_maturity_date": "2005-11-17",
+      "extension_options": null
+    },
+    "scheduled_amortization": {
+      "schedule_type": "quarterly",
+      "payments": [
+        {
+          "date": "2000-09-30",
+          "amount": 387500
+        },
+        {
+          "date": "2001-09-30",
+          "amount": 775000
+        },
+        {
+          "date": "2002-09-30",
+          "amount": 1162500
+        },
+        {
+          "date": "2003-09-30",
+          "amount": 1550000
+        },
+        {
+          "date": "2004-09-30",
+          "amount": 1937500
+        },
+        {
+          "date": "2005-09-30",
+          "amount": 1550000
+        }
+      ]
+    },
+    "mandatory_prepayments": [
+      {
+        "trigger": "Excess Cash Flow",
+        "definition": "EBITDA for such fiscal year over the sum of interest expense, scheduled principal repayments, income taxes, capital expenditures, investments, restricted payments, and payments of interest",
+        "percentage": 0.5,
+        "application": "to term loans in order of maturity"
+      },
+      {
+        "trigger": "Net Disposition Proceeds",
+        "definition": "gross cash proceeds from any disposition minus reasonable and customary fees, taxes, and payments to retire indebtedness",
+        "percentage": 1.0,
+        "application": "to term loans in order of maturity"
+      }
+    ],
+    "voluntary_prepayment": {
+      "permitted": true,
+      "minimum_amount": 1000000,
+      "premium": "none",
+      "notice_days": 1
+    }
+  },
+  "conditions": {
+    "financial_covenants": [
+      {
+        "metric": "Leverage Ratio",
+        "definition": "Total Debt divided by EBITDA for the period consisting of such fiscal quarter and each of the three immediately preceding fiscal quarters",
+        "requirement": "maximum",
+        "threshold_value": 6.35,
+        "test_frequency": "quarterly",
+        "cure_rights": "none"
+      },
+      {
+        "metric": "Fixed Charge Coverage Ratio",
+        "definition": "EBITDA divided by the sum of interest expense, capital expenditures, scheduled principal repayments, income taxes, and restricted payments",
+        "requirement": "minimum",
+        "threshold_value": 1.05,
+        "test_frequency": "quarterly",
+        "cure_rights": "none"
+      }
+    ],
+    "negative_covenants": [
+      {
+        "restriction_type": "additional_indebtedness",
+        "description": "no additional debt except permitted debt",
+        "exceptions": "unsecured indebtedness not exceeding $50,000, capitalized lease liabilities not exceeding $2,000,000"
+      },
+      {
+        "restriction_type": "liens",
+        "description": "no liens except permitted liens",
+        "exceptions": "liens securing indebtedness not exceeding $2,000,000"
+      }
+    ],
+    "events_of_default": [
+      {
+        "event_type": "payment default",
+        "description": "failure to pay principal when due",
+        "grace_period": "none",
+        "materiality_threshold": null
+      },
+      {
+        "event_type": "cross default",
+        "description": "default on other indebtedness",
+        "materiality_threshold": 5000000,
+        "threshold_definition": "indebtedness exceeding $5mm in aggregate principal amount"
+      }
+    ]
+  },
+  "fees_and_costs": {
+    "fees": [
+      {
+        "fee_type": "commitment",
+        "amount_or_rate": 50,
+        "rate_basis": "basis points per annum on unused commitments",
+        "unused_commitment_definition": "Total Commitments minus outstanding Loans, as calculated daily",
+        "payment_timing": "quarterly in arrears",
+        "recipient": "lenders"
+      },
+      {
+        "fee_type": "letter of credit",
+        "amount_or_rate": 25,
+        "rate_basis": "basis points per annum on the stated amount of each letter of credit",
+        "payment_timing": "quarterly in arrears",
+        "recipient": "issuers and lenders"
+      }
+    ]
+  },
+  "security_and_guarantees": {
+    "security": {
+      "secured": true,
+      "collateral_description": "all assets of borrower and guarantors",
+      "lien_priority": "first priority",
+      "perfection_requirements": "UCC filings, deposit account control agreements"
+    },
+    "guarantees": [
+      {
+        "guarantor": "WRC Media Inc.",
+        "guarantee_type": "full and unconditional",
+        "guarantee_cap": null
+      }
+    ]
+  },
+  "administrative": {
+    "governing_terms": {
+      "governing_law": "New York",
+      "jurisdiction": "courts of New York County",
+      "waiver_of_jury_trial": true,
+      "amendment_threshold": "Required Lenders",
+      "required_lenders_definition": "Lenders holding more than 50% of the aggregate Commitments and Loans outstanding"
+    }
+  }
+}

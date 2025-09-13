@@ -1,0 +1,243 @@
+{
+  "document_name": "Syndicated Credit Agreement",
+  "extraction_timestamp": "2025-08-01T19:01:57.903303Z",
+  "processing_time_seconds": 9.603209018707275,
+  "document_length": 15000,
+  "extracted_data": {
+    "document_type": "credit agreement",
+    "effective_date": "1999-11-17",
+    "obligations": {
+      "parties": [
+        {
+          "role": "borrower",
+          "name": "Weekly Reader Corporation",
+          "entity_type": null,
+          "jurisdiction": null
+        },
+        {
+          "role": "borrower",
+          "name": "JLC Learning Corporation",
+          "entity_type": null,
+          "jurisdiction": null
+        },
+        {
+          "role": "guarantor",
+          "name": "WRC Media Inc.",
+          "entity_type": null,
+          "jurisdiction": null
+        },
+        {
+          "role": "lender",
+          "name": "various financial institutions",
+          "entity_type": null,
+          "jurisdiction": null
+        },
+        {
+          "role": "syndication agent",
+          "name": "DLJ Capital Funding, Inc.",
+          "entity_type": null,
+          "jurisdiction": null
+        },
+        {
+          "role": "lead arranger",
+          "name": "DLJ Capital Funding, Inc.",
+          "entity_type": null,
+          "jurisdiction": null
+        },
+        {
+          "role": "book running manager",
+          "name": "DLJ Capital Funding, Inc.",
+          "entity_type": null,
+          "jurisdiction": null
+        },
+        {
+          "role": "administrative agent",
+          "name": "Bank of America, N.A.",
+          "entity_type": null,
+          "jurisdiction": null
+        },
+        {
+          "role": "documentation agent",
+          "name": "General Electric Capital Corporation",
+          "entity_type": null,
+          "jurisdiction": null
+        }
+      ],
+      "commitments": [
+        {
+          "facility_type": "revolving loan",
+          "amount": null,
+          "currency": null,
+          "availability_period": null,
+          "purpose": null
+        },
+        {
+          "facility_type": "swing line loan",
+          "amount": null,
+          "currency": null,
+          "availability_period": null,
+          "purpose": null
+        },
+        {
+          "facility_type": "letter of credit",
+          "amount": null,
+          "currency": null,
+          "availability_period": null,
+          "purpose": null
+        },
+        {
+          "facility_type": "term loan",
+          "amount": null,
+          "currency": null,
+          "availability_period": null,
+          "purpose": null
+        }
+      ]
+    },
+    "pricing": {
+      "libo_rate": {
+        "rate_type": "floating",
+        "benchmark": "LIBOR",
+        "spread_bps": null,
+        "floor_bps": null,
+        "cap_bps": null,
+        "notes": "Section 4.1 indicates LIBOR rate lending unlawful, implying LIBOR-based rates are used when available"
+      }
+    },
+    "repayment": {
+      "maturity": null,
+      "scheduled_amortization": null,
+      "mandatory_prepayments": [
+        {
+          "trigger": "outstanding indebtedness",
+          "percentage": null,
+          "application": null
+        }
+      ]
+    },
+    "conditions": {
+      "initial_credit_extension": {
+        "resolutions": null,
+        "transaction": "to be consummated",
+        "documents": "to be delivered",
+        "closing_date": null,
+        "notes": "Section 5.1.2-5.1.4"
+      },
+      "representations_and_warranties": [
+        {
+          "metric": "organization",
+          "notes": null
+        },
+        {
+          "metric": "due authorization",
+          "notes": null
+        },
+        {
+          "metric": "government approval",
+          "notes": null
+        },
+        {
+          "metric": "validity",
+          "notes": null
+        },
+        {
+          "metric": "financial information",
+          "notes": null
+        },
+        {
+          "metric": "no material adverse change",
+          "notes": null
+        }
+      ],
+      "covenants": {
+        "affirmative": [
+          {
+            "description": "financial information, reports, notices, etc.",
+            "section": "7.1.1"
+          },
+          {
+            "description": "maintenance of existence; compliance with laws, etc.",
+            "section": "7.1.2"
+          }
+        ],
+        "negative": [
+          {
+            "restriction": "indebtedness",
+            "section": "7.2.2"
+          },
+          {
+            "restriction": "liens",
+            "section": "7.2.3"
+          }
+        ]
+      },
+      "events_of_default": [
+        {
+          "event_type": "non-payment of obligations",
+          "description": "failure to pay obligations when due",
+          "section": "8.1.1"
+        },
+        {
+          "event_type": "breach of warranty",
+          "description": "warranty breach",
+          "section": "8.1.2"
+        },
+        {
+          "event_type": "non-performance of covenants",
+          "description": "failure to perform covenants",
+          "section": "8.1.3"
+        },
+        {
+          "event_type": "default on other indebtedness",
+          "description": "default on other debt",
+          "section": "8.1.5",
+          "notes": "implied from default on other indebtedness"
+        }
+      ]
+    },
+    "fees_and_costs": {
+      "fees": [
+        {
+          "fee_type": "commitment fee",
+          "amount_or_rate": null,
+          "rate_basis": null,
+          "payment_timing": null,
+          "recipient": null
+        },
+        {
+          "fee_type": "agents' fees",
+          "amount_or_rate": null,
+          "rate_basis": null,
+          "payment_timing": null,
+          "recipient": null
+        },
+        {
+          "fee_type": "letter of credit fee",
+          "amount_or_rate": null,
+          "rate_basis": null,
+          "payment_timing": null,
+          "recipient": null
+        }
+      ]
+    },
+    "security_and_guarantees": {
+      "secured": null,
+      "collateral_description": null,
+      "lien_priority": null,
+      "perfection_requirements": null,
+      "guarantees": [
+        {
+          "guarantor": "WRC Media Inc.",
+          "guarantee_type": "full and unconditional",
+          "cap": null
+        }
+      ]
+    },
+    "administrative": {
+      "governing_law": null,
+      "jurisdiction": null,
+      "waiver_of_jury_trial": null,
+      "amendment_threshold": null
+    }
+  }
+}

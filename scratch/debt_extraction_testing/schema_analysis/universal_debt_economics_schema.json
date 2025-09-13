@@ -1,0 +1,207 @@
+{
+  "schema_name": "Universal Debt Economics Extraction Schema",
+  "version": "1.0",
+  "description": "A comprehensive schema for extracting all economic terms from any debt instrument, from simple IOUs to complex syndicated facilities",
+  "extraction_instructions": "Extract ALL economic terms found in the document using these standardized definitions. For each term type, create an entry in the appropriate array. Use null for fields not present in the source document.",
+  "term_definitions": {
+    "obligations": {
+      "description": "The core borrowing commitments and parties involved",
+      "instruction": "Extract all lending commitments and the parties involved",
+      "fields": [
+        {
+          "name": "parties",
+          "format": {
+            "role": "string (borrower, lender, agent, guarantor, etc.)",
+            "name": "string",
+            "entity_type": "string (corporation, individual, etc.)",
+            "jurisdiction": "string (if stated)"
+          }
+        },
+        {
+          "name": "commitments", 
+          "format": {
+            "facility_type": "string (term loan, revolver, etc.)",
+            "amount": "number",
+            "currency": "string",
+            "availability_period": "string",
+            "purpose": "string (if stated)"
+          }
+        }
+      ]
+    },
+    "pricing": {
+      "description": "All terms affecting the cost of borrowing",
+      "instruction": "Extract base rates, spreads, floors, caps, and any conditional pricing",
+      "fields": [
+        {
+          "name": "base_interest_rate",
+          "format": {
+            "rate_type": "string (floating, fixed)",
+            "benchmark": "string (LIBOR, SOFR, Prime, Fixed)",
+            "spread_bps": "number",
+            "floor_bps": "number (if applicable)",
+            "cap_bps": "number (if applicable)",
+            "day_count": "string (if stated)"
+          }
+        },
+        {
+          "name": "performance_pricing",
+          "format": {
+            "metric": "string (leverage, rating, etc.)",
+            "pricing_grid": "array of {condition: string, spread_adjustment_bps: number}",
+            "test_frequency": "string"
+          }
+        },
+        {
+          "name": "default_pricing",
+          "format": {
+            "trigger": "string",
+            "rate_increase_bps": "number",
+            "application": "string (automatic, upon notice, etc.)"
+          }
+        }
+      ]
+    },
+    "repayment": {
+      "description": "When and how the debt must be repaid",
+      "instruction": "Extract maturity dates, amortization schedules, and prepayment terms",
+      "fields": [
+        {
+          "name": "maturity",
+          "format": {
+            "final_maturity_date": "date",
+            "extension_options": "string (if any)"
+          }
+        },
+        {
+          "name": "scheduled_amortization",
+          "format": {
+            "schedule_type": "string (bullet, amortizing, custom)",
+            "payments": "array of {date: date, amount: number, percentage: number}"
+          }
+        },
+        {
+          "name": "mandatory_prepayments",
+          "format": {
+            "trigger": "string (asset sale, equity issuance, excess cash)",
+            "percentage": "number",
+            "application": "string (pro rata, waterfall, etc.)"
+          }
+        },
+        {
+          "name": "voluntary_prepayment",
+          "format": {
+            "permitted": "boolean",
+            "minimum_amount": "number",
+            "premium": "string (make-whole, percentage, etc.)",
+            "notice_days": "number"
+          }
+        }
+      ]
+    },
+    "conditions": {
+      "description": "Requirements and restrictions on the borrower",
+      "instruction": "Extract all covenants, conditions precedent, and events of default",
+      "fields": [
+        {
+          "name": "financial_covenants",
+          "format": {
+            "metric": "string",
+            "requirement": "string (max X, min Y, etc.)",
+            "test_frequency": "string",
+            "cure_rights": "string (if any)"
+          }
+        },
+        {
+          "name": "negative_covenants",
+          "format": {
+            "restriction_type": "string (debt, liens, dividends, etc.)",
+            "description": "string",
+            "exceptions": "string (baskets, carve-outs)"
+          }
+        },
+        {
+          "name": "conditions_precedent",
+          "format": {
+            "condition": "string",
+            "timing": "string (initial, each borrowing, etc.)"
+          }
+        },
+        {
+          "name": "events_of_default",
+          "format": {
+            "event_type": "string",
+            "description": "string",
+            "grace_period": "string",
+            "cross_default_threshold": "number (if applicable)"
+          }
+        }
+      ]
+    },
+    "fees_and_costs": {
+      "description": "All payments beyond principal and interest",
+      "instruction": "Extract all fees, including upfront, ongoing, and exit fees",
+      "fields": [
+        {
+          "name": "fees",
+          "format": {
+            "fee_type": "string",
+            "amount_or_rate": "number",
+            "basis": "string (% of commitment, fixed, etc.)",
+            "payment_timing": "string",
+            "recipient": "string (if not lender)"
+          }
+        }
+      ]
+    },
+    "security_and_guarantees": {
+      "description": "What backs the obligations",
+      "instruction": "Extract information about collateral and guarantees",
+      "fields": [
+        {
+          "name": "security",
+          "format": {
+            "secured": "boolean",
+            "collateral_description": "string",
+            "lien_priority": "string (first, second, etc.)",
+            "perfection_requirements": "string"
+          }
+        },
+        {
+          "name": "guarantees",
+          "format": {
+            "guarantor": "string",
+            "guarantee_type": "string (full, limited, etc.)",
+            "guarantee_cap": "number (if limited)"
+          }
+        }
+      ]
+    },
+    "administrative": {
+      "description": "Legal and administrative terms",
+      "instruction": "Extract governing law, amendment provisions, and other administrative terms",
+      "fields": [
+        {
+          "name": "governing_terms",
+          "format": {
+            "governing_law": "string",
+            "jurisdiction": "string",
+            "waiver_of_jury_trial": "boolean",
+            "amendment_threshold": "string (% of lenders required)"
+          }
+        }
+      ]
+    }
+  },
+  "output_format": {
+    "document_type": "string (identified type of debt instrument)",
+    "effective_date": "date",
+    "obligations": "array (see format above)",
+    "pricing": "array (see format above)",
+    "repayment": "array (see format above)", 
+    "conditions": "array (see format above)",
+    "fees_and_costs": "array (see format above)",
+    "security_and_guarantees": "array (see format above)",
+    "administrative": "array (see format above)"
+  }
+}

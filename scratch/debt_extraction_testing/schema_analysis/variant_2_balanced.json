@@ -1,0 +1,107 @@
+{
+  "overview": "This schema extracts key deal terms from credit agreement exhibits, capturing contracting parties, facility structures, pricing, schedule, and governing law. It covers one or more credit facility tranches, interest rate benchmarks and spreads, effective and maturity dates, and applicable jurisdiction. Each field maps directly to text observable within the exhibit, enabling standardized comparison across agreements. Repeating elements like parties, facilities, and interest terms are modeled as arrays of objects. Date and amount fields are normalized for quantitative analysis. The schema omits header metadata and focuses strictly on substantive contractual provisions. It supports downstream queries on counterparty exposure, pricing variations, and legal context. By structuring core provisions, the schema facilitates automated portfolio monitoring and risk analytics.",
+  "topics": [
+    "Parties",
+    "Credit Facility Terms",
+    "Interest Rate Terms",
+    "Effective Date",
+    "Maturity Date",
+    "Governing Law"
+  ],
+  "fields": [
+    {
+      "name": "effective_date",
+      "description": "The date when the agreement becomes effective as stated in the exhibit.",
+      "rationale": "Marks the start of contractual obligations and timing of funding availability.",
+      "required": true
+    },
+    {
+      "name": "parties",
+      "description": "List of named parties in the agreement with their contractual roles.",
+      "rationale": "Identifies counterparties and their legal roles for exposure and compliance tracking.",
+      "required": true,
+      "json_schema": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "role": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "role",
+            "name"
+          ]
+        }
+      }
+    },
+    {
+      "name": "credit_facilities",
+      "description": "Details of each credit facility tranche including type and principal amount.",
+      "rationale": "Defines borrowing limits and facility structure for leverage and covenant analysis.",
+      "required": true,
+      "json_schema": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "facility_type": {
+              "type": "string"
+            },
+            "principal_amount": {
+              "type": "number"
+            },
+            "currency": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "facility_type",
+            "principal_amount",
+            "currency"
+          ]
+        }
+      }
+    },
+    {
+      "name": "interest_rate_terms",
+      "description": "Benchmark rate and spread for interest calculation as specified in the exhibit.",
+      "rationale": "Captures pricing terms essential for cost of borrowing and sensitivity analysis.",
+      "required": true,
+      "json_schema": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "benchmark": {
+              "type": "string"
+            },
+            "spread_basis_points": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "benchmark",
+            "spread_basis_points"
+          ]
+        }
+      }
+    },
+    {
+      "name": "maturity_date",
+      "description": "The date on which all credit facilities mature and must be repaid.",
+      "rationale": "Defines the lifespan of the borrowing arrangement and end of credit availability.",
+      "required": true
+    },
+    {
+      "name": "governing_law",
+      "description": "The jurisdiction whose laws govern the interpretation and enforcement of the agreement.",
+      "rationale": "Determines legal framework and dispute resolution rules applicable to the contract.",
+      "required": true
+    }
+  ]
+}

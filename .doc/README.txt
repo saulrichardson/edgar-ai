@@ -5,7 +5,7 @@ main: 31 files
 restructure-layout: 31 files
 
 Suggested entry points:
-- .doc/main/docs/overview.md
-- .doc/main/README.md
-- .doc/main/docs/architecture.md
-- .doc/main/docs/quickstart.md
+- .doc/docs/overview.md
+- .doc/README.md
+- .doc/docs/architecture.md
+- .doc/docs/quickstart.md

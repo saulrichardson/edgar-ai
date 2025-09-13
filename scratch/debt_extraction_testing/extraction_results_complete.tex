@@ -1,0 +1,138 @@
+\documentclass[10pt,letterpaper]{article}
+\usepackage[margin=0.7in]{geometry}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{tcolorbox}
+\usepackage{fontspec}
+\setmonofont{Courier New}
+
+% JSON syntax highlighting
+\definecolor{json-delim}{RGB}{20,105,176}
+\definecolor{json-string}{RGB}{163,21,21}
+\definecolor{json-number}{RGB}{0,128,0}
+\definecolor{json-property}{RGB}{0,0,139}
+\definecolor{background}{RGB}{248,248,248}
+
+\lstdefinelanguage{json}{
+    basicstyle=\scriptsize\ttfamily,
+    numbers=left,
+    numberstyle=\tiny\color{gray},
+    stepnumber=1,
+    numbersep=8pt,
+    showstringspaces=false,
+    breaklines=true,
+    frame=lines,
+    backgroundcolor=\color{background},
+    string=[s]{"}{"},
+    stringstyle=\color{json-string},
+    literate=
+        *{0}{{{\color{json-number}0}}}{1}
+        {1}{{{\color{json-number}1}}}{1}
+        {2}{{{\color{json-number}2}}}{1}
+        {3}{{{\color{json-number}3}}}{1}
+        {4}{{{\color{json-number}4}}}{1}
+        {5}{{{\color{json-number}5}}}{1}
+        {6}{{{\color{json-number}6}}}{1}
+        {7}{{{\color{json-number}7}}}{1}
+        {8}{{{\color{json-number}8}}}{1}
+        {9}{{{\color{json-number}9}}}{1}
+        {:}{{{\color{json-delim}:}}}{1}
+        {,}{{{\color{json-delim},}}}{1}
+        {\{}{{{\color{json-delim}\{}}}{1}
+        {\}}{{{\color{json-delim}\}}}}{1}
+        {[}{{{\color{json-delim}[}}}{1}
+        {]}{{{\color{json-delim}]}}}{1}
+        {true}{{{\color{json-property}true}}}{4}
+        {false}{{{\color{json-property}false}}}{5}
+        {null}{{{\color{gray}null}}}{4},
+}
+
+\lstdefinestyle{prompt}{
+    basicstyle=\tiny\ttfamily,
+    frame=single,
+    backgroundcolor=\color{gray!5},
+    breaklines=true,
+    breakatwhitespace=true,
+    numbers=none
+}
+
+\title{\textbf{Universal Debt Document Extraction}\\
+\large Complete System with GPT-4.1-nano Results}
+\author{EDGAR-AI System}
+\date{August 1, 2025}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Complete Extraction System}
+\lhead{EDGAR-AI}
+\cfoot{\thepage}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+\newpage
+
+\section{Complete Extraction Prompt}
+
+\begin{tcolorbox}[colback=gray!5!white,colframe=gray!75!black,title=Full Natural Language Instructions,breakable]
+\lstinputlisting[style=prompt]{schema_analysis/FINAL_universal_debt_extraction_prompt.md}
+\end{tcolorbox}
+
+\newpage
+\section{Document 1: RF Monolithics Commercial Loan}
+
+\subsection{Filing Information}
+
+\begin{tcolorbox}[colback=blue!5!white,colframe=blue!75!black]
+\begin{itemize}
+    \item \textbf{Document}: Commercial Loan Agreement
+    \item \textbf{Principal}: \$900,000
+    \item \textbf{Effective Date}: April 13, 2009
+    \item \textbf{SEC Filing}: \href{https://www.sec.gov/Archives/edgar/data/1043236/000095012309013786/d67076exv10w35.htm}{\textcolor{blue}{View on EDGAR}}
+\end{itemize}
+\end{tcolorbox}
+
+\subsection{Extracted JSON}
+
+\lstinputlisting[language=json]{extractions/rf_monolithics_clean/extracted_terms.json}
+
+\newpage
+\section{Document 2: Syndicated Credit Agreement}
+
+\subsection{Filing Information}
+
+\begin{tcolorbox}[colback=green!5!white,colframe=green!75!black]
+\begin{itemize}
+    \item \textbf{Document}: Credit Agreement
+    \item \textbf{Total Facilities}: \$171,000,000
+    \item \textbf{Effective Date}: November 17, 1999
+    \item \textbf{SEC Filing}: \href{https://www.sec.gov/Archives/edgar/data/913277/000095013300001111/exh10-18.txt}{\textcolor{blue}{View on EDGAR}}
+\end{itemize}
+\end{tcolorbox}
+
+\subsection{Extracted JSON}
+
+\lstinputlisting[language=json]{extractions/syndicated_clean/extracted_terms.json}
+
+\section{Key Results}
+
+\subsection{Standardization Success}
+\begin{itemize}
+    \item All monetary amounts as pure numbers (900000, 171000000)
+    \item Interest rates in basis points throughout
+    \item Dates in YYYY-MM-DD format
+    \item Consistent entity role classification
+\end{itemize}
+
+\subsection{Production Benefits}
+\begin{itemize}
+    \item Direct database insertion without transformation
+    \item Cross-portfolio analysis enabled
+    \item Automated covenant monitoring possible
+    \item Regulatory reporting simplified
+\end{itemize}
+
+\end{document}

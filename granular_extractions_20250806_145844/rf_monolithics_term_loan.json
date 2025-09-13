@@ -1,0 +1,87 @@
+{
+  "document_type": "commercial loan agreement",
+  "effective_date": "2009-04-13",
+  "obligations": {
+    "borrower": {
+      "name": "RF Monolithics, Inc.",
+      "entity_type": "corporation",
+      "jurisdiction": "Delaware"
+    },
+    "lender": {
+      "name": "Viewpoint Bank",
+      "entity_type": "federal savings bank",
+      "jurisdiction": "Texas"
+    },
+    "loan_amount": 900000,
+    "loan_purpose": "refinance commercial real estate",
+    "maturity_date": "2014-04-23",
+    "single_advance": true
+  },
+  "pricing": {
+    "base_interest_rate": {
+      "rate_type": "floating",
+      "benchmark": "Prime",
+      "spread_bps": 100,
+      "floor_bps": 650,
+      "day_count": "Actual/360"
+    }
+  },
+  "repayment": {
+    "maturity_date": "2014-04-23",
+    "single_advance": true
+  },
+  "conditions": {
+    "financial_statements": {
+      "frequency": "annual",
+      "additional_requirements": [
+        "SEC reports within 10 days after issuance",
+        "other requested information within 60 days"
+      ]
+    },
+    "covenants": [
+      {
+        "type": "compliance",
+        "description": "Borrower will comply with all applicable laws and regulations."
+      },
+      {
+        "type": "business_continuity",
+        "description": "Borrower will maintain its existence and good standing."
+      },
+      {
+        "type": "no_other_liens",
+        "description": "Borrower will not permit any liens on the property except those agreed to by Lender."
+      }
+    ]
+  },
+  "fees_and_costs": {
+    "additional_costs": [
+      "filing and recording costs",
+      "reasonable attorneys' fees"
+    ]
+  },
+  "security_and_guarantees": {
+    "property": "all property, real, personal or mixed, that secures the payment and performance of the Loan"
+  },
+  "administrative": {
+    "notices": {
+      "method": "first class mail",
+      "address_change": "Borrower will inform Lender in writing of any change in Borrower\u2019s name, address or other application information."
+    },
+    "arbitration": {
+      "submission": "Lender or Borrower may submit to binding arbitration any dispute, claim or other matter in question between Lender and Borrower that arises out of or relates to the Loan.",
+      "rules": "American Arbitration Association\u2019s Commercial Arbitration Rules",
+      "waiver_of_trial": "Lender and Borrower voluntarily and knowingly waive the right to have a trial by jury or judge during the arbitration."
+    }
+  },
+  "key_definitions": {
+    "Loan": {
+      "definition": "the lending transaction evidenced in part by this Agreement, including obligations and duties arising from the terms of the Loan Documents."
+    },
+    "Loan Documents": {
+      "definition": "this Agreement and all other documents evidencing, securing or pertaining in any way to this Agreement and the Loan."
+    },
+    "Property": {
+      "definition": "all property, real, personal or mixed, that secures the payment and performance of the Loan and the Loan Documents."
+    }
+  }
+}

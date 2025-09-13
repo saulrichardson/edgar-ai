@@ -1,0 +1,457 @@
+\documentclass[10pt]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{courier}
+
+\definecolor{delim}{RGB}{20,105,176}
+\definecolor{numb}{RGB}{106,109,32}
+\definecolor{string}{RGB}{163,21,21}
+
+\lstdefinelanguage{json}{
+    basicstyle=\tiny\ttfamily,
+    numbers=left,
+    numberstyle=\tiny,
+    stepnumber=5,
+    numbersep=5pt,
+    showstringspaces=false,
+    breaklines=true,
+    frame=lines,
+    string=[s]{"}{"},
+    stringstyle=\color{string},
+    comment=[l]{:},
+    commentstyle=\color{black},
+    morecomment=[l]{,},
+    literate=
+        *{0}{{{\color{numb}0}}}{1}
+        {1}{{{\color{numb}1}}}{1}
+        {2}{{{\color{numb}2}}}{1}
+        {3}{{{\color{numb}3}}}{1}
+        {4}{{{\color{numb}4}}}{1}
+        {5}{{{\color{numb}5}}}{1}
+        {6}{{{\color{numb}6}}}{1}
+        {7}{{{\color{numb}7}}}{1}
+        {8}{{{\color{numb}8}}}{1}
+        {9}{{{\color{numb}9}}}{1}
+}
+
+\title{Credit Agreement Extractions\\[0.5em]
+{\large With Enhanced Granular Definitions}}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section*{Extraction Summary}
+\textbf{RF Monolithics Term Loan:} 4 definition fields captured\\
+\textbf{Syndicated Credit Agreement:} 6 definition fields captured\\
+
+\clearpage
+\section{RF Monolithics Term Loan}
+
+\begin{lstlisting}[language=json]
+{
+  "document_type": "commercial loan agreement",
+  "effective_date": "2009-04-13",
+  "obligations": {
+    "borrower": {
+      "name": "RF Monolithics, Inc.",
+      "entity_type": "corporation",
+      "jurisdiction": "Delaware"
+    },
+    "lender": {
+      "name": "Viewpoint Bank",
+      "entity_type": "federal savings bank",
+      "jurisdiction": "Texas"
+    },
+    "loan_amount": 900000,
+    "loan_purpose": "refinance commercial real estate",
+    "maturity_date": "2014-04-23",
+    "single_advance": true
+  },
+  "pricing": {
+    "base_interest_rate": {
+      "rate_type": "floating",
+      "benchmark": "Prime",
+      "spread_bps": 100,
+      "floor_bps": 650,
+      "day_count": "Actual/360"
+    }
+  },
+  "repayment": {
+    "maturity_date": "2014-04-23",
+    "single_advance": true
+  },
+  "conditions": {
+    "financial_statements": {
+      "frequency": "annual",
+      "additional_requirements": [
+        "SEC reports within 10 days after issuance",
+        "other requested information within 60 days"
+      ]
+    },
+    "covenants": [
+      {
+        "type": "compliance",
+        "description": "Borrower will comply with all applicable laws and regulations."
+      },
+      {
+        "type": "business_continuity",
+        "description": "Borrower will maintain its existence and good standing."
+      },
+      {
+        "type": "no_other_liens",
+        "description": "Borrower will not permit any liens on the property except those agreed to by Lender."
+      }
+    ]
+  },
+  "fees_and_costs": {
+    "additional_costs": [
+      "filing and recording costs",
+      "reasonable attorneys' fees"
+    ]
+  },
+  "security_and_guarantees": {
+    "property": "all property, real, personal or mixed, that secures the payment and performance of the Loan"
+  },
+  "administrative": {
+    "notices": {
+      "method": "first class mail",
+      "address_change": "Borrower will inform Lender in writing of any change in Borrower\u2019s name, address or other application information."
+    },
+    "arbitration": {
+      "submission": "Lender or Borrower may submit to binding arbitration any dispute, claim or other matter in question between Lender and Borrower that arises out of or relates to the Loan.",
+      "rules": "American Arbitration Association\u2019s Commercial Arbitration Rules",
+      "waiver_of_trial": "Lender and Borrower voluntarily and knowingly waive the right to have a trial by jury or judge during the arbitration."
+    }
+  },
+  "key_definitions": {
+    "Loan": {
+      "definition": "the lending transaction evidenced in part by this Agreement, including obligations and duties arising from the terms of the Loan Documents."
+    },
+    "Loan Documents": {
+      "definition": "this Agreement and all other documents evidencing, securing or pertaining in any way to this Agreement and the Loan."
+    },
+    "Property": {
+      "definition": "all property, real, personal or mixed, that secures the payment and performance of the Loan and the Loan Documents."
+    }
+  }
+}
+\end{lstlisting}
+
+\clearpage
+
+\section{Syndicated Credit Agreement}
+
+\begin{lstlisting}[language=json]
+{
+  "document_type": "credit agreement",
+  "effective_date": "1999-11-17",
+  "obligations": {
+    "parties": [
+      {
+        "role": "borrower",
+        "name": "Weekly Reader Corporation",
+        "entity_type": "corporation",
+        "jurisdiction": "Delaware"
+      },
+      {
+        "role": "borrower",
+        "name": "JLC Learning Corporation",
+        "entity_type": "corporation",
+        "jurisdiction": "Delaware"
+      },
+      {
+        "role": "guarantor",
+        "name": "WRC Media Inc.",
+        "entity_type": "corporation",
+        "jurisdiction": "Delaware"
+      },
+      {
+        "role": "syndication agent",
+        "name": "DLJ Capital Funding, Inc.",
+        "entity_type": "corporation",
+        "jurisdiction": "New York"
+      },
+      {
+        "role": "administrative agent",
+        "name": "Bank of America, N.A.",
+        "entity_type": "bank",
+        "jurisdiction": "North Carolina"
+      },
+      {
+        "role": "documentation agent",
+        "name": "General Electric Capital Corporation",
+        "entity_type": "corporation",
+        "jurisdiction": "Illinois"
+      }
+    ],
+    "commitments": [
+      {
+        "facility_type": "term a loan",
+        "amount": 31000000,
+        "currency": "USD",
+        "availability_period": "on or prior to the applicable commitment termination date",
+        "purpose": "finance the consummation of the transaction and pay transaction fees and expenses"
+      },
+      {
+        "facility_type": "term b loan",
+        "amount": 100000000,
+        "currency": "USD",
+        "availability_period": "on or prior to the applicable commitment termination date",
+        "purpose": "finance the consummation of the transaction and pay transaction fees and expenses"
+      },
+      {
+        "facility_type": "revolving loan",
+        "amount": 30000000,
+        "currency": "USD",
+        "availability_period": "from and after the effective date but prior to the revolving loan commitment termination date",
+        "purpose": "post-closing working capital and general corporate purposes"
+      },
+      {
+        "facility_type": "swing line loan",
+        "amount": 5000000,
+        "currency": "USD",
+        "availability_period": "from and after the effective date but prior to the revolving loan commitment termination date",
+        "purpose": "post-closing working capital and general corporate purposes"
+      },
+      {
+        "facility_type": "letter of credit",
+        "amount": 5000000,
+        "currency": "USD",
+        "availability_period": "from and after the effective date but prior to the revolving loan commitment termination date",
+        "purpose": "support working capital and general corporate purposes"
+      }
+    ]
+  },
+  "pricing": {
+    "base_interest_rate": {
+      "rate_type": "floating",
+      "benchmark": "LIBOR",
+      "spread_bps": 300,
+      "floor_bps": null,
+      "cap_bps": null,
+      "day_count": "Actual/360"
+    },
+    "applicable_margin": {
+      "base_rate_loans": {
+        "greater_than_5.50:1.0": 225,
+        "greater_than_5.00:1.0_and_less_than_or_equal_to_5.50:1.0": 200,
+        "greater_than_4.50:1.0_and_less_than_or_equal_to_5.00:1.0": 175,
+        "greater_than_4.00:1.0_and_less_than_or_equal_to_4.50:1.0": 150,
+        "greater_than_3.50:1.0_and_less_than_or_equal_to_4.00:1.0": 125,
+        "less_than_or_equal_to_3.50:1.0": 100
+      },
+      "libo_rate_loans": {
+        "greater_than_5.50:1.0": 325,
+        "greater_than_5.00:1.0_and_less_than_or_equal_to_5.50:1.0": 300,
+        "greater_than_4.50:1.0_and_less_than_or_equal_to_5.00:1.0": 275,
+        "greater_than_4.00:1.0_and_less_than_or_equal_to_4.50:1.0": 250,
+        "greater_than_3.50:1.0_and_less_than_or_equal_to_4.00:1.0": 225,
+        "less_than_or_equal_to_3.50:1.0": 200
+      }
+    },
+    "commitment_fee": {
+      "greater_than_5.00:1.0": 50,
+      "greater_than_4.00:1.0_and_less_than_or_equal_to_5.00:1.0": 37.5,
+      "less_than_or_equal_to_4.00:1.0": 25
+    }
+  },
+  "repayment": {
+    "scheduled_repayments": {
+      "term_a_loans": [
+        {
+          "period": "effective date through 09/30/00",
+          "amount": 387500
+        },
+        {
+          "period": "10/01/00 through 09/30/01",
+          "amount": 775000
+        },
+        {
+          "period": "10/01/01 through 09/30/02",
+          "amount": 1162500
+        },
+        {
+          "period": "10/01/02 through 09/30/03",
+          "amount": 1550000
+        },
+        {
+          "period": "10/01/03 through 09/30/04",
+          "amount": 1937500
+        },
+        {
+          "period": "10/01/04 through 09/30/05",
+          "amount": 1550000
+        },
+        {
+          "period": "stated maturity date",
+          "amount": 1550000
+        }
+      ],
+      "term_b_loans": [
+        {
+          "period": "effective date through 09/30/00",
+          "amount": 250000
+        },
+        {
+          "period": "10/01/00 through 09/30/01",
+          "amount": 250000
+        },
+        {
+          "period": "10/01/01 through 09/30/02",
+          "amount": 250000
+        },
+        {
+          "period": "10/01/02 through 09/30/03",
+          "amount": 250000
+        },
+        {
+          "period": "10/01/03 through 09/30/04",
+          "amount": 250000
+        },
+        {
+          "period": "10/01/04 through 09/30/05",
+          "amount": 250000
+        },
+        {
+          "period": "10/01/05 through 09/30/06",
+          "amount": 18800000
+        },
+        {
+          "period": "stated maturity date",
+          "amount": 18800000
+        }
+      ]
+    },
+    "mandatory_prepayments": [
+      {
+        "trigger": "Excess Cash Flow",
+        "definition": "EBITDA minus interest expense, scheduled principal repayments, income taxes, capital expenditures, permitted investments, restricted payments",
+        "definition_components": {
+          "starting_point": "EBITDA",
+          "deductions": [
+            "interest expense actually paid in cash",
+            "scheduled principal repayments",
+            "income taxes paid in cash",
+            "capital expenditures",
+            "permitted investments",
+            "permitted restricted payments"
+          ],
+          "calculation_period": "each fiscal year"
+        },
+        "percentage": 0.5,
+        "application": "to term loans in order of maturity"
+      }
+    ]
+  },
+  "conditions": {
+    "initial_credit_extension": {
+      "resolutions": "Good standing certificate and resolutions authorizing the transaction",
+      "transaction_consummated": "Financed acquisition consummated with Holdings acquiring 94.9% of WRC",
+      "transaction_documents": "Fully executed transaction documents",
+      "closing_date_certificate": "Certificate confirming representations and warranties",
+      "delivery_of_notes": "Delivery of notes to lenders",
+      "payment_of_outstanding_indebtedness": "Payment of identified indebtedness",
+      "closing_fees": "Payment of fees and expenses",
+      "financial_information": "Delivery of financial statements and projections",
+      "opinions_of_counsel": "Legal opinions from counsel",
+      "subsidiary_guaranty": "Execution of subsidiary guaranty",
+      "solvency": "Solvency opinion and certificate",
+      "security_and_pledge_agreement": "Execution of security and pledge agreement",
+      "insurance": "Evidence of insurance coverage",
+      "litigation": "No pending or threatened litigation affecting the transaction",
+      "minimum_ebitda": "Pro forma EBITDA of at least $47,300,000"
+    }
+  },
+  "fees_and_costs": {
+    "commitment_fee": {
+      "rate": "applicable commitment fee",
+      "calculation": "average daily unused portion of the applicable commitment amount",
+      "payment_frequency": "quarterly"
+    },
+    "agents_fees": {
+      "administrative_agent": "fees as set forth in the fee letter",
+      "syndication_agent": "fees as set forth in the fee letter"
+    },
+    "letter_of_credit_fee": {
+      "rate": "applicable margin for revolving loans maintained as LIBO rate loans",
+      "calculation": "stated amount of each letter of credit",
+      "payment_frequency": "quarterly"
+    }
+  },
+  "security_and_guarantees": {
+    "security_and_pledge_agreement": "Security interest in assets of Holdings, Borrowers, and Subsidiary Guarantors",
+    "subsidiary_guaranty": "Guaranty by Subsidiary Guarantors",
+    "holdings_guaranty": "Guaranty by Holdings of all monetary obligations"
+  },
+  "administrative": {
+    "agents": {
+      "syndication_agent": "DLJ Capital Funding, Inc.",
+      "administrative_agent": "Bank of America, N.A.",
+      "documentation_agent": "General Electric Capital Corporation"
+    },
+    "successor_agents": "Provisions for appointment of successor agents"
+  },
+  "key_definitions": {
+    "EBITDA": {
+      "definition": "for any applicable period, the sum of (a) the excess of (i) net income (excluding any non-cash revenues) over (ii) restricted payments permitted under clauses (c) and (d) of section 7.2.6, plus (b) to the extent deducted in determining net income, the sum of (i) amounts attributable to amortization, (ii) income tax expense, (iii) interest expense, (iv) depreciation of assets and (v) other non-cash, non-recurring charges",
+      "components": {
+        "base": "net income",
+        "excludes_from_base": [
+          "non-cash revenues",
+          "restricted payments under 7.2.6(c) and (d)"
+        ],
+        "add_backs": [
+          "amortization",
+          "income tax expense",
+          "interest expense",
+          "depreciation of assets",
+          "other non-cash, non-recurring charges"
+        ],
+        "reference_period": "any applicable period"
+      }
+    },
+    "Total_Debt": {
+      "definition": "the outstanding principal amount of all indebtedness of holdings, the borrowers and their respective subsidiaries of the type referred to in clause (a), clause (b), clause (c), clause (f) and clause (g) of the definition of Indebtedness",
+      "components": {
+        "includes": [
+          "indebtedness under clause (a) - borrowed money",
+          "indebtedness under clause (b) - capital leases",
+          "indebtedness under clause (c) - notes and bonds",
+          "indebtedness under clause (f) - guarantees",
+          "indebtedness under clause (g) - earnouts"
+        ],
+        "measured_at": "outstanding principal amount",
+        "entities_covered": "holdings, borrowers and their subsidiaries"
+      }
+    },
+    "Indebtedness": {
+      "definition": "all obligations of such person for borrowed money or advances and all obligations of such person evidenced by bonds, debentures, notes or similar instruments; all obligations, contingent or otherwise, relative to the face amount of all letters of credit, whether or not drawn, and banker's acceptances issued for the account of such person; all capitalized lease liabilities of such person; net termination value of such person under all of its hedging obligations as if such hedging obligations were terminated on the date of the determination of the amount of indebtedness; all obligations of such person to pay the deferred purchase price of property or services excluding trade accounts payable in the ordinary course of business which are not overdue for a period of more than 90 days or, if overdue for more than 90 days, as to which a dispute exists and adequate reserves in conformity with GAAP have been established on the books of such person, and indebtedness secured by (or for which the holder of such indebtedness has an existing right, contingent or otherwise, to be secured by) a lien on property owned or being acquired by such person (including indebtedness arising under conditional sales or other title retention agreements), whether or not such indebtedness shall have been assumed by such person or is limited in recourse; obligations of such person arising under synthetic leases; redeemable capital stock of such person; and all contingent liabilities of such person in respect of any of the foregoing.",
+      "components": {
+        "includes": [
+          "borrowed money",
+          "advances",
+          "bonds, debentures, notes",
+          "letters of credit",
+          "banker's acceptances",
+          "capitalized lease liabilities",
+          "hedging obligations",
+          "deferred purchase price of property or services",
+          "indebtedness secured by liens",
+          "synthetic leases",
+          "redeemable capital stock",
+          "contingent liabilities"
+        ],
+        "excludes": [
+          "trade accounts payable in the ordinary course of business not overdue for more than 90 days"
+        ]
+      }
+    }
+  }
+}
+\end{lstlisting}
+
+\clearpage
+
+\end{document}

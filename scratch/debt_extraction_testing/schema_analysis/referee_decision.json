@@ -1,0 +1,6 @@
+{
+  "winner_index": 2,
+  "winner_name": "balanced",
+  "reason": "Schema 2 cleanly models only observable fields\u2014including facility currency\u2014using normalized, repeating structures without extraneous, unobservable provisions.",
+  "timestamp": "2025-08-01T17:41:46.869373Z"
+}

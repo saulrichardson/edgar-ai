@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Extraction Prompt}{2}{section.1}%
+\contentsline {section}{\numberline {2}Document 1: RF Monolithics Commercial Loan}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Filing Information}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Extracted JSON}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Document 2: Syndicated Credit Agreement}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Filing Information}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Extracted JSON}{4}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Key Observations}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Successful Standardization}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Adaptive Extraction}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Production Readiness}{9}{subsection.4.3}%

@@ -1,0 +1,61 @@
+{
+  "document_type": "credit agreement",
+  "effective_date": "2024-01-01",
+  "obligations": {
+    "parties": [
+      {
+        "role": "borrower",
+        "name": "Acme Corporation",
+        "entity_type": "corporation",
+        "jurisdiction": null
+      },
+      {
+        "role": "lender",
+        "name": "Widget Bank, N.A.",
+        "entity_type": "bank",
+        "jurisdiction": null
+      }
+    ],
+    "commitments": [
+      {
+        "facility_type": "revolving credit facility",
+        "amount": 12500000,
+        "currency": "USD",
+        "availability_period": null,
+        "purpose": null
+      }
+    ]
+  },
+  "pricing": {
+    "base_interest_rate": {
+      "rate_type": "floating",
+      "benchmark": "SOFR",
+      "benchmark_definition": "ASSUMPTION: Standard SOFR definition as not defined in document",
+      "spread_bps": 200,
+      "floor_bps": null,
+      "cap_bps": null,
+      "day_count": null
+    }
+  },
+  "repayment": {
+    "maturity": {
+      "final_maturity_date": "2025-12-31",
+      "extension_options": null
+    },
+    "scheduled_amortization": null,
+    "mandatory_prepayments": null,
+    "voluntary_prepayment": null
+  },
+  "conditions": null,
+  "fees_and_costs": null,
+  "security_and_guarantees": null,
+  "administrative": {
+    "governing_terms": {
+      "governing_law": "New York",
+      "jurisdiction": null,
+      "waiver_of_jury_trial": null,
+      "amendment_threshold": null,
+      "required_lenders_definition": null
+    }
+  }
+}
