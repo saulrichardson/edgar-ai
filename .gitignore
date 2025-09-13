@@ -1,0 +1,31 @@
+# Virtual environments and caches
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# OS files
+.DS_Store
+
+# Scratch and local experiments
+scratch/
+
+# Large generated artifacts
+test_results/
+latex_output_*/
+granular_extractions_*/
+correct_agreements_*/
+
+# Build/export artifacts
+edgar_docs_export_*.zip
+debt_agreements.zip
+
+# Heavy data formats
+*.parquet
+
+# LaTeX outputs
+*.pdf
+*.aux
+*.log
+*.toc
+*.tex
+
