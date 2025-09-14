@@ -1,0 +1,83 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "edgar-ai"
+version = "0.1.0"
+description = "Agentic SEC extraction pipeline and gateway"
+readme = "DOCS.md"
+requires-python = ">=3.10"
+keywords = ["edgar", "sec", "llm", "extraction", "agentic"]
+dependencies = [
+  "httpx>=0.28.0",
+  "openai>=1.35.10",
+  "pydantic>=2.7.0",
+  "pydantic-settings>=2.4.0",
+]
+
+[project.optional-dependencies]
+gateway = [
+  "fastapi>=0.111.0",
+  "uvicorn[standard]>=0.25.0",
+]
+dev = [
+  "pytest>=8.3.0",
+  "pytest-asyncio>=0.23.0",
+  "ruff>=0.6.8",
+  "mypy>=1.10.0",
+  "types-requests>=2.32.0.20240712",
+]
+
+#[project.scripts]
+# Add console scripts when code is present (docs-only branch has no src/)
+# edgar = "edgar_cli:main"
+
+[tool.hatch.build.targets.wheel]
+# No packages on the docs-only branch; include docs in the wheel for convenience
+packages = []
+include = [
+  "src/**",
+  "DOCS.md",
+  ".docs/**",
+]
+exclude = [
+  "**/.pytest_cache/**",
+  "**/.ruff_cache/**",
+  "**/.venv/**",
+  "scratch/**",
+  "test_results/**",
+]
+
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+
+[tool.ruff.lint]
+select = [
+  "E",  # pycodestyle errors
+  "F",  # pyflakes
+  "I",  # import sorting
+  "B",  # flake8-bugbear
+  "UP", # pyupgrade
+]
+ignore = [
+]
+
+[tool.ruff.format]
+quote-style = "preserve"
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]
+pythonpath = ["src"]
+asyncio_mode = "auto"
+
+[tool.mypy]
+python_version = "3.10"
+strict = false
+warn_unused_configs = true
+warn_return_any = true
+warn_unused_ignores = true
+ignore_missing_imports = true
+disallow_untyped_defs = false
