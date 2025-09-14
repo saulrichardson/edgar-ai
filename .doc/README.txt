@@ -4,8 +4,8 @@ backup-pre-sanitise: 13 files
 main: 31 files
 restructure-layout: 31 files
 
-Suggested entry points:
-- .doc/docs/overview.md
-- .doc/README.md
-- .doc/docs/architecture.md
-- .doc/docs/quickstart.md
+ Suggested entry points:
+ - .doc/overview.md
+ - .doc/README.md
+ - .doc/architecture.md
+ - .doc/quickstart.md

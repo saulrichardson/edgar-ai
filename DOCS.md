@@ -2,28 +2,27 @@ Edgar‑AI Documentation Index (Archived Snapshot)
 
 These are the “old docs that spelled everything out,” preserved in this repo under `./.doc/main/`. Use this index to browse them quickly or copy them into a new repository when starting fresh.
 
-Core docs (./.doc/docs):
+Core docs (./.doc):
 
-- North‑Star: `./.doc/docs/northstar_spec.md`
-- Overview: `./.doc/docs/overview.md`
-- Architecture: `./.doc/docs/architecture.md`
-- Quickstart: `./.doc/docs/quickstart.md`
-- Development guide: `./.doc/docs/development.md`
-- Configuration: `./.doc/docs/configuration.md`
-- Gateway: `./.doc/docs/gateway.md`
-- Personas: `./.doc/docs/personas.md`
-- Persona execution plan: `./.doc/docs/persona_execution_plan.md`
-- Goal alignment: `./.doc/docs/goal_alignment.md`
-- Goal‑Setter best practices: `./.doc/docs/goal_setter_best_practices.md`
-- Goal‑Setter LLM memory: `./.doc/docs/goal_setter_llm_memory.md`
-- Schema evolution: `./.doc/docs/schema_evolution.md`
-- Critic → schema refinement: `./.doc/docs/critic_schema_refinement.md`
-- Referee merge strategy: `./.doc/docs/referee_merge_strategy.md`
-- Pipeline fork & merge: `./.doc/docs/pipeline_fork_merge.md`
-- EX‑10 routing & learning: `./.doc/docs/ex10_routing_and_learning.md`
-- Exhibit type vs goal: `./.doc/docs/exhibit_type_vs_goal.md`
-- Hebbia method: `./.doc/docs/hebbia_method.md`
-- Repo README for the doc set: `./.doc/README.md`
+- North‑Star: `./.doc/northstar_spec.md`
+- Overview: `./.doc/overview.md`
+- Architecture: `./.doc/architecture.md`
+- Quickstart: `./.doc/quickstart.md`
+- Development guide: `./.doc/development.md`
+- Configuration: `./.doc/configuration.md`
+- Gateway: `./.doc/gateway.md`
+- Personas: `./.doc/personas.md`
+- Persona execution plan: `./.doc/persona_execution_plan.md`
+- Goal alignment: `./.doc/goal_alignment.md`
+- Goal‑Setter best practices: `./.doc/goal_setter_best_practices.md`
+- Goal‑Setter LLM memory: `./.doc/goal_setter_llm_memory.md`
+- Schema evolution: `./.doc/schema_evolution.md`
+- Critic → schema refinement: `./.doc/critic_schema_refinement.md`
+- Referee merge strategy: `./.doc/referee_merge_strategy.md`
+- Pipeline fork & merge: `./.doc/pipeline_fork_merge.md`
+- EX‑10 routing & learning: `./.doc/ex10_routing_and_learning.md`
+- Exhibit type vs goal: `./.doc/exhibit_type_vs_goal.md`
+- Hebbia method: `./.doc/hebbia_method.md`
 
 Tickets (./.doc/tickets):
 

@@ -4,9 +4,9 @@ This repository contains a complete, curated snapshot of the original vision and
 
 Quick links:
 
-- North‑Star specification: `./.doc/docs/northstar_spec.md`
-- 2‑minute overview: `./.doc/docs/overview.md`
-- Architecture: `./.doc/docs/architecture.md`
-- Quickstart: `./.doc/docs/quickstart.md`
+- North‑Star specification: `./.doc/northstar_spec.md`
+- 2‑minute overview: `./.doc/overview.md`
+- Architecture: `./.doc/architecture.md`
+- Quickstart: `./.doc/quickstart.md`
 
 For a fuller index of every document and ticket, see `DOCS.md`.
