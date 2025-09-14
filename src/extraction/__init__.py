@@ -1,1 +1,0 @@
-"""Document extraction pipeline for Edgar-AI."""

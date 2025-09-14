@@ -1,1 +1,0 @@
-"""Shared data models and interfaces for Edgar-AI."""
