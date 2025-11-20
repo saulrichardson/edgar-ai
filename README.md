@@ -5,8 +5,8 @@
                     Intake
                          |
                          v
-                 Goal-Setter (LLM)
-                         | determines `goal_id`
+                 Goal-Setter 
+                         | 
                          v
               +-- Memory: schema? --+
               |                      |
