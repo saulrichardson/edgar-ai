@@ -21,16 +21,16 @@
                                              |
                                              v
                                          Extractor
-                                             | (JSON rows + lineage)
+                                             | 
                                              v
                                          Critic (LLM)
-                                             | (feedback)
+                                             | 
                                              v
                                            Tutor
-                                             | (improved prompt / schema)
+                                             | 
                                              v
                                            Governor
-                                             | (approves / flags issues)
+                                             | 
                                              +--> Memory (learning loop)
 
     Breaker (adversarial docs) feeds synthetic edge cases into Intake ->
