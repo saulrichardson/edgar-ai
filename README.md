@@ -65,16 +65,16 @@ Edgar-AI ingests raw filings, routes them through a set of specialized LLM perso
 
 | Persona | Contract | Status |
 |---------|----------|--------|
-| Goal-Setter | `List[Document]` -> goal blueprint | ✅ production |
-| Discoverer | Documents -> field candidates | 🏗️ experimental |
-| Schema-Synth | Candidates -> JSON Schema | 🏗️ experimental |
-| Prompt-Builder | Goal + Schema -> prompt payload | ✅ production |
-| Extractor | Prompt + Docs -> rows | ✅ production |
-| Schema-Critic | Schema + excerpts -> critiques | ✅ production |
-| Critic (row-level) | Rows -> graded notes | 🏗️ proof-of-concept |
-| Tutor | Critic notes -> challenger plan | 💤 stub |
-| Governor | Rows + notes -> decision | 💤 stub |
-| Breaker | Champion prompt -> adversarial cases | 💤 stub |
+| Goal-Setter | `List[Document]` -> goal blueprint | Refactoring In Progress |
+| Discoverer | Documents -> field candidates | Refactoring In Progress |
+| Schema-Synth | Candidates -> JSON Schema | Refactoring In Progress |
+| Prompt-Builder | Goal + Schema -> prompt payload | Refactoring In Progress |
+| Extractor | Prompt + Docs -> rows | Refactoring In Progress |
+| Schema-Critic | Schema + excerpts -> critiques | Refactoring In Progress |
+| Critic (row-level) | Rows -> graded notes | Refactoring In Progress |
+| Tutor | Critic notes -> challenger plan | Refactoring In Progress |
+| Governor | Rows + notes -> decision | Refactoring In Progress |
+| Breaker | Champion prompt -> adversarial cases | Refactoring In Progress |
 
 ## Next Steps
 
