@@ -71,3 +71,4 @@ class RunResult(BaseModel):
     goal: str
     variants: List[str]
     champion: str
+    artifacts_dir: str | None = None

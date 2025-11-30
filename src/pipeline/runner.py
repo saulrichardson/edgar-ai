@@ -9,6 +9,7 @@ from clients.gateway import send_chat
 from pipeline.config import load_gateway_config
 from pipeline import models
 from pipeline.context import ContextSpec, make_bundle
+from pipeline.artifacts import PipelineState
 from personas import goal_setter, schema_synth, prompt_builder, extractor, critic
 
 
@@ -26,7 +27,7 @@ def run_pipeline(
     context_spec_schema: ContextSpec | None = None,
     context_spec_extractor: ContextSpec | None = None,
     context_spec_critic: ContextSpec | None = None,
-) -> models.RunResult:
+):
     gw = load_gateway_config()
 
     # Default: full context for all personas
@@ -40,11 +41,14 @@ def run_pipeline(
     bundle_extractor = make_bundle(exhibit_id, exhibit_text, context_spec_extractor)
     bundle_critic = make_bundle(exhibit_id, exhibit_text, context_spec_critic)
 
+    state = PipelineState(exhibit_id=exhibit_id)
+
     # Goal
     if goal_text is None:
         goal_prompt = goal_setter.build_user_message(bundle_goal)
         goal_out = send_chat(goal_setter.messages(goal_prompt), gw)
         goal_text = goal_out.strip()
+    state.goal_text = goal_text
 
     # Schema variants
     schema_user = schema_synth.build_user_message(goal_text, bundle_schema)
@@ -55,6 +59,7 @@ def run_pipeline(
         raise ValueError("Schema synth did not return JSON array")
     schemas = json.loads(schema_raw[start : end + 1])
     variants: List[models.SchemaVariant] = [models.SchemaVariant(**v) for v in schemas]
+    state.schemas = variants
 
     variant_names: List[str] = []
     champion = None
@@ -65,8 +70,13 @@ def run_pipeline(
         variant_names.append(vname)
 
         prompt_text = send_chat(prompt_builder.messages(variant), gw)
+        state.prompts[vname] = prompt_text
+
         extraction = send_chat(extractor.messages(prompt_text, bundle_extractor.views[0].text), gw)
+        state.extractions[vname] = extraction
+
         critique_raw = send_chat(critic.messages(bundle_critic.views[0].text, extraction), gw)
+        state.critiques[vname] = critique_raw
 
         try:
             c_start = critique_raw.find("[")
@@ -89,9 +99,12 @@ def run_pipeline(
             best_score = score
             champion = vname
 
+    state.champion = champion or variant_names[0]
+
     return models.RunResult(
         exhibit_id=exhibit_id,
         goal=goal_text,
         variants=variant_names,
-        champion=champion or variant_names[0],
-    )
+        champion=state.champion,
+        artifacts_dir=artifacts_dir,
+    ), state

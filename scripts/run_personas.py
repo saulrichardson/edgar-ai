@@ -19,7 +19,7 @@ def main() -> int:
     text = Path(args.prompt_view).read_text()
     exhibit_id = Path(args.prompt_view).parent.name
 
-    result = run_pipeline(
+    result, _state = run_pipeline(
         exhibit_text=text,
         exhibit_id=exhibit_id,
         goal_text=args.goal,
