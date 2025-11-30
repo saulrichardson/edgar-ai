@@ -10,7 +10,7 @@ from pipeline.config import load_gateway_config
 from pipeline import models
 from pipeline.context import ContextSpec, make_bundle
 from pipeline.artifacts import PipelineState
-from personas import goal_setter, schema_synth, prompt_builder, extractor, critic
+from personas import registry
 
 
 def _save(path: Path, content: str) -> None:
@@ -45,14 +45,12 @@ def run_pipeline(
 
     # Goal
     if goal_text is None:
-        goal_prompt = goal_setter.build_user_message(bundle_goal)
-        goal_out = send_chat(goal_setter.messages(goal_prompt), gw)
+        goal_out = send_chat(registry.render_messages(registry.goal_setter_spec, bundle_goal, state), gw)
         goal_text = goal_out.strip()
     state.goal_text = goal_text
 
     # Schema variants
-    schema_user = schema_synth.build_user_message(goal_text, bundle_schema)
-    schema_raw = send_chat(schema_synth.messages(schema_user), gw)
+    schema_raw = send_chat(registry.render_messages(registry.schema_synth_spec(goal_text), bundle_schema, state), gw)
     start = schema_raw.find("[")
     end = schema_raw.rfind("]")
     if start == -1 or end == -1 or end <= start:
@@ -69,13 +67,13 @@ def run_pipeline(
         vname = variant.variant
         variant_names.append(vname)
 
-        prompt_text = send_chat(prompt_builder.messages(variant), gw)
+        prompt_text = send_chat(registry.render_messages(registry.prompt_builder_spec(variant), bundle_schema, state), gw)
         state.prompts[vname] = prompt_text
 
-        extraction = send_chat(extractor.messages(prompt_text, bundle_extractor.views[0].text), gw)
+        extraction = send_chat(registry.render_messages(registry.extractor_spec(prompt_text), bundle_extractor, state), gw)
         state.extractions[vname] = extraction
 
-        critique_raw = send_chat(critic.messages(bundle_critic.views[0].text, extraction), gw)
+        critique_raw = send_chat(registry.render_messages(registry.critic_spec(extraction), bundle_critic, state), gw)
         state.critiques[vname] = critique_raw
 
         try:

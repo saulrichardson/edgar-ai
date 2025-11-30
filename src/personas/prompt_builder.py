@@ -16,10 +16,6 @@ SYSTEM_PROMPT = (
 )
 
 
-def messages(schema_variant: models.SchemaVariant) -> List[Dict[str, str]]:
+def build_user_message(schema_variant: models.SchemaVariant) -> str:
     schema_json = json.dumps(schema_variant.dict(), ensure_ascii=False, indent=2)
-    user = f"Schema:\n{schema_json}\nWrite the final prompt."
-    return [
-        {"role": "system", "content": SYSTEM_PROMPT},
-        {"role": "user", "content": user},
-    ]
+    return f"Schema:\n{schema_json}\nWrite the final prompt."
