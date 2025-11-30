@@ -2,6 +2,8 @@ from __future__ import annotations
 
 from typing import List, Dict
 
+from pipeline.context import ExhibitBundle
+
 SYSTEM_PROMPT = (
     "You are Schema-Synth++. Emit three schemas for the same goal: lean, standard, strict. "
     "Use information-theoretic discipline: minimize redundancy, maximize mutual information with the goal, "
@@ -10,10 +12,12 @@ SYSTEM_PROMPT = (
 )
 
 
-def build_user_message(goal: str, exhibit_sample: str) -> str:
+def build_user_message(goal: str, bundle: ExhibitBundle) -> str:
+    view = bundle.views[0]
+    sample = view.text
     return (
         f"Goal: {goal}\n"
-        f"Exhibit sample:\n<<<\n{exhibit_sample[:1800]}\n>>>\n"
+        f"Exhibit sample:\n<<<\n{sample}\n>>>\n"
         "Return JSON only."
     )
 

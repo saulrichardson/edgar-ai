@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from typing import List, Dict
 
-from clients.gateway import GatewayConfig
+from pipeline.context import ExhibitBundle
 
 SYSTEM_PROMPT = (
     "You are Goal-Setter. Read any business/legal exhibit and pick the single highest-value "
@@ -12,8 +12,10 @@ SYSTEM_PROMPT = (
 )
 
 
-def build_user_message(exhibit_text: str) -> str:
-    return f"Task: choose the best extraction goal for the exhibit below.\n\nEXHIBIT:\n<<<\n{exhibit_text}\n>>>"
+def build_user_message(bundle: ExhibitBundle) -> str:
+    # default: use first view
+    view = bundle.views[0]
+    return f"Task: choose the best extraction goal for the exhibit below.\n\nEXHIBIT:\n<<<\n{view.text}\n>>>"
 
 
 def messages(user_content: str) -> List[Dict[str, str]]:

@@ -8,6 +8,7 @@ from typing import List
 from clients.gateway import send_chat
 from pipeline.config import load_gateway_config
 from pipeline import models
+from pipeline.context import ContextSpec, make_bundle
 from personas import goal_setter, schema_synth, prompt_builder, extractor, critic
 
 
@@ -21,19 +22,33 @@ def run_pipeline(
     exhibit_id: str,
     goal_text: str | None = None,
     artifacts_dir: str | None = None,
+    context_spec_goal: ContextSpec | None = None,
+    context_spec_schema: ContextSpec | None = None,
+    context_spec_extractor: ContextSpec | None = None,
+    context_spec_critic: ContextSpec | None = None,
 ) -> models.RunResult:
     gw = load_gateway_config()
 
+    # Default: full context for all personas
+    context_spec_goal = context_spec_goal or ContextSpec(mode="full")
+    context_spec_schema = context_spec_schema or ContextSpec(mode="full")
+    context_spec_extractor = context_spec_extractor or ContextSpec(mode="full")
+    context_spec_critic = context_spec_critic or ContextSpec(mode="full")
+
+    bundle_goal = make_bundle(exhibit_id, exhibit_text, context_spec_goal)
+    bundle_schema = make_bundle(exhibit_id, exhibit_text, context_spec_schema)
+    bundle_extractor = make_bundle(exhibit_id, exhibit_text, context_spec_extractor)
+    bundle_critic = make_bundle(exhibit_id, exhibit_text, context_spec_critic)
+
     # Goal
     if goal_text is None:
-        goal_prompt = goal_setter.build_user_message(exhibit_text)
+        goal_prompt = goal_setter.build_user_message(bundle_goal)
         goal_out = send_chat(goal_setter.messages(goal_prompt), gw)
         goal_text = goal_out.strip()
 
     # Schema variants
-    schema_user = schema_synth.build_user_message(goal_text, exhibit_text)
+    schema_user = schema_synth.build_user_message(goal_text, bundle_schema)
     schema_raw = send_chat(schema_synth.messages(schema_user), gw)
-    # parse first json array
     start = schema_raw.find("[")
     end = schema_raw.rfind("]")
     if start == -1 or end == -1 or end <= start:
@@ -50,8 +65,8 @@ def run_pipeline(
         variant_names.append(vname)
 
         prompt_text = send_chat(prompt_builder.messages(variant), gw)
-        extraction = send_chat(extractor.messages(prompt_text, exhibit_text), gw)
-        critique_raw = send_chat(critic.messages(exhibit_text, extraction), gw)
+        extraction = send_chat(extractor.messages(prompt_text, bundle_extractor.views[0].text), gw)
+        critique_raw = send_chat(critic.messages(bundle_critic.views[0].text, extraction), gw)
 
         try:
             c_start = critique_raw.find("[")
