@@ -41,8 +41,8 @@ dev = [
 # edgar = "edgar_cli:main"
 
 [tool.hatch.build.targets.wheel]
-# No packages on the docs-only branch; include docs in the wheel for convenience
-packages = []
+# Package all code under src/ (pipelines + gateway client seeds)
+packages = ["src"]
 include = [
   "src/**",
   "DOCS.md",
