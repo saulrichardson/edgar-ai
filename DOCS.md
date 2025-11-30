@@ -17,7 +17,7 @@ Sections
   - Quickstart: `./.docs/guides/quickstart.md`
   - Development: `./.docs/guides/development.md`
   - Configuration: `./.docs/guides/configuration.md`
-  - Gateway: `./.docs/guides/gateway.md`
+- Gateway: `src/gateway/README.md`
   - Goal‑Setter best practices: `./.docs/guides/goal_setter_best_practices.md`
   - Goal‑Setter LLM memory: `./.docs/guides/goal_setter_llm_memory.md`
 

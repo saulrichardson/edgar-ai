@@ -52,10 +52,11 @@ test:
 	pytest
 
 run-gateway:
-	@if [ -f src/gateway/app/main.py ]; then \
-	  uvicorn gateway.app.main:app --reload; \
+	@if [ -d src/gateway/.git ]; then \
+	  PYTHONPATH=src/gateway/src uvicorn gateway.app:create_app --factory --reload; \
 	else \
-	  echo "Gateway app not present (docs-only)"; \
+	  echo "Gateway submodule missing. Run 'git submodule update --init --recursive'"; \
+	  exit 1; \
 	fi
 
 cli:
