@@ -15,4 +15,9 @@ class PipelineState:
     extractions: Dict[str, str] = field(default_factory=dict)     # variant -> extraction JSON (string)
     critiques: Dict[str, str] = field(default_factory=dict)       # variant -> critique JSON (string)
     champion: str | None = None
-
+    discoverer_output: str | None = None
+    challenger_prompt: str | None = None
+    challenger_extraction: str | None = None
+    challenger_critique: str | None = None
+    governor_decision: str | None = None
+    breaker_cases: str | None = None

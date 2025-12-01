@@ -72,3 +72,4 @@ class RunResult(BaseModel):
     variants: List[str]
     champion: str
     artifacts_dir: str | None = None
+    governor_decision: str | None = None

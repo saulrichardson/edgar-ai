@@ -1,5 +1,5 @@
 from personas.spec import PersonaSpec
-from personas import goal_setter, schema_synth, prompt_builder, extractor, critic
+from personas import goal_setter, schema_synth, prompt_builder, extractor, critic, discoverer, tutor, governor, breaker
 
 
 def render_messages(spec: PersonaSpec, bundle, state):
@@ -46,4 +46,36 @@ def critic_spec(extraction_json: str) -> PersonaSpec:
         name="critic",
         system_prompt=critic.SYSTEM_PROMPT,
         build_user=lambda bundle, state: critic.build_user_message(bundle, extraction_json),
+    )
+
+
+def discoverer_spec(goal_text: str) -> PersonaSpec:
+    return PersonaSpec(
+        name="discoverer",
+        system_prompt=discoverer.SYSTEM_PROMPT,
+        build_user=lambda bundle, state: discoverer.build_user_message(goal_text, bundle),
+    )
+
+
+def tutor_spec(prompt_text: str, extraction: str, critique: str) -> PersonaSpec:
+    return PersonaSpec(
+        name="tutor",
+        system_prompt=tutor.SYSTEM_PROMPT,
+        build_user=lambda bundle, state: tutor.build_user_message(prompt_text, extraction, critique),
+    )
+
+
+def governor_spec(champion_score: int, challenger_score: int, champion_crit: str, challenger_crit: str) -> PersonaSpec:
+    return PersonaSpec(
+        name="governor",
+        system_prompt=governor.SYSTEM_PROMPT,
+        build_user=lambda bundle, state: governor.build_user_message(champion_score, challenger_score, champion_crit, challenger_crit),
+    )
+
+
+def breaker_spec(goal_text: str, prompt_text: str) -> PersonaSpec:
+    return PersonaSpec(
+        name="breaker",
+        system_prompt=breaker.SYSTEM_PROMPT,
+        build_user=lambda bundle, state: breaker.build_user_message(goal_text, prompt_text),
     )

@@ -49,6 +49,10 @@ def run_pipeline(
         goal_text = goal_out.strip()
     state.goal_text = goal_text
 
+    # Discoverer (optional, improves schema synth)
+    discover_raw = send_chat(registry.render_messages(registry.discoverer_spec(goal_text), bundle_schema, state), gw)
+    state.discoverer_output = discover_raw
+
     # Schema variants
     schema_raw = send_chat(registry.render_messages(registry.schema_synth_spec(goal_text), bundle_schema, state), gw)
     start = schema_raw.find("[")
@@ -99,10 +103,64 @@ def run_pipeline(
 
     state.champion = champion or variant_names[0]
 
+    # Tutor and challenger flow
+    champ_prompt = state.prompts[state.champion]
+    champ_extract = state.extractions[state.champion]
+    champ_crit = state.critiques[state.champion]
+
+    tutor_raw = send_chat(
+        registry.render_messages(
+            registry.tutor_spec(champ_prompt, champ_extract, champ_crit), bundle_schema, state
+        ),
+        gw,
+    )
+    if "NO-CHANGE" not in tutor_raw.upper():
+        state.challenger_prompt = tutor_raw.strip()
+        state.challenger_extraction = send_chat(
+            registry.render_messages(registry.extractor_spec(state.challenger_prompt), bundle_extractor, state), gw
+        )
+        state.challenger_critique = send_chat(
+            registry.render_messages(registry.critic_spec(state.challenger_extraction), bundle_critic, state), gw
+        )
+        # compute scores
+        def _score(crit_text: str) -> int:
+            try:
+                cs = crit_text.find("[")
+                ce = crit_text.rfind("]")
+                data = json.loads(crit_text[cs : ce + 1])
+                items = [models.CritiqueItem(**i) for i in data]
+                return models.Critique(variant="tmp", items=items).score
+            except Exception:
+                return -999
+
+        champ_score = _score(champ_crit)
+        chall_score = _score(state.challenger_critique)
+
+        decision_json = send_chat(
+            registry.render_messages(
+                registry.governor_spec(champ_score, chall_score, champ_crit, state.challenger_critique),
+                bundle_schema,
+                state,
+            ),
+            gw,
+        )
+        state.governor_decision = decision_json
+        # Breaker uses winner
+        winner_prompt = state.challenger_prompt if "promote" in decision_json.lower() else champ_prompt
+    else:
+        winner_prompt = champ_prompt
+        state.governor_decision = "keep_champion"
+
+    # Breaker
+    state.breaker_cases = send_chat(
+        registry.render_messages(registry.breaker_spec(goal_text, winner_prompt), bundle_schema, state), gw
+    )
+
     return models.RunResult(
         exhibit_id=exhibit_id,
         goal=goal_text,
         variants=variant_names,
         champion=state.champion,
         artifacts_dir=artifacts_dir,
+        governor_decision=state.governor_decision,
     ), state
