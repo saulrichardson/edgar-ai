@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
-"""Run persona pipeline sequentially on a prompt_view file."""
 from __future__ import annotations
 
 import argparse
-import os
 from pathlib import Path
 import sys
 
@@ -14,10 +12,11 @@ from pipeline.runner import run_pipeline
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser()
-    ap.add_argument("prompt_view", help="Path to prompt_view.txt")
-    ap.add_argument("--goal", help="Optional goal text (skip Goal-Setter)")
-    ap.add_argument("--artifacts", default="artifacts", help="Where to store outputs")
+    ap = argparse.ArgumentParser(description="Run schema-discovery pipeline on a full document (canonical.txt).")
+    ap.add_argument("--doc", default="canonical.txt", help="Path to canonical document text")
+    ap.add_argument("--exhibit-id", default="canonical", help="Identifier used for artifacts directory naming")
+    ap.add_argument("--goal", help="Optional goal text or goal JSON (skip routing/goal-setter)")
+    ap.add_argument("--artifacts", default="artifacts", help="Where to store per-run outputs")
     ap.add_argument("--memory", default=None, help="Memory directory (defaults to EDGAR_AI_MEMORY_DIR or ./memory)")
     ap.add_argument(
         "--proposers",
@@ -30,20 +29,25 @@ def main() -> int:
         help="Comma-separated schema critic styles (default: all built-ins)",
     )
     ap.add_argument("--provenance", action="store_true", help="Include provenance offsets/snippets in extraction output")
+    ap.add_argument(
+        "--schema-tutor",
+        action="store_true",
+        help="Enable an extra tutor round to propose a challenger schema",
+    )
     args = ap.parse_args()
 
-    text = Path(args.prompt_view).read_text()
-    exhibit_id = Path(args.prompt_view).parent.name
+    text = Path(args.doc).read_text(encoding="utf-8")
     proposer_styles = [s.strip() for s in args.proposers.split(",") if s.strip()] if args.proposers else None
     critic_styles = [s.strip() for s in args.critics.split(",") if s.strip()] if args.critics else None
 
     result, _state = run_pipeline(
         exhibit_text=text,
-        exhibit_id=exhibit_id,
+        exhibit_id=args.exhibit_id,
         goal_text=args.goal,
         artifacts_dir=args.artifacts,
         memory_dir=args.memory,
         include_provenance=args.provenance,
+        enable_schema_tutor=args.schema_tutor,
         proposer_styles=proposer_styles,
         critic_styles=critic_styles,
     )
@@ -51,7 +55,8 @@ def main() -> int:
     print("Goal:", result.goal_title, f"({result.goal_id})")
     print("Candidates:", ", ".join(result.candidates))
     print("Champion:", result.champion_candidate_id)
-    print(f"Artifacts written under {args.artifacts}/{exhibit_id}")
+    if result.artifacts_dir:
+        print(f"Artifacts: {result.artifacts_dir}/{args.exhibit_id}")
     return 0
 
 

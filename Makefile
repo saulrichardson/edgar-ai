@@ -1,4 +1,6 @@
 PYTHON ?= python3
+GATEWAY_HOST ?= 127.0.0.1
+GATEWAY_PORT ?= 8000
 
 .PHONY: help setup install install-dev lock lint format typecheck test run-gateway cli pre-commit
 
@@ -53,7 +55,7 @@ test:
 
 run-gateway:
 	@if [ -d src/gateway/.git ]; then \
-	  PYTHONPATH=src/gateway/src uvicorn gateway.app:create_app --factory --reload; \
+	  PYTHONPATH=src/gateway/src uvicorn gateway.app:create_app --factory --reload --host $(GATEWAY_HOST) --port $(GATEWAY_PORT); \
 	else \
 	  echo "Gateway submodule missing. Run 'git submodule update --init --recursive'"; \
 	  exit 1; \

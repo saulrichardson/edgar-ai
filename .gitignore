@@ -2,12 +2,22 @@
 .venv/
 .pytest_cache/
 .ruff_cache/
+__pycache__/
+
+# Local secrets
+.env
+src/.env
 
 # OS files
 .DS_Store
 
 # Scratch and local experiments
 scratch/
+
+# Pipeline outputs and memory
+artifacts/
+memory/
+memory_sim/
 
 # Large generated artifacts
 test_results/
